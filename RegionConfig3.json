@@ -271,7 +271,7 @@
 "VTVRailSearch":{"x":79,"y":188,"w":475,"h":96},
 "VTVRailSearchnew":{"x":36,"y":479,"w":1103,"h":101},
 "PIPageEmptySpace":{"x":6,"y":172,"w":226,"h":127},
-"PIPageEventName":{"x":196,"y":174,"w":1712,"h":148},
+"PIPageEventName":{"x":225,"y":174,"w":1234,"h":128},
 "MenuWatchButton":{"x":189,"y":785,"w":160,"h":96},
 "MenuWatchButtonBroad":{"x":189,"y":690,"w":160,"h":180},
 "MenuWatchRecordingState":{"x":219,"y":509,"w":160,"h":60},
