@@ -595,5 +595,7 @@
 "SubscriptionError": "Channel not subscribed",
 "NoInternet": "Abrir definições",
 "ContactUs": "Contacte-nos",
-"USBDebuggingPopupText": "Permitir depuração USB"
+"USBDebuggingPopupText": "Permitir depuração USB",
+"EPGFilter1" : "Todos os canais",
+"EPGFilter2" : "Mais vistos"
 }
