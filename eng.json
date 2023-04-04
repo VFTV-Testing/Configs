@@ -525,5 +525,8 @@
 "SubscriptionError":"Channel not subscribed",
 "SubscribePI":"Subscribe to Entertainment Ext",
 "NoInternet":"Open Settings",
-"ContactUs":"Contact us"
+"ContactUs":"Contact us",
+"EPGFilter1" : "All Channels",
+"EPGFilter2" : "Most Watched",
+"MiniGuideRemaining" : "Remain"
 } 
