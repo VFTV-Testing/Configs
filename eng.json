@@ -528,5 +528,6 @@
 "ContactUs":"Contact us",
 "EPGFilter1" : "All Channels",
 "EPGFilter2" : "Most Watched",
-"MiniGuideRemaining" : "remain"
+"MiniGuideRemaining" : "remain",
+"CancelEpisoderecording" : "Cancel Episode"
 } 
