@@ -530,5 +530,6 @@
 "EPGFilter2" : "Most Watched",
 "MiniGuideRemaining" : "remain",
 "CancelEpisoderecording" : "Cancel Episode",
-"MenuSettingsSystemSettings": "System Settings"
+"MenuSettingsSystemSettings": "System Settings",
+"StartSession": "Sign In"
 } 
