@@ -529,5 +529,6 @@
 "EPGFilter1" : "All Channels",
 "EPGFilter2" : "Most Watched",
 "MiniGuideRemaining" : "remain",
-"CancelEpisoderecording" : "Cancel Episode"
+"CancelEpisoderecording" : "Cancel Episode",
+"MenuSettingsSystemSettings": "System Settings"
 } 
