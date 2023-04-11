@@ -531,5 +531,7 @@
 "MiniGuideRemaining" : "remain",
 "CancelEpisoderecording" : "Cancel Episode",
 "MenuSettingsSystemSettings": "System Settings",
-"StartSession": "Sign In"
+"StartSession": "Sign In",
+"MenuSettingDisplayAndSounds": "Display & Sound",
+"MenuSettingsDevicePreference": "Device Preferences"
 } 
