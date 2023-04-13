@@ -599,7 +599,5 @@
 "EPGFilter1" : "Todos os canais",
 "EPGFilter2" : "Mais vistos",
 "MenuSettingsAudioProcessing": "Processamento de áudio",
-"MenuSettingsAbout": "Acerca de",
-"MenuSettingsAbout": "Compilação do SO do Android TV",
-"MenuSettingsAccessibility":	"Acessibilidade"
+"MenuSettingsAbout": "Compilação do SO do Android TV"
 }
