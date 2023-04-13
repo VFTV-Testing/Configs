@@ -661,5 +661,6 @@
 "BarkerChannel":{"x":310,"y":820,"w":200,"h":110},
 "BarkerChannelName":{"x":105,"y":239,"w":1085,"h":175},
 "BarkerLaunchAppText":{"x":331,"y":489,"w":400,"h":110},
-"CurrentEPGFilter":{"x":230,"y":137,"w":249,"h":41}
+"CurrentEPGFilter":{"x":230,"y":137,"w":249,"h":41},
+"FeaturedAppRails":{"x":252,"y":563,"w":261,"h":129}
 }
