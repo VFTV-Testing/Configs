@@ -599,5 +599,9 @@
 "EPGFilter1" : "Todos os canais",
 "EPGFilter2" : "Mais vistos",
 "MenuSettingsAudioProcessing": "Processamento de áudio",
-"MenuSettingsAbout": "Compilação do SO do Android TV"
+"MenuSettingsAbout": "Compilação do SO do Android TV",
+"AmazonPrimeTLM":"prime video",
+"NetflixTLM":"NETFLIX",
+"YouTubeTLM":"YouTube",
+"HBOTLM":"HBOMAX"
 }
