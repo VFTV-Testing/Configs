@@ -532,6 +532,10 @@
 "CancelEpisoderecording" : "Cancel Episode",
 "MenuSettingsSystemSettings": "System Settings",
 "StartSession": "Sign In",
-"MenuSettingDisplayAndSounds": "Display & Sound",
-"MenuSettingsDevicePreference": "Device Preferences"
+"MenuSettingDisplayAndSounds": "Sound",
+"MenuSettingsDevicePreference": "Device Preferences",
+"MenuSettingsAudioProcessing": "Audio processing",
+"MenuSettingsAbout": "About",
+"AndroidTvOsBuild": "Android TV OS build",
+"MenuSettingsAccessibility": "Accessibility"
 } 
