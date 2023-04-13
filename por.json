@@ -248,7 +248,7 @@
 "MenuSettingsDeveloperOption": "Opções de programador",
 "MenuSettingsSystemSettings": "Deflnições de Sístema",
 "MenuSettingsVodafoneAppsSettings": "definições da app",
-"MenuSettingsDevicePreference": "preferencias do dispositivo",
+"MenuSettingsDevicePreference": "Preferências do dispositivo",
 "MenuSettingsRemoteControl": "Controlos remotos e acess",
 "MenuSettingsAbout": "Acerca de",
 "MenuSettingsDateandTime": "Data e hora",
@@ -597,5 +597,9 @@
 "ContactUs": "Contacte-nos",
 "USBDebuggingPopupText": "Permitir depuração USB",
 "EPGFilter1" : "Todos os canais",
-"EPGFilter2" : "Mais vistos"
+"EPGFilter2" : "Mais vistos",
+"MenuSettingsAudioProcessing": "Processamento de áudio",
+"MenuSettingsAbout": "Acerca de",
+"MenuSettingsAbout": "Compilação do SO do Android TV",
+"MenuSettingsAccessibility":	"Acessibilidade"
 }
