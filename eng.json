@@ -536,5 +536,9 @@
 "MenuSettingsDevicePreference": "Device Preferences",
 "MenuSettingsAudioProcessing": "Audio processing",
 "MenuSettingsAbout": "About",
-"AndroidTvOsBuild": "Android TV OS build"
+"AndroidTvOsBuild": "Android TV OS build",
+"AmazonPrimeTLM":"prime video",
+"NetflixTLM":"NETFLIX",
+"YouTubeTLM":"YouTube",
+"HBOTLM":"HBOMAX"
 } 
