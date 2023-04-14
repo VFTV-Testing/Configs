@@ -604,5 +604,7 @@
 "NetflixTLM":"NETFLIX",
 "YouTubeTLM":"YouTube",
 "HBOTLM":"HBOMAX",
-"MenuMyTVRecordingNotificationMovie":     "Gravado"
+"MenuMyTVRecordingNotificationMovie":"Gravado",
+"TVGuideSingleRecordingNotification": "Foi efetuado o agendamento",
+"TVGuideSeriesRecordingNotification": "Previous episodes will be available"
 }
