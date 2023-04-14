@@ -540,5 +540,10 @@
 "AmazonPrimeTLM":"prime video",
 "NetflixTLM":"NETFLIX",
 "YouTubeTLM":"YouTube",
-"HBOTLM":"HBOMAX"
+"HBOTLM":"HBOMAX",
+"MenuMyTVRecordingNotificationMovie"  :   "Recorded",
+"MenuMyTVRecordingSeriesNotificationPI":  "New episodes are scheduled",
+"MenuMyTVRecordingNotificationPI":        "Recording now",
+"MenuMyTVRecordingSeriesNotificationPI1": "Episode is scheduled",
+"AlreadyRecordedEvent":                   "This content is already scheduled"
 } 
