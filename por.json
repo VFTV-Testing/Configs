@@ -603,5 +603,6 @@
 "AmazonPrimeTLM":"prime video",
 "NetflixTLM":"NETFLIX",
 "YouTubeTLM":"YouTube",
-"HBOTLM":"HBOMAX"
+"HBOTLM":"HBOMAX",
+"MenuMyTVRecordingNotificationMovie":     "Gravado"
 }
