@@ -547,5 +547,7 @@
 "MenuMyTVRecordingSeriesNotificationPI1":"Episode is scheduled",
 "AlreadyRecordedEvent":"This content is already scheduled",
 "TVGuideSingleRecordingNotification":"was scheduled",
-"TVGuideSeriesRecordingNotification":"Previous episodes will be available"
+"TVGuideSeriesRecordingNotification":"Previous episodes will be available",
+"MenuSettingsDeActivatePin": "Deactivate PIN",
+"MenuSettingsActivatePin": "Activate PIN"
 } 
