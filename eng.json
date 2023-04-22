@@ -549,5 +549,7 @@
 "TVGuideSingleRecordingNotification":"was scheduled",
 "TVGuideSeriesRecordingNotification":"Previous episodes will be available",
 "MenuSettingsDeActivatePin": "Deactivate PIN",
-"MenuSettingsActivatePin": "Activate PIN"
+"MenuSettingsActivatePin": "Activate PIN",
+"UsbDebugging": "USB debugging",
+"MenuSettingsDeveloperOption": "Developer options"
 } 
