@@ -25,6 +25,7 @@
 "RecordingCancelSeries":"Series Recording cancelled",
 "RecordingNotPossible":"Recording not possible",
 "RecordingFailed":"Start recording failed",
+"MenuMyTVRecordingDeleteEpisode" : "Delete Episode",
 "RecordingLive":"Recording Live",
 "RecordingScheduled":"Recording scheduled",
 "MenuMyTVCancelrecording":"Cancel Recording",
