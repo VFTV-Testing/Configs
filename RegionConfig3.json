@@ -101,6 +101,7 @@
 "ControlPinONOff":{"x":742,"y":525,"w":75,"h":54},
 "ScreenOffButton":{"x":1705,"y":475,"w":89,"h":56},
 "SettingsStandby":{"x":1220,"y":189,"w":700,"h":122},
+"SettingsStandbySelected":{"x":1220,"y":249,"w":350,"h":60},
 "OfflineErrorMsg":{"x":1286,"y":152,"w":510,"h":83},
 "MenuSettingsInternet":{"x":1318,"y":526,"w":212,"h":44},
 "AppLaunch":{"x":390,"y":900,"w":200,"h":70},
