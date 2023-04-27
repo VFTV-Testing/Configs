@@ -209,7 +209,8 @@
 "MenuSettingsTVChannels":"TV Channels",
 "MenuSettingsAudioVisual":"Audio & Visual",
 "MenuSettingsUpdates":"Updates",
-"MenuSettingsFactoryReset":"Reset",
+"MenuSettingsFactoryReset":"Factory reset",
+"MenuSettingsEraseEverything" : "Erase everything"
 "MenuSettingsInformation":"Information",
 "MenuSettingsSelfDiagnostic":"Self Diagnostics",
 "MenuSettingsParentalAdults":"Adults",
