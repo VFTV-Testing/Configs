@@ -664,5 +664,7 @@
 "BarkerLaunchAppText":{"x":331,"y":489,"w":400,"h":110},
 "CurrentEPGFilter":{"x":230,"y":137,"w":249,"h":41},
 "FeaturedAppRails":{"x":252,"y":563,"w":261,"h":129},
-"AndroidBuildVersion":{"x":1226,"y":949,"w":311,"h":48}
+"AndroidBuildVersion":{"x":1226,"y":949,"w":311,"h":48},
+"AndroidUIVersion":{"x":1129,"y":484,"w":55,"h":280},
+"AndroidCVersion":{"x":1071,"y":856,"w":46,"h":144}
 }
