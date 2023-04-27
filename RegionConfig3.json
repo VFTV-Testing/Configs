@@ -665,6 +665,6 @@
 "CurrentEPGFilter":{"x":230,"y":137,"w":249,"h":41},
 "FeaturedAppRails":{"x":252,"y":563,"w":261,"h":129},
 "AndroidBuildVersion":{"x":1226,"y":949,"w":311,"h":48},
-"AndroidUIVersion":{"x":1132,"y":642,"w":50,"h":270},
-"AndroidCVersion":{"x":1071,"y":856,"w":46,"h":144}
+"AndroidUIVersion":{"x":1132,"y":642,"w":267,"h":50},
+"AndroidCVersion":{"x":1071,"y":856,"w":144,"h":46}
 }
