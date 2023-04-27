@@ -139,6 +139,8 @@
 "MenuSettingsPrivacy":"Intelligent Mode",
 "MenuSettingsVTVPrivacyNotice":"Intelligent Mode Notice",
 "MenuSettingsVTVPrivacyConsent":"Intelligent Mode Consent",
+"MenuSettingsVTVPrivacyConsentAgreed" : "Intelligent Mode Agreed",
+"MenuSettingsVTVPrivacyConsentDisagreed": "Intelligent Mode Disagreed",
 "MenuSettingsYourAccount":"en_NZ Your account",
 "MenuSettingsYourNetwork":"en_NZ Network",
 "MenuSettingsAutoStandbyTime":"off",
