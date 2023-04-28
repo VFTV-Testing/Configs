@@ -30,6 +30,8 @@
 "RecordingScheduled":"Recording scheduled",
 "MenuMyTVCancelrecording":"Cancel Recording",
 "Cancelseriesrecording":"Cancel Series",
+ "DeleteRecordingNotification": "Successfully deleted recording",
+ "CancelRecordingNotification": "Successfully Canceled recording",
 "MenuMyTVRecordingDeleteRecording":"Delete recording",
 "Recording":"Recording",
 "RecordingNotScheduled":"sr007sorrytherewasaproblemschedulinga",
