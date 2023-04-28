@@ -554,5 +554,7 @@
 "MenuSettingsDeActivatePin": "Deactivate PIN",
 "MenuSettingsActivatePin": "Activate PIN",
 "UsbDebugging": "USB debugging",
-"MenuSettingsDeveloperOption": "Developer options"
+"MenuSettingsDeveloperOption": "Developer options",
+"MenuSettingsVodafoneAppsSettings":"App Settings",
+"SettingsGeneralInfo":"General"
 } 
