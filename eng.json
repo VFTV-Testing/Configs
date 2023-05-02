@@ -558,5 +558,7 @@
 "UsbDebugging": "USB debugging",
 "MenuSettingsDeveloperOption": "Developer options",
 "MenuSettingsVodafoneAppsSettings":"App Settings",
-"SettingsGeneralInfo":"General"
+"SettingsGeneralInfo":"General",
+"MenuSettingsDisplayWhenWatching" : "Automatically turn off TV",
+"MenuSettingTurnOffDisplay" : "Turn off display after",
 } 
