@@ -667,5 +667,7 @@
 "AndroidBuildVersion":{"x":1226,"y":949,"w":311,"h":48},
 "AndroidUIVersion":{"x":1132,"y":642,"w":267,"h":50},
 "AndroidCVersion":{"x":1071,"y":856,"w":144,"h":46},
-"MasterPin":"1231"
+"MasterPin":"1231",
+"FTUConsentPage":{"x":232,"y":178,"w":797,"h":88},
+"SystemSettingsHeading":{"x":1200,"y":4,"w":718,"h":178}
 }
