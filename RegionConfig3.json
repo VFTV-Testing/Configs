@@ -669,5 +669,6 @@
 "AndroidCVersion":{"x":1071,"y":856,"w":144,"h":46},
 "MasterPin":"1231",
 "FTUConsentPage":{"x":232,"y":178,"w":797,"h":88},
+"FTUAutoRecPage":{"x":232,"y":326,"w":770,"h":101},
 "SystemSettingsHeading":{"x":1200,"y":4,"w":718,"h":178}
 }
