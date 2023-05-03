@@ -8,7 +8,7 @@
 "ResetDeveloperSettings":"Developer Settings",
 "ResetLanguageBundle":"Language Bundle",
 "ResetLanguage":"en-NZ-x-NZ",
-"ResetContinue":"continue",
+"ResetContinue":"Conﬂnue",
 "EPGFilter": "Channel Filter",
 "SelectEpisode":"Select single episodes",
 "ResetSkipScan":"Skip Scan",
@@ -139,7 +139,7 @@
 "MenuSettingsFAQDeeplink":"faq0004:missinglink",
 "MenuSettingsPrivacy":"Intelligent Mode",
 "MenuSettingsVTVPrivacyNotice":"Intelligent Mode Notice",
-"MenuSettingsVTVPrivacyConsent":"Intelligent Mode Consent",
+"MenuSettingsVTVPrivacyConsent":"VTV Main consent",
 "MenuSettingsVTVPrivacyConsentAgreed" : "Intelligent Mode Agreed",
 "MenuSettingsVTVPrivacyConsentDisagreed": "Intelligent Mode Disagreed",
 "MenuSettingsYourAccount":"en_NZ Your account",
@@ -562,7 +562,7 @@
 "MenuSettingsDisplayWhenWatching" : "Automatically turn off TV",
 "MenuSettingTurnOffDisplay" : "Turn off display after",
 "MenuSettingsLanguageSelection" : "English(Ireland)",
-"SelectOneBelowFTU" : "SelectOneBelow",
-"Choseanoption" : "Choseanoption",
+"SelectOneBelowFTU" : "Select one below",
+"Choseanoption" : "Chose an option",
 "AutomaticRecordings" : "AutomaticRecordings"
 } 
