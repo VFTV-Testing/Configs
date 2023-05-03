@@ -565,5 +565,7 @@
 "SelectOneBelowFTU" : "Select one below",
 "Choseanoption" : "Choose an option",
 "AutomaticRecordings" : "AutomaticRecordings",
-"MenuSettingsRentalAndPurchase" : "Purchases"
+"MenuSettingsRentalAndPurchase" : "Purchases",
+"RentalAndPurchaseActivated" : "Purchase PIN is disabled",
+"RentalAndPurchaseDeactivated" : "Purchase PIN is enabled"
 } 
