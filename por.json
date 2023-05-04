@@ -607,6 +607,5 @@
 "TVGuideSingleRecordingNotification": "Foi efetuado o agendamento",
 "TVGuideSeriesRecordingNotification": "Previous episodes will be available",
 "MenuSettingsDisplayWhenWatching" : "Automatically turn off TV",
-"MenuSettingsDisplayWhenInactive" : "Automatically turn off TV",
-"MiniPIShowMore" : "Voltar"
+"MenuSettingsDisplayWhenInactive" : "Automatically turn off TV"
 }
