@@ -30,8 +30,8 @@
 "RecordingScheduled":"Recording scheduled",
 "MenuMyTVCancelrecording":"Cancel Recording",
 "Cancelseriesrecording":"Cancel Series",
- "DeleteRecordingNotification": "Successfully deleted recording",
- "CancelRecordingNotification": "Successfully Canceled recording",
+"DeleteRecordingNotification": "Successfully deleted recording",
+"CancelRecordingNotification": "Successfully Canceled recording",
 "MenuMyTVRecordingDeleteRecording":"Delete recording",
 "Recording":"Recording",
 "RecordingNotScheduled":"sr007sorrytherewasaproblemschedulinga",
@@ -568,6 +568,5 @@
 "MenuSettingsRentalAndPurchase" : "Purchases",
 "RentalAndPurchaseActivated" : "Purchase PIN is enabled",
 "RentalAndPurchaseDeactivated" : "Purchase PIN is disabled",
-"MiniPIShowMore" : "Show"
 "PrivacyTerms": "Privacy & Terms"
 } 
