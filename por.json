@@ -126,7 +126,7 @@
 "Apply": "Apply",
 "MenuSettingsSystemAudio": "idioma do áudio",
 "MenuSettingsWrongPin": "pinincorreto",
-"OpenPrivacySettings": "7| Aceder às opçõesde privacidade",
+"OpenPrivacySettings": "A Aceder às opçõesde privacidade",
 "MenuSettingsInformation": "Informação",
 "MenuSettingLicense": "Informação de licenças",
 "StartSession": "Iniciar sessão",
@@ -607,5 +607,6 @@
 "TVGuideSingleRecordingNotification": "Foi efetuado o agendamento",
 "TVGuideSeriesRecordingNotification": "Previous episodes will be available",
 "MenuSettingsDisplayWhenWatching" : "Automatically turn off TV",
-"MenuSettingsDisplayWhenInactive" : "Automatically turn off TV"
+"MenuSettingsDisplayWhenInactive" : "Automatically turn off TV",
+"MiniPIShowMore" : "Voltar"
 }
