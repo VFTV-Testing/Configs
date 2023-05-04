@@ -567,5 +567,6 @@
 "AutomaticRecordings" : "AutomaticRecordings",
 "MenuSettingsRentalAndPurchase" : "Purchases",
 "RentalAndPurchaseActivated" : "Purchase PIN is enabled",
-"RentalAndPurchaseDeactivated" : "Purchase PIN is disabled"
+"RentalAndPurchaseDeactivated" : "Purchase PIN is disabled",
+"MiniPIShowMore" : "Show"
 } 
