@@ -605,7 +605,7 @@
 "HBOTLM":"HBOMAX",
 "MenuMyTVRecordingNotificationMovie":"Gravado",
 "TVGuideSingleRecordingNotification": "Foi efetuado o agendamento",
-"TVGuideSeriesRecordingNotification": "Previous episodes will be available",
+"TVGuideSeriesRecordingNotification": "Foi agendada a gravação da série",
 "MenuSettingsDisplayWhenWatching" : "Automatically turn off TV",
 "MenuSettingsDisplayWhenInactive" : "Automatically turn off TV"
 }
