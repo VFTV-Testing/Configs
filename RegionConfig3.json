@@ -322,7 +322,7 @@
 "MiniGuideFutureEventBadge":{"x":1160,"y":860,"w":118,"h":54},
 "PipFutureEventScreen":{"x":836,"y":610,"w":442,"h":273},
 "MiniGuideCurrentEvent":{"x":306,"y":525,"w":265,"h":41},
-"MiniPIEventDuration":{"x":210,"y":295,"w":510,"h":75},
+"MiniPIEventDuration":{"x":214,"y":294,"w":1256,"h":84},
 "MiniGuideGrid":{"x":300,"y":600,"w":470,"h":345},
 "MiniGuideAiringTime":{"x":335,"y":855,"w":90,"h":40},
 "MenuSettingsLockChannels":{"x":236,"y":508,"w":454,"h":90},
