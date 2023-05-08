@@ -570,5 +570,6 @@
 "MenuSettingsRentalAndPurchase" : "Purchases",
 "RentalAndPurchaseActivated" : "Purchase PIN is enabled",
 "RentalAndPurchaseDeactivated" : "Purchase PIN is disabled",
-"PrivacyTerms": "Privacy & Terms"
+"PrivacyTerms": "Privacy & Terms",
+"WrongPinEntered": "Wrong PIN"
 } 
