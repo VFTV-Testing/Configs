@@ -295,7 +295,7 @@
 "OnNowEvent":{"x":257,"y":821,"w":300,"h":34},
 "MiniBannerLocked":{"x":678,"y":780,"w":172,"h":49},
 "EPGMetaData":{"x":638,"y":741,"w":1210,"h":324},
-"MiniGuideCurrentChannel":{"x":238,"y":522,"w":72,"h":57},
+"MiniGuideCurrentChannel":{"x":238,"y":522,"w":72,"h":45},
 "MiniGuideChannel":{"x":238,"y":804,"w":72,"h":105},
 "MiniGuideCurrentChannelLogoText":{"x":540,"y":628,"w":100,"h":52},
 "MiniGuideCurrentDescriptionText":{"x":427,"y":860,"w":270,"h":64},
