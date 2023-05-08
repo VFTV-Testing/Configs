@@ -571,6 +571,6 @@
 "RentalAndPurchaseActivated" : "Purchase PIN is enabled",
 "RentalAndPurchaseDeactivated" : "Purchase PIN is disabled",
 "PrivacyTerms": "Privacy & Terms",
-"WrongPinEntered": "Wrong PIN"
+"WrongPinEntered": "Wrong PIN",
 "MenuSettingsAccountSignIn": "Accounts & sign-in" 
 } 
