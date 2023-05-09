@@ -608,5 +608,6 @@
 "TVGuideSeriesRecordingNotification": "Foi agendada a gravação da série",
 "MenuSettingsDisplayWhenWatching" : "Automatically turn off TV",
 "MenuSettingsDisplayWhenInactive" : "Automatically turn off TV",
-"VodafoneRemoteControl" : "VODAFONE REMOTE CONTROL"
+"VodafoneRemoteControl" : "VODAFONE REMOTE CONTROL",
+"lastWeekRecordings" : "Semana anterior"
 }
