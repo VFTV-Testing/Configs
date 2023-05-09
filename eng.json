@@ -572,5 +572,6 @@
 "RentalAndPurchaseDeactivated" : "Purchase PIN is disabled",
 "PrivacyTerms": "Privacy & Terms",
 "WrongPinEntered": "Wrong PIN",
-"MenuSettingsAccountSignIn": "Accounts & sign-in" 
+"MenuSettingsAccountSignIn": "Accounts & sign-in",
+"AddRemoteControl":"Add remote control"
 } 
