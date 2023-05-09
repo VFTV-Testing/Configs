@@ -574,5 +574,6 @@
 "PrivacyTerms": "Privacy & Terms",
 "WrongPinEntered": "Wrong PIN",
 "MenuSettingsAccountSignIn": "Accounts & sign-in",
-"AddRemoteControl":"Add remote control"
+"SystemSettingsAddRemoteControl":"Add remote control",
+"VodafoneRemoteControl" : "VODAFONE REMOTE CONTROL"
 } 
