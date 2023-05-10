@@ -156,7 +156,7 @@
 "ParentalBanner":{"x":427,"y":909,"w":1173,"h":102},
 "MessageRecording":{"x":1350,"y":40,"w":550,"h":105},
 "EnterPinPattern":{"x":1222,"y":42,"w":670,"h":843},
-"EnteredPinValidationText":{"x":1278,"y":230,"w":475,"h":200},
+"EnteredPinValidationText":{"x":1278,"y":250,"w":475,"h":200},
 "EnteredPinTryAgainText":{"x":1284,"y":289,"w":471,"h":150},
 "PackageMessage":{"x":1491,"y":56,"w":409,"h":68},
 "KidsPin":{"x":353,"y":168,"w":1250,"h":124},
