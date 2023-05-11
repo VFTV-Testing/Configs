@@ -576,5 +576,6 @@
 "MenuSettingsAccountSignIn": "Accounts",
 "SystemSettingsAddRemoteControl":"Add remote control",
 "VodafoneRemoteControl" : "VODAFONE REMOTE CONTROL",
-"lastWeekRecordings" : "Last Week"
+"lastWeekRecordings" : "Last Week",
+"Allow":"Allow"
 } 
