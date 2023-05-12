@@ -673,5 +673,6 @@
 "FTUConsentPage":{"x":232,"y":178,"w":797,"h":88},
 "FTUAutoRecPage":{"x":232,"y":326,"w":770,"h":101},
 "SystemSettingsHeading":{"x":1200,"y":4,"w":718,"h":178},
+"StartOverTimeSTamp":{"x":231,"y":867,"w":283,"h":48},  
 "RemainingTime":{"x":1532,"y":975,"w":171,"h":43}
 }
