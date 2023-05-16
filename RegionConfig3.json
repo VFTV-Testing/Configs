@@ -285,7 +285,7 @@
 "BBCRedButtonPageTitleText":{"x":1002,"y":156,"w":350,"h":58},
 "BBCRedButtonSelectText":{"x":1118,"y":238,"w":377,"h":60},
 "DisneySideMenu":{"x":129,"y":353,"w":100,"h":45},
-"DisneySignup":{"x":82,"y":564,"w":718,"h":203},
+"DisneySignup":{"x":111,"y":622,"w":622,"h":73},
 "MiniCLUPlaceholder":{"x":0,"y":800,"w":1920,"h":130},
 "CLURemaining":{"x":512,"y":859,"w":160,"h":43},
 "MiniCLUCurrentEventName":{"x":310,"y":830,"w":630,"h":50},
