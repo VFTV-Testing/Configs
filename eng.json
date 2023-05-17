@@ -28,6 +28,7 @@
 "MenuMyTVRecordingDeleteEpisode" : "Delete Episode",
 "RecordingLive":"Recording Live",
 "RecordingScheduled":"Recording scheduled",
+"DisneyLogin":"LOG IN",  
 "MenuMyTVCancelrecording":"Cancel Episode",
 "Cancelseriesrecording":"Cancel series",
 "DeleteRecordingNotification": "Successfully deleted recording",
