@@ -582,6 +582,15 @@
 "lastWeekRecordings" : "Last Week",
 "Allow":"Allow",
 "MenuSettingInformation" : "Information",  
-"Nagra" : "Nagra",  
+"Nagra" : "Nagra", 
+"MenuSettingsContentSettings":"Content Settings",
+"MenuSettingVodafoneTV":"Vodafone TV",
+"MenuSettingVodafoneTVApp":"Vodafone TV app",
+"MenuSettingChannelScan":"Channel Scan",
+"MenuSettingLicense":"License Notices",
+"MenuSettingsNetworkAndInternet":"Network and Internet",
+"MenuSettingsAddAccount":"Accounts and sign-in",
+"MenuSettingsRemoteControl":"Remotes and accessories",
+"MenuSettingsRecordingSpace":"Recordings Space",
 "Resume1":"Resume"
 } 
