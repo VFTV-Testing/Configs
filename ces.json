@@ -1,5 +1,4 @@
 {
---TLM
 "MenuOnTV":"V TV",
 "MenuMyTV":"Moje TV"
 "MenuOnDemand":"Videotéka",
@@ -7,7 +6,6 @@
 "NetflixTLM":"NETFLIX",
 "YouTubeTLM":"YouTube",
 "HBOTLM":"HBOMAX",
---Settings
 "MenuSettings":"Nastavení",
 "MenuSettingsSystemSettings": "Nastavení systému",
 "MenuSettingManualSetup":"Ručni nastavení",
@@ -262,7 +260,6 @@
 "FilterContentNetflix":"Netflix",
 "FilterShowAll":"Show All",
 "FilterHideAll":"Hide All",
---MY TV
 "MenuMyTV":"MY Home",
 "MenuMyTVContinueWatching":"Continue Watching",
 "MenuMyTVWatchNext":"Sledovat další",
@@ -343,7 +340,6 @@
 "MostWatched":"MostWatched",
 "Sports":"Sports",
 "Entertainment":"Entertainment",
---VOD
 "VODAssetWatchTrailer":"Sledovat upoutávku",
 "VODAssetRent":"Vypůjčit si",
 "VODAssetRentHD":"vypůjčit si hd",
@@ -363,7 +359,6 @@
 "VODAvailableToOwn":"Available To Own",
 "VODAssetPurchased":"Zakoupeno",
 "vodTrailer":"Trailer",
---EPG
 "EPGLaunch":"Všechny kanály",
 "EPGTomorrow":"ontomorrow",
 "EPGTomorrow1":"Zítra",
@@ -392,7 +387,6 @@
 "EPGLive":"Live",
 "RewindDuration":"3h59m",
 "RelatedRail":"related",
---On Demand
 "MenuOnDemandFolderinRail":"Folder in Rail",
 "MenuOnDemandCatchupChannel":"Catchup Channel",
 "MenuOnDemandBoxSets":"BoxSets",
@@ -441,7 +435,6 @@
 "Shops":"Shops",
 "Romance":"Romance",
 "ParentalMessageCatchUp":"Your Parental controls does not allow this program to be shown without entering your pin",
---Apps
 "Apps":"Aplikace",
 "Applications":"appsRail1",
 "AppNameBBCNews":"BBC News",
