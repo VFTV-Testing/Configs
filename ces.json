@@ -1,6 +1,6 @@
 {
 "MenuOnTV":"V TV",
-"MenuMyTV":"Moje TV"
+"MenuMyTV":"Moje TV",
 "MenuOnDemand":"Videotéka",
 "AmazonPrimeTLM":"prime video",
 "NetflixTLM":"NETFLIX",
@@ -270,7 +270,7 @@
 "MenuMyTVRecordingSeriesDeletedRecordings":"Series Deleted",
 "MenuMyTVRecordingDelete2":"Delete Recording",
 "MenuMyTVRecordingDeletedRecordings":"Deleted Recordings",
-"MenuMyTVRecordingProtect	":"Nastavit ochranu nahrávky",
+"MenuMyTVRecordingProtect":"Nastavit ochranu nahrávky",
 "MenuMyTVRecordingUnprotect":"Zrušit ochranu této nahrávky",
 "MenuMyTVRecordingCancelRecording":"Cancel Series Recording",
 "SeriesRecordingCancelRecording":"Series Recording Cancelled",
