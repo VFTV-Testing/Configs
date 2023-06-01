@@ -595,5 +595,6 @@
 "MenuSettingsRemoteControl":"Remotes and accessories",
 "MenuSettingsRecordingSpace":"Recordings Space",
 "Resume1":"Resume",
-"VodafoneTV" : "Vodafone TV"
+"VodafoneTV" : "Vodafone TV",
+"MenuSettingsConfirmMessage" : "Confirm energy saver setting"
 } 
