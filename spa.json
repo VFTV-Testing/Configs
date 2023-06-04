@@ -146,6 +146,9 @@
 "MenuSettingsRentalAndPurchase": "Bloqueio de alugueres e compras",
 "MenuSettingsRecordingSpace": "Espacio para grabaciones",
 "MenuSettingsAudioProcessing": "Processamento de áudio",
+"MenuSettingsLanguageSelection": "Español",
+"SelectOneBelowFTU": "Selecciona una opción de abajo",
+"Choseanoption": "Elige una opción",
 "Customisation": "Personalización",
 "Apply": "Aplicar",
 "OpenPrivacySettings": "7| Abrir configuración de Privacidad",
@@ -493,10 +496,7 @@
 "AgeRatingsAdultos": "Adultos",
 "NoInternet": "Abrir definições",
 "ContactUs": "Contacte-nos",
-"SelectOneBelowFTU": "Selecionar um abaixo",
-"Choseanoption": "Escolha uma opção",
 "Choosefrom": "Opções de",
-"MenuSettingsLanguageSelection": "Spanish",
 "MenuSettingTurnOffDisplay": "Desligar o ecrã após",
 "MenuSettingsStopAutoScan": "Parar pesquisa automAitica"
 }
