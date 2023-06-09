@@ -547,6 +547,7 @@
 "MenuSettingDisplayAndSounds": "Sound",
 "MenuSettingsDevicePreference": "Device Preferences",
 "MenuSettingsAudioProcessing": "Audio processing",
+"MenuSettingsDisplayWhenInactive" : "Automatically turn off TV",
 "MenuSettingsAbout": "About",
 "AndroidTvOsBuild": "Android TV OS build",
 "AmazonPrimeTLM":"prime video",
