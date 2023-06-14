@@ -491,7 +491,7 @@
 "AutomaticRecordings" : "AutomaticRecordings",
 "RentalAndPurchased" : "Kód PIN pro nákup je povolen",
 "RentalAndPurchaseDeactivated" : "Kód PIN pro nákup je zakázán",
-"PrivacyTerms": "Ochrana osobních údajů a podmínky",
+"PrivacyTerms": "Privacy « Terms", ##Ochranaosobníchúdajůapodmínky
 "WrongPinEntered": "Nesprávný PIN",
 "VodafoneRemoteControl" : "VODAFONE REMOTE CONTROL", ##Režimdálkovéhoovládání
 "lastWeekRecordings" : "Minulý týden",
