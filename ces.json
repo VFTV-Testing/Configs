@@ -11,9 +11,9 @@
 "MenuSettingManualSetup":"Ručni nastavení",
 "MenuSettingsNetworkAndInternet":"Síť a internet",
 "MenuSettingTryAgain":"Zkusit znovu",
-"MenuSettingsLEDBrightnessLow":"Low", ##Nízký
-"MenuSettingsLEDBrightnessHigh":"High", ##Vysoký
-"MenuSettingsLEDBrightnessMedium":"Medium", ##Střední
+"MenuSettingsLEDBrightnessLow":"Low",
+"MenuSettingsLEDBrightnessHigh":"High",
+"MenuSettingsLEDBrightnessMedium":"Medium",
 "MenuSettingsAudioVisualStereo":"Stereo",
 "MenuSettingsAuto":"Auto",
 "MenuSettingsAutoStandbyTime4Hr":"4 hodiny",
@@ -116,7 +116,7 @@
 "MenuSettingsLanguageSelection" : "čeština",
 "MenuSettingsRentalAndPurchase" : "Koupit",
 "MenuSettingsAccountSignIn": "Účty a přihlašování",
-"SystemSettingsAddRemoteControl":"Add remote control", ##Dálkový ##vladač
+"SystemSettingsAddRemoteControl":"Add remote control",
 "MenuSettingsLockChannelsMenu":"Přizpůsobit",
 "MenuSettingsLockedChannelDone":"Hotovo",
 "MenuSettingsFilterContent":"Filtrováni obsahu",
@@ -140,7 +140,7 @@
 "STBInformationModelName":"Název modelu",
 "STBInformationSoftwareVersion":"Verze softwaru",
 "STBInformationCurrentIPAddress":"Aktuální adresa IP",
-"STBInformationDeviceUniqueID":"Device Unique ID", ##Jedinečné ##ID ##zařízení
+"STBInformationDeviceUniqueID":"Device Unique ID",
 "STBInformationInternet":"Internet",
 "STBInformationNagra":"Nagra",
 "STBInformationPVR":"PVR",
@@ -199,7 +199,7 @@
 "Protect":"Zakoupeno",
 "Back":"Zpět",
 "Unprotect":"Zrušit ochranu",
-"ScheduleRecordingsSingle":"Single recordings",##Jednotlivé ##nahrávky
+"ScheduleRecordingsSingle":"Single recordings",
 "AirsOn":"vysilá se",
 "MenuYes":"Ano",
 "MenuNo":"Ne",
@@ -226,7 +226,7 @@
 "Subtitles":"Titulky",
 "PrivacyNotice":"Informace ke zpracování osobních údajů",
 "PrivacyPolicy":"Souhlas s doporučeními",
-"TermsAndConditions": "Terms and Conditions", ##Obchodní ##podmínky
+"TermsAndConditions": "Terms and Conditions",
 "RecentlySearched":"nedávná vyhledávání",
 "SearchALL":"Vše",
 "MenuSearch":"Vyhledávání",
@@ -491,9 +491,9 @@
 "AutomaticRecordings" : "AutomaticRecordings",
 "RentalAndPurchased" : "Kód PIN pro nákup je povolen",
 "RentalAndPurchaseDeactivated" : "Kód PIN pro nákup je zakázán",
-"PrivacyTerms": "Privacy « Terms", ##Ochranaosobníchúdajůapodmínky
+"PrivacyTerms": "Privacy « Terms",
 "WrongPinEntered": "Nesprávný PIN",
-"VodafoneRemoteControl" : "VODAFONE REMOTE CONTROL", ##Režimdálkovéhoovládání
+"VodafoneRemoteControl" : "VODAFONE REMOTE CONTROL",
 "lastWeekRecordings" : "Minulý týden",
 "Allow":"Allow",
 "Resume1":"Resume"
