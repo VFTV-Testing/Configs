@@ -34,6 +34,7 @@
 "MenuSettingsPinChanged":"Váš PIN kód byl změněn",
 "MenuSettingsTryAgain":"Zkusit znovu",
 "MenuSettingsChangeMasterPin":"Změna PIN kódu",
+"MenuSettingsChangeMasterPin1":"Změna PIN kódu",
 "MenuSettingsPinInfo":"Informace o PINu",
 "MenuSettingsEnterNewPIN":"Zadejte nový kód PIN",
 "ParentalControlMessage":"Deaktivací kódu PIN se zruší nastavení Rodičovské kontroly. Chcete pokračovat?",
