@@ -527,6 +527,8 @@
 "VodafoneRemoteControl" : "VODAFONE REMOTE CONTROL",
 "_OpcoSpecific_VodafoneRemoteControl":"Režimdálkovéhoovládání",
 "lastWeekRecordings" : "Minulý týden",
+"SeasonNo":"S",
+"EpisodeNo":"E",
 "Allow":"Allow",
 "Resume1":"Resume",
 "Nagra" : "Nagra"
