@@ -542,7 +542,7 @@
 "ContactUs":"Contact us",
 "EPGFilter1" : "All Channels",
 "EPGFilter2" : "Most Watched",
-"MiniGuideRemaining2" : "remain",
+"MiniGuideRemaining" : "remain",
 "CancelEpisoderecording" : "Cancel Episode",
 "MenuSettingsSystemSettings": "System Settings",
 "StartSession": "Sign In",
