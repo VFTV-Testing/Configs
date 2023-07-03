@@ -543,6 +543,7 @@
 "EPGFilter1" : "All Channels",
 "EPGFilter2" : "Most Watched",
 "MiniGuideRemaining" : "remain",
+"MiniGuideRemaining2" : "remain",
 "CancelEpisoderecording" : "Cancel Episode",
 "MenuSettingsSystemSettings": "System Settings",
 "StartSession": "Sign In",
