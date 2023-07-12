@@ -265,7 +265,7 @@
 "RewindDuration":{"x":809,"y":490,"w":227,"h":59},
 "PiButtons":{"x":238,"y":845,"w":200,"h":80},
 "ExtendedPiButtons":{"x":238,"y":785,"w":167,"h":76},
-"ExtendedMiniPI":{"x":225,"y":174,"w":900,"h":128},
+"ExtendedMiniPI":{"x":0,"y":168,"w":1901,"h":151},
 "EventNameOnPInew":{"x":221,"y":485,"w":1545,"h":149},
 "EPGLockedEventName":{"x":638,"y":511,"w":353,"h":44},
 "TVGuideDay":{"x":455,"y":100,"w":95,"h":60},
