@@ -590,6 +590,7 @@
 "VodafoneRemoteControl" : "VODAFONE REMOTE CONTROL",
 "lastWeekRecordings" : "Last Week",
 "Allow":"Allow",
+"AllowADB" : "ALLOW",  
 "MenuSettingInformation" : "Information",  
 "Nagra" : "Nagra", 
 "MenuSettingsContentSettings":"Content Settings",
