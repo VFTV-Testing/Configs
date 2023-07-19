@@ -388,6 +388,7 @@
 "VodafoneTV1": "Disponivel na aplicagéo VodafoneTV",
 "Chooseanoptioneng" : "Choose an option",
 "Allow" : "permitir",
+"AllowADB" : "PERMITIR",    
 "NotHandledFromHere" : "NotHandledFromHere",
 "MenuSettingsEthernet": "Rede local",
 "MenuSettingsEthernet1": "Ligar",
