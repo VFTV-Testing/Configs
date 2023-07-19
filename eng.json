@@ -273,7 +273,7 @@
 "MenuMyTVRecordingSeriesDeletedRecordings":"Series Deleted",
 "MenuMyTVRecordingDelete2":"Delete Recording",
 "MenuMyTVRecordingDeletedRecordings":"Deleted Recordings",
-"MenuMyTVRecordingProtect	":"Protect Recording",
+"MenuMyTVRecordingProtect":"Protect Recording",
 "MenuMyTVRecordingUnprotect":"Unprotect Recording",
 "MenuMyTVRecordingCancelRecording":"Cancel Series Recording",
 "SeriesRecordingCancelRecording":"Series Recording Cancelled",
@@ -606,5 +606,6 @@
 "MenuSettingConfirmMessage" : "Confirm Energy setting",
 "NotInstalled" : "Not installed",
 "MenuMediaLibrary":"Media Library",
+"MenuMediaLibraryFolder":"Collection",
 "NetflixMemberSettings": "Member"
 } 
