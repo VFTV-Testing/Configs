@@ -451,7 +451,7 @@
 "Netflixtext":{"x":85,"y":108,"w":465,"h":244},
 "NetflixLaunch":{"x":375,"y":834,"w":229,"h":86},
 "NetflixLogo":{"x":1630,"y":20,"w":282,"h":220},
-"NetflixESN":{"x":720,"y":125,"w":1105,"h":123},
+"NetflixESN":{"x":720,"y":98,"w":1105,"h":168},
 "NetflixSoftware":{"x":720,"y":250,"w":1105,"h":140},
 "NetflixVersion":{"x":720,"y":375,"w":1105,"h":140},
 "NetflixPlatform":{"x":720,"y":520,"w":1105,"h":187},
