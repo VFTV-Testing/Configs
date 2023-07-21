@@ -660,7 +660,7 @@
 "CRNextChannel":{"x":1275,"y":500,"w":85,"h":55},
 "CRChannelName":{"x":1358,"y":330,"w":362,"h":78},
 "CRNextChannelName":{"x":1358,"y":485,"w":362,"h":78},
-"BarkerChannel":{"x":310,"y":820,"w":200,"h":110},
+"BarkerChannel":{"x":310,"y":820,"w":160,"h":110},
 "BarkerChannelName":{"x":105,"y":239,"w":1085,"h":175},
 "BarkerLaunchAppText":{"x":331,"y":489,"w":400,"h":110},
 "CurrentEPGFilter":{"x":230,"y":137,"w":249,"h":41},
