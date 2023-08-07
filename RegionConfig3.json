@@ -676,5 +676,6 @@
 "SystemSettingsHeading":{"x":1200,"y":4,"w":718,"h":178},
 "StartOverTimeSTamp":{"x":231,"y":867,"w":283,"h":48},  
 "RemainingTime":{"x":1532,"y":975,"w":171,"h":43},
-"SystemSettingsSubmenu":{"x":1206,"y":62,"w":698,"h":104}
+"SystemSettingsSubmenu":{"x":1206,"y":62,"w":698,"h":104},
+"TVGuideLaunchApp":{"x":417,"y":372,"w":342,"h":106}
 }
