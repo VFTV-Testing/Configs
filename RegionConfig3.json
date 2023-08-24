@@ -549,6 +549,7 @@
 "NetflixLoginScreen":{"x":1575,"y":50,"w":280,"h":130},
 "NetflixEnterPassword":{"x":138,"y":262,"w":350,"h":100},
 "NetflixLogoArea1":{"x":1578,"y":930,"w":286,"h":114},
+"NetflixExit":{"x":1653,"y":966,"w":142,"h":50},
 "NetflixGetHelp":{"x":1408,"y":971,"w":110,"h":40},
 "NetflixMenu":{"x":58,"y":326,"w":40,"h":48},
 "NetflixMenuHome":{"x":208,"y":314,"w":114,"h":53},
