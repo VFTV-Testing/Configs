@@ -614,7 +614,8 @@
 "VodafoneTV" : "Vodafone TV",
 "MenuSettingConfirmMessage" : "Confirm Energy setting",
 "NotInstalled" : "Not installed",
-"MenuMediaLibrary":"Media Library",
+"MenuMediaLibrary":"7 Day Catch Up",
+"Discover":"Discover",  
 "MenuMediaLibraryFolder":"Collection",
 "NetflixMemberSettings": "Member"
 } 
