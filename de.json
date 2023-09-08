@@ -1,1 +1,398 @@
+{
+ "MenuOnTV": "Jetzt im TV",
+"CharStringOnNow":"LÃ¤uft jetzt",
+"CharStringNoInformation":"Fortsetzen nicht mÃ¶glich. Diese Aktion konnte nicht geladen werden",
+"BarkerChannel":"Starte App",
+"BarkerChannel1":"Starte App",
+"AutomaticRecodingNofication":"Aktiviere Automatische Aufnahmen für diesen Sender, um diese Inhalte anzusehen",
+"ResetUsername":"Benutzername",
+"ResetDeveloperSettings":"Developer Settings",
+"ResetLanguageBundle":"Language Bundle",
+"ResetLanguage":"en-NZ-x-NZ",
+"ResetContinue":"Fortfahren",
+"EPGFilter": "Senderfilter",
+"SelectEpisode":"Einzelne Folgen auswählen",
+"ResetSkipScan":"Sendersuchlauf überspringen",
+"ResetSetupComplete":"Setup complete",
+"DisneyHome": "INÍCIO",
+"DisneyProfileText": "Quem esta a ver?",  
+"ResetStartWatching":"Ansehen",
+"ResetStartScanning":"Starte Sendersuchlauf",
+"RecordingProtectedpopup":"GeschÃ¼tzte Aufnahmen lÃ¶schen?",
+"RecordingProtectedpopupmultiple":"GeschÃ¼tzte Aufnahmen lÃ¶schen?",
+"RecordingDeleteAll":"Alle lÃ¶schen",
+"RecordingDeleteUnprotected":"Alle ungeschÃ¼tzten Aufnahmen lÃ¶schen?",
+"RecordingStarted":"Geplante Aufnahmen",
+"RecordingStartedSeries":"Serienaufnahme",
+"RecordingStartedSeries1":"Serienaufnahme",
+"RecordingCancelSeries":"Die Serienaufnahme wurde abgebrochen",
+"RecordingNotPossible":"Die Aufnahme ist nicht mÃ¶glich	",
+"RecordingFailed":"Aufnahme fehlgeschlagen. Bitte versuche es spÃ¤ter erneut",
+"MenuMyTVRecordingDeleteEpisode" : "WÃ¤hle die Folgen aus",
+"RecordingLive":"Recording Live",
+"RecordingScheduled":"Geplante Aufnahmen",
+"DisneyLogin":"EINLOGGEN",  
+"MenuMyTVCancelrecording":"Folge aufnehmen",
+"Cancelseriesrecording":"Serie aufnehmen",
+"DeleteRecordingNotification": "Aufnahme gelÃ¶scht",
+"CancelRecordingNotification": "Die Serienaufnahme wurde abgebrochen",
+"MenuMyTVRecordingDeleteRecording":"Aufnahme löschen",
+"Recording":"Aufnahmen",
+"RecordingNotScheduled":"sr007sorrytherewasaproblemschedulinga",
+"RecordingDeleted":"Aufnahme gelÃ¶scht",
+"RecordingDeleted1":"Aufnahme gelÃ¶scht",
+"WatchRecording":"Aufnahme ansehen",
+"WatchCatuchUpOn":"In der Mediathek ansehen am",
+"ShowMoreInformation":"Mehr Infos",
+"WatchonNetflix":"WatchonNetflix",
+"Netflix":"Netflix",
+"NetflixNotifications": "Notifications",
+"ManageRecordings":"Aufnahmen verwalten", 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "MenuSettingManualSetup":"Manuelle Konfiguration",
+"MenuSettingTryAgain":"Erneut versuchen",
+"MenuSettingsLEDBrightnessLow":"Niedrig",
+"MenuSettingsAudioVisualStereo":"Stereo",
+"MenuSettingsAuto":"Automatisch",
+"MenuSettingsAutoStandbyTime4Hr":"4 stunden",
+"MenuSettingsAutoStandbyTime2Hr":"2 stunden",
+"MenuSettingsAutoStandbyTime":"Aus",
+"MenuSettingsLEDBrightnessMedium":"mittel",
+"MenuSettingsAudioVisualDolby":"dolby digital",
+"MenuSettingsAudioVisualSettings":"Bild- & Toneinstellungen",
+"RecentlySearched":"Letzte Suchanfragen",
+"SearchALL":"Alle",
+"MenuSearch":"Suche",
+"AllRail":"Alle",
+"SearchResultNotFound":"Keine Ergebnisse gefunden",
+"MenuKids":"Kids",
+"AiringNow":"Jetzt im TV",
+"Catchuprail":"Latest Catchup",
+"Locked":"Gesperrt",
+"KidsDate":"26",
+"KidsMonth":"JUNI",
+"KidsYear":"2015",
+"RelatedRailGenre":"Ã„hnlich",
+"MenuSettingsMasterPIN":"PIN verwalten",
+"MenuSettingsManagePIN":"PIN verwalten	",
+"MenuSettingsPurchasePIN":"Kauf-PIN",
+"MenuSettingsTurnedOn":"PIN aktivieren",
+"MenuSettingsTurnedOff":"PIN deaktivieren",
+"MenuSettingsPurchaseTurnedOn":"PIN aktivieren",
+"MenuSettingsPurchaseTurnedOff":"PIN deaktivieren",
+"MenuSettingsEnterPIN":"Gib Deine PIN ein",
+"MenuSettingsEnterPIN1":"Gib Deine PIN ein",
+"MenuSettingsPinChanged":"PIN wurde geÃ¤ndert",
+"MenuSettingsTryAgain":"Erneut versuchen",
+"MenuSettingsChangeMasterPin":"Ãndere Deine PIN",
+"MenuSettingsChangeMasterPin1":"Ãndere Deine PIN",
+"MenuSettingsPinInfo":"PIN-Info",
+"MenuSettingsEnterNewPIN":"Gib Deine neue PIN ein",
+"MenuSettingsReenterPIN":"Gib Deine PIN ein",
+"ParentalControlMessage":"Die Deaktivierung der PIN schaltet auch den Jugendschutz ab. MÃ¶chtest Du fortfahren?",
+"MenuSettingsFAQ":"Antworten finden",
+"MenuSettingsFAQAccount":"en NZ Your account",
+"MenuSettingsFAQAccountQuestion4":"pt NZ new fake FAQ for testing",
+"MenuSettingsFAQAccountQuestion1":"What is that red glow below the STB NZ",
+"MenuSettingsFAQDeeplink":"faq0004:missinglink",
+"MenuSettingsPrivacy":"Empfehlungen ",
+"MenuSettingsVTVPrivacyNotice":"Datenschutzhinweise",
+"MenuSettingsVTVPrivacyConsent":"Einwilligungserklärung",
+"MenuSettingsVTVPrivacyConsent2":"Einwilligungserklärung",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"MenuSettingsBoxSpace":"Speicherplatz",
+"MenuSettingsLanguage":"Sprache",
+"MenuSettingsEthernet":"LAN",
+"MenuOnDemandCatchup":"Jetzt ansehen",
+"MenuSettingsEthernetConnected":"Verbunden",
+"MenuSettingsEnglish":"Aktiviert",
+"MenuSettingsItaliano":"Italiano",
+"MenuSettingsAccessibility":"Bedienungshilfen",
+"MenuSettingsAudioDescription":"Audio-Deskription",
+"MenuSettingsSubtitles":"Untertitel",
+"MenuSettingsHelp":"Hilfe",
+"MenuSettingsTermsConditions":"Allgemeine GeschÃ¤ftsbedingungen",
+"MenuSettingsReadTermsConditions":"Legal Terms",
+"MenuSettingsMoreSettings":"Weitere Einstellungen",
+"MenuSettingsTVBoxSettings":"GerÃ¤te Einstellungen",
+"MenuSettingsNetwork":"Netzwerk",
+"MenuSettingsMobilePairing":"Mobiltelefon verbinden",
+"MenuSettingsStandbyMode":"Power",
+"MenuSettingsRemote":"Fernbedienung",
+"MenuSettingsLEDBrightness":"Helligkeit",
+"MenuSettingsTVChannels":"TV-Sender",
+"MenuSettingsAudioVisual":"Bild- & Toneinstellungen",
+"MenuSettingsUpdates":"Software-Aktualisierungen",
+"MenuSettingsFactoryReset":"Werkseinstellungen wiederherstellen",
+"MenuSettingsEraseEverything" : "Erase everything",
+"MenuSettingsInformation":"Informationen",
+"MenuSettingsSelfDiagnostic":"Selbstdiagnose",
+"MenuSettingsParentalAdults":"Gesperrte Programme",
+"MenuSettingsOn":"Aktivieren",
+"MenuSettingsStartAutoScan":"Automatischen Sendersuchlauf starten",
+"MenuSettingsTVChannelAutomaticSelection":"AutomaticSelection",
+"MenuSettingsTVChannelScanDone":"Erledigt",
+"MenuSettingChannelSorting":"Senderliste sortieren",
+"Customisation":"Umsortieren",
+"MenuSettingChannelVisibility":"Sender ausblenden",
+"MenuSettingsNetworkAndPlayer":"Netzwerk- & Player-Verlauf",
+"MenuSettingsDeepStandby":"Energie sparen",
+"MenuSettingsActiveStandby":"Aktiv",
+"MenuSettingsAgeRatingOff":"Aus",
+"MenuSettingsHideContent":"Verbergen",
+"MenuSettingsShowContent":"Zeigen",
+"MenuSettingsusepin":"Use PIN",
+"MenuSettingsAdultRating":"AO",
+"MenuSettingsAdultRatingG":"G",
+"Singlechannelpackpin":"PIN eingeben",
+"MenuSettingsFilterContent":"Inhalte filtern",
+"MenuSettingsFilterContentDone":"Erledigt",
+"MenuSettingsHideChannels":"Verbergen",
+"NetworkProblemDetected":"Network Connection",
+"MenuSettingsManualSetup":"Manuelle Konfiguration",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "MenuMyTVWishlist":"Merkliste",
+"MenuMyTVWatchlist":"Merkliste",
+"MenuMyTVWatchOptions":"Ansehen",
+"MenuMyTVRecommendation":"Meine Empfehlungen",
+"MenuMyTVRentals":"Bezahlte Inhalte",
+"MenuMyTV4kFilmSubscription":"Abo",
+"MenuMyTVMixedContentPack":"Mixed Content Pack",
+"MenuMyTVAdultPack":"Adult pack",
+"MenuMyTVLockedProgram":"Gesperrt",
+"MenuMyTVAdultContent":"Adult Content",
+"MenuMyTVAdultRental":"Adult Rental",
+"MenuMyTVAdultVOD":"Adults VOD",
+"MenuMyTVAdult":"Adult",
+"MenuMyTVNetflix":"Netflix",
+"MenuMyTVPartyApp":"Meine Apps",
+"MenuMyTVMixedContentSubcription":"Mixed Content Subscription02",
+"MenuMyTVMoviesSVODVTV":"Movies SVOD VTV",
+"MenuMyTV4kFilms":"4K Films",
+"MenuMyTVMixedContent":"Mixed Content",
+"NetflixHomeText":"Home",
+"NetflixGetStarted": "Loslegen", 
+"PlaySomethingNetflixText":"Play Something",
+"ChangeSettings":"Close and change Auto Standby",
+"NetflixContinueWatching":"Cancel Standby",
+"NetflixContinue":"Continue",
+"MenuTVGuideDay":"Heute",
+"MenuTVChannelSports":"Sport",
+"MenuTVChannelEntertainment":"Entertainment",
+"MenuTVChannelNews":"Dokus & News",
+"MenuTVChannelHD":"HD",
+"MenuTVChannelMostWatched":"Am meisten gesehen",
+"MenuTVChannelPremium":"Premium",
+"MenuTVGuide":"TV-Guide",
+"MenuTVChannel":"Alle Sender",
+"ChannelFilterSport":"Sport",
+"ChannelFilterEntertainment":"Entertainment",
+"ChannelFIlterNews":"Dokus & News",
+"ChannelFilterPrimium":"Premium",
+"Subscribedchannels":"Abonnierte Sender",
+"MostWatched":"Meistgesehen",
+"Sports":"Sport",
+"Entertainment":"Entertainment",
+"MenuOnDemand":"Videothek",
+"MenuOnDemand1":"Videothek",
+"VODAssetWatchTrailer":"Trailer ansehen",
+"VODAssetRent":"Ausleihen",
+"VODAssetRentHD":"Ausleihen HD",
+"VODAssetRentSD":"Ausleihen SD",
+"VODAssetRent4K":"Ausleihen 4K",
+"VODAssetRentBundle":"Ausleihen Asset Bundle",
+"include":"Enthält",
+"VODAssetBuy":"Kaufen",
+"VODAssetBuyHD":"Kaufen HD",
+"VODAssetBuySD":"Kaufen SD",
+"VODAssetOwn":"Kaufen",
+"VODAssetDisney":"Disney",
+"VODAssetDisney1":"Dlsney",
+"VODAssetOwnHD":"Kaufen HD",
+"VODAssetOwnSD":"Kaufen SD",
+"Confirm":"BestÃ¤tigen",
+"VODAvailableToOwn":"Zum Kauf verfügbar",
+"VODAssetPurchased":"Gekauft",
+"vodTrailer":"Trailer",
+"EPGLaunch":"Alle Sender",
+"EPGTomorrow":"morgen",
+"EPGTomorrow1":"Morgen",
+"EPGToday":"Heute",
+"EPGYesterday":"Gestern",
+"EPGNoInformation":"Keine Informationen vorhanden",
+"EPGNext":"Danach",
+"EPGLater":"SpÃ¤ter",
+"EPGTVProgram":"TV-Guide",
+"EPGTomorrowSelector":"Tomo",
+"EPGStartOver":"Neu starten",
+"EPGWatch":"Ansehen",
+"watchCatchup":"In Mediathek ansehen",
+"Addtowatchlist":"Merkliste",
+"Removefromwatchlist":"Von Merkliste entfernen",
+"EPGNetlfix":"netflix",
+"EPGWatchLive":"Live ansehen",
+"EPGRecordEpisode":"Folge aufnehmen",
+"EPGRecord":"aufnehmen",
+"EPGRecordSeries":"Serie aufnehmen",
+"EPGCancel":"Abbrechen",
+"Catchup":"Catch",
+"Recording":"Aufnahmen",
+"Resume":"Fortsetzen",
+"Duration":"Dauer",
+"EPGLive":"Live",
+"RewindDuration":"3h59m",
+"RelatedRail":"Ähnlich",
+
+
+  
+}
