@@ -48,57 +48,55 @@
 "Netflix":"Netflix",
 "NetflixNotifications": "Notifications",
 "ManageRecordings":"Aufnahmen verwalten", 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  "MenuSettingManualSetup":"Manuelle Konfiguration",
+"SetPaddig":"Zeitpuffer einstellen",
+"EjectDisk":"Festplatte entfernen",
+"MenuMyTVLocalRecording":"Lokaler",
+"cloud":"cloud",
+"Bygenre":"dem Genre",
+"Alphabaticalorder":"Alphabatical order",
+"Unwatched":"unwatched",
+"Done":"Erledigt",
+"SelectAll":"Alle auswählen",
+"DeSelectAll":"Auswahl aufheben",
+"Delete":"löschen",
+"Protect":"schützen",
+"Back":"zurück",
+"Unprotect":"Sicherung aufheben",
+"ScheduleRecordingsSingle":"Einzelaufnahme",
+"AirsOn":"Beginn",
+"NetflixPlay":"Play",
+"NetflixMoreInfo":"MoreInfo",
+"NetflixSignin":"Sign in",
+"MenuSettings":"Settings",
+"MenuYes":"Ja",
+"MenuNo":"Nein",
+"AssetSubscribe":"Abonniert",
+"WatchHDSubscriptionAdultPack":"Erwachsenen",
+"WatchSDSubscriptionAdultPack":"Erwachsenen",
+"WatchHDSubscriptionMixedPack":"Mixed Content",
+"WatchSDSubscriptionMixedPack":"Mixed Content",
+"Channels":"Sender",
+"Movies":"Filme",
+"More":"Weitere",
+"More1":"Weitere",
+"MoreVodafonefilms":"MoreVodafoneFilms",
+"FolderPurchaseSubscribe":"Abonniert",
+"PackagePurchased":"Successfully subscribed",
+"LanguageEn":"Successfully subscribed",
+"Remotepairing":"Fernbedienung verbinden",
+"OnDemandLiveTV":"Videothek",
+"SKYChannels":"Sky Channels",
+"TVInput":"TV Eingang",
+"MobileApps":"Mobile Apps",
+"RemoteControl":"Fernbedienungsmodus",
+"AudioLanguage":"Audio Language",
+"AudioDescription":"Audio Description",
+"Subtitles":"Untertitel",
+"Help":"Hilfe",
+"PrivacyNotice":"Datenschutzhinweise",
+"PrivacyPolicy":"Einwilligungserklärung",
+"TermsAndConditions":"Datenschutz & Rechtliches",
+"MenuSettingManualSetup":"Manuelle Konfiguration",
 "MenuSettingTryAgain":"Erneut versuchen",
 "MenuSettingsLEDBrightnessLow":"Niedrig",
 "MenuSettingsAudioVisualStereo":"Stereo",
@@ -148,56 +146,56 @@
 "MenuSettingsVTVPrivacyNotice":"Datenschutzhinweise",
 "MenuSettingsVTVPrivacyConsent":"Einwilligungserklärung",
 "MenuSettingsVTVPrivacyConsent2":"Einwilligungserklärung",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"MenuSettingsVTVPrivacyConsentAgreed" : "Akzeptieren",
+"MenuSettingsVTVPrivacyConsentDisagreed": "Ablehnen",
+"MenuSettingsYourAccount":"en_NZ Your account",
+"MenuSettingsYourNetwork":"en_NZ Network",
+"MenuSettingsAutoStandbyTime":"Aus",
+"MenusettingsREDisagree":"Ablehnen",
+"NetflixEnterEmailAddress": "Enter e-mail address",  
+"NetflixEnterYourPassword": "Passwort",
+"NetflixEmailAddress": "Email address",
+"MenusettingsREAgree":"Zustimmen",
+"MenusettingsREDisagreeText":"Abgelehnt",
+"MenusettingsREAgreeText":"Zugestimmt",
+"MenusettingsChangePin":"PIN ändern",
+"MenuSettingsManageRecordingButton":"Meine Aufnahmen bearbeiten",
+"MenuSettingChannelVisibility":"Sender ausblenden",
+"ResetSettingsMsg":"zurucksetzen",
+"Apply":"Anwenden",
+"MenuSettingsLockChannelsMenu":"Anpassen",
+"MenuSettingsLockedChannelDone":"Erledigt",
+"NetflixHomeIcon":"Netflix",
+"YoutubeHomeIcon":"Youtube",
+"YoutubeExit":"Exit",
+"NetflixEnterPIN":"PIN eingeben",
+"NetflixEnterPIN1":"PIN eingeben",
+"NetflixText":"inspiredbyyou",
+"NetflixLaunch":"Starte",
+"NetflixLaunch1":"Starte",
+"NetflixLaunch2":"Starte",
+"Second":"Sekunden",
+"NetflixHomeText":"Home",
+"NetflixExit":"Exit Netflix",
+"NetflixHelp":"Get Help",
+"NetflixSignOut":"Sign Out",
+"NetflixMobileNo":"Join with your mobile number",
+"NetflixDevice":"Device",
+"MenuSettingsParentalControls":"Jugendschutz",
+"MenuSettingContentSetting":"Inhalte anpassen",
+"MenuSettingConnectedDevices":"Verbundene Geräte",
+"MenuSettingsTVBoxSetting":"Weitere Einstellungen",
+"MenuSettingServiceSettins":"Inhalte anpassen",
+"MenuSettingsAutomaticRecording":"Automatische Aufnahmen",
+"MenuSettingsSubscription":"Sender nicht abonniert",
+"MenuSettingsHideUnsubscribedChanels":"Nicht-abonnierte Sender ausblenden",
+"MenuSettingsShowUnsubscribedChanels":"Nicht-abonnierte Sender zeigen",
+"MenuSettingsPurchase":"Kauf-PIN",
+"MenuSettingsAdults":"Gesperrte Programme",
+"MenuSettingsAgeRating":"Altersbeschränkung",
+"MenuSettingsLockChannels":"Sender sperren",
+"MenuSettingsRecordings":"Aufnahmen",
+"MenuSettingsRecommedationOptout":"RecommedationOptout",
 "MenuSettingsBoxSpace":"Speicherplatz",
 "MenuSettingsLanguage":"Sprache",
 "MenuSettingsEthernet":"LAN",
@@ -248,60 +246,60 @@
 "MenuSettingsHideChannels":"Verbergen",
 "NetworkProblemDetected":"Network Connection",
 "MenuSettingsManualSetup":"Manuelle Konfiguration",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  "MenuMyTVWishlist":"Merkliste",
+"MenuSettingsEthernet1":"Verbinden",
+"FilterContentBBC":"BBC",
+"FilterContentNetflix":"Netflix",
+"FilterShowAll":"Alle anzeigen",
+"FilterHideAll":"Alle verbergen",
+"MenuSettingsTVInput":"TV Eingang",
+"MenuSettingsMobileApps":"Mobile Apps",
+"MenuSettingsRemoteControl":"Fernbedienungen & Zubehör",
+"MultiSelection":"Mehrfach-Auswahl",
+"ResetSettings":"zurücksetzen",
+"STBInformationSerialNumber":"Seriennummer",
+"STBInformationModelName":"Modellname",
+"STBInformationSoftwareVersion":"Software Version",
+"STBInformationCurrentIPAddress":"Aktuelle",
+"STBInformationDeviceUniqueID":"Individuelle Geräte-Kennung",
+"STBInformationInternet":"Internet",
+"STBInformationNagra":"Nagra",
+"STBInformationPVR":"PVR",
+"Google":"Google",
+"MenuSettingsStopAutoScan":"Automatischen Sendersuchlauf beenden",
+"MenuMyTV":"Mein TV",
+"MenuMyTVContinueWatching":"Weiter anschauen",
+"MenuMyTVWatchNext":"Wiedergabe fortsetzen",
+"MenuMyTVRecordings":"Aufnahmen",
+"MenuMyTVRecordingDelete":"Aufnahme löschen",
+"MenuMyTVRecordingDelete1":"Aufnahme",
+"MenuMyTVRecordingDeleteSeries":"Aufnahme",
+"MenuMyTVRecordingSeriesDeletedRecordings":"Serie gelöscht",
+"MenuMyTVRecordingDelete2":"Aufnahme löschen",
+"MenuMyTVRecordingDeletedRecordings":"Aufnahme löschen",
+"MenuMyTVRecordingProtect":"Aufnahme schützen",
+"MenuMyTVRecordingUnprotect":"Aufnahme nicht mehr schützen",
+"MenuMyTVRecordingCancelRecording":"Serienaufnahme abbrechen",
+"SeriesRecordingCancelRecording":"Series Recording Cancelled",
+"MenuMyTVAllRecordings":"Alle Aufnahmen",
+"MenuMyTVAllRecorded":"Alle Aufgenommen",
+"MenuMyTVSeriesRecordings":"Serienaufnahme",
+"MenuMyTVScheduledRecordings":"Geplante Aufnahmen",
+"MenuMyTVAdultRecording":"Adult Recordings",
+"MenuMyTVAdultWishlist":"Adult Wishlist",
+"MenuMyTVAdultScheduledRecordings":"Adult Scheduled Recordings",
+"MenuMyTVScheduledRecord":"Record",
+"RecordingError":"SR007: Aufnahme fehlgeschlagen. Bitte versuche es später erneut",
+"RecordingError1":"Entschuldigung, dieses Programm kann nicht aufgezeichnet werden",
+"MenuMyTVScheduledSeriesRecord":"Serie aufnehmen",
+"MenuMyTVPurchasesRentals":"Inhalte",
+"MenuMyTVRecordingEventNotificationSeries":"Neue Folgen sind programmiert",
+"MenuMyTVRecordingNotification":"Vorherige Folgen findest Du bald in",
+"MenuMyTVRecordingSeriesNotification":"Vorherige Folgen findest Du bald in",
+"MenuMyTVRecordingSeriesNotification1":"Series recording scheduled",
+"MenuMyTVRecordingNotification3":"Dieser Inhalt ist bereits zur Aufnahme programmiert",
+"MenuMyTVRecordingNotification4":"programmiert",
+"MenuMyTVRecordingNotification5":"folgen sind bald in Deinen Aufnahmen zu finden",
+"MenuMyTVWishlist":"Merkliste",
 "MenuMyTVWatchlist":"Merkliste",
 "MenuMyTVWatchOptions":"Ansehen",
 "MenuMyTVRecommendation":"Meine Empfehlungen",
@@ -392,7 +390,230 @@
 "EPGLive":"Live",
 "RewindDuration":"3h59m",
 "RelatedRail":"Ähnlich",
-
-
-  
+"KidsPlayerError":"Player Error",
+"KidsPickACharacter":"Pick A Character",
+"KidsContinueButton":"Continue",
+"KidsSelectYourAge":"Select Your Age",
+"KidsEnterNickName":"Enter Nick Name",
+"KidsToAccessProfile":"Please enter your PIN",
+"KidsSetBirthday":"Set Birthday",
+"KidsCancel":"Cancel",
+"KidsConfirm":"Set",
+"KidsSet":"Set",
+"KidsbedtimeSETBUTTON":"SET",
+"KidsAge":"Age",
+"AddProfile":"ADD PROFILE",
+"ChangeAvatar":"CHANGE AVATAR",
+"KidsSettings":"SETTINGS",
+"ParentalSettings":"PARENTAL SETTINGS",
+"KidsExit":"TO EXIT KIDS MODE",
+"KidsincorrectPin":"SORRY,INCORRECT PIN",
+"KidsError":"PLAYER ERROR",
+"KidsbedtimeOff":"BEDTIME(TURNED OFF)",
+"KidsbedtimeSET":"SET",
+"KidsbedtimeStart":"BEDTIME STARTED",
+"KidsbedtimeOn":"BEDTIME(TURNED ON)",
+"KidsTurnOn":"TURN ON",
+"KidsTrunOff":"TURN OFF",
+"KidsDeleteProfile":"DELETE PROFILE",
+"KidsPinRequest":"PIN REQUEST",
+"ExitKidsTV":"EXIT KIDS TV",
+"KidsProfile":"PROFILES",
+"KidsAddmoreTime":"ADD MORE TIME",
+"KidsSetCountdown":"SET COUNTDOWN",
+"KidsStartCountdownButton":"START COUNTDOWN",
+"KidsNetworkError":"NETWORK ERROR",
+"KidsSetBedtime":"SET BEDTIME",
+"KidsFrom":"FROM",
+"KidsTo":"TO",
+"KidsSETTIME":"SET TIME",
+"KidsChange":"Change",
+"KidsUpdateCountDown":"UpdateCountDown",
+"NewReleases":"Featured",
+"MenuOnDemandRecommendation":"Empfehlungen",
+"MenuOnDemandVodafonePackage":"Vodafone Packages",
+"MenuOnDemandVodafoneSeries":"Vodafone Serie",
+"MenuOnDemandBestofCatchUp":"Best of Catch Up",
+"MenuOnDemandBBCRecommends":"BBC Recommends",
+"MenuOnDemandYoutube":"Youtube",
+"MenuOnDemandITVHub":"ITVHub",
+"MenuOnDemandLive":"On Demand Live",
+"MenuOnDemandChannel5":"Channel 5",
+"MenuOnDemandNetflix":"Netflix",
+"MenuOnDemandNowTV":"NOW TV",
+"MenuOnDemandKids":"Kids",
+"MenuOnDemandentertainment":"Entertainment",
+"MenuOnDemandgenres":"Genres",
+"MixChannel":"Mix Channel",
+"Action":"Action",
+"Scifi":"Sci-Fi",
+"Drama":"Drama",
+"Animation":"Animation",
+"Comedy":"Comedy",
+"VodafoneFilms":"VodafoneFilms",
+"MenuOnDemandRentedRail":"Alle Genres",
+"MenuOnDemandAdultVodRail": "Adults vod",
+"MenuOnDemandAdultVod":"Adults vod",
+"MenuSettingsGetAnswer":"Get Answers",
+"OnDemandLiveTV":"On Demand Live",
+"Shops":"Shops",
+"Romance": "Romance",
+"ParentalMessageCatchUp":"Your Parental controls does not allow this program to be shown without entering your pin",
+"Apps":"Apps",
+"Applications":"appsRail1",
+"AppNameBBCNews":"BBC News",
+"AppNameBBCSport":"BBC Sport",
+"AppNameBBCCatal":"BBC Catal",
+"Appsrail":"Mein Apps",
+"AppsRailAll":"alle apps",
+"KidsApp":"VTV Kids NZ",
+"TheNightManager":"The Night Manager",
+"NetflixApp":"Netflix",
+"NowTVApp":"NowTV",
+"InfinityApp":"Inﬁnity",
+"Appsrail2":"AppsRail2",
+"YoutubeApp":"Youtube",
+"NetflixProfileText":"Whos Watching Netflix",
+"NetflixProfileText1":"Choose a Profile",
+"NetflixPlay":"Play",
+"NetflixResume":"Resume",
+"Infinity":"Infinity NZ",
+"Meterological":"metrological radioline",
+"MeterologicalRadiolineApp":"metrological radioline",
+"MeterologicalEuronewsApp":"metrological euronews",
+"ARD":"metrological radioline",
+"ARDApp":"ARD",
+"RadioApp":"Radio",
+"metrologicalEuroNews":"euronews",
+"AppLaunch":"Starte",
+"MeterologicalFolder":"metrological en",
+"UpNext":"Beginnt",
+"UpNext1":"Minuten",
+"UpNext2":"Sekunden",
+"UpNextSimilar":"Ebenfalls empfohlen",
+"UpNextDifferent":"Etwas anderes",
+"Util":"Util",
+"StartYourSearch":"Suchergebnisse",
+"relatedby":"Altri titoli",
+"relatedto":"Relativo a",
+"relatedbydirector":"Diretti da",
+"MenuOnDemandFolderinRail":"Folder in Rail",
+"MenuOnDemandCatchupChannel":"Jetzt ansehen",
+"MenuOnDemandBoxSets":"BoxSets",
+"MenuOnDemandRecommendationByProvider":"Recommended by provider",
+"MenuOnDemandRecommendationByActor":"Recommended by Actor",
+"MenuOnDemandRecommendationByDirector":"Recommended by Director",
+"MenuOnDemandRecommendationByYear":"Recommended by Year",
+"MenuOnDemandRecommendationByCountry":"Recommended by Country",
+"MenuOnDemandRecommendationDrama":"Recommended Drama",
+"MenuOnDemandVodWithDiscounts":"VOD with discounts",
+"Comedy1":"Comedy 1",
+"MenuOnDemandAdultVod1":"Adults 1 vod",
+"MenuOnDemandShops":"Shops",
+"MenuOnDemandNewShops":"New Shops",
+"MenuOnDemandFirstRail":"Alle Genres",
+"ClashNotification":"you have too many local",
+"Cancel":"Abbrechen",
+"Reschedule":"Neu planen",
+"AmazonHomeIcon":"Amazon Pr",
+"AmazonPrimeStart":"Startseite",
+"AmazonPrimeSettings":"Einstellungen",
+"AmazonPrimeMovies":"Filme",
+"AmazonPrimeSeries":"Serien",
+"AmazonPrimeKids":"Kinder",
+"AmazonPrimeOriginals":"Originals",
+"AmazonPrimeSearch":"Suche",
+"AmazonPrimeLibrary":"Gekaufte und geliehene Titel",
+"AmazonPrimeWatchlist":"Watchlist",
+"AmazonPrimeWatchlist1":"Mein Bereich",
+"AmazonPrimeOK":"OK",
+"AmazonPrimeContinue":"Weiter",
+"AmazonPrimeCancel":"Abbrechen",
+"AmazonPrimeLogOut":"Gerät abmelden",
+"AmazonPrimeLogIn":"Sign in and start watching",
+"AmazonPrimeSkipLogIn":"No thanks, start browsing",
+"AmazonPrimeContinueWatching":"Fortsetzen",
+"AmazonPrimeWatchNow":"Jetzt kostenlos ansehen",
+"AmazonPrimeExitApp":"Anwendung beenden",
+"AmazonPrimeAlreadyRegistered":"Ihr gerät ist jetzt registriert.",
+"AmazonPrimeAddWatchlist":"Zur Watchlist hinzufügen",
+"AmazonPrimeRemoveWatchlist":"Auf lhrer",
+"AmazonPrimeProfileText":"Wer schaut gerade",
+"WatchOnAmazonPrime":"Watch on Prime Video NZ",
+"AmazonPrimeRestart":"derneut starten",
+"SubscriptionError":"Channel not subscribed",
+"SubscribePI":"Subscribe to Entertainment Ext",
+"NoInternet":"Open Settings",
+"ContactUs":"Contact us",
+"EPGFilter1" : "Alle Sender",
+"EPGFilter2" : "Am miesten gesehen",
+"MiniGuideRemaining" : "Verbleiben",
+"MiniGuideRemaining2" : "Verbleiben",
+"MiniGuideRemaining1" : "Verbleiben",
+"CancelEpisoderecording" : "Cancel Episode",
+"MenuSettingsSystemSettings": "Geräteeinstellungen",
+"StartSession": "Anmelden",
+"MenuSettingDisplayAndSounds": "Ton",
+"MenuSettingsDevicePreference": "Geräteeinstellungen",
+"MenuSettingsAudioProcessing": "Audio processing",
+"MenuSettingsDisplayWhenInactive" : "Automatisches Ausschalten",
+"MenuSettingsAbout": "Info",
+"AndroidTvOsBuild": "Android TV-Betriebssystem-Build",
+"AmazonPrimeTLM":"prime video",
+"NetflixTLM":"NETFLIX",
+"YouTubeTLM":"YouTube",
+"HBOTLM":"HBOMAX",
+"MenuMyTVRecordingNotificationMovie":"Aufgenommen",
+"MenuMyTVRecordingNotificationMovie1":"Aufgenommen",
+"MenuMyTVRecordingSeriesNotificationPI":"Neue Folgen sind programmiert",
+"MenuMyTVRecordingSeriesNotificationPI2":"Neue Folgen sind programmiert",  
+"MenuMyTVRecordingNotificationPI":"Wird gerade aufgenommen auf",
+"MenuMyTVRecordingSingleNotificationPI1":"Wird gerade aufgenommen auf",
+"AlreadyRecordedEvent":"Dieser Inhalt ist bereits zur Aufnahme programmiert",
+"TVGuideSingleRecordingNotification":"wurde programmiert",
+"TVGuideSeriesRecordingNotification":"folgen sind bald in Deinen Aufnahmen zu finden",
+"TVGuideSeriesRecordingNotification1":"folgen sind bald in Deinen Aufnahmen zu finden",
+"MenuSettingsDeActivatePin": "PIN-Schutz deaktivieren",
+"MenuSettingsActivatePin": "PIN Activieren",
+"UsbDebugging": "USB debugging",
+"MenuSettingsDeveloperOption": "Entwickleroptionen",
+"MenuSettingsVodafoneAppsSettings":"App Settings",
+"SettingsGeneralInfo":"Allgemein",
+"MenuSettingsDisplayWhenWatching" : "Automatisches Ausschalten",
+"MenuSettingenergySaver" : "Energie sparen",
+"MenuSettingTurnOffDisplay" : "Automatisches",
+"MenuSettingsLanguageSelection" : "Deutsch",
+"SelectOneBelowFTU" : "Select one below",
+"Choseanoption" : "Choose an option",
+"AutomaticRecordings" : "AutomaticRecordings",
+"MenuSettingsRentalAndPurchase" : "Purchases",
+"RentalAndPurchaseActivated" : "Purchase PIN is enabled",
+"RentalAndPurchaseDeactivated" : "Purchase PIN is disabled",
+"PrivacyTerms": "Datenschutz & Rechtliches",
+"WrongPinEntered": "Falsche PIN",
+"MenuSettingsAccountSignIn": "Accounts",
+"SystemSettingsAddRemoteControl":"Add remote control",
+"VodafoneRemoteControl" : "VODAFONE REMOTE CONTROL",
+"lastWeekRecordings" : "Letzte Woche",
+"Allow":"Erlaubt",
+"AllowADB" : "Erlaubt",  
+"MenuSettingInformation" : "Information",  
+"Nagra": "Nagra", 
+"MenuSettingsContentSettings":"Content Settings",
+"MenuSettingVodafoneTV":"Vodafone TV",
+"MenuSettingVodafoneTVApp":"Vodafone TV app",
+"MenuSettingChannelScan":"Sendersuchlauf",
+"MenuSettingLicense":"License Notices",
+"MenuSettingsNetworkAndInternet":"Netzwerk & Internet",
+"MenuSettingsAddAccount":"Konten & Anmeldung",
+"MenuSettingsRemoteControl":"Fernbedienungen & Zubehor",
+"MenuSettingsRecordingSpace":"verfügbarer Speicher",
+"Resume1":"Fortsetzen",
+"VodafoneTV" : "Vodafone TV",
+"MenuSettingConfirmMessage" : "Einstellungn für Stromversorgung",
+"NotInstalled" : "Not installed",
+"MenuMediaLibrary":"7 Day Catch Up",
+"Discover":"Discover",  
+"MenuMediaLibraryFolder":"Collection",
+"NetflixMemberSettings": "Member"  
 }
