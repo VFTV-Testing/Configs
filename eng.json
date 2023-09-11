@@ -312,6 +312,7 @@
 "MenuMyTVLockedProgram":"Locked programs",
 "MenuMyTVAdultContent":"Adult Content",
 "MenuMyTVAdultRental":"Adult Rental",
+"MenuSettingsAlertModalTitle": "Are you sure?",  
 "MenuMyTVAdultVOD":"Adults VOD",
 "MenuMyTVAdult":"Adult",
 "MenuMyTVNetflix":"Netflix",
