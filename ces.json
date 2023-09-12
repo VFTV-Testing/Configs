@@ -553,6 +553,7 @@
 "MenuSettingChannelScan":"Vyhledávání kanálů",
 "MenuSettingLicense":"Licenční oznámení",
 "MenuSettingsAddAccount":"Účty a přihlašování",
+"MenuSettingsAlertModalTitle": "Jste si jistí?",  
 "MenuSettingsRecordingSpace":"Uložiště",
 "NetflixTryAgain":"Zkusit znova"
 } 
