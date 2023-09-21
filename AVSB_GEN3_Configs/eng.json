@@ -226,6 +226,7 @@
 "MenuSettingsFactoryReset":"Factory reset",
 "MenuSettingsEraseEverything" : "Erase everything",
 "MenuSettingsInformation":"Information",
+"MenuSettingsAlertModalMessgae": "By not agreeing",
 "MenuSettingsSelfDiagnostic":"Self Diagnostics",
 "MenuSettingsParentalAdults":"Adults",
 "MenuSettingsOn":"ON",
