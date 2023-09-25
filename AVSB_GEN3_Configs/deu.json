@@ -630,5 +630,6 @@
 "MenuMediaLibraryFolder":"Aktuelles",
 "NetflixMemberSettings": "Member",
  "OpenPrivacySettings":"Datenschutze instellungen offnen",
- "LockedBanner": "Sender gesperrt"
+ "LockedBanner": "Sender gesperrt",
+ "NetflixSignInContinue" : "Loslegen"
 }
