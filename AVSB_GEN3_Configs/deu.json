@@ -629,5 +629,6 @@
 "Discover":"Discover",  
 "MenuMediaLibraryFolder":"Aktuelles",
 "NetflixMemberSettings": "Member",
- "OpenPrivacySettings":"Datenschutze instellungen offnen"
+ "OpenPrivacySettings":"Datenschutze instellungen offnen",
+ "LockedBanner": "Sender gesperrt"
 }
