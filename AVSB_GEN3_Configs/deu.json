@@ -632,5 +632,6 @@
  "OpenPrivacySettings":"Datenschutze instellungen offnen",
  "LockedBanner": "Sender gesperrt",
  "NetflixSignInContinue" : "Loslegen",
- "MenuSettingsAlertModalTitle" : "Bist Du sicher?"
+ "MenuSettingsAlertModalTitle" : "Bist Du sicher?",
+ "MenuSettingsAlertModalMessgae" : "Wenn Du ablehnst"
 }
