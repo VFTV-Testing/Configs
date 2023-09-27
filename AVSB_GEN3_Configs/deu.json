@@ -631,5 +631,6 @@
 "NetflixMemberSettings": "Member",
  "OpenPrivacySettings":"Datenschutze instellungen offnen",
  "LockedBanner": "Sender gesperrt",
- "NetflixSignInContinue" : "Loslegen"
+ "NetflixSignInContinue" : "Loslegen",
+ "MenuSettingsAlertModalTitle" : "Bist Du sicher?"
 }
