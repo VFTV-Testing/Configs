@@ -18,7 +18,7 @@
 "DisneyProfileText": "Quem esta a ver?",  
 "ResetStartWatching":"Ansehen",
 "ResetStartScanning":"Starte Sendersuchlauf",
-"RecordingProtectedpopup":"Geschützte Aufnahmen löschen?",
+"RecordingProtectedpopup":"Geschützte Aufnahmen löschen?",f
 "RecordingProtectedpopupmultiple":"Geschützte Aufnahmen löschen?",
 "RecordingDeleteAll":"Alle löschen",
 "RecordingDeleteUnprotected":"Alle ungeschÃ¼tzten Aufnahmen lÃ¶schen?",
@@ -560,7 +560,7 @@
 "ContactUs":"Contact us",
 "EPGFilter1" : "Alle Sender",
 "EPGFilter2" : "Am miesten gesehen",
-"MiniGuideRemaining" : "Noch",
+"MiniGuideRemaining" : "noch",
 "MiniGuideRemaining2" : "noch",
 "MiniGuideRemaining1" : "noch",
 "CancelEpisoderecording" : "Cancel Episode",
