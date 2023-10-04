@@ -633,5 +633,6 @@
  "LockedBanner": "Sender gesperrt",
  "NetflixSignInContinue" : "Loslegen",
  "MenuSettingsAlertModalTitle" : "Bist Du sicher?",
- "MenuSettingsAlertModalMessgae" : "Wenn Du ablehnst"
+ "MenuSettingsAlertModalMessgae" : "Wenn Du ablehnst",
+ "MenusettingsREAgreed" : "Akzeptiert"
 }
