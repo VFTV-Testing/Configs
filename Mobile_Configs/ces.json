@@ -358,5 +358,6 @@
 	"Keyboard_Return": "Enter",
 	"Keyboard_Close": "Return",
 	"VodafoneNetworkLost": "Vodafone network lost",
-	"GermanToEnglishLan": "Englisch (Neuseeland)"
+	"GermanToEnglishLan": "Englisch (Neuseeland)",
+	"tab_name_selected_text": "vybrané"
 }
