@@ -548,5 +548,11 @@
 "Choosefrom": "Opções de",
 "MenuSettingTurnOffDisplay": "Desligar o ecrã após",
 "MenuSettingsStopAutoScan": "Parar pesquisa automAitica",
+"MenuSettingsResolution":"Resolución",
+"MenuSettingsDynamicRange":"Preferencias HDR",
+"Resolution":"1080p 50Hz",
+"DynamicRange":"SDR",
+"MenuSettingConfirmMessageDynamicRange" : "SDR a HDR requiere reiniciar el dispositivo",
+"MenuSettingConfirmMessageResolution" : "La resolución ha cambiado",
 "NotInstalled" : "No instalada"
 }
