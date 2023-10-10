@@ -604,7 +604,7 @@
 "MenuSettingsDynamicRange":"Definições de HDR",
 "Resolution":"1080p 50Hz",
 "DynamicRange":"SDR",
-"MenuSettingConfirmDynamicRange" : "para mudar para SDR",
+"MenuSettingConfirmMessageDynamicRange" : "para mudar para SDR",
 "MenuSettingConfirmMessageResolution" : "A resolução foi alterada",
 "NetflixMemberSettings":"Member"
 }
