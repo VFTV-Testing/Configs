@@ -566,5 +566,6 @@
 "MenuSettingsDynamicRange":"Rozsah",
 "Resolution":"1080p 50Hz",
 "DynamicRange":"SDR",
+"MenuSettingConfirmMessage1" : "SDR vyžaduje restart",
 "NetflixTryAgain":"Zkusit znova"
 } 
