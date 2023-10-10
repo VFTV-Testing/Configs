@@ -600,5 +600,11 @@
 "AddGooglAccount" : "Adicionar conta",
 "NotInstalled" : "Näo instaladas",
 "MenuMyTVRecordingNotificationMovie1":"Gravado",
+"MenuSettingsResolution":"Resolução de ecrí",
+"MenuSettingsDynamicRange":"Definições de HDR",
+"Resolution":"1080p 50Hz",
+"DynamicRange":"SDR",
+"MenuSettingConfirmDynamicRange" : "para mudar para SDR",
+"MenuSettingConfirmMessageResolution" : "A resolução foi alterada",
 "NetflixMemberSettings":"Member"
 }
