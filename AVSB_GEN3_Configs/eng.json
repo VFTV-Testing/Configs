@@ -627,7 +627,7 @@
 "MenuSettingsDynamicRange":"Dynamic range",
 "Resolution":"1080p 50Hz",
 "DynamicRange":"SDR",
-"MenuSettingConfirmDynamicRange" : "SDR requires reboot to apply",
+"MenuSettingConfirmMessageDynamicRange" : "SDR requires reboot to apply",
 "MenuSettingConfirmMessageResolution" : "Resolution has been changed",
 "NetflixMemberSettings": "Member"
 } 
