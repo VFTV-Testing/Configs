@@ -563,6 +563,7 @@
 "RentalAndPurchaseActivated" : "Kód PIN pro nákup je povolen",
 "MenuSettingsHDMI":"HDMI",
 "MenuSettingsResolution":"Rozlišení",
+"MenuSettingsDynamicRange":"Rozsah",
 "Resolution":"1080p 50Hz",
 "DynamicRange":"SDR",
 "NetflixTryAgain":"Zkusit znova"
