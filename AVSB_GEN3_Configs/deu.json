@@ -635,5 +635,11 @@
  "NetflixSignInContinue" : "Loslegen",
  "MenuSettingsAlertModalTitle" : "Bist Du sicher?",
  "MenuSettingsAlertModalMessgae" : "Wenn Du ablehnst",
+"MenuSettingsResolution":"Auflösung",
+"MenuSettingsDynamicRange":"Dynamikbereich",
+"Resolution":"1080p 50Hz",
+"DynamicRange":"SDR",
+"MenuSettingConfirmMessageDynamicRange" : "SDR erfordert einen Neustart",
+"MenuSettingConfirmMessageResolution" : "Auflösung wurde geändert",
  "MenusettingsREAgreed" : "Akzeptiert"
 }
