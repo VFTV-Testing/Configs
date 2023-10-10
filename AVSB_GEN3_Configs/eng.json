@@ -623,5 +623,11 @@
 "MenuMediaLibrary":"7 Day Catch Up",
 "Discover":"Discover",  
 "MenuMediaLibraryFolder":"Collection",
+"MenuSettingsResolution":"Resolution",
+"MenuSettingsDynamicRange":"Dynamic range",
+"Resolution":"1080p 50Hz",
+"DynamicRange":"SDR",
+"MenuSettingConfirmDynamicRange" : "SDR requires reboot to apply",
+"MenuSettingConfirmMessageResolution" : "Resolution has been changed",
 "NetflixMemberSettings": "Member"
 } 
