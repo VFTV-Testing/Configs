@@ -642,5 +642,8 @@
 "DynamicRange":"SDR",
 "MenuSettingConfirmMessageDynamicRange" : "SDR erfordert einen Neustart",
 "MenuSettingConfirmMessageResolution" : "Auflösung wurde geändert",
- "MenusettingsREAgreed" : "Akzeptiert"
+"PinModalTitle" : "Probleme mit der PIN",
+"PinModalMessage" : "Deine Jugendschutz-PIN findest Du auf Deiner",
+"PinModalOption" : "Zurück",
+"MenusettingsREAgreed" : "Akzeptiert"
 }
