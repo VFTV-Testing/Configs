@@ -558,5 +558,8 @@
 "DynamicRange":"SDR",
 "MenuSettingConfirmMessageDynamicRange" : "SDR a HDR requiere reiniciar el dispositivo",
 "MenuSettingConfirmMessageResolution" : "La resolución ha cambiado",
+"PinModalTitle" : "Problemas con el PIN",
+"PinModalMessage" : "Por defecto el PIN maestro es",
+"PinModalOption" : "Atrás",
 "NotInstalled" : "No instalada"
 }
