@@ -608,7 +608,7 @@
 "MenuSettingConfirmMessageDynamicRange" : "para mudar para SDR",
 "MenuSettingConfirmMessageResolution" : "A resolução foi alterada",
 "PinModalTitle" : "Necessita de ajuda",
-"PinModalMessage" : "Por omissão o PIN é 0000",
+"PinModalMessage" : "Por omissão o PIN",
 "PinModalOption" : "Voltar",
 "NetflixMemberSettings":"Member"
 }
