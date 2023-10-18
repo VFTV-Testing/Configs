@@ -67,6 +67,7 @@
 "Done":"Erledigt",
 "SelectAll":"Alle auswählen",
 "DeSelectAll":"Auswahl aufheben",
+"WrongPinTryAgainMessage": "Falsche PIN",
 "Delete":"löschen",
 "Protect":"schützen",
 "Back":"zurück",
