@@ -572,5 +572,8 @@
 "DynamicRange":"SDR",
 "MenuSettingConfirmMessageDynamicRange" : "SDR vyžaduje restart",
 "MenuSettingConfirmMessageResolution" : "Rozlišení bylo změněno",
+"PinModalTitle" : "Zadejte Váš PIN",
+"PinModalMessage" : "pro změnu",
+"PinModalOption" : "Nápověda",
 "NetflixTryAgain":"Zkusit znova"
 } 
