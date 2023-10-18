@@ -633,5 +633,6 @@
 "DynamicRange":"SDR",
 "MenuSettingConfirmMessageDynamicRange" : "SDR requires reboot to apply",
 "MenuSettingConfirmMessageResolution" : "Resolution has been changed",
+"ContentSettingChannelLineUp" : "My Channel Line Up",  
 "NetflixMemberSettings": "Member"
 } 
