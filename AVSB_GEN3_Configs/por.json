@@ -610,6 +610,8 @@
 "PinModalTitle" : "Necessita de ajuda",
 "PinModalMessage" : "Por omissão o PIN",
 "PinModalOption" : "Voltar",
+"RestoreChanges" : "Ignorar alterações",
+"ResetLineUp" : "Repor alinhamento de canais por omissão",
 "ContentSettingChannelLineUp" : "Alinhamento de canais personalizado",  
 "NetflixMemberSettings":"Member"
 }
