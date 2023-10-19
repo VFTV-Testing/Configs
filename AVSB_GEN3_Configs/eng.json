@@ -637,5 +637,7 @@
 "PinModalTitle" : "PIN Problems",
 "PinModalMessage" : "By default the Master PIN is",
 "PinModalOption" : "Back",
+"RestoreChanges" : "Restore my previous line up",
+"ResetLineUp" : "Reset line up to default",
 "NetflixMemberSettings": "Member"
 } 
