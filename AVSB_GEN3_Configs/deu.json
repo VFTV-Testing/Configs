@@ -646,5 +646,8 @@
 "PinModalTitle" : "Probleme mit der PIN",
 "PinModalMessage" : "Deine Jugendschutz-PIN findest Du auf Deiner",
 "PinModalOption" : "Zurück",
+"RestoreChanges" : "Ursprüngliche Sortierung wiederherstellen",
+"ResetLineUp" : "Senderliste auf Standard",
+"ContentSettingChannelLineUp" : "Meine Senderliste",  
 "MenusettingsREAgreed" : "Akzeptiert"
 }
