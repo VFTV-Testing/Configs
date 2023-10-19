@@ -648,6 +648,7 @@
 "PinModalOption" : "Zurück",
 "RestoreChanges" : "Ursprüngliche Sortierung wiederherstellen",
 "ResetLineUp" : "Senderliste auf Standard",
-"ContentSettingChannelLineUp" : "Meine Senderliste",  
+"ContentSettingChannelLineUp" : "Meine Senderliste", 
+"ContentSettingConfirm" : "Meine Senderlistebestätigen",
 "MenusettingsREAgreed" : "Akzeptiert"
 }
