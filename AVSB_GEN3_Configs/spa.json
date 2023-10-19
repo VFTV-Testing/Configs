@@ -561,5 +561,7 @@
 "PinModalTitle" : "Problemas con el PIN",
 "PinModalMessage" : "Por defecto el PIN maestro es",
 "PinModalOption" : "Atrás",
+"RestoreChanges" : "Restore my previous line up",
+"ResetLineUp" : "Reset line up to default",
 "NotInstalled" : "No instalada"
 }
