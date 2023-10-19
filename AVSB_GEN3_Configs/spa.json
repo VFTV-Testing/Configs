@@ -563,5 +563,6 @@
 "PinModalOption" : "Atrás",
 "RestoreChanges" : "Restore my previous line up",
 "ResetLineUp" : "Reset line up to default",
+"ContentSettingChannelLineUp" : "My Channel Line Up",  
 "NotInstalled" : "No instalada"
 }
