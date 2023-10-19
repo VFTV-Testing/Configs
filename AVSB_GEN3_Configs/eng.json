@@ -634,7 +634,7 @@
 "MenuSettingConfirmMessageDynamicRange" : "SDR requires reboot to apply",
 "MenuSettingConfirmMessageResolution" : "Resolution has been changed",
 "ContentSettingChannelLineUp" : "My Channel Line Up", 
-"ContentSettingConfirm":"Confirm",
+"ContentSettingConfirm":"Confirm My Line Up",
 "PinModalTitle" : "PIN Problems",
 "PinModalMessage" : "By default the Master PIN is",
 "PinModalOption" : "Back",
