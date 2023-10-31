@@ -614,5 +614,9 @@
 "RestoreChanges" : "Ignorar alterações",
 "ResetLineUp" : "Repor alinhamento de canais por omissão",
 "ContentSettingChannelLineUp" : "Alinhamento de canais personalizado",  
+"SubscribeHbo" : "SUBSCREVER AGORA",  
+"StartSessionCapital" : "INICIAR SESSÂO",  
+"EnterEmailHBO" : "Introduzir endereço de e-mail da conta HBO",  
+"EnterPasswordHBO" : "Introduzir palavra-passe da HBO Max",  
 "NetflixMemberSettings":"Member"
 }
