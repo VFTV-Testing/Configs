@@ -642,5 +642,6 @@
 "ResetLineUp" : "Reset line up to default",
 "SeasonNo" : "s",
 "EpisodeNo" : "E",
-"NetflixMemberSettings": "Member"
+"NetflixMemberSettings": "Member",
+"NetflixSignInContinue": "Continue"
 } 
