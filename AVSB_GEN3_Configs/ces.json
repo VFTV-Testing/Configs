@@ -541,7 +541,7 @@
 "RentalAndPurchased" : "Kód PIN pro nákup je povolen",
 "RentalAndPurchaseDeactivated" : "Kód PIN pro nákup je zakázán",
 "PrivacyTerms": "Ochrana osobních údajů a podmínky",
-"WrongPinEntered": "Nesprávny PIN",
+"WrongPinEntered": "Nesprávný PIN",
 "VodafoneRemoteControl" : "VODAFONE REMOTE CONTROL",
 "_OpcoSpecific_VodafoneRemoteControl":"Režimdálkovéhoovládání",
 "lastWeekRecordings" : "Minulý týden",
@@ -579,5 +579,7 @@
 "MenuMyTVWatchOptions" : "Možnosti sledování",
 "NetflixTryAgain":"Zkusit znova",
 "NetflixActivate":"Activovat",
+"EnteredPinValidationText":"Ověřování",
+"CorrectPinEnteredText":"Správný PIN kód",
 "MenuOnDemandFirstRail" : "Vodafone doporučuje"
 } 
