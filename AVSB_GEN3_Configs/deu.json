@@ -650,5 +650,7 @@
 "ResetLineUp" : "Senderliste auf Standard",
 "ContentSettingChannelLineUp" : "Meine Senderliste", 
 "ContentSettingConfirm" : "Meine Senderlistebestätigen",
+"EnteredPinValidationText":"Prüfen",
+"CorrectPinEnteredText":"PIN korrekt",
 "MenusettingsREAgreed" : "Akzeptiert"
 }
