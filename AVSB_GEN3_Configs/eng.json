@@ -643,5 +643,7 @@
 "SeasonNo" : "s",
 "EpisodeNo" : "E",
 "NetflixMemberSettings": "Member",
+"EnteredPinValidationText":"Verifying",
+"CorrectPinEnteredText":"PIN Correct",
 "NetflixSignInContinue": "Continue"
 } 
