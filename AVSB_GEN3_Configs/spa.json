@@ -567,5 +567,7 @@
 "RestoreChanges" : "Restore my previous line up",
 "ResetLineUp" : "Reset line up to default",
 "ContentSettingChannelLineUp" : "My Channel Line Up",  
-"NotInstalled" : "No instalada"
+"NotInstalled" : "No instalada",
+"MenuSettingsSubtitles" : "Subtítulos",
+"Subtitles" : "Subtítulos"
 }
