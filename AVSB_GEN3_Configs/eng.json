@@ -647,5 +647,6 @@
 "NetflixMemberSettings": "Member",
 "EnteredPinValidationText":"Verifying",
 "CorrectPinEnteredText":"PIN Correct",
-"NetflixSignInContinue": "Continue"
+"NetflixSignInContinue": "Continue",
+"ProgressBarLiveString": "Live"
 } 
