@@ -583,5 +583,6 @@
 "EnteredPinValidationText":"Ověřování",
 "CorrectPinEnteredText":"Správný PIN kód",
 "MenuOnDemandFirstRail" : "Vodafone doporučuje",
-"MaintenancePostPone" : "Odložit"
+"MaintenancePostPone" : "Odložit",
+"ProgressBarLiveString": "živě"
 } 
