@@ -570,5 +570,6 @@
 "ContentSettingChannelLineUp" : "My Channel Line Up",  
 "NotInstalled" : "No instalada",
 "MenuSettingsSubtitles" : "Subtítulos",
-"Subtitles" : "Subtítulos"
+"Subtitles" : "Subtítulos",
+"ProgressBarLiveString": "ecto"
 }
