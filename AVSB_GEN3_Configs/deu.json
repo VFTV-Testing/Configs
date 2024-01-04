@@ -655,5 +655,6 @@
 "ContentSettingConfirm" : "Meine Senderlistebestätigen",
 "EnteredPinValidationText":"Prüfen",
 "CorrectPinEnteredText":"PIN korrekt",
-"MenusettingsREAgreed" : "Akzeptiert"
+"MenusettingsREAgreed" : "Akzeptiert",
+"ProgressBarLiveString": "Live"
 }
