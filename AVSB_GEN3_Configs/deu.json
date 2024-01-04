@@ -656,5 +656,7 @@
 "EnteredPinValidationText":"Prüfen",
 "CorrectPinEnteredText":"PIN korrekt",
 "MenusettingsREAgreed" : "Akzeptiert",
+"VODRentInfoLabel":"TIME ausleihen für PRICE",
+"VODWatchInfoLabel":"Läuft ab in TIME",
 "ProgressBarLiveString": "Live"
 }
