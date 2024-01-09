@@ -649,5 +649,6 @@
 "EnteredPinValidationText":"Verifying",
 "CorrectPinEnteredText":"PIN Correct",
 "NetflixSignInContinue": "Continue",
-"ProgressBarLiveString": "live"
+"ProgressBarLiveString": "live",
+"EPGRemaining": "Remaining"
 } 
