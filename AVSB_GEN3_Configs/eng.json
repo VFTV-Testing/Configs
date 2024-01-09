@@ -650,5 +650,8 @@
 "CorrectPinEnteredText":"PIN Correct",
 "NetflixSignInContinue": "Continue",
 "ProgressBarLiveString": "live",
-"EPGRemaining": "Remaining"
+"EPGRemaining": "Remaining",
+"EPGAired": "Aired",
+"EPGExpireIn": "Expire in",
+"EPGRecorded": "Recorded"
 } 
