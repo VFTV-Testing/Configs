@@ -653,5 +653,8 @@
 "EPGRemaining": "Remaining",
 "EPGAired": "Aired",
 "EPGExpireIn": "Expire in",
-"EPGRecorded": "Recorded"
+"EPGRecorded": "Recorded",
+"EPGAiringToday": "Airing Today",
+"EPGAiringToday": "Airing Tomorrow",
+"EPGScheduled": "Scheduled"
 } 
