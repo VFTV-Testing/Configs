@@ -566,5 +566,8 @@
 "PinModalOption":"Atrás",
 "RestoreChanges":"Restoremypreviousup",
 "ResetUp":"Resetuptodefault",
+"EventExpiryLabel":"Λήγει σε DAY μέρες",
+"AddWishlistLabel":"Προσθήκη στα αγαπημένα",
+"AddedWishlistLabelLabel":"Προστέθηκε στα αγαπημένα", 
 "NotInstalled":"Noinstalada"
 }
