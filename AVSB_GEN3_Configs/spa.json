@@ -576,5 +576,7 @@
 "EventExpiryLabel":"Expira en DAY días",
 "AddWishlistLabel":"Añadir a Favoritos",
 "AddedWishlistLabel":"Añadido a Favoritos",
+"VODRentInfoLabel":"TIME de alquiler disponibles desde PRICE",
+"VODWatchInfoLabel":"Disponible durante TIME",
 "ProgressBarLiveString": "cto"
 }
