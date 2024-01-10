@@ -573,5 +573,8 @@
 "NotInstalled" : "No instalada",
 "MenuSettingsSubtitles" : "Subtítulos",
 "Subtitles" : "Subtítulos",
+"EventExpiryLabel":"Expira en DAY días",
+"AddWishlistLabel":"Añadir a Favoritos",
+"AddedWishlistLabel":"Añadido a Favoritos",
 "ProgressBarLiveString": "cto"
 }
