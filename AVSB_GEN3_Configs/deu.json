@@ -659,6 +659,10 @@
 "VODRentInfoLabel":"TIME ausleihen für PRICE",
 "VODWatchInfoLabel":"Läuft ab in TIME",
 "AddWishlistLabel":"Zur Merkliste hinzufügen",
+"ExistingLineUp": "GigaTV Senderliste",
+"SelectFavouriteLineUp": "Meine Favoriten auswählen",
+"RemainingLineUp": "Übrige Senderliste",
+"FavouriteLineUp": "Favoriten",
 "AddedWishlistLabel":"Zur Merkliste hinzugefügt",
 "ProgressBarLiveString": "Live"
 }
