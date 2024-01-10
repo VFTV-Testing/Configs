@@ -658,5 +658,7 @@
 "MenusettingsREAgreed" : "Akzeptiert",
 "VODRentInfoLabel":"TIME ausleihen für PRICE",
 "VODWatchInfoLabel":"Läuft ab in TIME",
+"AddWishlistLabel":"Zur Merkliste hinzufügen",
+"AddedWishlistLabel":"Zur Merkliste hinzugefügt",
 "ProgressBarLiveString": "Live"
 }
