@@ -661,6 +661,12 @@
 "EventExpiryLabel":"Expires in DAY days",
 "AddWishlistLabel":"Add to wishlist",
 "AddedWishlistLabel":"Added to wishlist",
+"ExistingLineUp": "Vodafone Line Up",
+"SelectFavouriteLineUp": "Select My Favorites",
+"RemainingLineUp": "Remaining Line Up",
+"FavouriteLineUp": "Favourites",
+"RestoreChanges" : "Restore my previous line up",
+"ResetLineUp" : "Reset line up to default",
 "EPGScheduled": "Scheduled",
 "EPGProtected": "Protected"
 } 
