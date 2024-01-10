@@ -589,6 +589,12 @@
 "EventExpiryLabel": "Vyprší za DAY dní",
 "AddWishlistLabel": "Přidat do seznamu Chci vidět",
 "AddedWishlistLabel": "Přidáno do seznamu Chci vidět",
+"ExistingLineUp": "Původní nastavení programů",
+"SelectFavouriteLineUp": "Vybrat oblíbené položky",
+"RemainingLineUp": "Zbývající programy",
+"FavouriteLineUp": "Oblíbené",
+"RestoreChanges" : "Obnovit předchozí seřazení programů",
+"ResetLineUp" : "Obnovit výchozí seřazení programů",
 "ContentSettingChannelLineUp": "Moje programy",
 "ProgressBarLiveString": "živě"
 } 
