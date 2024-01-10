@@ -659,5 +659,6 @@
 "EventExpiryLabel":"Expires in DAY days",
 "AddWishlistLabel":"Add to wishlist",
 "AddedWishlistLabel":"Added to wishlist",
-"EPGScheduled": "Scheduled"
+"EPGScheduled": "Scheduled",
+"EPGProtected": "Protected"
 } 
