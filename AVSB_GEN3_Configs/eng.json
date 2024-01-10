@@ -652,6 +652,7 @@
 "ProgressBarLiveString": "live",
 "EPGRemaining": "Remaining",
 "EPGRestartAvailable": "Restart Available",
+"EPGRecordingNow": "Recording Now",
 "EPGAired": "Aired",
 "EPGExpireIn": "Expire in",
 "EPGRecorded": "Recorded",
