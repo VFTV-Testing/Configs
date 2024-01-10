@@ -586,5 +586,8 @@
 "CorrectPinEnteredText":"Správný PIN kód",
 "MenuOnDemandFirstRail" : "Vodafone doporučuje",
 "MaintenancePostPone" : "Odložit",
+"EventExpiryLabel": "Vyprší za DAY dní",
+"AddWishlistLabel": "Přidat do seznamu Chci vidět",
+"AddedWishlistLabel": "Přidáno do seznamu Chci vidět",
 "ProgressBarLiveString": "živě"
 } 
