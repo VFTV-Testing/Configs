@@ -651,6 +651,7 @@
 "NetflixSignInContinue": "Continue",
 "ProgressBarLiveString": "live",
 "EPGRemaining": "Remaining",
+"EPGRestartAvailable": "Restart Available",
 "EPGAired": "Aired",
 "EPGExpireIn": "Expire in",
 "EPGRecorded": "Recorded",
