@@ -638,5 +638,7 @@
 "EventExpiryLabel":"Expira em DAY dias",
 "AddWishlistLabel":"Adicionar à minha lista",
 "AddedWishlistLabel":"Na minha lista",
+"VODRentInfoLabel":"Aluguer por TIME disponível desde PRICE",
+"VODWatchInfoLabel":"Expira em TIME",
 "ProgressBarLiveString": "reto"
 }
