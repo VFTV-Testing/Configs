@@ -582,5 +582,6 @@
 "AddedWishlistLabel":"Añadido a Favoritos",
 "VODRentInfoLabel":"TIME de alquiler disponibles desde PRICE",
 "VODWatchInfoLabel":"Disponible durante TIME",
+"Remove": "Cancelar",
 "ProgressBarLiveString": "cto"
 }
