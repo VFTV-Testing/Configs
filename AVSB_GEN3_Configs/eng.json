@@ -669,5 +669,6 @@
 "RestoreChanges" : "Restore my previous line up",
 "ResetLineUp" : "Reset line up to default",
 "EPGScheduled": "Scheduled",
+"Remove": "Cancel",
 "EPGProtected": "Protected"
 } 
