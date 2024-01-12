@@ -658,7 +658,7 @@
 "EPGRecorded": "Recorded",
 "EPGAiring": "Airing",
 "EPGAiringToday": "Today",
-"EPGAiringToday": "Tomorrow",
+"EPGAiringTomorrow": "Tomorrow",
 "EventExpiryLabel":"Expires in DAY days",
 "AddWishlistLabel":"Add to wishlist",
 "AddedWishlistLabel":"Added to wishlist",
