@@ -587,6 +587,7 @@
 "MenuMyTVRecordingSeriesNotificationPI2":"Neue Folgen sind programmiert",  
 "MenuMyTVRecordingNotificationPI":"Wird gerade aufgenommen auf",
 "MenuMyTVRecordingSingleNotificationPI1":"Wird gerade aufgenommen auf",
+"OldMenuMyTVRecordingSingleNotificationPI1":"Folge ist programmiert",
 "AlreadyRecordedEvent":"Dieser Inhalt ist bereits zur Aufnahme programmiert",
 "TVGuideSingleRecordingNotification":"wurde programmiert",
 "TVGuideSeriesRecordingNotification":"folgen sind bald in Deinen Aufnahmen zu finden",
