@@ -595,5 +595,14 @@
 "HboWatch": "VER",
 "HboRestart": "REINICIAR",
 "HBOTLM":"HBOMAX",
-"ProgressBarLiveString": "cto"
+"ProgressBarLiveString": "cto",
+"EPGRemaining": "restante",
+"EPGRestartAvailable": "Ver desde el principio",
+"EPGRecordingNow": "Grabando ahora",
+"EPGAired": "Aired",
+"EPGExpireIn": "Expira en",
+"EPGRecorded": "Recorded",
+"EPGAiring": "Airing",
+"EPGAiringToday": "Hoy",
+"EPGAiringTomorrow": "Manana"
 }
