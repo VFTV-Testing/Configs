@@ -584,5 +584,16 @@
 "VODWatchInfoLabel":"Disponible durante TIME",
 "Remove": "Quitar",
 "PrivacyTermsTitleHbo" : "Valorizamos a sua privacidade",
+"SubscribeHbo" : "SUBSCREVER AGORA",  
+"StartSessionCapital" : "INICIAR SESSÂO",  
+"EnterEmailHBO" : "Introduzir endereço de e-mail da conta HBO",  
+"EnterPasswordHBO" : "Introduzir palavra-passe da HBO Max", 
+"PrivacyTermsHbo" : "GERIR PREFERÊNCIAS",
+"SavePreferanceHbo" : "GUARDAR PREFERÊNCIAS",
+"HboHome": "Início",
+"HboSearch": "Que procura",
+"HboWatch": "VER",
+"HboRestart": "REINICIAR",
+"HBOTLM":"HBOMAX",
 "ProgressBarLiveString": "cto"
 }
