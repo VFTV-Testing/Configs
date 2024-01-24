@@ -611,5 +611,16 @@
 "HboRestart": "REINICIAR",
 "HBOTLM":"HBOMAX",
 "AddAccount": "Přihlásit se",
-"ProgressBarLiveString": "vě"
+"ProgressBarLiveString": "vě",
+"EPGRemaining": "zbyva",
+"EPGRestartAvailable": "Sledovat",
+"EPGRecordingNow": "",
+"EPGAired": "Vysilano",
+"EPGExpireIn": "Vyprsi",
+"EPGRecorded": "Nahrano",
+"EPGAiring": "Vysilani",
+"EPGAiringToday": "Dnes",
+"EPGAiringTomorrow": "Zitra",
+"EPGScheduled": "Vysilani",
+"EPGProtected": "Protected"
 } 
