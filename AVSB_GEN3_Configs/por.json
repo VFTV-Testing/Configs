@@ -641,5 +641,16 @@
 "VODRentInfoLabel":"Aluguer por TIME disponível desde PRICE",
 "VODWatchInfoLabel":"Expira em TIME",
 "MenuOnDemandSubscribed":"Pacotes Filmes e Series",
-"ProgressBarLiveString": "reto"
+"ProgressBarLiveString": "reto",
+"EPGRemaining": "restantes",
+"EPGRestartAvailable": "Restart",
+"EPGRecordingNow": "",
+"EPGAired": "Horario",
+"EPGExpireIn": "Expira",
+"EPGRecorded": "Gravado",
+"EPGAiring": "Horario",
+"EPGAiringToday": "Hoje",
+"EPGAiringTomorrow": "Amanha",
+"EPGScheduled": "sexta",
+"EPGProtected": "Protected"
 }
