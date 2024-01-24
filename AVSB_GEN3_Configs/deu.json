@@ -666,5 +666,16 @@
 "FavouriteLineUp": "Favoriten",
 "AddedWishlistLabel":"Zur Merkliste hinzugefügt",
 "Remove": "Entfernen",
-"ProgressBarLiveString": "Live"
+"ProgressBarLiveString": "Live",
+"EPGRemaining": "noch",
+"EPGRestartAvailable": "Restart",
+"EPGRecordingNow": "",
+"EPGAired": "Lief",
+"EPGExpireIn": "Lauft aus",
+"EPGRecorded": "Aufgenommen",
+"EPGAiring": "Lauft",
+"EPGAiringToday": "heute",
+"EPGAiringTomorrow": "morgen",
+"EPGScheduled": "Lauft",
+"EPGProtected": "Protected"
 }
