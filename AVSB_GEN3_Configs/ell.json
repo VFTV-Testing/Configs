@@ -577,5 +577,16 @@
 "AddWishlistLabel":"Προσθήκη στα αγαπημένα",
 "AddedWishlistLabel":"Προστέθηκε στα αγαπη", 
 "Remove": "Αφαίρεση",
-"NotInstalled":"Noinstalada"
+"NotInstalled":"Noinstalada",
+"EPGRemaining": "Απομένει",
+"EPGRestartAvailable": "επανεκκίνηση",
+"EPGRecordingNow": "Εγγράφεται",
+"EPGAired": "Προβλήθηκε",
+"EPGExpireIn": "Λήγει σε",
+"EPGRecorded": "Προβλήθηκε",
+"EPGAiring": "προβληθεί",
+"EPGAiringToday": "Σήμερα",
+"EPGAiringTomorrow": "Αύριο",
+"EPGScheduled": "προβληθεί",
+"EPGProtected": "Protected"
 }
