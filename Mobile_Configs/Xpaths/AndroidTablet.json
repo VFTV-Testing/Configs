@@ -1,0 +1,6 @@
+{
+"WatchTV_HeaderEnglish": "//android.widget.TextView[@text='Translation']",
+"WatchTV_HeaderItalian": "//android.widget.TextView[@text='Translation']",
+"WatchTV_HeaderDE": "//android.widget.TextView[@text='Translation']",
+"SignUp_Title": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/title']"
+}
