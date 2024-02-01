@@ -46,7 +46,7 @@
   "MyTV_Recordings": "//*[@name='Recordings']",
   "MyTV_headerCategory": "//XCUIElementTypeTable/preceding-sibling::XCUIElementTypeOther[1]//XCUIElementTypeStaticText",
   "MyTV_EditRecordings": "//*[@name='a11y_rails_recordings_edit_identifier']",
-  "MyTV_Delete_All_Recordings"//XCUIElementTypeButton[@label='Translation']",
+  "MyTV_Delete_All_Recordings": "//XCUIElementTypeButton[@label='Translation']",
   "OnDemand_More": "//XCUIElementTypeOther[3]/XCUIElementTypeTable//XCUIElementTypeButton[@label='Translation']",
   "OnDemand_Recommended": "(//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeStaticText[@label='Translation'])[2]",
   "OnDemand_RecommendedListPhone": "//XCUIElementTypeCollectionView",
