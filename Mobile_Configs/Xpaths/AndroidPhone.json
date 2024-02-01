@@ -23,7 +23,7 @@
   "Dialog_DialogError": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/ctv_dialog_error']",
   "Dialog_GeneralButton": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/ctv_dialog_button']",
   "Dialog_DownloadPopup": "//android.widget.TextView[@text='Translation']",
-  "Dialog_Ok": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/ctv_dialog_button_ok']"
+  "Dialog_Ok": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/ctv_dialog_button_ok']",
   "Dialog_OffersPopup": "//android.widget.TextView[@text='Translation']",
   "Dialog_InitializationError": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/tv_detailed_error_msg']",
   "Dialog_ConnectionError": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/tv_error_msg']",
