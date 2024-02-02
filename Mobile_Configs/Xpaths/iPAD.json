@@ -1,4 +1,6 @@
 {
+  "StrictText" : "//*[@label='Translation']",
+  "NonStrictText": "//*[contains(@label,'Translation')]",
   "Asset_Title": "//XCUIElementTypeOther//XCUIElementTypeNavigationBar/XCUIElementTypeStaticText",
   "Asset_StateLabel": "//*[@name='a11y_pi_badges_information_identifier']",
   "Asset_Series": "//XCUIElementTypeCollectionView/XCUIElementTypeCell[contains(@label='Translation')]",
