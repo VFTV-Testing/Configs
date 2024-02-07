@@ -671,6 +671,12 @@
 "RestoreChanges" : "Restore my previous line up",
 "ResetLineUp" : "Reset line up to default",
 "EPGScheduled": "Scheduled",
+"MediaLibraryCatchUp": "Catch Up", 
+"Media": "Virgin Media",
+"TG4":"TG4",
+"GeneralEntertainment": "General Entertainment",
+"Knowledge": "Knowledge",
+"Sports": "Sports",
 "Remove": "Remove",
 "SearchTitle": "Search for movies TV and more",
 "EPGProtected": "Protected"
