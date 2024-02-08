@@ -1,6 +1,7 @@
 {
   "StrictText" : "//*[@label='Translation']",
   "NonStrictText": "//*[contains(@label,'Translation')]",
+  "TVGuide_OpenEPG": "//XCUIElementTypeButton[@label='arrow_up']",
   "Asset_Title": "//XCUIElementTypeOther//XCUIElementTypeNavigationBar/XCUIElementTypeStaticText",
   "Asset_StateLabel": "//*[@name='a11y_pi_badges_information_identifier']",
   "Asset_Series": "//XCUIElementTypeCollectionView/XCUIElementTypeCell[contains(@label='Translation')]",
