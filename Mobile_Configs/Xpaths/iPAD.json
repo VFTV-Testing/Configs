@@ -2,7 +2,7 @@
   "StrictText" : "//*[@label='Translation']",
   "NonStrictText": "//*[contains(@label,'Translation')]",
   "TVGuide_OpenEPG": "//XCUIElementTypeButton[@label='arrow_up']",
-  "TVGuide_OpenAsset": "(//XCUIElementTypeCell/XCUIElementTypeOther/XCUIElementTypeProgressIndicator)[Translation]",
+  "TVGuide_OpenFirstAsset": "(//XCUIElementTypeCell/XCUIElementTypeOther/XCUIElementTypeProgressIndicator)[1]",
   "TVGuide_OpenPIPage": "//XCUIElementTypeStaticText[@label='more info']",
   "PIPage_Watch": "//XCUIElementTypeButton[@label='Watch']",
   "Asset_Title": "//XCUIElementTypeOther//XCUIElementTypeNavigationBar/XCUIElementTypeStaticText",
