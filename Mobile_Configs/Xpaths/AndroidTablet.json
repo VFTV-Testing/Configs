@@ -5,6 +5,7 @@
   "TVGuide_OpenFirstAsset": "(//android.view.View/android.widget.ProgressBar)[1]",
   "TVGuide_OpenPIPage": "//android.widget.TextView[@text='more info']",
   "PIPage_Watch": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_common_button_close_identifier']",
+  "TLM_Watch": "//androidx.compose.ui.platform.r1/android.view.View/android.view.View/android.view.View[1]",
   "Asset_Title": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/tv_item_title']",
   "Asset_StateLabel": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/tv_watch_state']",
   "Asset_Series": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/tv_season']",
