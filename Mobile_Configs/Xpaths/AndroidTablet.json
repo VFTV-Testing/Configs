@@ -2,6 +2,7 @@
   "StrictText" : "//*[@text='Translation']",
   "NonStrictText": "//*[contains(@text,'Translation')]",
   "TVGuide_OpenEPG": "//androidx.compose.ui.platform.r1/android.view.View/android.view.View/android.view.View[3]",
+  "TVGuide_OpenAsset": "(//android.view.View/android.widget.ProgressBar)[Translation]",
   "Asset_Title": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/tv_item_title']",
   "Asset_StateLabel": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/tv_watch_state']",
   "Asset_Series": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/tv_season']",
