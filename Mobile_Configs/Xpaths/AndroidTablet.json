@@ -2,7 +2,7 @@
   "StrictText" : "//*[@text='Translation']",
   "NonStrictText": "//*[contains(@text,'Translation')]",
   "TVGuide_OpenEPG": "//androidx.compose.ui.platform.r1/android.view.View/android.view.View/android.view.View[3]",
-  "TVGuide_OpenAsset": "(//android.view.View/android.widget.ProgressBar)[Translation]",
+  "TVGuide_OpenFirstAsset": "(//android.view.View/android.widget.ProgressBar)[1]",
   "TVGuide_OpenPIPage": "//android.widget.TextView[@text='more info']",
   "PIPage_Watch": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_common_button_close_identifier']",
   "Asset_Title": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/tv_item_title']",
