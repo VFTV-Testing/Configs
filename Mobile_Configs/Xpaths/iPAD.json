@@ -3,6 +3,7 @@
   "NonStrictText": "//*[contains(@label,'Translation')]",
   "TVGuide_OpenEPG": "//XCUIElementTypeButton[@label='arrow_up']",
   "TVGuide_OpenFirstAsset": "(//XCUIElementTypeCell/XCUIElementTypeOther/XCUIElementTypeProgressIndicator)[1]",
+  "TVGuide_LastAsset" :"(//XCUIElementTypeCell/XCUIElementTypeOther/XCUIElementTypeProgressIndicator[@visible='true'])[last()]",
   "TVGuide_OpenPIPage": "//XCUIElementTypeStaticText[@label='more info']",
   "PIPage_Watch": "//XCUIElementTypeButton[contains(@label,'Watch')]",
   "Asset_Title": "//XCUIElementTypeOther//XCUIElementTypeNavigationBar/XCUIElementTypeStaticText",
