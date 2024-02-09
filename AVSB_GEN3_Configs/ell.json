@@ -590,6 +590,11 @@
 "EPGAiring": "προβληθεί",
 "EPGAiringToday": "Σήμερα",
 "EPGAiringTomorrow": "Αύριο",
+"HBOContent": "HOME OF HBO",
+"SeriesByType": "ΣΕΙΡΕΣ ΑΝΑ ΕΙΔΟΣ",
+"Disney": "DISNEY",
+"Children": "ΠΑΙΔΙΚΑ",
+"RecentPrograms": "ΠΡΟΣΦΑΤΑ ΠΡΟΓΡΑΜΜΑΤΑ ΚΑΝΑΛΙΑ",
 "EPGScheduled": "προβληθεί",
 "SearchTitle": "Αναζήτηση για ταινίες σειρές ηθοποιούς",
 "EPGProtected": "Protected"
