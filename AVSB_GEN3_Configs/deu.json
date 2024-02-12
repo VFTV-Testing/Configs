@@ -1,5 +1,6 @@
 {
 "Maintainance_Regex":"artungsneustart",
+"Successful_Maintainance_Regex":"erfolgreicher Wartungszyklus",   
 "MenuOnTV": "Jetzt im TV",
 "CharStringOnNow":"Jetzt im TV",
 "WatchOnFilmin": "Filmin",
