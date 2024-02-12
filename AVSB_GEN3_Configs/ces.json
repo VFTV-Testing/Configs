@@ -1,5 +1,6 @@
 {
 "Maintainance_Regex":"restarto", 
+"Successful_Maintainance_Regex":"provedený cyklus",  
 "MenuOnTV":"Právě běží",
 "TunningToLivePopUp":"Přeladění zpět na živé vysílání",
 "WatchOnFilmin": "Filmin",
