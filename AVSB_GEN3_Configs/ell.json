@@ -1,5 +1,6 @@
 {
 "Maintainance_Regex": "φόρτωμα συντήρησης",
+"Successful_Maintainance_Regex":"επιτυχηµένος κύκλος",  
 "MenuOnTV": "Κανάλια",
 "MaintenancePostPone" : "Aναβολή",
 "WatchOnFilmin": "Filmin",
