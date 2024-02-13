@@ -1,0 +1,2156 @@
+key;en-GROUP;sq-AL-x-AL text
+popups.reboot.footerText;SG002: Error number %1;SG002: Gabim numri %1
+popups.upgrade.footerText;SG001: Error number %1;SG001: Gabim numri %1
+popups.wifi.footerText;SC120: Error number %1;SC120: Gabim numri %1
+firstInstall.wifiNetworkErrorScreen.title;Network;Wi-Fi
+notification.recording.notForPast;Sorry, you can’t record programmes shown in the past.;Nuk mund të regjistrohet. Programi ka përfunduar.
+notification.recording.fullprotection;SR004: Maximum number of recordings already protected. Please unprotect other recordings and try again.;Nuk mund të ruhet regjistrimi. Hiq mbrojtjen nga regjistrimet e tjera dhe provo përsëri.
+firstInstall.remotePairingFailedScreen.title;Remote pairing;Provo përsëri
+firstInstall.remotePairingFailedScreen.description;To reset your TV remote, hold the 3 and yellow buttons together for 5 seconds (or until the power light on the remote stops flashing).;Na vjen keq, përpjekja për të lidhur telekomandën me pajisjen Vodafone GigaTV <br/> dështoi. Për të provuar përsëri shtyp<br/> 3 dhe butonat e verdhë së bashku për 5 sekonda.
+notification.program.noInformation;SM002: No info available;SM002: Nuk mund të ngarkohet 'Vazhdo Shikimin' për programet.
+serieInfo.episode.notavailable;SM001: Sorry, title unavailable.;SM001: Informacioni për episodin nuk është i disponueshëm.
+settings.network.lan.waiting;Connect your Ethernet cable to set up your network;Lidh kabllin Ethernet ose lidhu përmes Wi-Fi
+notification.channel.offline;SV003: Sorry, this channel is unavailable;Ky kanal është shkëputur aktualisht.  Provo përsëri më vonë.
+notification.player.videoUnavailable;SV002: Programme unavailable.;SV002: Ky program nuk është i disponueshëm për t'u luajtur.
+notification.player.error;SV001: Error;SV001: Gabim në riprodhim.
+notification.recording.failed;SR007: Recording failed;SR007: Regjistrimi dështoi. Provo përsëri më vonë.
+notification.recording.notPossible;SR005: You can't record this.;Regjistrimi nuk është i mundur. Kontrollo Guidën TV për programe që mund të regjistrohen.
+notification.recording.notOnBarker;SR003: Sorry, you can't record this channel;Regjistrimi nuk është i mundur në këtë kanal.
+notification.seriesRecording.failed;SR002: Recording failed, try again.;SR002: Regjistrimi dështoi. Provo përsëri më vonë.
+popups.storage.title;SR001: Sorry, your storage is full;Regjistrimi nuk mund të kryhet. Fshij disa regjistrime për të liruar hapësirën.
+notification.player.noAntenna;SD001: No aerial signal found.;SD001: Nuk ka sinjal ajror. Kontrollo kabllin ajror dhe provo përsëri.
+popups.playbackError.message;SC219: Please check your Wi-Fi or see vodafone.co.uk/tv;SC218: Luajtja u ndërpre.<br/>Kontrollo ruterin dhe provo përsëri.
+popups.playbackError.title;SC218: Sorry, we can't find a connection;Lidhja Wi-Fi u shkëput. Kontrollo ruterin dhe provo përsëri.
+firstInstall.wifiNetworkErrorScreen.noIP;SC123: Please reboot your router and try again.;SC123: Mungon interneti në lidhjen me Wi-Fi. Kontrollo ruterin dhe provo përsëri.
+firstInstall.wifiNetworkErrorScreen.wirelessKeyError;SC116: Your Wi-Fi password is wrong, please try again.;Fjalëkalim i pasaktë Wi-Fi. Provo përsëri.
+firstInstall.wiredNetworkScreen.noIP;SC013: You’re not connected to the internet – please try again.;SC013: Nuk ka internet në lidhjen kabllore.<br/>Kontrollo ruterin dhe provo përsëri.
+notification.epg.date.invalid;SC007: Invalid date;SC007: Data e pavlefshme
+notification.network.offline;SC005: Connnection lost.;SC005: Lidhja me shërbimin u shkëput. Kontrollo lidhjen e internetit për probleme.
+settings.network.lan.noIP;SC002: You’re not connected to the internet – please try again.;SC002: Nuk ka internet në lidhjen ethernet.<br/>Kontrollo ruterin.
+firstInstall.wiredNetworkScreen.connectionLost.description;SC001: Your internet connection was lost.;SC001: Lidhja internet u shkëput.<br/>Kontrollo ruterin dhe provo përsëri
+firstInstall.getHelpScreen.wired.title;Network;Lidhje interneti
+notification.channel.notSubscribed;SB003: You’re not subscribed.;SB003: Po sheh në më shumë se 2 pajisje ose nuk je i abonuar.
+notification.purchase.failed;SB001: Purchase failed;SB001: Blerja dështoi.  Provo përsëri.
+settings.masterPin.doNotMatch;SA010: They don't match, please try again.;SA010: PIN-et nuk përputhen. Provo përsëri.
+popups.pinEntry.failed;SA007: Sorry, that was the wrong PIN. Please try again.;PIN i gabuar. Provo përsëri.
+continueWatching.noUsername;SA006: Unknown;I panjohur
+firstInstall.operatorPairingScreen.description.noPin;SA005: Please call us on 08080 034 515 to complete setup.;SA005: Instalimi nuk përfundoi. Kontakto Shërbimin e Klientit +35569140 për ndihmë.
+notification.login.error;SA002: Sorry, login failed.;SA002: Lidhja me shërbimin dështoi. Kontakto Shërbimin e Klientit.
+pinEntry.unSuccessful;SA001: Wrong PIN;PIN i gabuar. Provo përsëri.
+firstInstall.pairingPinInputScreen.title;Welcome;Përshëndetje
+firstInstall.remoteUnPairingScreen.description;To pair your TV box and remote, hold the 3 and yellow buttons together for 5 seconds, then repeat with the 1 and yellow buttons.;Për të lidhur telekomandën me pajisjen Vodafone GigaTV, shtyp butonin 3 dhe butonin e verdhë njëkohësisht për 3 sekonda dhe pastaj përsërite me butonin 1 dhe atë të verdhë për 5 sekonda.
+firstInstall.remotePairingScreen.description;To pair your TV box and remote, hold the 1 and yellow buttons together for 5 seconds. ;Për të lidhur telekomandën me pajisjen Vodafone GigaTV, shtyp<br/> butonin 1 dhe butonin e verdhë njëkohësisht për 5 sekonda.
+settings.remote.pairing;Remote pairing;Lidh telekomandën
+settings.remote.remotePairNewDevice.step0.description;To unpair your remote, hold the 3 and yellow buttons together for 5 seconds.;Së pari, mbaj shtypur butonin 3 dhe ata të verdhë njëkohësisht për 5 sekonda.
+firstInstall.wiredNetworkScreen.description;Connect your Ethernet cable to set up your network.;Lidh kabllin Ethernet nga pajisja Vodafone GigaTV në ruter.
+settings.remote.batteryStatus.low;Your battery status is low.;Vendos bateri të reja
+settings.network.wifi;WiFi;Wi-Fi
+firstInstall.wiredNetworkFoundScreen.description;You're now connected.;Lidhja u krijua me sukses
+settings.remote.remotePairNewDevice.step1.description;To pair your TV box and remote, hold the 1 and yellow buttons together for 5 seconds.;Tani mbaj shtypur butonin 1 dhe atë të verdhë njëkohësisht për 5 sekonda
+firstInstall.pairingPinInputScreen.description;Something went wrong, sorry – please call us on 08080 034 515;Kontakto Shërbimin e Klientit për të përfunduar instalimin.
+popups.reboot.title;Sorry, your box needs to reboot.;Pajisja Vodafone TV duhet të rindizet
+settings.powerSaving.autoStandbyTime.hint;Remember, increasing auto standby time will use more power.;Shënim: Rritja e kohës së standby automatik konsumon më shumë energji
+popups.upgrade.misc;Your box will reboot;Pajisja do të rindizet në %1.
+firstInstall.wiredNetworkScreen.title;Network;Lidhje interneti
+settings.parentalPin.on;On;Ndezur
+settings.parentalPin.off;Off;Fikur
+firstInstall.wiredNetworkSearchScreen.title;Network;Rrjeti
+firstInstall.scanSummaryScreen.title;Channels scanned;Kanalet e gjetura
+settings.termsAndConditions.view;Read our Ts&Cs;Kushtet Ligjore
+settings.parentalPinInit;Your default PIN is 1234. We recommend you choose a new one now.;Për më shumë informacion për PIN-in të lutem vizito vodafone.al/vodafone-tv
+settings.network.lan.connected;Connected;I lidhur
+firstInstall.remotePairingScreen.title;Remote pairing;Lidh telekomandën
+firstInstall.wifiNetworkConnectingScreen.title;Network;Wi-Fi
+firstInstall.wifiNetworkSelectScreen.title;Network;Wi-Fi
+firstInstall.wifiKeyboardScreen.title;Network;Wi-Fi
+firstInstall.getHelpScreen.wifi.title;Network;Wi-Fi
+firstInstall.finishSetupScreen.title;Your devices;Pajisjet e tua
+notification.recording.notAllow;Sorry, you can't record this programme;Nuk mund të regjistrosh. Nuk je i abonuar.
+settings.parentalAndPaiment;Payment & controls;Tarifat dhe Kontrollet
+settings.audioAndVisual.screenResolution;Screen resolution;Rezolucioni i Ekranit
+pinEntry.more;See more on PINs in Settings.;Shiko vodafone.al/vodafone-tv
+firstInstall.wifiNetworkFoundScreen.description;Your TV box is now connected to Wi-Fi.;Pajisja Vodafone GigaTV është <br/> lidhur
+settings.remote.remotePair;Pair;Lidh
+settings.remote.remoteUnpair;Unpair;Shkëput lidhjen
+firstInstall.getHelpScreen.channels.title;Channels;Kanalet
+settings.parentalControls.ageRating.info;Choosing PIN protection for age-rated programmes will also protect any recordings after 9pm.;Aktivizimi i Kontrollit Prindëror të mbrojtjes me PIN zbatohet edhe për çdo regjistrim të bërë pas 9pm.
+rails.morefrom;More from;Më shumë nga %1
+firstInstall.startChannelsScanScreen.title;Channels;Kanalet
+settings.parentalAndPaiment.parentalPin;PIN;PIN
+settings.parentalPin;PIN;PIN
+firstInstall.wiredNetworkFoundScreen.title;You're connected;Je lidhur
+firstInstall.wifiNetworkFoundScreen.title;You're connected;Wi-Fi i lidhur
+keyboard.parentalPin.enter.placeholder;Please enter your new 4-digit PIN;Vendos PIN-in e ri me 4 shifra
+keyboard.parentalPin.reEnter.placeholder;Please re-enter your new 4-digit PIN;Rivendos PIN-in e ri me 4 shifra
+settings.network.wps;WPS;WPS
+programInfo.actionButtons.moreRecordSeriesOptions;Record series;Regjistro serialin
+firstInstall.manualNetworkConfigurationScreen.title;Network;Rrjeti
+common.help;Help;Ndihmë
+keyboard.wifi.password.placeholder;Enter WiFi password;Vendos fjalëkalimin Wi-Fi
+settings.masterPin.changed;Your PIN's changed;PIN-i u ndryshua
+settings.systemConfigurations.ledBrightness;Brightness;Ndriçimi
+settings.network.lan;LAN;LAN
+settings.ledBrightness;Brightness;Ndriçimi
+settings.adjustBrightness;Adjust brightness;Rregullo ndriçimin
+change volume;Press +/- to change volume;Shtyp +/- për të ndryshuar volumin
+firstInstall.helloScreen.title.foundAccount;Hi;Përshëndetje
+firstInstall.startChannelsScanScreen.description;To set up your TV and radio channels, first make sure your TV aerial is connected.;Skanimi i kanaleve gjeti kanalet TV dhe Radio<br/> të disponueshme në zonën tënde.
+settings.audioDescription.off;Off;Fikur
+settings.subtitles.off;Off;Fikur
+settings.powerSaving.quickBoot.on;On;Modalitet Kursim i Lartë
+settings.powerSaving.quickBoot.off;Off;Modalitet Kursim i Ulët
+common.done;Done;U krye
+firstInstall.remotePairingSuccessScreen.description;Your TV box is now paired with your remote.;Telekomanda u lidh me <br/> pajisjen Vodafone GigaTV.
+settings.recordings.boxSpace;Storage;Hapësirë ruajtjeje
+settings.remote.batteryStatus.view;View status;Shiko gjendjen e baterisë
+programInfo.catchup.watch;Watch;Shiko
+programInfo.watch;Watch;Shiko
+badging.parentalLock.on;Parental lock on;Kyçur
+firstInstall.operatorPairingScreen.title;Please call us;Na kontakto
+firmwareUpdate.description.countdown;Update starts in:;Pajisja Vodafone TV rindizet në %1
+settings.masterPin.turnOff;PIN off;PIN i çaktivizuar
+settings.masterPin.turnOn;PIN on;PIN i aktivizuar
+settings.masterPin.changePin;Change your PIN;Ndrysho PIN
+settings.systemConfigurations.updates.upToDate;You already have the latest updates.;Nuk ka përditësime të reja.
+settings.lockedChannels;Locked channels;Kanale të Kyçura
+mytv.recordings;Recordings;Regjistrime
+mytv.purchasesAndRentals;Purchases & rentals;Me qira
+programInfo.actionButtons.moreRecordOptions;Record episode;Regjistro
+programInfo.actionButtons.buyLabel;Buy;Bli %1
+programInfo.actionButtons.rentLabel;Rent;Merr me qira %1
+programInfo.actionButtons.bought;Purchased;Blerë
+programInfo.actionButtons.rented;Rented;Marrë me qira
+badging.parentalLock.off;Parental lock off;Shkyçur
+badging.recordable;Available to record;I disponueshëm për të regjistruar
+firstInstall.wifiNetworkSelector.joinOtherNetwork;Join other network;Lidhu me një rrjet tjetër
+firstInstall.buttons.getHelp;Get help;Ndihmë
+firmwareUpdate.description.inProgress;Updating now, please wait.;Pajisja Vodafone TV po përditësohet, të lutem prit
+settings.masterPin.turnedOff;PIN off;PIN i çaktivizuar
+settings.masterPin.turnedOn;PIN on;PIN i aktivizuar
+settings.parentalControls.lockedChannels;Lock channels;Kyç Kanalet
+settings.network.joinOtherNetwork;Join other network;Lidhu me një rrjet tjetër
+popups.wifi.buttons.getHelp;Get help;Ndihmë
+common.tryAgain;Try again;Provo përsëri
+firstInstall.remotePairingSuccessScreen.title;Now paired;Lidhur
+firstInstall.buttons.wifi;WiFi;Wi-Fi
+firstInstall.buttons.backToWifiList;Back to WiFi list;Pas
+firstInstall.buttons.abort;Stop;Ndalo
+keyboard.wifi.ssid.placeholder;Enter network name:;Vendos emrin e rrjetit:
+settings.masterPin.whats;See your PIN;Informacion për PIN
+settings.informations.OUI;OUI;OUI
+settings.informations.updateStatus;Last system software update:;Statusi i përditësimit të fundit të softuerit
+settings.informations.chipID;ID;ID
+settings.parentalControls.ageRating;Age rating;Vlerësimi i Moshës
+settings.parentalControls.whats;See your PIN;Informacion për PIN
+settings.parentalControls.okay;Okay;OK
+settings.lockedChannels.permitted;Allowed;Lejuar
+settings.boxSpaceProgression;You're using %1% of your available space;Duke përdorur %1% të orëve në dispozicion
+settings.remote.itsPaired;Now paired;Lidhur
+popups.storage.buttons.buyMore;Buy more storage;Bli Hapësirë
+popups.settings.audioAndVisual.screenResolution;Save resolution?;Ruaj Cilësimet?
+rails.notitle;No title;Pa Titull
+badging.recording;Recording;Duke regjistruar
+notification.seriesRecording.start;Schedule series recording;Planifiko regjistrimin e serialit
+watch;Watch;Shiko %1
+volume;Volume:;Volumi
+Today;Today;Sot
+Tomorrow;Tomorrow;Nesër
+Yesterday;Yesterday;Dje
+locked;Locked;Kyçur
+mainMenu.myTV.title;MY TV;MY TV
+mainMenu.browse.title;ON DEMAND;ON DEMAND
+mainMenu.myTVCoverflow.title;Watch next;Vazhdo shikimin
+mainMenu.appsCoverflow.title;MY apps;Shiko më shumë
+mainMenu.tvGuide.title;TV GUIDE;Programi Televiziv
+mainMenu.apps.title;APPS;APPS
+mainMenu.search;Search;Kërko
+mainMenu.settings;Settings;Cilësimet
+mainMenu.allChannelsTvGuide.title;All channels;Të gjithë kanalet
+common.noData;No information;Nuk ka informacion
+common.noItem;No item;Nuk ka artikull
+common.onNow;On now;Në transmetim tani
+common.launchApp;Launch app;Hap aplikacionin
+common.launch;Launch;Hap
+common.onNext;On next;Luaj tjetrin
+common.onLater;On later;Luaj më vonë
+common.onTomorrow;On tomorrow;Nesër
+common.today;Today;Sot
+common.tomorrow;Tomorrow;Nesër
+common.yesterday;Yesterday;Dje
+common.continue;Continue;Vazhdo
+common.popular;Popular;Popullore
+common.cancel;Cancel;Anullo
+common.yes;Yes;Po
+common.no;No;Jo
+common.skip;Skip;Kapërce
+common.notAvailable;Not available;I padisponueshëm
+common.okay;Okay;OK
+common.noSynopsis;Synopsis unavailable;Përmbledhja e padisponueshme
+common.channel;channel;Kanali
+common.channels;channels;Kanalet
+language.eng;English;English
+language.fra;Français;Français
+language.ita;Italiano;Italiano
+language.deu;Deutsch;Deutsch
+language.spa;Español;Español
+language.swe;Svenska;Svenska
+language.tur;Türk;Türk
+liveScreen.noChannel;Channel unavailable;Kanali i padisponueshëm
+date.format.smallday0;Sun;Die
+date.format.smallday1;Mon;Hën
+date.format.smallday2;Tue;Mar
+date.format.smallday3;Wed;Mër
+date.format.smallday4;Thu;Enj
+date.format.smallday5;Fri;Pre
+date.format.smallday6;Sat;Sht
+date.format.day0;Sunday;E diel
+date.format.day1;Monday;E hënë
+date.format.day2;Tuesday;E martë
+date.format.day3;Wednesday;E mërkurë
+date.format.day4;Thursday;E enjte
+date.format.day6;Saturday;E shtunë
+date.format.smallmonth0;Jan;Jan
+date.format.smallmonth1;Feb;Shk
+date.format.smallmonth2;Mar;Mar
+date.format.smallmonth3;Apr;Pri
+date.format.smallmonth4;May;Maj
+date.format.smallmonth5;Jun;Qer
+date.format.smallmonth6;Jul;Korr
+date.format.smallmonth7;Aug;Gush
+date.format.smallmonth8;Sep;Shta
+date.format.smallmonth9;Oct;Tet
+date.format.smallmonth10;Nov;Nën
+date.format.smallmonth11;Dec;Dhje
+date.format.month0;January;Janar
+date.format.month1;February;Shkurt
+date.format.month2;March;Mars
+date.format.month3;April;Prill
+date.format.month4;May;Maj
+date.format.month5;June;Qershor
+date.format.month6;July;Korrik
+date.format.month7;August;Gusht
+date.format.month8;September;Shtator
+date.format.month9;October;Tetor
+date.format.month10;November;Nëntor
+date.format.month11;December;Dhjetor
+network.error.ssid.tooShort;Network name too short, please enter another one and try again.;Emri i rrjetit që vendose është shumë i shkurtër. Provo përsëri.
+network.error.password.tooShort;Password is too short, please enter another one with more digits and try again.;Fjalëkalimi që vendose është shumë i shkurtër. Provo përsëri.
+firstInstall.languageScreen.title;Language;Gjuha
+firstInstall.remoteUnPairingScreen.title;Remote pairing;Lidh telekomandën
+firstInstall.helpBar.toSelect;Choose;Zgjidh
+firstInstall.helpBar.toGoBack;Back;Pas
+firstInstall.wifiNetworkSelectScreen.description;Press the WPS button on your TV box until the connection confirmation screen appears, or enter your Wi-Fi details:;Vendos detajet e Wi-Fi:
+firstInstall.wifiKeyboardScreen.ssid.description;Enter network name:;Vendos emrin e rrjetit:
+firstInstall.wifiKeyboardScreen.password.description;Enter Wi-Fi password:;Vendos fjalëkalimin:
+firstInstall.wifiNetworkSelector.searchAgain;Search again;Kërko përsëri
+firstInstall.helloScreen.title.searchingAccount;One moment;Duke u lidhur
+firstInstall.conflictedChannelsFoundScreen.title;Channels;Kanalet
+firstInstall.conflictedChannelsFoundScreen.description;Your aerial is picking up multiple regions for %1 %2. Please choose:;Janë gjetur disa rajone për<br/> %1 %2. Përzgjidh:
+firstInstall.resolveChannelConflictScreen.title;Channel %1;Kanali %1
+firstInstall.resolveChannelConflictScreen.description;Please choose one of the following options:;Përzgjidh një nga më poshtë:
+firstInstall.conflictResolutionConfirmScreen.title;Confirm channels;Konfirmo Kanalet
+firstInstall.conflictResolutionConfirmScreen.description;Please confirm your chosen channels:;Konfirmo kanalet e përzgjedhura:
+firstInstall.buttons.pairLater;Pair later;Lidh më vonë
+firstInstall.buttons.connect;Connect;Lidh
+firstInstall.buttons.ethernet;Ethernet;Ethernet
+firstInstall.buttons.tryAgain;Try again;Provo përsëri
+firstInstall.buttons.tryAgainDHCP;Try again with DHCP;Provo përsëri (DHCP)
+firstInstall.buttons.connectWifi;Connect with WiFi;Lidhu nëpërmjet Wi-Fi
+firstInstall.buttons.advanced;Advanced;Të avancuara
+firstInstall.buttons.continue;Continue;Vazhdo
+firstInstall.buttons.next;Next;Tjetri
+firstInstall.buttons.confirm;Confirm;Konfirmo
+firstInstall.buttons.startScanning;Start scanning;Fillo Skanimin
+firstInstall.buttons.finishSetup;Finish setup;Shiko TV
+firstInstall.buttons.skip;Skip;Kalo
+firstInstall.buttons.startWatching;Start watching;Fillo Shikimin
+firstInstall.buttons.autoSelect;Auto select;Përzgjidh Automatikisht
+firstInstall.buttons.customSelect;Custom select;Përzgjedhje e personalizuar
+firstInstall.helpBar.help;Help;Ndihmë
+keyboard.masterPin.enter.placeholder;Please enter your new 4-digit PIN;Vendos PIN-in e ri me 4 shifra
+keyboard.masterPin.reEnter.placeholder;Please re-enter your new 4-digit PIN;Vendos përsëri kodin PIN
+keyboard.lockedChannels.placeholder;Channel number;Numri i kanalit
+firmwareUpdate.title;Please wait while your box updates.;Pajisja Vodafone TV po përditësohet, të lutem prit
+firmwareUpdate.buttonsBar.updateNow;Update now;Përditëso Tani
+settings.masterPin;PIN;PIN
+settings.masterPin.okay;Okay;OK
+settings.masterPin.changeMyPin;Change your PIN;Ndrysho PIN-in tim
+settings.masterPin.whats.popup;Your default PIN is 1234;Më shumë informacion në www.vodafone.al/vodafone-tv
+settings.parentalAndPaiment.paymentPin;PIN;PIN
+settings.recordings;Recordings;Regjistrime
+settings.recordings.deleteAll;Delete all;Fshi të gjitha
+settings.recordings.delete.dont;Don't delete all;Mos i fshi të gjitha
+settings.recordings.activate.dont;Don't activate;Mos aktivizo
+settings.recordings.autoDelete;Auto delete;Fshirje automatike
+settings.recordings.buySpace;Buy space;Orët e blerjes
+settings.language;Language;Gjuha
+settings.accessibility;Accessibility;Aksesueshmëria
+settings.accessibility.audioDescription;Audio description;Përshkrim automatik
+settings.accessibility.subtitles;Subtitles;Titra
+settings.termsAndConditions;Terms & conditions;Kushte dhe Afate
+settings.termsAndConditionsPageTitle;Terms & conditions;Kushte dhe Afate
+settings.systemConfigurations.network;Network;Rrjeti
+settings.systemConfigurations.remote;Remote;Telekomanda
+settings.systemConfigurations.tvChannels;TV channels;Kanalet TV
+settings.systemConfigurations.audioAndVisual;Audio & visual;Audio dhe Vizuale
+settings.systemConfigurations.clockSettings;Clock settings;Cilësimet e Orës
+settings.clockSettings.hourFormats.12;am / pm;am / pm
+settings.clockSettings.hourFormats.24;24 hour;24 orë
+settings.systemConfigurations.updates;Updates;Përditësime
+settings.systemConfigurations.updates.updateAvailable;Software update available. Please wait a few minutes while your TV box restarts and installs the update.;Përditësimi u krye. Prit pak minuta ndërsa pajisja Vodafone GigaTV përditësohet dhe rindizet.
+settings.systemConfigurations.information;Information;Informacion
+settings.informations.buttons.general;General;Të përgjithshme
+settings.informations.buttons.audioAndVideo;Audio & video;Audio dhe Video
+settings.informations.buttons.tvQuality;TV quality;Cilësia TV
+settings.informations.title;Box information;Informacion për pajisjen
+settings.informations.brandName;Brand name;Emri i Markës
+settings.informations.modelName;Model name;Emri i Modelit
+settings.informations.hardwareVersion;Hardware version;Versioni i Harduerit
+settings.informations.softwareVersion;Software version;Versioni i Softuerit
+settings.informations.uiVersion;UI version;Versioni UI
+settings.informations.updateDate;Last system software update:;Përditësimi i fundit i Softuerit
+settings.informations.epgData;EPG data;Të dhënat EPG (Udhëzuesi elektronik i programacionit)
+settings.informations.householdID;Household ID;ID e familjes
+settings.informations.usedCapacityEMMC;Used/capacity eMMC;Përdorimi/Kapaciteti eMMC
+settings.informations.usbBack;USB back;USB pas
+settings.informations.activeConnection;Active connection;Lidhje Aktive
+settings.informations.ip;Current IP address;Adresa aktuale IP
+settings.informations.wired.mac;Ethernet MAC address;Adresa Ethernet MAC
+settings.informations.wireless.mac;Wireless MAC address;Adresa Wi-Fi MAC
+settings.informations.serialNumber;Serial number;Numri Serial
+settings.informations.router;Router;Ruteri
+settings.informations.speedtest;Speed test;Testi i Shpejtësisë
+settings.informations.operationalMode;Operational mode;Modaliteti Operacional
+settings.informations.videoConnectionMode;Video connection mode;Modaliteti i Lidhjes Video
+settings.informations.tvModel;TV model;Modeli TV
+settings.informations.audioConnectionMode;Audio connection mode;Modaliteti i lidhjes automatike
+settings.informations.audioOutput;Audio output;Output Audio
+settings.informations.remoteControlMode;Remote control mode;Modaliteti i Telekomandës
+settings.informations.channelNameDVBT;Channel name (DVB-T);Emri i Kanalit DTT
+settings.informations.frequency;Frequency;Frekuenca
+settings.informations.signalStrength;Signal strength;Fuqia e Sinjalit
+settings.informations.ber;BER;BER
+settings.informations.channelNameOTT;Channel name (over the top);Emri i Kanalit Internet TV
+settings.informations.abr;ABR;ABR
+settings.informations.environment;Environment;Mjedisi
+settings.parentalControls;Parental controls;Kontrollet Prindërore
+settings.parentalControls.whats.popup;Your default PIN is 1234. When it’s turned on, you’ll be asked to enter it when you make payments and some settings changes like turning parental controls on/off.;PIN i parazgjedhur është 1% dhe të rekomandojmë ta ndryshosh. PIN është i domosdoshëm për të kryer blerje ose për të parë përmbajtje me kufizime moshe nëse janë aktivizuar Kontrollet Prindërore.
+settings.lockedChannels.customise;Customise;Personalizo
+settings.lockedChannels.unlockAll;Unlock all;Hapi të gjitha
+settings.lockedChannels.locked;Locked;Kyçur
+settings.tvChannels.premiumChannels;Premium channels;Kanalet Premium
+settings.enterNewPin;Enter new PIN;Vendos PIN-in e ri
+settings.reEnterNewPin;Re-enter new PIN;Rivendos PIN-in e ri
+settings.pinConfirmed;PIN confirmed;PIN i konfirmuar
+settings.ageRatings.universal;Universal;Universal
+settings.ageRatings.u;U;U
+settings.ageRatings.pg;PG;PG
+settings.ageRatings.12;12;12
+settings.ageRatings.15;15;15
+settings.ageRatings.18;18;18
+settings.ageRatings.off;Off;Fikur
+settings.network.searchAgain;Search again;Kërko përsëri
+settings.network.wps.popup;Press the WPS button on your TV box, then on your router to automatically start pairing.;Shtyp butonin WPS tek pajisja Vodafone TV dhe më pas shtyp WPS tek ruteri.
+settings.network.lan.connect;Connect;Lidhu
+settings.network.advanced;Advanced;Të avancuara
+settings.network.advanced.ipAddress;IP address;Adresa IP
+settings.remote;Remote;Telekomanda
+settings.remotePairing;Remote pairing;Lidh Telekomandën
+settings.remote.batteryStatus;Battery status;Gjendja e baterisë
+settings.remote.batteryStatus.fine;Your battery status is OK;Gjendja e baterisë OK
+settings.remote.batteryStatus.sheetTitleview;View status;Shiko gjendjen
+settings.remote.batteryStatus.sheetSubtitleview;Battery status;Gjendja e Baterisë
+settings.remote.connectionType;Connection type;Lloji i Lidhjes
+settings.remote.connectionType.IR;IR;IR
+settings.remote.connectionType.infrared;Infrared;Rreze infra të kuqe
+settings.remote.connectionType.RF;RF;RF
+settings.remote.connectionType.radioFrequency;Radio frequency;Frekuenca Radio
+settings.tvChannels.autoScan;Auto scan;Skanim Automatik
+settings.tvChannels.startAutoScan;Start auto scan;Nis skanimin automatik
+settings.tvChannels.stopAutoScan;Stop auto scan;Ndal skanimin automatik
+settings.tvChannels.channelScan;Channel scan;Skanimi i kanaleve
+settings.tvChannels.currentlyHave;You currently have:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Kanalet aktuale:<div class='halfSummary'>Falas<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyFound;We've found:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Kanalet e gjetura:<div class='halfSummary'>Falas<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.weFound;We found:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Kanalet e gjetura:<div class='halfSummary'>Falas<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.autoSelect;Auto select;Përzgjedhje automatike
+settings.tvChannels.customSelect;Custom select;Përzgjedhje e personalizuar
+settings.tvChannels.resolveConflict.description;Please confirm your chosen channel:;Cilin kanal preferon?:
+settings.tvChannels.confirmConflictResolution.description;Please confirm your chosen channels:;Konformo kanalet e zgjedhura:
+mytv.watchnext;Watch next;Shiko tjetrën
+mytv.allRecordings;All recordings;Të gjitha regjistrimet
+mytv.scheduledRecordings;Scheduled recordings;Regjistrimet e Planifikuara
+mytv.allScheduledRecordings;All scheduled recordings;Të gjithë regjistrimet e planifikuara
+mytv.allPurchasesAndRentals;All rentals & purchases;Të gjitha qiratë
+mytv.wishlist;Record;Watchlist
+mytv.allWishlist;Recordings;E gjithë Watchlist
+mytv.other;Others;Të tjera
+apps.apps;Apps;APPS
+apps.myApps;My apps;My Apps
+apps.new;New;E Re
+apps.popular;Popular;Popullore
+apps.education;Education;Edukuese
+search.searchResults;Search results;Rezultatet e Kërkimit
+search.noResults;No results;Nuk u gjetën rezultate
+programInfo.airedOn;Aired on;Transmetuar në
+programInfo.related;Related;Të ngjashme
+programInfo.recording.record;Record;Regjistro
+programInfo.actionButtons.watch;Watch;Shiko %1
+programInfo.actionButtons.watchRecording;Watch your recording;Shiko Regjistrimin
+programInfo.actionButtons.watchLive;Watch;Shiko drejtpërdrejt
+programInfo.actionButtons.recordOn;Record episode;Regjistro
+programInfo.actionButtons.watchCatchup;Watch;Shiko Catch Up
+programInfo.actionButtons.startOver;Restart;Fillo nga e para
+programInfo.actionButtons.recordSeries;Record series;Regjistro Seritë
+programInfo.actionButtons.cancelRecording;Cancel recording;Anullo Regjistrimin
+programInfo.actionButtons.deleteRecording;Delete recording;Fshi Regjistrimin
+programInfo.actionButtons.cancelRecordSeriesOn;Cancel series recording;Anullo Regjistrimin e Serive
+programInfo.actionButtons.deleteRecordSeriesOn;Delete series recording;Fshi serialin
+programInfo.actionButtons.protect;Protect recording;Mbro regjistrimin
+programInfo.actionButtons.unprotect;Unprotect recording;Liro regjistrimin
+programInfo.actionButtons.trailer;Watch trailer;Shiko Trailer-in
+programInfo.actionButtons.thirdPartyApp;0,01;%1
+programInfo.actionButtons.wishlist.remove;Remove;Hiq nga Watchlist
+programInfo.actionButtons.wishlist.add;Schedule record;Shto në Watchlist
+programInfo.actionButtons.watchContent;Watch %1;Shiko %1
+programInfo.actionButtons.buy;Buy;Bli
+programInfo.actionButtons.rent;Rent;Merr me qira
+programInfo.actionButtons.confirm4K;Your current resolution is not 4K. To watch 4K content your TV must be 4K-ready. Are you sure you want to continue?;Televizori nuk është 4K (Ultra HD). Dëshiron të vazhdosh?
+minutes.acronym;mins;minuta
+minute.acronym;min;min
+settings.audioAndVisual.audioOutput;Audio output;Cilësia Audio
+settings.audioAndVisual.audioOutput.stereo;Stereo;Stereo
+settings.audioAndVisual.audioOutput.dolbyAudio;Dolby Audio;Audio Dolby
+settings.audioAndVisual.hdmiAudioOutput;HDMI audio output;Outputi Audio HDMI
+settings.audioAndVisual.on;On;Ndezur
+settings.audioAndVisual.off;Off;Fikur
+settings.audioAndVisual.screenResolution.576p;576p;576p
+settings.audioAndVisual.screenResolution.720p;720p;720p
+settings.audioAndVisual.screenResolution.1080p;1080p;1080p
+settings.audioAndVisual.screenResolution.4k;4K;4K
+settings.systemConfigurations.powerSaving;Power;Energjia
+settings.powerSaving.quickBoot;Power saving mode;Modaliteti i Kursimit të Energjisë
+settings.powerSaving.autoStandbyTime;Auto standby time;Koha e Standby Automatik
+settings.powerSaving.autoStandbyTime.3h;3 hours;3 orë
+settings.powerSaving.autoStandbyTime.6h;6 hours;6 orë
+settings.powerSaving.autoStandbyTime.12h;12 hours;12 orë
+settings.powerSaving.autoStandbyTime.off;Off;Fikur
+settings.conflictedChannelsFoundScreen.description;Your aerial is picking up multiple regions for <insert>. Please choose an option:;Janë gjetur disa rajone për<strong>%1 %2</strong>. Cilin kanal preferon?:
+popups.powerSaving.buttons.cancel;Cancel standby;Anullo Standby
+popups.powerSaving.buttons.adjust;Change auto standby;Ndrysho Standby Automatik
+network.ipAddress;IP address;Adresa IP
+network.subnetMask;Subnet mask;Subnet Mask
+network.defaultGateway;Default gateway;Default Gateway
+network.primaryDNS;Primary DNS;DNS Primare
+network.secondaryDNS;Secondary DNS;DNS dytësore
+serieInfo.recordEpisode;Record episode;Regjistro Episodin
+serieInfo.recordSeries;Record series;Regjistro Serinë
+serieInfo.season;Season;SERITË
+popups.upgrade.buttons.updateNow;Update now;Përditëso tani
+popups.reboot.buttons.rebootNow;Reboot now;Rindiz tani
+popups.wifi.buttons.tryAgain;Try again;Provo përsëri
+popups.storage.misc;0;0
+popups.storage.buttons.manage;Manage my recordings;Menaxho regjistrimet e mia
+popups.storage.buttons.enableAutoDelete;Enable auto delete;Aktivizo fshirjen automatike
+popups.continueWatching.buttons.next;Next episode;Episodi tjetër
+popups.continueWatching.buttons.startOver;Restart;Fillo nga e para
+popups.maintenance.message;An update is scheduled for your TV box;Një përditësim është planifikuar për pajisjen Vodafone TV.
+maintenance.wait;Update in progress, please wait.;Të lutem prit ...
+rails.more;More;Më shumë
+rails.moretitle;More %1;Më shumë %1
+rails.bucketMore;See more;Shiko më shumë
+badging.expires;Expires from %1 in %2 days;Skadon nga %1 në %2 ditë
+badging.recorded;Recorded;E regjistruar
+badging.protected;Protected recording;Regjistrim i mbrojtur
+badging.subtitles;Subtitles available;Titra në dispozicion
+badging.audioDescription;Audio description available;Përshkrimi Audio i disponueshëm
+badging.wishList;Scheduled record;Shtuar në Watchlist
+badging.catchUp;Catch up;Shiko tani
+badging.airsOn;Airs on %1;Fillon në
+notification.recording.delete;Recording deleted;Regjistrimi u fshi
+notification.recording.cancel;Recording cancelled;Regjistrimi u anullua
+notification.recording.scheduled;Recording scheduled;Regjistrimi u planifikua
+notification.seriesRecording.cancel;Series record cancelled;Regjistrimi i Serive u Anullua
+notification.seriesRecording.delete;Series record deleted;Seritë e fshira
+notification.recording.protect;Recording protected;Regjistrimi i mbrojtur
+notification.network.online;You're connected;Pajisja Vodafone GigaTV u lidh.
+notification.purchase.success;Purchase made;Blerja u bë me sukses
+notification.login.emptyToken;Empty token;Shenjë boshe
+notification.battery.low;Your TV remote batteries are low, please replace them.;Zëvendëso bateritë në telekomandën e Vodafone TV
+settings.warning.popup.parentalControlEnable;Turning on parental controls will enable your TV PIN. Are you happy to continue?;Të lutem konfirmo. Kjo kërkon PIN e TV (shiko vodafone.al/vodafone-tv).
+settings.ledBrightness.medium;Medium;Mesatare
+programInfo.actionButtons.moreWatchOptions;More options;Opsionet e Shikimit
+notification.recording.unprotect;Unlocked - you can now record;Regjistrimi i Pambrojtur
+common.confirm;Okay?;Konfirmo
+keyboard.search.placeholder;Start searching;Kërko për filma, seriale, aktorë...
+settings.warning.popup.masterPinDisable;Turning off your PIN will also turn off parental controls. Are you happy to continue?;Çaktivizimi i PIN-it gjithashtu çaktivizon Kontrollet Prindërore. Dëshiron të vazhdosh?
+settings.network.wifi.waiting;Connecting to your Wi-Fi network;Duke u lidhur me rrjetin Wi-Fi …
+settings.tvChannels.abortingAutoScan;Stopping;Duke ndalur
+settings.audioDescription.on;Turn on;Ndezur
+settings.subtitles.on;Turn on;Ndezur
+popups.powerSaving.message;Vodafone TV will go into standby mode in %1s;Pajisja Vodafone TV do të kalojë në gjendje Standby në pak sekonda.
+firstInstall.languageScreen.description;Choose your language;Zgjidh gjuhën
+settings.parentalControls.changeMyPin;Change PIN;Ndrysho PIN
+settings.parentalControls.changedPin;Your PIN has changed;PIN u ndryshua
+settings.ledBrightness.high;High;E lartë
+settings.informations.buttons.connectivity;Internet;Internet
+settings.ledBrightness.low;Low;E ulët
+settings.remote.remotePairNewDevice;Pair remote;Lidh telekomandën
+settings.channelScan.auto;Scan;Skanim
+settings.powerSaving.quickBoot.hint;Turn power saving mode off for faster setup;Çaktivizo kursimin e energjisë për ndezje më të shpejtë
+firstInstall.helloScreen.description.searchingAccount;Logging in to your Vodafone TV account;Duke u lidhur me llogarinë Vodafone GigaTV
+settings.systemConfigurations.subtitle;System info;Informacion për sistemin
+settings.network.advanced.configureIpAddress;Manual setup;Instalim Manual
+popups.continueWatching.misc;Continue watching: starting in %1;Programi fillon në %1
+firstInstall.buttons.manualIPConfig;Manual IP setup;Instalimi manual i IP
+settings.systemConfigurations;More settings;Më shumë cilësime
+settings.systemConfigurations.factoryReset;Reset;Rivendos
+settings.informations.buttons.remoteControl;Remote;Telekomanda
+settings.network.advanced.waiting;Connecting your IP address to your TV box;Duke lidhur pajisjen Vodafone TV
+popups.reboot.misc;Reboot in %1;Rindiz në %1
+notification.recording.start;Recording;Regjistrim në vazhdim
+date.format.day5;Friday;E Premte
+firstInstall.helloScreen.description.foundAccount;Nearly done;Pothuajse mbaruam
+firstInstall.wifiNetworkConnectingScreen.description;Connecting to your Wi-Fi network;Duke u lidhur me rrjetin Wi-Fi
+settings.network.advanced.dhcp;Auto setup;Instalim Automatik
+settings.remote.remotePairNewDevice.step0.failed.description;Sorry, you pressed the wrong buttons: press and hold the 3 and yellow buttons together for 5 seconds.;Provo përsëri. Shtyp butonin 3 dhe atë të verdhë njëkohësisht për 5 sekonda.
+change language;Change language;Ndrysho gjuhën
+firstInstall.manualNetworkConfigurationScreen.description;Please enter your network details using the number keys.;Vendos detajet e rrjetit
+settings.premiumChannels.hide;Hide;Fshih
+settings.premiumChannels.show;Show;Shfaq
+pinEntry.parentalPinCode;Enter your PIN;Vendos PIN
+settings.remote.remotePairNewDevice.step2.description;Great, your remote is now paired;Telekomanda u lidh me sukses
+pinEntry.masterPinCode;Enter your PIN;Vendos PIN
+settings.recordings.deleteAllQuestion;Are you sure you want to delete all recordings?;Je i sigurt që do të fshish të gjitha regjistrimet?
+settings.recordings.autoDeleteQuestion;Are you sure you want to activate the auto delete feature?;Je i sigurt që do të fshish automatikisht regjistrimet?
+pinEntry.successful;PIN confirmed;PIN u konfirmua
+popups.upgrade.title;Software upgrade about to start;Përditësimi i pajisjes Vodafone TV po fillon
+firstInstall.getHelpScreen.channels.description;Once your TV aerial is connected, start scanning for channels.;Sigurohu që kablli është vendosur dhe<br/>fillo skanimin për kanale.
+settings.systemConfigurations.factoryReset.popup;<p>Are you sure you want to restore to factory settings? This will delete any customised settings.<br/>Don't worry, your recordings won't be deleted.</p>;<p>Je i sigurt që do të rikthesh cilësimet e gjendjes fillestare? Do të duhet të instalosh pajisjen përsëri.<br/>Mos u shqetëso, regjistrimet e tua nuk do të fshihen.</p>
+firstInstall.wiredNetworkSearchScreen.manual.description;Trying to connect;Duke tentuar lidhjen
+firstInstall.wiredNetworkSearchScreen.description;Please make sure your Ethernet cable is plugged in.;Sigurohu që <br/> kablli Ethernet <br/> të jetë i lidhur.
+firstInstall.getHelpScreen.wifi.description;You'll find the answers to lots of questions at vodafone.co.uk/tv;Për më shumë informacion vizito <br/>vodafone.al/vodafone-tv
+firstInstall.getHelpScreen.wired.description;You'll find the answers to lots of questions at vodafone.co.uk/tv;Për më shumë informacion vizito <br/>vodafone.al/vodafone-tv
+firstInstall.remotePairLaterScreen.description;If you can't pair your remote now, don't worry – you can always pair it later and it'll still work in the meantime when you point it at the box.;Lidhja me telekomandën mund të kryhet në<br/>një datë të mëvonshme tek Cilësimet<br/>, kështu që nuk duhet të<br/>drejtosh telekomandën drejt pajisjes.
+settings.network.noInternet;;Nuk ka asnjë lidhje interneti. Kontrollo ruterin dhe provo përsëri.
+firstInstall.wifiNetworkErrorScreen.noLink;;SC106: Lidhja me Wi-Fi dështoi. Kontrollo ruterin dhe provo përsëri.
+settings.network.lan.noLink;;SC022: Mungon kablli Ethernet. Vendos edhe njëherë kabllin dhe provo përsëri.
+firstInstall.wiredNetworkScreen.noLink;;SC021: Mungon kablli Ethernet. Vendos edhe njëherë kabllin dhe provo përsëri.
+notification.network.error;;SC014: Gabim në lidhjen me shërbimin. Kontrollo lidhjen e internetit për probleme.
+programInfo.rentalExpiresOn;;Qiraja skadon në %1
+Available to Purchase;;Në dispozicion për t'u blerë
+Smart TV FTU UDID;;UDID : %1
+adult.hidden.description;;Kjo përmbajtje është e kyçur për shkak të kontrollit prindëror
+adult.hidden.title;;Përmbajtja e fshehur
+adult.visible.title;;Të rritur
+advertising.notification.description;;Videoja do të vazhdojë të luhet automatikisht pas reklamës
+advertising.notification.personalizedAds.cannotWatch.description;;Për të parë këtë përmbajtje, duhet të pajtohesh që do të kesh reklama të personalizuara.
+advertising.notification.personalizedAds.cannotWatch.title;;Personalizimi i reklamave
+advertising.notification.personalizedAds.optIn;;Për të mos pasur reklama të personalizuara, shko te Cilësimet/Privatësia/Pëlqimi i Privatësisë së Palës së Tretë
+advertising.notification.personalizedAds.optOut;;Për të personalizuar reklamat shko te Cilësimet/Privatësia/Pëlqimi i Privatësisë së Palës së Tretë
+advertising.notification.title;;Pushim reklamash
+advertising.overlay.count;;Reklama %1 nga %2
+alexa.EnablewithoutSetup.text;;"Pa u identifikuar, Alexa gjithsesi do të kërkojë seriale dhe filma TV, do të kontrollojë shfaqjen, do të rregullojë volumin dhe do të bëjë shaka. Për të përfunduar konfigurimin në çdo kohë, shko te Cilësimet Alexa dhe lidh llogarinë Amazon <br><br><span class= ""subtext"">Amazon përpunon ndërveprimet Alexa në cloud. Duke zgjedhur ""Aktivizo Alexa"", pranon të gjitha kushtet dhe afatet. Mëso më shumë rreth kushteve dhe privatësisë së Alexa duke përdorur links më poshtë.</span>"
+alexa.EnablewithoutSetup.title;;Të aktivizohet Alexa pa konfigurim?
+alexa.alexaDisableScreen.cancelButton;;Anullo
+alexa.alexaDisableScreen.confirmButton;;Konfirmo
+alexa.alexaDisableScreen.text;;Nuk do të jesh më në gjendje të përdorësh Alexa me këtë pajisje.
+alexa.alexaDisableScreen.title;;Çaktivizo Alexa?
+alexa.alexaSettignDefaultScreen.buttonSetUp;;Konfiguro Alexa
+alexa.alexaSettingDefaultScreen.buttonLanguage;;Gjuha e Alexa
+alexa.alexaSettingDefaultScreen.buttonSignout;;Dil
+alexa.alexaSettingDefaultScreen.buttonTermsAndConditions;;Kushtet dhe Afatet
+alexa.alexaSetupScreen.description;;Zgjidh Rifresko Kodin nëse ke ndonjë problem duke përdorur kodin e dhënë dhe provo përsëri.
+alexa.alexareadyscreen.ia.information;;Për të aktivizuar veçori shtesë si muzika, moti dhe kontrolli inteligjent i shtëpisë, shko te <span>Cilësimet > Asistentët Zanorë > Amazon Alexa</span> në cdo kohë për të lidhur llogarinë tënde në Amazon.
+alexa.alexareadyscreen.ia.term1;;"""Alexa, ngri volumin"""
+alexa.alexareadyscreen.ia.term2;;"""Alexa, më trego filma aksion"""
+alexa.alexareadyscreen.ia.term3;;"""Alexa, çfarë ka në TV sonte?"""
+alexa.alexareadyscreen.information;;Për të mësuar më shumë rreth asaj që mund të bëjë Alexa, shkarko aplikacionin Amazon Alexa nga Google Play ose App Store.
+alexa.alexareadyscreen.subtitle;;Në telekomandën tënde, <b> shtyp dhe mbaj shtypur</b> butonin e mikrofonit dhe provo të thuash:
+alexa.alexareadyscreen.term1;;"""Alexa, ngri volumin"""
+alexa.alexareadyscreen.term2;;"""Alexa, më trego parashikimin e fundjavës"""
+alexa.alexareadyscreen.term3;;"""Alexa, cila është përditësimi im sportiv?"""
+alexa.alexareadyscreen.term4;;"""Alexa, kërko filma aksion"""
+alexa.alexareadyscreen.term5;;"""Alexa, luaj video muzikore pop"""
+alexa.alexareadyscreen.vsb.information;;informacioni alexa gati për ekranin vsb
+alexa.alexareadyscreen.vsb.subtitle;;Në pajisjen tënde, thjesht provo të thuash:
+alexa.alexareadyscreen.vsb.term1;;"""Alexa, më trego parashikimin e fundjavës"""
+alexa.alexareadyscreen.vsb.term2;;"""Alexa, cila është përditësimi im sportiv?"""
+alexa.alexareadyscreen.vsb.term3;;"""Alexa, shto qumësht në listën time të blerjeve"""
+alexa.alexareadyscreen.vsb.term4;;"""Alexa, luaj këngë pop nga vitet '90"""
+alexa.alexareadyscreen.vsb.term5;;"""Alexa, kush është Brad Pitt?"""
+alexa.alexareadyscreen.vsb.term6;;"""Alexa, vendos muzikë regaton"""
+alexa.authError;;Diçka shkoi keq. Të lutem provo përsëri
+alexa.card.canDoMore;;Alexa mund të bëjë më shumë
+alexa.card.connect;;Lidh
+alexa.card.connectAmazonAccount;;Lidh llogarinë tënde Amazon për të aktivizuar veçori si moti, kontrolli smart i shtëpisë dhe më shumë
+alexa.defaultScreen.description;;Alexa të lejon të përdorësh zërin për të gjetur dhe luajtur filma dhe shfaqje televizive, të bësh pyetje, të kontrollosh motin, të transmetosh muzikë, të kontrollosh shtëpinë në mënyrë të zgjuar dhe të tjera.
+alexa.defaultScreen.subDescription;;"Amazon përpunon ndërveprimet Alexa në cloud. Duke zgjedhur ""Enable Alexa"", pranon të gjitha kushtet. Mund të mësosh më shumë për kushtet dhe privatësinë e Alexa duke përdorur links më poshtë"
+alexa.defaultscreen.buttonDisable;;Çaktivizo
+alexa.defaultscreen.buttonSigneIn;;Hyr në Alexa
+alexa.defaultscreen.buttonTermOfUse;;Kushtet e Përdorimit
+alexa.defaultscreen.devicename;;Emri i pajisjes
+alexa.defaultscreen.signedInAs;;I identifikuar si
+alexa.enablePopup.title;;Dëshiron të aktivizosh zërin?
+alexa.enableWithoutSetup.ok;;Provo Alexa
+alexa.enablevoicesubMsg;;Kontrolli zanor në telekomandën tënde nuk është aktivizuar ende
+alexa.errorScreen.button.retry;;Provo sërish
+alexa.isReadyTitle;;Alexa është gati
+alexa.notification.signout.body;;mund të zgjedhësh të aktivizosh përsëri te cilësimet
+alexa.notification.signout.header;;Alexa është çaktivizuar
+alexa.popup.tryAlexa.title;;Provo Amazon Alexa pa një llogari
+alexa.setUpScreen.Goto;;Shko
+alexa.setUpScreen.description;; në telefonin ose kompjuterin tënd dhe vendos këtë kod
+alexa.setUpScreen.later;;Bëje më vonë
+alexa.setUpScreen.refreshCode;;Rifresko Kodin
+alexa.setUpScreen.title;;Lidh llogarinë tënde Amazon
+alexa.termandConditionScreen.title;;Kushtet & Afatet
+alexa.termsOfUseScreen.title;;Kushtet e Përdorimit të Alexa
+apps.myApps.add.added;;Shtuar
+apps.myApps.add.titleAppAdd;;Aplikacionet e Mia
+apps.myApps.add.titleAppAddDescription;;%1 aplikacioni u shtua me sukses
+apps.myApps.add.titleAppRemove;;Aplikacionet e Mia
+apps.myApps.add.titleAppRemoveDescription;;%1 aplikacioni u fshi me sukses
+apps.myApps.add.titleMaxDescription;;Të lutem hiq aplikacione nga lista jote e preferuar për të shtuar një të re
+apps.myApps.add.titleMaxLimit;;Aplikacionet e Mia
+apps.myApps.delete.remove;;Hiq
+apps.myApps.reorder.moved;;Lëviz
+apps.rail.recentApps;;Aplikacionet e fundit
+badging.acronym.audioDescription;;AD
+badging.acronym.closedCaption;;CC
+badging.acronym.signLanguage;;SL
+badging.acronym.subtitles;;S
+badging.airsNow;;Tani
+badging.airsOnDateAndTime;;Transmetohet në
+badging.availableToPurchase;;Në dispozicion për t'u blerë
+badging.availableToPurchaseAndExpiration;;"""% 1 ditë blerja e disponueshme nga % 2"""
+badging.availableToSubscribe;;Në dispozicion për t'u abonuar
+badging.failedOn;;Dështoi në
+badging.partiallyRecordedOn;;Pjesërisht e regjistruar në
+badging.purchased;;Blerë
+badging.recordableEpisode;;Shto episodin te regjistrimet tani
+badging.recordableSeries;;Shto të gjitha episodet te regjistrimet tani
+badging.recordedOn;;Regjistruar më
+badging.recordingNow;;Regjistro tani
+badging.recordingScheduled;;E planifikuar
+badging.scheduled;;E planifikuar
+badging.subscribed;;Në dispozicion për t'u parë si pjesë e abonimit tënd
+badging.subscribedTo;;Pjesë e %1 tuaj
+badging.upcomingCatchUp;;Mund të shikohet së shpejti në Catch Up
+bluetooth.fullplayer.audioprofile;;Profili Audio
+bluetooth.fullplayer.collapse;;Shpërbë
+bluetooth.fullplayer.connected;;Lidhur
+bluetooth.fullplayer.exit;;Dil
+bluetooth.fullplayer.unknownTrackAlbum;;Album i panjohur
+bluetooth.fullplayer.unknownTrackArtist;;Artist i panjohur
+bluetooth.fullplayer.unknownTrackTitle;;Pjesë e panjohur
+bluetooth.popup.buttons.connect;;Lidh
+bluetooth.subtitle;;Valido?
+bluetoothConnect.subtitle;;Konfirmo ?
+bluetoothConnect.title;;Dëshiron të aktivizosh zërin ?
+bluetoothConnection.title;;Do të lidhesh me këtë pajisje
+bluetoothDisconnect.title;;Zgjidh atë që dëshiron të bësh
+buttons.filesFormat.3d;;3D
+buttons.filesFormat.4K;;UHD
+buttons.filesFormat.HD;;HD
+buttons.filesFormat.SD;;SD
+cableRegio.scanSummary.description.success;;%1 kanale të gjetura: <br/> %2 Internet %3 Tokësore %4 Radio
+cableRegio.scanSummary.title;;Rezultatet e skanimit të kanalit
+cancelMultipleSeries.popup.subtitle;;Nuk mund ta anullosh këtë hap.
+cancelMultipleSeries.popup.title;;Je i sigurt që dëshiron të anullosh %1 të regjistrimeve të tua?
+cancelSeries.subtitle;;Je i sigurt?
+cancelSeries.title;;Anullo Serinë?
+channelScan.completed;;Skanimi i kanaleve përfundoi
+channelScan.error;;Gabim në skanimin e kanaleve
+clashManagementScreen.availableAsCatchup;;E disponueshme si Catch-Up
+clashManagementScreen.recording;;Regjistrime %1
+clashManagementScreen.repeatsOn;;Përsëritet në %1
+clashManagementScreen.reschedule;;Riskedulo
+clashManagementScreen.subtitle;;Për të regjistruar %1 zgjidh një nga opsionet e mëposhtme.
+clashManagementScreen.title;;Ke shumë regjistrime lokale
+common.back;;Pas
+common.blockedContent;;
+common.browseAll;;Shfleto Të gjitha
+common.buyStorage;;Bli Hapësirë për ruajtje
+common.deselectAll;;Anulo zgjedhjen për të gjitha
+common.disconnect;;Shkëput
+common.hideAll;;Fshih të gjitha
+common.min;;%1 min.
+common.noThanks;;Jo faleminderit
+common.other;;Të tjera
+common.reorder;;riorganizo
+common.searchOn;;Kërko në
+common.selectAll;;Zgjidh Të gjitha
+common.showAll;;Shfaq të gjitha
+common.subscribe;;Abonohu
+common.tvGuide;;Programi Televiziv
+common.unpair;;Shkëput lidhjen
+common.welcomeTo;;Mirë se vjen në
+continueWatching.household;;Pajisja ime
+date.format.duration.day;;ditë
+date.format.duration.days;;ditë
+date.format.duration.hour;;orë
+date.format.duration.hours;;orë
+date.format.duration.minute;;minutë
+date.format.duration.minutes;;minuta
+date.format.duration.month;;muaj
+date.format.duration.months;;muaj
+date.format.duration.second;;sekondë
+date.format.duration.seconds;;sekonda
+date.format.duration.short.hours;;h
+date.format.duration.short.minutes;;m
+date.format.duration.short.seconds;;s
+date.format.duration.year;;vit
+date.format.duration.years;;vjet
+deleteMultipleSeries.popup.protectedSubtitle;;Ka %1 regjistrime të mbrojtura në përzgjedhjen tënde. Dëshiron të vazhdosh me fshirjen?
+deleteMultipleSeries.popup.subtitle;;Nuk mund ta anullosh këtë hap.
+deleteMultipleSeries.popup.title;;Je i sigurt që dëshiron të fshish %1 të regjistrimeve të tua?
+deleteSeries.delete;;Fshi Seritë
+deleteSeries.subtitle;;Je i sigurt?
+deleteSeries.title;;Fshi Seritë
+deleteSingleSeries.popup.subtitle;;Dëshiron të zgjedhësh të gjithë serinë apo episode individuale?
+deleteSingleSeries.popup.title;;Seritë e zgjedhura
+detailsConfirmPurchaseScreen.audioTitle;;Audio
+detailsConfirmPurchaseScreen.detailsTitle;;Detajet
+detailsConfirmPurchaseScreen.subtitlesTitle;;Titra
+epg.adultProgram.hidden.description;;Kontrollet Prindërore nuk lejojnë këtë program që të shfaqet pa vendosur PIN. Për ta ndryshuar këtë të lutem shko tek cilësimet.
+epg.adultProgram.hidden.name;;Programi është i fshehur
+epg.adultProgram.hidden.subtitle;;Ndrysho cilësimet prindërore për të parë
+epg.adultProgram.locked.description;;Kontrollet Prindërore nuk lejojnë këtë program që të shfaqet pa vendosur PIN. Për ta ndryshuar këtë të lutem shko tek cilësimet.
+epg.adultProgram.locked.name;;Kyçur
+epg.allChannels;;Të gjitha kanalet
+epg.channel.locked.name;;Kyçur
+epg.filters.all;;Të gjitha
+epg.filters.allChannels;;Të gjitha kanalet
+epg.filters.hdchannels;;Kanale HD
+epg.filters.juststarted;;Sapo ka filluar
+epg.filters.mostWatched;;Më të ndjekurat
+epg.filters.subscribedChannels;;Kanalet e abonuara
+epg.filters.title;;Përzgjidh Filtrin e Kanalit
+epg.program.locked.description;;Kontrollet Prindërore nuk lejojnë këtë program që të shfaqet pa futur PIN. Për ta ndryshuar këtë të lutem shko tek cilësimet.
+epg.summary.duration;;Kohëzgjatja
+epg.summary.origin;;Origjina
+epg.summary.releaseDate;;Data e Lëshimit
+error.actionNotAllowed;;Nuk është e mundur të kryhet ky veprim
+error.default;;Diçka shkoi keq.
+error.mdw.network.configurationGetFailed;;Leximi i konfigurimit të rrjetit dështoi.
+error.mdw.network.configurationSetFailed;;Shkrimi i konfigurimit të rrjetit dështoi
+error.netflix.esn;;Netflix ESN nuk është e vlefshme.
+error.player.broadcast.cannotResolve;;Nuk mund të zgjidhet URI e kanalit IP.
+error.player.broadcast.cannotTune;;Kanali nuk është i sintonizuar dhe nuk mund të hapet.
+error.player.broadcast.channelChangeInterrupted;;Kalimi i kanalit u ndërpre.
+error.player.broadcast.channelNotFound;;Kanali i kërkuar nuk u gjet.
+error.player.broadcast.channelNotSupported;;Kanali nuk mund të shfaqet.
+error.player.broadcast.channelParentalLock;;Kontrolli prindëror në kanal.
+error.player.broadcast.channelRecordingOngoing;;Kanali nuk mund të ndryshohet, sepse aktualisht është duke u regjistruar.
+error.player.broadcast.encryptedChannel;;Mungon kanali ose çelësi / moduli i koduar.
+error.player.broadcast.insufficientBandwidth;;Kapacitet i pamjaftueshëm.
+error.player.broadcast.insufficientResources;;Burime të pamjaftueshme në dispozicion për të shfaqur kanalin.
+error.player.broadcast.tunerLocked;;Sintonizimi është mbyllur nga një objekt tjetër.
+error.player.broadcast.unknownChannel;;Kanal i panjohur.
+error.player.broadcast.unrealized;;Kanali nuk mund të ndryshohet.
+error.player.oipf.connectionLost;;Nuk mund të lidhet me serverin ose lidhja humbi.
+error.player.oipf.corrupt;;Përmbajtja është e korruptuar ose e pavlefshme.
+error.player.oipf.format;;Formati A/V nuk ofrohet.
+error.player.oipf.insufficientResources;;Burime të pamjaftueshme.
+error.player.oipf.positionUnavailable;;Përmbajtja nuk është e disponueshme në pozicionin e caktuar.
+error.player.oipf.unavailable;;Përmbajtja nuk është e disponueshme.
+error.player.unidentified;;SB501 Kanali nuk është i abonuar
+error.purchase.er.PPVPurchased;;PPV e blerë.
+error.purchase.er.accountNotValid;;Llogari e pavlefshme.
+error.purchase.er.collectionPurchased;;Koleksioni u ble.
+error.purchase.er.configNotFound;;Nuk u gjet asnjë konfigurim.
+error.purchase.er.couponNotValid;;Kuponi nuk është i vlefshëm.
+error.purchase.er.free;;Falas.
+error.purchase.er.incorrectPrice;;Çmimi i pasaktë.
+error.purchase.er.insufficientFunds;;Fonde të pamjaftueshme.
+error.purchase.er.invalidUser;;Përdorues i pavlefshëm.
+error.purchase.er.notInDomain;;Përdoruesi nuk është në rrjet.
+error.purchase.er.notPurchasable;;Jo për blerje.
+error.purchase.er.pgChargeIDRequired;;Kërkohet ID e tarifës së portës së pagesës.
+error.purchase.er.pgNoResponse;;Asnjë përgjigje nga porta e pagesës.
+error.purchase.er.pgNotExist;;Porta e pagesës nuk ekziston.
+error.purchase.er.pgNotSet;;Porta e pagesës nuk është caktuar për grupin e pajisjeve të tua.
+error.purchase.er.pgUnknownResponse;;Përgjigje e panjohur e portës së pagesës.
+error.purchase.er.retryLimitExceeded;;Nuk mund të riprovosh më.
+error.purchase.er.signatureMismatch;;Mospërputhje e nënshkrimit.
+error.purchase.er.subscriptionOnly;;Vetëm për abonime të blera.
+error.purchase.er.subscriptionPurchased;;Abonimi u ble.
+error.purchase.er.unknownPPV;;Moduli i panjohur PPV.
+error.purchase.er.unknownReason;;Arsye e panjohur.
+error.purchase.er.unknownTransactionState;;Gjendje e panjohur e transaksionit.
+error.purchase.er.unknownUser;;Përdorues i panjohur.
+error.purchase.er.userNotExist;;Përdoruesi nuk ekziston.
+error.purchase.er.userSuspended;;Përdoruesi u pezullua.
+error.purchase.unidentified;;Gabim i paidentifikuar gjatë blerjes.
+error.token.store.failed;;Ruajtja e Auth Tokens dështoi
+error.userAccountSuspended;;Llogaria jotej është pezulluar 
+error.userActionSuspended;;Llogaria jote është pezulluar
+explanatoryCard.localQuotaLimit.info;;Hapësira jote lokale është e ulët. Ke <br/>%1 të hapësirës lokale të mbetur.
+explanatoryCard.localQuotaLimit.statusContent;;Menaxho regjistrimet lokale
+explanatoryCard.localQuotaLimit.title;;Hapësira lokale e ulët
+explanatoryCard.mytv.external.myTVRecommendations;;Këtu do të shohësh rekomandimin për ty nga On Demand dhe atë që po shfaqet në TV bazuar në atë që ke parë, regjistruar ose marrë me qira më parë.
+explanatoryCard.mytv.purchasesAndRentals;;Merr me qira filma nga Vodafone Films dhe shikoji këtu.
+explanatoryCard.mytv.recommendations;;Rekomandimet e tua mund t’i gjesh këtu
+explanatoryCard.mytv.recommendations.recommendationsOptIn;;Mos humb programe të përshtatura për ty bazuar në ato që shikon, regjistron ose merr me qira. Shtyp OK për të aktivizuar Rekomandimet.
+explanatoryCard.mytv.recommendations.title;;Filma dhe seriale televizive që duhet të shikosh
+explanatoryCard.mytv.recordings;;Shiko dhe menaxho këtu regjistrimet e tua.
+explanatoryCard.mytv.rentals;;Merr me qira filma nga Vodafone Films dhe shikoji këtu.
+explanatoryCard.mytv.scheduledRecordings;;Programet që ke vendosur të regjistrosh do të shfaqen këtu.
+explanatoryCard.mytv.title;;My TV
+explanatoryCard.mytv.watchnext;;Rifillo programet që tashmë ke filluar të shikosh.
+explanatoryCard.mytv.watchnext.recommendationsOptIn;;Për të parë kalimthi të gjitha programet që dëshiron të vazhdosh të shikosh, regjistrimet e fundit dhe filmat me qira, shtyp OK për të aktivizuar Rekomandimet.
+explanatoryCard.mytv.watchnext.title;;Programet e tua më të rëndësishme
+explanatoryCard.mytv.welcomeTo;;Mirësevjen në
+explanatoryCard.mytv.welcomeToMyTV;;Mirësevjen në MyTV
+explanatoryCard.mytv.wishlist;;Ruaj & shëno filmat dhe programet televizive On Demand duke i shtuar ato në Watchlist për t'i gjetur më lehtë me vonë.
+explanatoryCard.ondemand.recommendationsOptIn;;Mos humb programet e përshtatura për ty bazuar në atë që shikon, regjistron ose merr me qira. Shtyp OK për të aktivizuar Rekomandimet.
+explanatoryCard.ondemand.title;;Rekomandimet OnDemand
+explanatoryCard.quota.autoDelete;;Hapësira ruajtëse e regjistrimit është e ulët. Fshirja automatike do të fillojë me regjistrimet e ardhshme të planifikuara.
+explanatoryCard.quota.title;;Bli më shumë hapësirë ruajtëse
+explanatoryCard.railTitle.mytv.external.myTVRecommendations;;Filma dhe seriale që duhet të shikosh
+explanatoryCard.railTitle.mytv.purchasesAndRentals;;Me qira
+explanatoryCard.railTitle.mytv.recommendations;;Filma dhe shfaqje televizive që mund të pëlqesh
+explanatoryCard.railTitle.mytv.recordings;;Regjistrime
+explanatoryCard.railTitle.mytv.rentals;;Me qira
+explanatoryCard.railTitle.mytv.scheduledRecordings;;Regjistrime të planifikuara
+explanatoryCard.railTitle.mytv.watchnext;;Vazhdo Shikimin
+explanatoryCard.railTitle.mytv.wishlist;;Watchlist
+explanatoryCard.related.recommendationsOptIn;;Mos humb programet e përshtatura për ty bazuar në atë që shikon, regjistron ose merr me qira. Shtyp OK për të aktivizuar Rekomandimet.
+explanatoryCard.related.title;;Më shumë si
+explanatoryCard.search.recommendationsOptIn;;Mos humb programet e përshtatura për ty bazuar në atë që shikon, regjistron ose merr me qira. Shtyp OK për të aktivizuar Rekomandimet.
+explanatoryCard.search.title;;Rezultati bazuar në preferencat e tua
+explanatoryCard.switchOn;;Ndiz
+fastZap.barker.countdown;;Aplikacioni hapet në <br/><div>%1 sekonda </div>
+fastZap.upNext;;E rradhës
+firstInstall.automaticRecordingsMoreInfoScreen.description;;Një nga funksionalitetet e Vodafone TV është shikimi i programeve televizive të 7 ditëve të fundit. Mund të aksesohen programet direkt duke përdorur Guidën TV ose duke shtypur shigjetat Lart dhe Poshtë në telekomandë.<br/><br/>Pranimi nuk ndikon në kapacitetin e rrjetit apo në memorie dhe është thjesht një kërkesë rregullatore.
+firstInstall.automaticRecordingsMoreInfoScreen.title;;Regjistrime Automatike
+firstInstall.bleRemotePairLaterScreen.description;;Për të lidhur pajisjen me telekomandën, shtyp butonin 1 dhe butonin e verdhë njëkohësisht për 5 sekonda.<br/>Nëse telekomanda është aktualisht e lidhur, shtyp 3 + butonin e verdhë për 5 sekonda që ta shkëputësh.<br/>Nëse nuk arrin të lidhësh telekomanën në këtë moment, mos u shqetëso - mund ta lidhësh më vonë dhe do të funksionojë gjithsesi kur ta drejtosh tek pajisja.
+firstInstall.bleRemotePairingScreen.description;;Për të lidhur pajisjen me telekomandën, shtyp butonin 1 dhe atë të verdhë njëkohësisht për 5 sekonda.<br/>Nëse telekomanda është aktualisht e lidhur, mbaj shtypur 3 + butonin e verdhë për 5 sekonda që ta shkëputësh.
+firstInstall.bleRemotePairingScreen.title;;Lidhja e telekomandës
+firstInstall.bleRemotePairingSuccessScreen.description;;Pajisja Vodafone GigaTV është tashmë e lidhur me telekomandën
+firstInstall.bleRemotePairingSuccessScreen.title;;Të lidhur
+firstInstall.buttons.ATP;;ATP
+firstInstall.buttons.I&D;;I&D
+firstInstall.buttons.agree;;Pranoj
+firstInstall.buttons.back;;Pas
+firstInstall.buttons.deepMode;;Kursim i Lartë
+firstInstall.buttons.developerMode;;Modaliteti i Zhvilluesit
+firstInstall.buttons.disagree;;Nuk pranoj
+firstInstall.buttons.instantMode;;Kursim i Ulët
+firstInstall.buttons.manual;;Manuale
+firstInstall.buttons.moreInfo;;Më tepër info
+firstInstall.buttons.reset;;Rivendos
+firstInstall.buttons.skipScanning;;Kapërce skanimin
+firstInstall.buttons.tryAgainWithEthernet;;Provo përsëri
+firstInstall.buttons.updateAndReboot;;Përditëso dhe Rindiz
+firstInstall.buttons.validate;;Vlerëso
+firstInstall.cheatMenuScreen.desc;;Mbivendos lokalisht parametrat e konfigurimit të pajisjes
+firstInstall.cheatMenuScreen.title;;Menuja e Operacioneve
+firstInstall.consent.description;;Për të pasur përvojë të personalizuar mund të zgjedhësh Pranoj ose Nuk pranoj kushtet.
+firstInstall.contentSettingsScreen.automaticRecordingsAgreement.title;;Regjistron automatikisht të gjithë kanalet për të parë programet e shkuara.
+firstInstall.contentSettingsScreen.recommendationsAgreement.title;;Shfaq rekomandimet për filma dhe seriale që nuk duhet t'i humbësh.
+firstInstall.contentSettingsScreen.title;;Cilësimet e Përmbajtjes
+firstInstall.firmwareUpdateScreen.desc;;Instalo përditësimet e disponueshme të softuerit. Pajisja do të rindizet automatikisht pasi të jetë përditësuar.
+firstInstall.firmwareUpdateScreen.title;;Përditësime
+firstInstall.irRfRemotePairLaterScreen.description;;Për të lidhur pajisjen me telekomandën, mbaj shtypur butonin 1 dhe butonin e verdhë njëkohësisht për 5 sekonda.<br/>Nëse telekomanda është aktualisht e lidhur, mbaj shtypur 3 + butonin e verdhë për 5 sekonda që ta shkëputësh.<br/>Nëse nuk arrin të lidhësh telekomandën në këtë moment, mos u shqetëso - mund ta lidhësh më vonë dhe do të funksionojë gjithsesi kur ta drejtosh tek pajisja.
+firstInstall.irRfRemotePairingScreen.description;;Për të lidhur telekomandën me pajisjen Vodafone GigaTV, shtyp butonin 1 dhe butonin e verdhë njëkohësisht për 5 sekonda.
+firstInstall.irRfRemotePairingScreen.title;;Lidhja e telekomandës
+firstInstall.irRfRemotePairingSuccessScreen.description;;Pajisja Vodafone GigaTV është tashmë e lidhur me telekomandën
+firstInstall.irRfRemotePairingSuccessScreen.title;;Të lidhur
+firstInstall.powerSaving.description;;Nëse do të përdorësh Zërin apo të luash muzikë nga Bluetooth apo Spotify në Standby ky opsion duhe të jetë i FIKUR. <br><br> Përndryshe do të jesh në gjendje për ta bërë këtë vetëm për një kohë të shkurtër pas fikjes së pajisjes. <br><br> Kjo mund të ndryshohet te Cilësimet e pajisjes TV më vonë.
+firstInstall.powerSaving.title;;Kursim Energjie
+firstInstall.powerSaving.turnOff;;Fik
+firstInstall.powerSaving.turnOn;;Ndiz
+firstInstall.progressbar.complete.label;;Skanimi i kanaleve përfundoi
+firstInstall.progressbar.label;;Skanimi i kanaleve në vazhdim %1%
+firstInstall.recommendationsMoreInfoScreen.description;;Filma dhe seriale TV që duhet të shohësh<br/><br/>Mos i humb programet e personalizuara në bazë të atyre që ke parë apo regjistruar më parë. Kliko OK ose shko tek Cilësimet dhe përzgjidh Rekomandimet e Aktivizuara.<br/><br/>Mund ta fikësh në çdo kohë.
+firstInstall.recommendationsMoreInfoScreen.title;;Rekomandime
+firstInstall.recoverPwdScreen.description;;Skano kodin QR me pajisjen celulare për të rimarrë apo ndryshuar fjalëkalimin tënd.
+firstInstall.recoverPwdScreen.subtitle;;Skano Kodin QR
+firstInstall.recoverPwdScreen.title;;Rivendosja e Fjalëkalimit të Vodafone GigaTV
+firstInstall.scanSummaryScreen.description.fail;;Nuk u gjet asnjë kanal.<br/>Rivendos kabllin dhe provo përsëri ose shko në vodafone.al/vodafone-tv
+firstInstall.scanSummaryScreen.description.fail.OTTOnly;;Nuk u gjetën kanale. Kontrollo lidhjen e rrjetit dhe provo përsëri.
+firstInstall.scanSummaryScreen.description.fail.cable;;Na vjen keq, nuk u gjet asnjë kanal. Kontrollo që kablli të jetë i lidhur dhe provo përsëri.
+firstInstall.scanSummaryScreen.description.fail.ftth;;Na vjen keq, nuk u gjet asnjë kanal. Kontrollo nëse kablli është i lidhur si duhet dhe provo përsëri.
+firstInstall.scanSummaryScreen.description.partial;;<div class='halfSummary'>Falas<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>Skanimi i kanaleve u ndërpre. Rivendos kabllin dhe skano përsëri. 
+firstInstall.scanSummaryScreen.description.partial.cable;;<div class='halfSummary'>Kabëll<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>Nëse dëshiron mund të kontrollosh lidhjen me kabllin dhe të provosh përsëri.
+firstInstall.scanSummaryScreen.description.partial.ftth;;<div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>Nëse dëshiron, kontrollo lidhjen e kabllit dhe provo përsëri.
+firstInstall.scanSummaryScreen.description.success;;Skanimi i kanaleve përfundoi.<br/>U gjetën kanalet e mëposhtme:<br/><div class='halfSummary'>Falas<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.OTTOnly;;Skanimi i kanaleve përfundoi.<br/>U gjetën kanalet e mëposhtme:<br/><div class='halfSummary'>Internet<div class='channelsSummary'>%1 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.cable;;Kërkimi i kanaleve përfundoi.<br/>Kanale të gjetura:<br/><div class='halfSummary'>Kabell<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.ftth;;Kërkimi i kanaleve përfundoi.<br/>Kanalet e gjetura:<br/><div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.standbyModeSelectionScreen.desc;;Zgjidh një modalitet për kursimin e energjisë<br><br>Kursim i Ulët do të thotë që pajisja ndizet më shpejt (por kursen më pak energji)<br><br>Kursim i Lartë do të thotë një kohë më të gjatë ndezjeje (por kursen më shumë energji)
+firstInstall.standbyModeSelectionScreen.title;;Modaliteti Standby
+firstInstall.startChannelsScanScreen.description.cable;;Po fillon kërkimi për kanale TV. Sigurohu që kablli të jetë i lidhur.
+firstInstall.startChannelsScanScreen.description.ftth;;Skanimi i kanaleve gjeti kanalet TV dhe Radio<br/> të disponueshme në zonën tënde.
+firstInstall.unpairRfRemoteScreen.description;;Shtyp dhe mbaj të shtypur butonin e verdhë dhe 3 për të lidhur telekomandën.
+firstInstall.wifiBandwidthStateScreen.buttons.retry;;Riprovo
+firstInstall.wifiNetworkErrorScreen.wirelessConnectionError;;Nuk ishte e mundur krijimi i lidhjes wi-fi, të lutem provo përsëri.
+firstInstall.wifiNetworkSelector.wps;;Opsioni WPS
+firstInstall.wiredNetworkScreen.noInternet;;SC115: Pajisja Vodafone GigaTV nuk mund të lidhet me serverin për momentin. <br/> Provo përsëri më vonë ose kontakto shërbimin e klientit.
+folder.bundle.includes;;Përfshin
+folder.button.confirm;;Konfirmo
+folder.button.selfcare.subscribe;;Abonohu
+folder.button.subscribe;;Abonohu %1/muaj
+folder.button.subscribed;;Abonuar
+folder.channelGrid.title;;Kanalet nga %1
+folder.subscriptionType.app;;Abonimi i aplikacionit
+folder.subscriptionType.individualLinearChannel;;Abonimi i kanalit
+folder.subscriptionType.pack;;Paketa e Abonimit
+ftu.welcome.scanQR.button.description;;Nëse tashmë ke Vodafone TV në celularin tënd, zgjidh këtë opsion për të përdorur kamerën dhe për t'u identifikuar më shpejt.
+ftu.welcome.signUp.buttonText;;Regjistrohu
+gdpr.consent;;Pëlqimi
+gdpr.notice;;Njoftimi
+gdpr.privacy;;Privatësia
+gdpr.privacy.consent.ads.description;;Për të marrë reklama të personalizuara, duhet të jesh dakord me këtë pëlqim.
+gdpr.privacy.consent.confirmation;;Duke mos u pajtuar, do të humbësh rekomandimet dhe veçoritë e tjera shtesë që japin përvojën më të mirë të Vodafone TV. <br/> A je i sigurt që do të vazhdosh apo do të kthehesh për të ndryshuar zgjedhjen tënde?
+gdpr.privacy.consent.description;;Për të përdorur rekomandimet, duhet të pajtohesh me këtë përmbajtje.
+gdpr.privacy.consent.kids.description;;Për të pasur një përvojë të plotë të aplikacionit për Fëmijë, duhet të pajtohesh me këtë pëlqim.
+gdpr.privacy.consent.title;;Pëlqimi për privatësinë
+gdpr.privacy.default.notice;;...
+gdpr.privacy.notice.description;;Për të përdorur këtë aplikacion duhet të pranosh këtë njoftim.
+gdpr.privacy.notice.title;;Njoftimi i Privatësisë
+gdpr.privacy.settings.agree;;Pranoj
+gdpr.privacy.settings.agreed;;Pranuar
+gdpr.privacy.settings.agreedAll;;Pranoj të gjitha
+gdpr.privacy.settings.consent.description;;Për të përdorur rekomandimet duhet të japësh aprovimin tënd.
+gdpr.privacy.settings.description;;Mund ta kthesh zgjedhjen tënde duke zgjedhur
+gdpr.privacy.settings.disagree;;Nuk pranoj
+gdpr.privacy.settings.disagreedAll;;Nuk pranoj asnjë
+gdpr.privacy.settings.notAgreed;;Jo Pranuar
+gdpr.privacy.settings.notice.description;;Për të përdorur këtë aplikacion duhet të pranosh këtë njoftim.
+gdpr.privacy.thirdPartyConsent.description;; Pëlqimi i Privatësisë për Palën e Tretë 
+gdpr.privacy.thirdPartyConsent.title;;Pëlqimi i Privatësisë për Palën e Tretë
+hpvr.countdown.shortSeconds;;%1 sekonda
+hpvr.dismiss;;Mbylle
+hpvr.formatDisk;;Formato Diskun
+hpvr.hdd.connected;;Driveri lokal u lidh
+hpvr.hdd.eject.popup.title;;Do të duhet të rilidhësh diskun lokal për të parë regjistrimet lokale
+hpvr.hdd.ongoing.eject.popup.title;;Me shkëputjen e diskut lokal, do të humbësh regjistrim(et) lokale
+hpvr.hdd.recognized;;Driveri lokal u njoh
+hpvr.hddFormat.popup.subtitle;;Mund të duhet të formatosh këtë disk, nëse zgjedh ta bësh këtë, gjithçka e ruajtur në të do të fshihet
+hpvr.hddFormat.popup.title;;Disku lokal nuk mund të lidhet
+hpvr.hddFormatFailed.popup.subtitle;;Mund të provosh të formatosh përsëri diskun lokal. Nëse gabimi vazhdon, të lutem kontakto shërbimin e klientit.
+hpvr.hddFormatFailed.popup.title;;Ndodhi një gabim gjatë formatimit të diskut lokal.
+hpvr.hddFormatting.popup.subtitle;;Disku lokal është duke u formatuar
+hpvr.hddFormatting.popup.title;;Disku lokal është duke u formatuar
+hpvr.hddFormattingDone.popup.subtitle;;Për të përdorur diskun lokal për regjistrime, do të duhet të rindezësh pajisjen.
+hpvr.hddFormattingDone.popup.title;;Disku lokal u formatua me sukses.
+hpvr.hddNotRecognize.popup.subtitle;;Të lutem sigurohu që ke lidhur Vodafone TV me diskun lokal
+hpvr.hddNotRecognize.popup.title;;Disku lokal nuk njihet
+hpvr.hddPlugged.popup.subtitle;;Për të përdorur diskun lokal për regjistrim, do të duhet të rindezësh pajisjen. <br> <br> Pajisja jote do të rindizet automatikisht
+hpvr.hddPlugged.popup.title;;Disku lokal i lidhur
+hpvr.newHddPlug;;Disku lokal është i lidhur
+hpvr.recording.cancelled;;Regjistrimi u anullua
+hpvr.recording.channelNotFound;;Regjistrimi nuk mund të fillojë sepse kanali nuk u gjet
+hpvr.recording.completed;;Regjistrimi u përfundua me sukses
+hpvr.recording.deleted;;Regjistrimi u fshi
+hpvr.recording.hddBufferOverflow;;Regjistrimi nuk mund të përfundojë për shkak të mbingarkesës së HDD -së
+hpvr.recording.noCASSessionAvailable;;Regjistrimi nuk mund të përfundojë për shkak të mungesës së Sesioneve CAS të disponueshme
+hpvr.recording.noEntitlement;;Regjistrimi nuk mund të përfundojë për shkak të mungesës së të drejtës për këtë përmbajtje
+hpvr.recording.noHDD;;Regjistrimi nuk mund të përfundojë për shkak se disku është hequr
+hpvr.recording.noHDDSpace;;Regjistrimi nuk mund të përfundojë për shkak të mungesës së hapësirës ruajtëse në disk
+hpvr.recording.noHDDWritable;;Regjistrimi nuk mund të përfundojë për shkak të një gabimi të papërcaktuar gjatë shkrimit në disk
+hpvr.recording.noSignal;;Regjistrimi nuk mund të përfundojë për shkak të humbjes së sinjalit
+hpvr.recording.noTunersAvailable;;Regjistrimi nuk do të mund të përfundojë për shkak të mungesës së sintonizuesëve në dispozicion
+hpvr.recording.ongoing;;Regjistrimi tashmë ka filluar
+hpvr.recording.partiallyCompleted;;Regjistrimi filloi por u ndërpre nga sistemi
+hpvr.recording.scheduled;;Regjistrimi u planifikua me sukses
+hpvr.restartLater;;Rindiz më vonë
+hpvr.restartNow;;Rindiz Tani
+hpvr.subtitle.hddDisconnectedInformations;;Duhet të rilidhësh diskun lokal për të parë regjistrimet lokale
+hpvr.subtitle.localQuotaLimitReached;;U arrit kufiri i kuotës lokale
+hpvr.title.formattingStorage;;Disku u formatua.
+hpvr.title.hddDisconnected;;Disku lokal është shkëputur
+hpvr.title.localQuotaLimitReached;;U arrit kufiri i kuotës lokale
+hybridPvrNotification.lowStorageForRecord;;Të lutem shko te MyTV/Regjistrime dhe fshi disa regjistrime për të liruar hapësirën ruajtëse
+hybridPvrNotification.rescheduledRecording;;Regjistrime të riskeduluara
+hybridPvrNotification.rescheduledTo;;%1 <br>në %2
+improvedRec.cancelEpisodes.selectEpisodes;;Zgjidh Episodet për t'i anulluar
+improvedRec.deleteEpisodes.selectEpisodes;;Zgjidh Episodet për të fshirë
+improvedRec.deleteProtectedRecording.subtitle;;Ky është një regjistrim i mbrojtur. Vazhdo me fshirjen?
+improvedRec.deleteProtectedRecording.title;;Fshi regjistrimin e mbrojtur?
+improvedRec.deleteProtectedRecordings.subtitle;;Ka %1 regjistrime të mbrojtura në përzgjedhjen tënde. Dëshiron të vazhdosh me fshirjen?
+improvedRec.deleteProtectedRecordings.title;;Fshi regjistrimet e mbrojtura?
+improvedRec.episodeCancelledAndChooseOption.subtitle;;Dëshiron të anullosh më shumë episode apo të gjithë serinë?
+improvedRec.episodeCancelledAndChooseOption.title;;Episodi u anullua me sukses.
+improvedRec.episodeDeletedAndChooseOption.subtitle;;Dëshiron të fshish më shumë episode apo të gjithë Serinë?
+improvedRec.episodeDeletedAndChooseOption.title;;Episodi u fshi me sukses. 
+improvedRec.filters.all;;Të gjitha regjistrimet
+improvedRec.filters.genre.othersInfos;;"Regjistrimet e mëparshme pa një kategori zhanri do të paraqiten nën ""Të tjera"""
+improvedRec.filters.genre.rail.allMovies;;Të gjithë Filmat
+improvedRec.filters.genre.rail.allTvShows;;Të gjitha Shfaqjet televizive
+improvedRec.filters.scheduledRecordings;;Regjistrimet e programuara
+improvedRec.infos.cloudPercentage;;% 1% e mbetur nga hapësira në Cloud
+improvedRec.infos.localPercentage;;% 1% e mbetur nga hapësira lokale
+improvedRec.infos.recordings;;%1 Regjistrime
+improvedRec.infos.selectedOf;;%1 nga %2 e zgjedhur
+improvedRec.infos.simplePercentage;;%1% e mbetur nga hapësira
+improvedRec.infos.updated.recordings;;%1 regjistrime të përditësuara...
+improvedRec.manage.noItemSelected.cancelDescription;;Duhet të zgjedhësh të paktën një aset në mënyrë që të kryesh këtë veprim anullimi.
+improvedRec.manage.noItemSelected.description;;Duhet të zgjedhësh të paktën një aset për të kryer këtë veprim fshirjeje.
+improvedRec.manage.noItemSelected.title;;Nuk ka asete të zgjedhura
+improvedRec.manage.protectedDescription;;Të mbrojtura me sukses %1 regjistrime
+improvedRec.manage.protectedTitle;;Të mbrojtura
+improvedRec.manage.unprotectedDescription;;Me sukses %1 regjistrime të pambrojtura
+improvedRec.manage.unprotectedTitle;;Menaxho regjistrimet e pambrojtura
+improvedRec.manageProtect.chooseBothRecordings;;Për të vazhduar, duhet të fshish %1 regjistrime lokale dhe %2 regjistrime në cloud.
+improvedRec.manageProtect.chooseCloudRecordings;;Për të vazhduar, duhet të fshish %1 regjistrimet e mbrojtura në cloud.
+improvedRec.manageProtect.chooseLocalRecordings;;Për të vazhduar, duhet të zgjedhësh të mos mbrosh %1 regjistrimet lokale.
+improvedRec.manageProtect.chooseUnprotect;;"""Po përpiqesh të mbrosh një total prej %1 regjistrimesh dhe mund të mbrosh vetëm %2"""
+improvedRec.manageProtect.exceedProtected;;Shumë regjistrime të mbrojtura
+improvedRec.manageProtect.maxAndLeftRecordings;;Po përpiqesh të mbrosh një total prej %1 regjistrimesh dhe mund të mbrosh vetëm %2
+improvedRec.manageProtect.maxAndLeftRecordingsBoth;;Po përpiqesh të mbrosh %1 regjistrime në cloud dhe %2 regjistrime lokale por mund të mbrosh vetëm %3 të secilës
+improvedRec.manageProtect.maxAndLeftRecordingsCloud;;Po përpiqesh të ruash %1 regjistrime në cloud, por mund të ruash vetëm %2
+improvedRec.manageProtect.maxAndLeftRecordingsLocal;;Po përpiqesh të mbrosh një total prej %1 regjistrimesh lokale dhe mund të mbrosh vetëm %2
+improvedRec.manageProtect.maximumBothProtected;;Mund të mbrosh maksimalisht %1 regjistrime Cloud dhe lokale
+improvedRec.manageProtect.maximumCloudProtected;;Mund të mbrosh maksimalisht %1 regjistrime Cloud
+improvedRec.manageProtect.maximumLocalProtected;;Mund të mbrosh vetëm një maksimum prej %1 regjistrimeve lokale
+improvedRec.manageProtect.maximumProtected;;Më tepër regjistrime të mbrojtura në cloud sesa lejohet.
+improvedRec.manageProtect.selectUnprotect;;Zgjidh Mos Mbro për të konfirmuar këtë zgjedhje.
+improvedRec.manageProtect.title;;Menaxho regjistrimet e mbrojtura
+improvedRec.notification.cancelRecordings.description;;U anulluan me sukses %1 episode
+improvedRec.notification.cancelRecordings.title;;Regjistrimet e Anulluara
+improvedRec.notification.deleteRecordings.description;;U fshinë me sukses %1 episode
+improvedRec.notification.deleteRecordings.title;;Regjistrimet e fshira
+improvedRec.option.cancel;;Anullo
+improvedRec.option.cancelAll;;Anullo të gjitha
+improvedRec.option.cancelSeries;;Anullo seritë
+improvedRec.option.delete;;Fshi
+improvedRec.option.deleteAll;;Fshi të gjitha
+improvedRec.option.deleteSeries;;Fshi seritë
+improvedRec.option.deleteUnprotect;;Fshi të pambrojturat
+improvedRec.option.deselectSeason;;Hiq nga zgjedhja sezonin %1
+improvedRec.option.manage;;Menaxho
+improvedRec.option.protect;;Mbro
+improvedRec.option.selectSeason;;Zgjidh Sezonin %1
+improvedRec.option.selectSingleEpisodes;;Zgjidh episodet
+improvedRec.option.showProtected;;Shfaq regjistrimet e mbrojtura
+improvedRec.option.unprotect;;Hiq mbrojtjen
+improvedRec.seriesSelected.subtitle;;Dëshiron të zgjedhësh të gjithë serinë apo episode individuale?
+improvedRec.seriesSelected.title;;Seritë e zgjedhura
+improvedRec.userAgreement.subtitle;;Je i sigurt?
+improvedRec.userAgreementForSeries.title;;Fshi Seritë?
+improvedRec.userAgreementForUnprotected.title;;Fshi të gjitha Episodet e pambrojtura?
+improvedRecordings.cloud.leftSpace;;Kanë mbetur vetëm <b>% 1% të regjistrimeve në Cloud </b>.
+improvedRecordings.local.leftSpace;;Të ka mbetur vetëm <b>% 1% të regjistrimeve lokale </b>.
+improvedRecordings.scheduled.recordingClashes;;Regjistrimi i Përplasjeve
+improvedRecordings.scheduled.seriesRecordings;;Regjistrimet e Serive
+improvedRecordings.scheduled.singleRecordings;;Regjistrime të vetme
+jpn;;jpn
+keyboard.search.otherPlaceholderText;;Shtyp <div class='microIcon'></div> për të përdorur kërkimin zanor
+kids.PIN.turnOff;;Fik
+kids.PIN.turnOn;;Ndiz
+kids.accept.consent;;Për të dhënë pëlqimin
+kids.accept.notice;;Për të pranuar njoftimin
+kids.actors;;Aktorët
+kids.agreed;;Pajtohem
+kids.back;;Pas
+kids.bedtime.turnedOnFrom;;Aktivizuar nga %1 në %2
+kids.cancel;;Anullo
+kids.characters;;Personazhet
+kids.common.continue;;Vazhdo
+kids.countdown.cancel;;Anullo
+kids.countdown.change;;Ndrysho
+kids.countdown.changeTimerSettings;;Për të vendosur kohëmatësin
+kids.countdown.clearCountdown;;Fshi kohëmatësin
+kids.countdown.overrideBedtime;;Konfirmo anullimin e orarit të gjumit të %1. <br/> Orari i gjumit të %2 është për %3 orë dhe %4 minuta.
+kids.countdown.shortSeconds;;%1 SEK
+kids.countdown.startCountdown;;Fillo kohëmatësin
+kids.countdown.updateCountdown;;Përditëso kohëmatësin
+kids.countdown.useBedtimeLimit;;Përdor orarin e gjumit
+kids.disagreed;;Nuk pajtohem
+kids.exit;;Dil
+kids.explanatoryCard.subtitle.text;;Asnjë shfaqje!
+kids.explanatoryCard.title.text;;Uh Oh!
+kids.ftusettings.ageSelection.setBirthday;;Vendos ditëlindjen
+kids.ftusettings.ageSelection.title;;Përzgjidh moshën
+kids.ftusettings.birthdaySelection.description;;Vendos ditëlindjen për të përditësuar këtë profil automatikisht për moshën e duhur.<br/>Mund ta shikosh këtë më vonë nëse do tek Cilësimet.
+kids.ftusettings.birthdaySelection.set;;Vendos
+kids.ftusettings.birthdaySelection.title;;Vendos ditëlindjen
+kids.ftusettings.buttons.agree;;Pranoj
+kids.ftusettings.buttons.disagree;;Nuk pranoj
+kids.ftusettings.buttons.getStarted;;Fillo
+kids.ftusettings.buttons.watchAgain;;Shiko përsëri
+kids.ftusettings.changeBirthday.title;;Ndrysho Ditëlindjen
+kids.ftusettings.changeCharacter.title;;Ndrysho Personazhin
+kids.ftusettings.changeNickname.title;;Ndrysho Pseudonimin
+kids.ftusettings.characterSelection.title;;Zgjidh një karakter
+kids.ftusettings.nicknameEntry.emptyName;;Duhet të përfshihet të paktën një shkronjë
+kids.ftusettings.nicknameEntry.maximumReached;;Lejohen vetëm 10 shkronja
+kids.ftusettings.nicknameEntry.title;;Vendos pseudonimin
+kids.gdpr.privacy.consent.confirmation;;Duke mos u pajtuar, do të humbësh rekomandimet dhe veçoritë e tjera shtesë që japin përvojën më të mirë të Vodafone TV. <br/> A je i sigurt që do të vazhdosh apo do të kthehesh për të ndryshuar zgjedhjen?
+kids.gdpr.privacy.consent.subtitle;;Për të përdorur rekomandimet, duhet të pajtohesh përsëri me këtë pëlqim.
+kids.gdpr.privacy.consent.subtitle.part2;;Kjo zgjedhje prek të gjitha profilet.
+kids.gdpr.privacy.consent.title;;Pëlqimi për privatësinë
+kids.gdpr.privacy.default.consent;;....
+kids.gdpr.privacy.default.notice;;....
+kids.gdpr.privacy.notice.title;;Njoftimi i privatësisë
+kids.languages.turnedOff;;Fikur
+kids.languages.turnedOn;;Ndezur
+kids.menu;;Menu
+kids.menu.episode;;Episodi
+kids.menu.season;;Sezoni
+kids.notForKids.changeChannel;;Ndrysho kanalin për të gjetur më shumë programacion për fëmijë ose kthehu te menuja
+kids.notForKids.showNotForKids;;Kjo shfaqje nuk është për fëmijë
+kids.notification.incorrect.configuration.description;;Rruga drejt aplikacionit nuk është e disponueshme
+kids.notification.network.offline.subtitle;;Ndodhi një gabim në rrjet
+kids.notification.network.offline.title;;Gabim i rrjetit
+kids.notification.noContent.message;;Nuk ka përmbajtje të disponueshme
+kids.notification.noContent.subtitle;;Nuk ka përmbajtje për fëmijë
+kids.notification.noContent.title;;Nuk ka përmbajtje
+kids.notification.player.error.subtitle;;Ndodhi një gabim i Player-it
+kids.notification.player.error.title;;Gabim i Player-it
+kids.pinEntry.accessProfile;;Për të aksesuar profilin
+kids.pinEntry.approveProfile;;Për të miratuar profilin
+kids.pinEntry.deleteProfile;;Për të fshirë profilin e %1
+kids.pinEntry.enterSettings;;Për të vendosur cilësimet
+kids.pinEntry.exit;;Për të dalë nga Kids Mode
+kids.pinEntry.help.defaultPin;;PIN-i kryesor i paracaktuar është 0000.
+kids.pinEntry.help.details;;Kur është aktiv, PIN-i kryesor përdoret për të verifikuar porositë<br/>dhe pagesat dhe për të kryer disa ndryshime tek cilësimet.<br/><br/><br/>PIN-i kryesor përdoret gjithashtu për të ndryshuar<br/>cilësimet e kontrollit prindëror (nëse zgjedh t'i aktivizosh).<br/><br/><br/>Nëse harron PIN-in, mund ta rivendosësh online në Vodafone.com/masterPIN.
+kids.pinEntry.help.whats;;Çfarë është një PIN kryesor?
+kids.pinEntry.title;;Të lutem vendos PIN
+kids.player.back;;Pas
+kids.player.info;;Informacion
+kids.player.retry;;Provo përsëri
+kids.player.setCountdown;;Vendos kohëmatësin
+kids.playerError;;Ndodhi një gabim i Player-it
+kids.profileSelection.addProfile;;Shto profil
+kids.profileSelection.aged;;Mosha %1
+kids.profileSelection.bedtimeStartedSince;;Orari i gjumit filloi %1 më parë
+kids.profileSelection.bedtimeStartedSince.atLeastTwoHours;;Orari i gjumit filloi %1 orë më parë
+kids.profileSelection.bedtimeStartedSince.betweenOneHourAndTwoHours;;Orari i gjumit filloi 1 orë dhe %1 minutë(a) më parë
+kids.profileSelection.bedtimeStartedSince.lessThanOneHour;;Orari i gjumit filloi %1 minutë(a) më parë
+kids.profileSelection.countdownFinishedSince;;Koha mbaroi %1 më parë
+kids.profileSelection.settings;;Cilësimet
+kids.profileSelection.unconfirmed;;E pakonfirmuar
+kids.profiles;;Profilet
+kids.programInfo.audioDescription;;Përshkrimi audio
+kids.programInfo.language;;Gjuha
+kids.programInfo.subtitles;;Titrat
+kids.settings;;Cilësimet Prindërore
+kids.settings.bedtime;;Koha e gjumit
+kids.settings.bedtime.from;;Nga
+kids.settings.bedtime.setBedtime;;Vendosni kohën e gjumit
+kids.settings.bedtime.setTime;;Vendosni Kohën
+kids.settings.bedtime.to;;Deri në
+kids.settings.changeAge;;Ndrysho moshën
+kids.settings.changeAvatar;;Ndrysho Avatarin
+kids.settings.changeName;;Ndrysho emrin
+kids.settings.content.preferredLanguage;;Gjuha e preferuar
+kids.settings.contentSettings;;Cilësimet e përmbajtjes
+kids.settings.delete;;Fshi
+kids.settings.deleteProfile;;Fshi profilin
+kids.settings.editProfile;;Modifikoni Profilin
+kids.settings.help;;Ndihmë
+kids.settings.pinRequest;;Kërkesë për PIN
+kids.settings.privacy;;Privatësia
+kids.settings.showVideos;;Trego videon e prezantimit
+kids.settings.subtitle.askForPin;;Kërko për PIN
+kids.settings.subtitle.deleteProfile.part1;;A je i sigurt që
+kids.settings.subtitle.deleteProfile.part2;;fshi Profilin e %1?
+kids.settings.timeManagement;;Manaxhimi i kohës
+kids.tick.dontShowAgain;;Mos e shfaq përsëri
+kids.timeOver.addMoreTime;;Shto më shumë kohë
+kids.timeOver.exit;;Dil nga TV e Fëmijëve
+kids.timeOver.takeABreak;;Koha për të bërë një pushim
+kids.timeOver.wakeup;;Zgjohu
+kids.turnOff;;Fik
+kids.turnOn;;Ndiz
+kids.turnedOff;;Fikur
+kids.turnedOn;;Ndezur
+kids.update.gdpr.privacy.consent.subtitle;;Për të përdorur rekomandimet, duhet të pajtohesh përsëri me këtë pëlqim.
+kids.update.gdpr.privacy.consent.subtitle.part2;;Kjo zgjedhje prek të gjitha profilet.
+kids.update.gdpr.privacy.consent.title;;Pëlqimi i përditësuar i privatësisë
+kids.update.gdpr.privacy.notice.subtitle;;Për të vazhduar përdorimin e Vodafone TV lexo dhe zgjidh Vazhdo
+kids.update.gdpr.privacy.notice.title;;Njoftim i përditësuar i privatësisë
+language.afr;;Afrikane
+language.ang;;English, Old (ca. 450–1100)
+language.ara;;Arabisht
+language.auto;;Automatike
+language.ces;;Czech
+language.chi;;Kineze
+language.dan;;Gjuha daneze
+language.de-DE;;Gjermanisht (DE)
+language.dut;;Holandeze
+language.ell;;Greek
+language.en-GB;;Anglisht (GB)
+language.en-US;;Anglisht (US)
+language.es-ES;;Spanjisht (ES)
+language.fas;;Persisht
+language.fin;;Finlandeze
+language.grc;;Ελληνικά
+language.gsw;;Gjermanisht zvicerane
+language.heb;;Hebraisht
+language.hin;;Indiane
+language.hun;;Hungarian
+language.isl;;Islandeze
+language.it-IT;;Italiano (IT)
+language.jap;;Japonisht
+language.jpn;;Japonisht
+language.kaz;;Kazake
+language.kor;;Koreane
+language.lav;;Letonisht
+language.mao;;Maori
+language.mri;;Maori
+language.mul;;Shumëgjuhëshe
+language.nld;;Holandeze
+language.nor;;Norvegjisht
+language.per;;Persisht
+language.pol;;Polonisht
+language.por;;Portuguese
+language.prt;;Português
+language.pt-BR;;Portugalisht (BR)
+language.pt-PT;;Portugalisht (PT)
+language.qaa;;Gjuha origjinale
+language.ron;;Rumanisht
+language.rus;;Rusisht
+language.slk;;Sllovakisht
+language.slv;;Sllovene
+language.sqi;;Shqip
+language.ukr;;Ukrainisht
+language.zho;;Kineze
+mainMenu.kids;;Fëmijë
+mainMenu.mediaLibrary;;Libraria Media
+mainMenu.onTv.title;;Në transmetim tani
+mainMenu.recordings;;Regjistrimet
+mainMenu.topBar.search;;Kërko filma, aktorë, seriale ...
+mainMenu.tvGuide.subscribeNow;;Abonohu tani
+mainMenu.tvGuide.watch;;Shiko
+maintenance.description;;Pajija po përmirëson eksperiencën tënde. Kjo mund të zgjasë disa minuta. Mos e fik ose zgjidh pajisjen deri në përfundim.
+maintenance.title;;Po kryhen përditësime
+miniProgramInfo.showMore;;Shfaq më shumë informacion
+myApps.Shortcut.Add;;Shto te Aplikacionet e Mia
+myApps.Shortcut.Manage;;Menaxho
+myApps.add.info;;Përzgjidh një ose më shumë aplikacione që do të shtosh
+myApps.add.title;;Shto tek Aplikacionet e mia
+myApps.delete.info;;Zgjidh aplikacionet që do të heqësh
+myApps.delete.title;;Hiq nga Aplikacionet e Mia
+myApps.manage.favorite;;Aplikacionet e Mia - Të preferuarat
+myApps.manage.info.favorite;;shfleto dhe menaxho aplikacionet e tua të preferuara
+myApps.manage.info.favorite.number;;%1 Aplikacione
+myApps.manage.info.recent;;shfaq deri në 20 aplikacione të përdorura kohët e fundit
+myApps.manage.info.recent.number;;Asnjë aplikacion nuk është përdorur deri më tani.
+myApps.manage.recent;;Aplikacionet e Mia - Të fundit
+myApps.manage.title;;Aplikacionet e mia
+myApps.reorder.info.default;;Zgjidh aplikacionin që dëshiron të lëvizësh
+myApps.reorder.info.reorderMode;;Duke përdorur butonin majtas ose djathtas thjesht zhvendos aplikacionin aty ku do, shtypni OK për ta ruajtur
+myApps.reorder.title;;Ndrysho renditjen e Aplikacioneve të mia
+mytv.external.myTVRecommendations;;Rekomandime për ty
+mytv.kaltura.Adults;;Programet e kyçura
+mytv.recommendations;;Rekomandime për ty
+mytv.recommended;;Rekomandime
+mytv.recordings.all.lastMonth;;Muajin e kaluar
+mytv.recordings.all.lastWeek;;Javën e kaluar
+mytv.recordings.all.month;;Këtë muaj
+mytv.recordings.all.older;;Më të vjetra
+mytv.recordings.all.week;;Këtë javë
+mytv.recordings.cloud.future;;Skadon më vonë
+mytv.recordings.cloud.month;;Skadon këtë muaj
+mytv.recordings.cloud.never;;Nuk ka datë skadence
+mytv.recordings.cloud.nextMonth;;Skadon muajin tjetër
+mytv.recordings.cloud.nextWeek;;Skadon javën tjetër
+mytv.recordings.cloud.week;;Skadon këtë javë
+mytv.recordings.cloud.year;;Skadon këtë vit
+mytv.recordings.failed.lastMonth;;Muajin e kaluar
+mytv.recordings.failed.lastWeek;;Javën e kaluar
+mytv.recordings.failed.month;;Këtë muaj
+mytv.recordings.failed.week;;Këtë javë
+mytv.recordings.local.hd;;HD
+mytv.recordings.local.lastMonth;;Muajin e kaluar
+mytv.recordings.local.lastWeek;;Javën e kaluar
+mytv.recordings.local.month;;Këtë muaj
+mytv.recordings.local.older;;Më të vjetra
+mytv.recordings.local.other;;Të tjera
+mytv.recordings.local.sd;;SD
+mytv.recordings.local.uhd;;4K
+mytv.recordings.local.week;;Këtë javë
+mytv.recordings.month;;Këtë muaj
+mytv.recordings.nextWeek;;Javën tjetër
+mytv.recordings.older;;Regjistrime të tjera
+mytv.recordings.scheduledRecordings.clashes;;Regjistrimet përplasen
+mytv.recordings.scheduledRecordings.series;;Regjistrime të serialeve
+mytv.recordings.scheduledRecordings.single;;Regjistrime të vetme
+mytv.recordings.soon;;Skadon së shpejti
+mytv.recordings.unwatched.lastMonth;;Muajin e kaluar
+mytv.recordings.unwatched.lastWeek;;Javën e kaluar
+mytv.recordings.unwatched.month;;Këtë muaj
+mytv.recordings.unwatched.week;;Këtë javë
+mytv.recordings.week;;Këtë javë
+mytvRecommendations1;;Vazhdo shikimin
+mytvRecommendations2;;Rekomandime për ju
+nagra.information.authNToken;;AuthNToken
+nagra.information.cakVersion;;Versioni CAK
+nagra.information.chipset.revision;;Rishikimi i Chipset
+nagra.information.chipset.type;;Lloji i Chipset
+nagra.information.dasSDKVersion;;DAS SDK Version
+nagra.information.irdsn;;IRDSN
+nagra.information.lastAuthNTokenDate;;Rifreskimi i fundit i shenjës së AuthN
+nagra.information.lastConnectionsToOTT;;Lidhjet e fundit me OTT
+nagra.information.lastEntitlement;;Data e fundit e së drejtës
+nagra.information.lastLicenceUpdate;;Rifresko Licencat e Fundit
+nagra.information.lastProvision;;Data e fundit e ofrimit
+nagra.information.nc.OpVaultTimestamp;;Vula kohore Op Vault
+nagra.information.nc.deviceUniqueId;;ID unike e pajisjes
+nagra.information.nc.initStatus;;Statusi i fillimit
+nagra.information.nc.integrationContextCertificateName;;Emri i Certifikatës
+nagra.information.nc.integrationContextCertificateOperatorId;;ID e Operatorit të Certifikatës
+nagra.information.nc.integrationContextCertificatePlatform;;Platforma e Certifikatave
+nagra.information.nc.integrationContextCertificateSecurityLevel;;Niveli i Sigurisë së Çertifikatës
+nagra.information.nc.integrationContextCertificateType;;Tipi i Certifikatës
+nagra.information.nc.nuid;;NUID
+nagra.information.nc.prmaVersion;;Versioni PRMA
+nagra.information.nc.prmcVersion;;Versioni PRMC
+nagra.information.nuid;;NUID
+nagra.information.projectInfo;;Informacioni i Projektit
+nagra.popups.connectionLost;;Problemi i lidhjes së pajisjes
+nagra.popups.defaultError;;Kanali nuk është i abonuar
+nagra.popups.suspended;;Pajisja u pezullua
+nagra.popups.uninitialized;;Pajisja nuk është konfiguruar
+nagra.popups.unsubscribed;;Kanali nuk është i abonuar
+network.wifi.band.unit;;GHz
+network.wifi.quality.good;;Lidhja më e mirë
+network.wifi.quality.incompatible;;Lidhje e dobët
+network.wifi.quality.sufficient;;Lidhje e mjaftueshme
+networkAccessValidation.defaultErrorMessage;;Akses i pavlefshëm në rrjet. Të lutem lidh pajisjen në rrjet dhe provo përsëri.
+notification.HDCPError.description;;Përshkrimi i gabimit HDCP
+notification.HDCPError.title;;Gabim HDCP
+notification.adultProgram.hidden.description;;Ndrysho cilësimet prindërore për të parë
+notification.adultProgram.hidden.title;;Programi është i fshehur
+notification.alexa.alert.description;;Thuaj vetëm 'Alexa stop' ose shtyp butonin EXIT për ta fikur.
+notification.alexa.alert.title;;Alexa Alarm
+notification.alexa.alexaNumberOfNotification.title;;Ke një njoftim në Alexa 
+notification.alexa.apps.notAvailable;;Kontrollet media nuk janë të disponueshme ende brenda aplikacioneve
+notification.alexa.apps.wrongContext;;Kontrollet media nuk janë akoma të disponueshme në brendësi të aplikacioneve
+notification.alexa.listenToNotification.description;;"Thjesht thuaj ""dëgjo njoftimet"" për të dëgjuar më shumë"
+notification.alexa.pressingVoiceButton.description;;"Shtyp butonin e zërit dhe thuaj ""dëgjo njoftimet"" për të dëgjuar më shumë"
+notification.alexaAction.disabledInsideApps;;Kontrolli zanor nuk është i disponueshëm kur ndodhesh brenda Aplikacioneve.
+notification.app.cts.token.error;;Ka ndodhur një gabim. Aplikacioni mund të hapet me disa kufizime.
+notification.app.gdpr.disagree;;"Të lutem, shko te ""Cilësimet"" dhe ndrysho preferencën e ""Pëlqimit të privatësisë""."
+notification.app.notSubscribed;;Nuk je i abonuar në këtë aplikacion
+notification.automaticRecordings.channelDisabled;;Aktivizo Regjistrimet Automatike që ky kanal të jetë në gjendje të shikojë këtë përmbajtje.
+notification.backend.error;;SC402: Serveri gjeti një gabim. Provo përsëri më vonë.
+notification.bleRemotePairing.failed;;Nuk ishte e mundur të lidhej telekomanda.
+notification.bleRemotePairing.info;;Për të përdorur Kontrollin Zanor, të lutem shtyp butonin e verdhë dhe 1 dhe mbaje shtypur për 5 sekonda për të lidhur telekomandën tënde.
+notification.bleRemotePairing.success;;Telekomanda tani është lidhur dhe gati për t'u përdorur me zë.
+notification.bluetooth.connected;;Bluetooth i lidhur
+notification.bluetooth.disconnected;;Bluetooth u shkëput
+notification.bluetooth.fail;;Lidhja dështoi
+notification.bluetooth.multiple.remove.subtitle;;%1 pajisja u hoq me sukses
+notification.bluetooth.noDevice;;Asnjë pajisje e re nuk u gjet
+notification.bluetooth.rcu.connected;;Telekomanda tani është e lidhur përmes Bluetooth
+notification.bluetooth.remove;;Hiq pajisjet bluetooth
+notification.bluetooth.remove.subtitle;; 1 pajisje u hoq me sukses
+notification.bluetooth.success;;U shtua me sukses
+notification.bluetooth.unsupportedRcu.description;;Versioni i telekomandës nuk është i saktë.
+notification.bluetooth.unsupportedRcu.title;;Telekomandë e pasuportuar
+notification.buy.notPossible;;Nuk mund të blesh këtë përmbajtje në këtë pajisje.
+notification.channel.liveApp;;Shtyp LART ose POSHTË për të hyrë në aplikacion %1.
+notification.channel.liveApp.redButton;;Shtyp RED për të nisur aplikacionin %1.
+notification.drmUnavailable.description;;Nagra nuk është ende gati
+notification.drmUnavailable.title;;DRM i padisponueshëm
+notification.episode.past;;Episodi i disponueshëm në regjistrimet e tua së shpejti
+notification.episode.scheduled;;Regjistrim i planifikuar
+notification.episode.scheduledNew;;Seria %1 ishte planifikuar
+notification.episode.start;;Regjistrimi në vazhdim
+notification.folder.confirm;;OK
+notification.frequentlyAskedQuestions.fetch.error;;Nuk mund të shfaqen pyetjet e bëra më shpesh
+notification.mcast.insufficient.bandwidth;;Kapaciteti i internetit i pamjaftueshëm
+notification.network.fallback;;Konfigurimet e reja nuk janë të vlefshme. Të lutem provo përsëri ose shtyp BACK për të mbajtur konfigurimet e mëparshme.
+notification.network.fallback.Id;;ID %1
+notification.network.noMuMimoEnabled;;për shkak të shpetësisë dobët WiFi, cilësia e shërbimit mund të degradojë, për të zgjidhur këtë problem, shko te Cilësimet > Më shumë cilësime > Rrjeti dhe zgjidh një rrjet të ri
+notification.network.notEnoughBandwidth;;për shkak të lidhjes të dobët Wi-Fi cilësia e shërbimit mund të degradojë, për të zgjidhur këtë problem shko tek Cilësimet > Më shumë Cilësime > Rrjeti dhe përzgjidh një rrjet të ri
+notification.offline.error;;Pajisja nuk është e lidhur me internetin
+notification.player.blackout.message1;;Ky program nuk mund të shfaqet për shkak të kufizimit të të drejtave. Provo më vonë
+notification.player.blackout.message2;;Ky program nuk mund të shfaqet për shkak të kufizimit të të drejtave. Provo më vonë
+notification.player.concurrent;;Eventi tashmë po shfaqet në numrin maksimal të pajisjeve.
+notification.player.noRights;;SB003: Po sheh në më shumë se 2 pajisje ose nuk je i abonuar.
+notification.ppv.success;;Blerja u bë me sukses
+notification.privacy.fail.description;;Provo përsëri më vonë
+notification.privacy.fail.title;;Gabim i privatësisë 
+notification.programInfo.failure;;SM010: Ka ndodhur një gabim që pengon shfaqjen e informacionit të programit.
+notification.programInfo.purchase.disclaimer;;Blerja fillon pas vendosjes së PIN-it, pas së cilës nuk do të jetë e mundur të anullohet.
+notification.programInfo.recording.noChannel;;Ky regjistrim nuk i përket asnjë kanali.
+notification.programInfo.rental.days.disclaimer;;Qiraja %1 ditore fillon pas vendosjes së kodit PIN, pas së cilës nuk do të jetë e mundur të anullohet
+notification.programInfo.rental.hour.disclaimer;;Qiraja %1 ore fillon pas vendosjes së kodit PIN, pas së cilës nuk do të jetë e mundur të anullohet
+notification.programInfo.rental.hours.disclaimer;;Qiraja %1 ore fillon pas vendosjes së kodit PIN, pas së cilës nuk do të jetë e mundur të anullohet
+notification.programInfo.rental.month.disclaimer;;Qiraja %1 mujore fillon pas vendosjes së kodit PIN, pas së cilës nuk do të jetë e mundur të anullohet
+notification.programInfo.rental.months.disclaimer;;Qiraja %1 mujore fillon pas vendosjes së kodit PIN, pas së cilës nuk do të jetë e mundur të anullohet
+notification.programInfo.subscribe.disclaimer;;Abonimi fillon pas vendosjes së kodit PIN
+notification.recommendations.disabled;;Rekomandimet janë çaktivizuar për ty.
+notification.recommendations.enabled;;Rekomandimet janë aktivizuar për ty.
+notification.recommendationsOptIn;;Nëse do ta fikësh përsëri shko te Cilësimet > Cilësimet e Përmbajtjes
+notification.recommendationsOptOut;;Nëse do ta ndezësh përsëri shko te Cilësimet > Cilësimet e Përmbajtjes
+notification.recording.cancel.failed;;Regjistrimi nuk mund të anullohet. Provo më vonë.
+notification.recording.clash.multiple;;Ka përplasje të shumta gjatë regjistrimit
+notification.recording.clash.multiple.description;;Për ta rregulluar shtyp %1 te telekomanda për të shkuar tek My TV/Regjistrime të planifikuara
+notification.recording.clash.resolve;;Përplasja u zgjidh
+notification.recording.clash.resolve.description;;Përshkrimi i zgjidhjes së përplasjes
+notification.recording.clash.single;;Përplasja e regjistrimit u zbulua
+notification.recording.clash.single.description;;Për ta rregulluar shtyp %1 te telekomanda për të shkuar tek My TV / Regjistrime të planifikuara
+notification.recording.delete.failed;;Regjistrimi nuk mund të fshihet. Provo më vonë.
+notification.recording.description.deleteRecordings;;U fshi. %1 regjistrime u fshinë me sukses
+notification.recording.fullCloudProtection;;Më tepër regjistrime të mbrojtura në cloud sesa lejohet.
+notification.recording.fullLocalProtection;;Shumë regjistrime të mbrojtura lokale
+notification.recording.fullProtectionTitle;;Regjistrimi nuk mund të mbrohet
+notification.recording.localNotPossible;;Për të programuar regjistrim, duhet të lidhësh hard diskun tënd lokal
+notification.recording.past;;Përmbajtja në disponueshme në regjistrimet e tua së shpejti
+notification.recording.scheduledNew;;Regjistrimi %1 ishte planifikuar
+notification.recording.title.delete;;Fshi Regjistrimet 
+notification.recordings.update;;Vodafone TV po përditësohet
+notification.remoteBooking.hddConnected.title;;Për të rezervuar regjistrime në distancë, shtyp butonin Jeshil dhe ndrysho modalitetin e Standby së pajisjes tënde.
+notification.remoteDiagnostics.speedTest.ongoing;;Testi i shpejtësisë është në vazhdim, të lutem prit.
+notification.remotePairing.timeout;;Na vjen keq që lidhja dështoi. Provo përsëri duke shtypur butonin zanor në telekomandën tënde.
+notification.rent.notPossible;;Nuk mund të marrësh me qira këtë përmbajtje në këtë pajisje.
+notification.rollingBuffer.description;;ose shtyp BACK për të vazhduar në rolling buffer
+notification.rollingBuffer.title;;Duke u kthyer te live 
+notification.search.characterLimit.description;;U arrit limiti i shkronjave
+notification.search.characterLimit.title;;limiti u arrit
+notification.search.fail.description;;Ndodhi një gabim gjatë ngarkimit të përmbajtjes
+notification.search.fail.title;;Gabim kërkimi
+notification.seriesInfo.fetchDataFailed;;SM011: Nuk mund të shfaqen të gjitha episodet. Kontrollo lidhjen e internetit.
+notification.seriesInfo.missingMetadata;;ID e serisë mungon. Nuk mund të shfaqet informacioni i programit.
+notification.seriesRecording.alreadyScheduled;;Kjo përmbajtje është tashmë e planifikuar. Për më shumë opsione, zgjidh këtë përmbajtje duke përdorur OK
+notification.seriesRecording.past;;Të gjitha episodet e mëparshme të disponueshme në Regjistrimet e tua së shpejti
+notification.seriesRecording.pastNew;;"Episodet e mëparshme do të shfaqen së shpejti te ""Regjistrimet e mia""."
+notification.soundbox.audio.off;;Dalja audio është vendosur në OFF
+notification.soundbox.audio.stb;;Dalja audio është vendosur në pajisje
+notification.soundbox.audio.tv;;Dalja audio është vendosur në TV
+notification.soundbox.connected;;%1 e lidhur
+notification.soundbox.description;;Shko tek Cilësimet / Pajisjet e Lidhura / Asistentët Zanorë për të kontrolluar.
+notification.soundbox.disconnected;;Soundbox u shkëput
+notification.subscribe.notPossible;;Nuk mund të abonohesh për këtë përmbajtje në këtë pajisje.
+notification.subscription.success;;Abonimi u bë me sukses
+notification.timeout.error;;SC401: Afati i marrjes së të dhënave përfundoi. Kontrollo routerin për probleme me lidhjen internet.
+notification.trickMode.notAllowed;;Trick Mode nuk lejohet
+notification.vodafoneNetworkLost.description;;Duhet të jesh në rrjetin tënd Vodafone për të përdorur të gjithë funksionalitetet e Vodafone GigaTV
+notification.vodafoneNetworkLost.title;;Rrjeti Vodafone u shkëput
+notification.voiceAction.appNonExistent;;Zëri nuk suportohet në këtë aplikacion
+notification.voiceAction.appNotAvailable;;Aplikacioni nuk është i disponueshëm
+notification.voiceAction.areaNonExistent;;Ne nuk mund ta shfaqim këtë pasi nuk ekziston
+notification.voiceAction.genericError;;Diçka nuk shkoi mirë, provo përsëri
+notification.voiceAction.keyPressedTooShort;;Nuk kuptohet, shtyp butonin e zërit më gjatë dhe fol
+notification.voiceAction.kids.profileNotSelected;;Duhet të zgjedhësh një profil para se të përdorësh Zërin
+notification.voiceAction.kids.screenNotAllowed;;Duhet të shkosh në menu për të përdorur Zërin
+notification.voiceAction.misunderstanding;;Nuk kuptohet, përsërite të lutem
+notification.voiceAction.noChannel;;Kanali %1 nuk ekziston
+notification.voiceAction.noChannelError;;Ai kanal nuk ekziston
+notification.voiceAction.noChannelNumber;;Ky numër kanali nuk ekziston
+notification.voiceAction.noResults;;Nuk gjetëm asgjë, përsërite të lutem
+notification.voiceAction.notAllowedContent;;Nuk lejohet të shikosh përmbajtje të këtij lloji
+notification.voiceAction.notAllowedInApp;;Veprimi nuk është i mundur me këtë aplikacion
+notification.voiceAction.notPossible;;Nuk është e mundur të realizohet kjo kërkesë
+notification.voiceAction.notSupportedInKids;;Na falni, nuk mund ta bësh këtë duke përdorur Vodafone Kids.
+notification.voiceAction.voiceASRFailure;;Nuk ishte e mundur të përpunohej kërkesa. Provo përsëri.
+notification.voiceAction.voiceToSearch;;Përdor Zërin për të kërkuar
+notifications.privacy.fail.title;;Nuk u arrit të aksesohet njoftimi/pëlqimi i privatësisë
+optIn;;Ndiz tani
+pin.consecutiveDigitsError.popup.text;;Katër numra të njëjtë me radhë nuk lejohen (p.sh. 2222) <br> Të lutem zgjidh një kombinim tjetër.
+pin.consecutiveDigitsError.popup.title;;Ky kombinim nuk lejohet <br> <br>
+pin.lockedPin.notification.description;;Provo përsëri në %1
+pin.lockedPin.notification.title;;Vendosja e kodit PIN është e bllokuar
+pin.lockedPin.popup.text;;Kodi PIN që ke vendosur është i pasaktë tri herë rresht <br> Mund të provosh përsëri në %1
+pin.lockedPin.popup.title;;Vendosja e PIN është e kyçur për %1 në vijim <br> <br>
+pinEntry.adultPin;;Vendos PIN
+pinEntry.purchasePinCode;;Vendos PIN
+player.endOfBuffer.description;;Ke arritur në fillimin e Regjistrimit Automatik
+player.endOfBuffer.title;;Regjistrimi automatik u tejkalua
+player.feedback.remaining;;Të mbetura
+player.notification.cantRecoverMedia.description;;Njoftimi se nuk mund të rikuperohet përshkrimi i medias
+player.notification.cantRecoverMedia.title;;Njoftim se nuk mund të rikuperohet titulli i medias
+popup.gdpr.app.disagree;;Për të përfunduar këtë veprim, duhet të rindezësh pajisjen
+popups.buttons.continueWithoutRebooting;;Vazhdo pa kanale
+popups.buttons.rebootStb;;Rikthe në gjendje fillestare
+popups.cecStandBy.message;;Pajisja jote Vodafone tani po fiket. Nëse televizori nuk fiket vetë, të lutem kontrollo nëse pajisjet e tjera HDMI janë akoma të ndezura ose fik televizorin
+popups.deepLinkError.button;;Ok
+popups.deepLinkError.message;;Na vjen keq, pati një problem gjatë kryerjes së këtij operacioni. Të lutem provo përsëri më vonë.
+popups.deepLinkError.title;;Diçka shkoi keq
+popups.emptyChannelList.description;;"Të lutem shtyp OK te njoftimi ""Rinis STB në mënyrë që të rindezësh pajisjen"" dhe të zgjidhësh problemin. <br> Nëse dëshiron të vazhdosh pa kanale, shtyp OK te njoftimi ""Vazhdo pa kanale"". Për të zgjidhur problemin më vonë, fik pajisjen dhe ndize përsëri nga burimi i energjisë."
+popups.emptyChannelList.title;;Nuk mund të rikuperonim listën e plotë të kanaleve
+popups.error.folderWithIncorrectApp;;Gabim: Folderi përmban një aplikacion të gabuar
+popups.howToSubscribe;;Kontakto shërbimin e klientit për t'u abonuar
+popups.networkValidation.buttons.retry;;provo përsëri
+popups.networkValidation.misc;;Ndodhi një gabim (gabim: %1).
+popups.networkValidation.title;;Vërtetimi i aksesit në rrjet dështoi
+popups.noInternetConnection.button;;Hap Cilësimet
+popups.noInternetConnection.message;;Kontrollo që të gjitha kabllot janë të lidhura siç duhet dhe nëse konfigurimet e internetit janë të sakta. Nëse problemi vazhdon, kontakto shërbimin e klientit.
+popups.noInternetConnection.title;;Nuk ka lidhje interneti
+popups.notEnoughBandwidth.buttons.retry;;Provo sërish
+popups.notEnoughBandwidth.message;;Për të zgjidhur këtë problem, të lutem shtyp përsëri dhe kontrollo ruterin, duke e afruar atë me pajisjen ose duke eleminuar çdo element bllokues rreth tij. Nëse problemi vazhdon kontakto shërbimin e klientit (140).
+popups.notEnoughBandwidth.title;;Na vjen keq që pati një problem me kapacitetin e WiFi
+popups.powerSaving.buttons.closeThirdAppsAndAdjust;;Mbyll dhe ndrysho Standby automatik
+popups.speedTest.misc;;Testi i shpejtësisë është në vazhdim. A do të ndalosh testin?
+popups.subscriptionFiltering.buttons.cancel;;Jo
+popups.subscriptionFiltering.buttons.showApp;;Shfaq %1
+popups.subscriptionFiltering.message;;Shfaq %1 përmbajtje në zonën On Demand dhe rezultatet e kërkimit?
+popups.subscriptionFiltering.title;;Shpresojmë që të ka pëlqyer ky aplikacion.
+popups.update.failed;;Gabim %1: Përditësimi i Softuerit dështoi
+popups.update.success;;Përditësimi u bë me sukses
+programInfo.actionButtons.confirm;;Konfirmo
+programInfo.actionButtons.from;;nga
+programInfo.actionButtons.listen;;Dëgjo
+programInfo.actionButtons.noFolderSubscribe;;Abonohu
+programInfo.actionButtons.own;;Zotëro
+programInfo.actionButtons.ownAsPPVLabel;;Zotëro %1
+programInfo.actionButtons.ownLabel;;Zotëro %1
+programInfo.actionButtons.rentAsPPVLabel;;Qira %1
+programInfo.actionButtons.restartLiveOn;;Rifillo Drejtpërdrejt në
+programInfo.actionButtons.resume;;Rifillo
+programInfo.actionButtons.subscribeLabel;;Abonohu në
+programInfo.actionButtons.subscribePrice;;Abonohu %1
+programInfo.actionButtons.subscribeSelfcare;;Abonohu
+programInfo.actionButtons.subscribedLabel;;Abonuar në
+programInfo.actionButtons.trailers;;Trailera
+programInfo.actionButtons.watchBundle;;Shiko të gjitha
+programInfo.actionButtons.watchBundleIn;;Shiko të gjitha në %1
+programInfo.actionButtons.watchCatchupOn;;Shiko Catch Up në
+programInfo.actionButtons.watchLiveOn;;Shiko drejtpërdrejt në
+programInfo.actionButtons.watchOn;;Shiko në 
+programInfo.actionButtons.watchSubscriptionOn;;Shiko %1 nga
+programInfo.actors.label;;Aktorët
+programInfo.badging.availableToRent;;Në dispozicion për qira 
+programInfo.badging.availableToRentAndExpiration;;%1 ditë me qira në dispozicion nga %2
+programInfo.bundle.partOf;;Pjesë e %1
+programInfo.catchupExpiresOn;;Catch Up skadon në %1
+programInfo.director.label;;Regjizori
+programInfo.newPI.catchupAiredOn;;Transmetuar %1
+programInfo.newPI.catchupExpiresOn;;Skadon për %1orë dhe %2min
+programInfo.newPI.recordedOn;;Regjistruar % 1
+programInfo.newPi.recordingServiceName;;në % 1
+programInfo.partialRecordingExpiresOn;;Regjistrimi i pjesshëm skadon në %1
+programInfo.purchase.disclaimer;;Pas vendosjes së PIN, fillon qiraja për filmin me afat 48 orë. Pas vendosjes se PIN, nuk mund ta anullosh blerjen.
+programInfo.recordingExpiresOn;;Regjistrimi skadon në %1
+programInfo.series.special;;SPECIALE
+rails.availableToOwn;;Në dispozicion për t'u zotëruar
+rails.defaultGenreLabel;;Për t'u Përcaktuar
+rails.relatedfrom;;Më shumë nga %1
+rails.relatedto;;Ngjashme me %1
+rails.rollingBuffer.title.dayOfTheMonthDateFormat;;ddd dd mmm
+rails.rollingBuffer.title.today;;Më shumë nga %1
+rails.rollingBuffer.title.today-1;;Dje
+rails.rollingBuffer.title.today-2;;2 ditë më parë
+rails.rollingBuffer.title.today-3;;3 ditë më parë
+rails.rollingBuffer.title.today-4;;4 ditë më parë
+rails.rollingBuffer.title.today-5;;5 ditë më parë
+rails.rollingBuffer.title.today-6;;6 ditë më parë
+rails.rollingBuffer.title.today-7;;7 ditë më parë
+rails.subscription;;Abonimi
+rails.title.morefrom;;Më shumë nga %1
+recordingCancel.cancelSeries;;Anullo Serinë
+recordingCancel.subtitle;;Dëshiron të anullosh të gjithë serinë?
+recordingCancel.title;;Regjistrimi u anullua
+recordings.update.please.wait;;Të lutem prit
+relatedbyactor;;Më shumë nga %1
+relatedbydirector;;Drejtuar nga %1
+relatedbygenre;;Më shumë %1 për ty
+relatedto;;Në lidhje me %1
+sdk7.browse.myHome.aboutMyHome;;Rreth Shtëpisë Sime
+sdk7.browse.myHome.breadcrumbTitle;;Shtëpia ime
+sdk7.browse.myHome.button.browseOnDemand;;Shfletoni On Demand
+sdk7.browse.myHome.button.openTvGuide;;Hap Guidën TV
+sdk7.browse.myHome.contentInfo;;Shfaqje televizive të regjistruara, filma dhe seriale të marra me qira ose të preferuarat e ruajtura - gjeji të gjitha në këtë zonë. Mos ngurro të shfletosh katalogun sipas kërkesës ose Guidën TV për diçka për të regjistruar, marrë me qira ose abonuar.
+sdk7.countrySelection.text;;Kjo përzgjedhje do të përdoret për të konfiguruar gjuhën e aplikacionit.
+sdk7.countrySelection.title;;Të lutem zgjidh shtetin tënd
+sdk7.epg.focusedTile.remaining;;%1 e mbetur
+sdk7.lockedPin.modal.subtitle;;Vendos kodin PIN për të shkyçur %1
+sdk7.lockedPin.modal.title;;E kyçur me PIN
+sdk7.menu.tab.onTv;;Në TV
+sdk7.miniProgramInfo.remaining;;mbetur
+sdk7.miniProgramInfo.showMore;;Më shumë informacion
+sdk7.moreBucket.all;;Të gjitha
+sdk7.pinEntry.helpLabel;;Probleme me PIN-in?
+sdk7.pinEntry.success;;Epo, sukses!
+sdk7.pinEntry.success.subtitle;;% 1 u shkyç
+sdk7.pinEntry.unSuccessful;;PIN i gabuar
+sdk7.pinEntry.unSuccessful.subtitle;;Të lutem provo përsëri për të shkyçur %1
+sdk7.pinEntry.verifying;;Po verifikohet...
+sdk7.programInfo.actionButtons.wishlist.add;;Lista e dëshirave
+sdk7.programInfo.actionButtons.wishlist.remove;;Hiq nga lista e dëshirave
+sdk7.programInfo.showInfo;;Shfaq informacion
+sdk7.search.noResults;;Nuk u gjetën rezultate
+sdk7.search.searchResults;;Rezultatet e Kërkimit
+sdk7.serieInfo.episodePrefix;;Episodi % 1
+sdk7.serieInfo.episodeShortPrefix;;E
+sdk7.serieInfo.seasonShortPrefix;;S
+sdk7.settings;;Cilësimet
+sdk7.settings.changePin.confirm;;Konfirmo
+sdk7.settings.changePin.confirmNewPin;;Konfirmo PIN-in e ri
+sdk7.settings.changePin.enterNewPin;;Vendos PIN-in tënd të ri
+sdk7.settings.changePin.hideNewPin;;Fshih PIN-in e ri
+sdk7.settings.changePin.masterPin;;PIN-i kryesor
+sdk7.settings.changePin.pinChanged.failed;;Ndryshimi i PIN dështoi
+sdk7.settings.changePin.pinChanged.successfully;;PIN u ndryshua
+sdk7.settings.changePin.pinChanged.tryAgain;;Shtyp OK për të provuar përsëri
+sdk7.settings.changePin.secondaryString;;Për arsye sigurie, PIN-i nuk mund të përmbajë vetëm numra identikë. Nëse kodi PIN që ke zgjedhur nuk pranohet, të lutem provo përsëri më vonë.
+sdk7.settings.changePin.showNewPin;;Shfaq PIN-in e ri
+sdk7.settings.changePin.title;;Ndrysho PIN-in
+sdk7.settings.hiddenChannels;;Kanalet e Fshehura
+sdk7.settings.parentalControls.adultContent;;Përmbajtje për të rritur
+sdk7.settings.parentalControls.ageRating.pinModal.event;;Vlerësimi i moshës
+sdk7.settings.parentalControls.ageRating.screen.description;;Lejo shikimin e përmbajtjes pa PIN për vlerësimin e moshës së zgjedhur. Përmbajtja e mësipërme do të bllokohet dhe mund të shikohet vetëm pasi të kesh futur kodin PIN.
+sdk7.settings.parentalControls.ageRating.screen.secondary.description;;PIN-i prindëror i parazgjedhur është 0000. I sugjerojmë Përdoruesit të përcaktojë një të ri në rast se nuk e ka bërë ende.
+sdk7.settings.parentalPurchases.locked;;PIN-i i blerjes është aktivizuar. Shtyp OK për ta çaktivizuar.
+sdk7.settings.parentalPurchases.locked.desc;;PIN-i është i nevojshëm për të marrë me qira, për të blerë ose për t'u abonuar në përmbajtje. Në rast se është i çaktivizuar, të gjitha transaksionet mund të kryhen menjëherë.
+sdk7.settings.parentalPurchases.purchasePinState;;Gjendja e PIN për blerje
+sdk7.settings.parentalPurchases.unlocked;;PIN-i i blerjes është i çaktivizuar. Shtypni OK për ta aktivizuar.
+sdk7.settings.parentalPurchases.unlocked.desc;;Merr me qira, bli ose abonohu ​​në përmbajtje menjëherë. Në rast se aktivizohet, do të kërkohet një PIN për të gjitha transaksionet.
+sdk7.settings.pinProtection.desc;;"Kur aktivizohet Mbrojtja me PIN, përmbajtja dhe veprimet e zgjedhura bllokohen dhe PIN-i nevojitet për ta zhbllokuar. Kur ""Mbrojtja PIN"" është çaktivizuar, e gjithë përmbajtja (duke përfshirë përmbajtjen dhe kanalet për të rritur) dhe veprimet janë të shkyçura dhe nuk nevojitet asnjë PIN."
+sdk7.settings.pinProtection.isActivated;;Mbrojtja PIN është aktivizuar dhe cilësimet e kontrollit prindëror janë aktivizuar. Shtyp OK për ta çaktivizuar.
+sdk7.settings.pinProtection.isDeactivated;;Mbrojtja PIN është çaktivizuar dhe cilësimet e kontrollit prindëror janë çaktivizuar. Shtyp OK për ta aktivizuar.
+sdk7.settings.pinProtection.pinConfirmationModal.message.activatePin;;Je i sigurt që dëshiron të aktivizosh mbrojtjen PIN?
+sdk7.settings.pinProtection.pinConfirmationModal.message.deactivatePin;;Je i sigurt që dëshiron të çaktivizosh mbrojtjen PIN?
+sdk7.settings.pinProtection.pinConfirmationModal.title.activatePin;;Aktivizo PIN
+sdk7.settings.pinProtection.pinConfirmationModal.title.deactivatePin;;Çaktivizo PIN
+sdk7.settings.pinProtection.pinProtection;;Mbrojtja PIN
+sdk7.settings.premiumChannels.hidden;;Aktualisht këto kanale janë të fshehura. Shtyp OK për të shfaqur të gjitha kanalet premium të paabonuar.
+sdk7.settings.premiumChannels.intro;;Për lehtësinë tënde, mund të fshehësh ose shfaqësh të gjitha kanalet premium në të cilat nuk je abonuar në Vodafone TV.
+sdk7.settings.premiumChannels.visible;;Aktualisht këto kanale janë të dukshme. Shtyp OK për të fshehur të gjitha kanalet premium të paabonuar.
+sdk7.settings.privacy.and.terms;;Privatësia dhe Kushtet
+sdk7.settings.privacy.consent.disagree.text;;Duke mos rënë dakord, do të humbësh rekomandimet dhe veçoritë e tjera shtesë që ofrojnë përvojën më të mirë të Vodafone TV.
+sdk7.settings.privacy.consent.disagree.title;;A je i sigurt?
+sdk7.settings.vodafoneTV;;Vodafone TV
+sdk7.smartTV.firstInstall.login.error.title;;Probleme me llogarinë?
+sdk7.watch.timestamp.live;;live
+search.recentSearches;;Kërkimet e fundit
+search.recommendations;;Rekomandimet
+searchRecommendations1;;Të gjitha
+searchRecommendations2;;Drejtpërdrejt tani
+searchRecommendations3;;Catch-Up më i fundit
+serieInfo.episodeShort;;E
+serieInfo.seasonPrefix;;Sezoni %1
+serieInfo.seasonShort;;S
+settings.accessibility.audioLanguage.description;;Lëviz lart/poshtë për të zgjedhur një gjuhë dhe shtyp OK për të konfirmuar zgjedhjen.
+settings.accessibility.audioLanguage.description.selected;;Gjuha e audios është caktuar në %1. Nëse disponohet, do të luhet automatikisht.
+settings.accessibility.help;;Ndihmë
+settings.accessibility.help.description;;Nëse të duhet ndihmë me shërbimin Vodafone GigaTV, kontakto<br/>përfaqësuesin e dedikuar Vodafone në +35569140 ose <br/>vizito www.vodafone.al
+settings.alexa;;Amazon Alexa
+settings.alexa.deviceName;;Emri i pajisjes:
+settings.alexa.status.finished;;U krye!
+settings.ast.astDisableVisualScrubber;;Scrubber Vizual
+settings.ast.astOverrideShakaSettings;;Cilësimet Shaka
+settings.ast.astSettings;;Advanced Shaka Troubleshooting
+settings.ast.astShowBackgroundProcess;;Proces në sfond
+settings.ast.overrideShakaSettings.items.bufferingGoal;;Synimi i buffering
+settings.ast.overrideShakaSettings.items.defaultBandwidthEstimate;;Cilësimi i parazgjedhur i kapacitetit internet
+settings.ast.overrideShakaSettings.items.defaultPresentationDelay;;Vonesë në shfaqje
+settings.ast.overrideShakaSettings.items.rebufferingGoal;;Synimi i rebuffering
+settings.ast.overrideShakaSettings.resetButton;;Reset
+settings.ast.overrideShakaSettings.title;;Cilësimet Shaka
+settings.audioAndVisual.audioOutput.auto;;Automatike
+settings.audioAndVisual.audioOutput.resetVolume;;Rivendos nivelin e volumit
+settings.audioAndVisual.audioOutput.resetVolumeInfo;;Rivendosja e nivelit të volumit do të vendosë outputin e pajisjes Vodafone TV në një nivel mesatar.<br/> Përdor telekomandën nëse e ke lidhur me Vodafone me TV dhe vendos volum shumë të lartë ose pa volum.
+settings.audioAndVisual.audioSettings;;Audio
+settings.audioAndVisual.audioSettings.hdmi;;HDMI
+settings.audioAndVisual.audioSettings.localSpeaker;;Folës Lokal
+settings.audioAndVisual.soundMode;;Profili Audio
+settings.audioAndVisual.soundMode.automatic;;Automatike
+settings.audioAndVisual.soundMode.game;;Lojë
+settings.audioAndVisual.soundMode.movie;;Film
+settings.audioAndVisual.soundMode.music;;Muzikë
+settings.audioAndVisual.soundMode.music.fidelity;;Cilësia e Muzikës
+settings.audioAndVisual.soundMode.music.loud;;Muzikë e Lartë
+settings.audioAndVisual.soundMode.music.surround;;Muzika Përreth
+settings.audioAndVisual.soundMode.night;;Natë
+settings.audioAndVisual.soundMode.off;;Fikur
+settings.audioAndVisual.soundMode.sport;;Sport
+settings.audioAndVisual.soundMode.voice;;Zëri
+settings.audioAndVisual.widescreen;;Trajtimi 4:3
+settings.audioAndVisual.widescreen.fullmode;;Modalitet i plotë
+settings.audioAndVisual.widescreen.original;;Origjinali
+settings.audioAndVisual.widescreen.zoom;;Zmadho
+settings.audioProfile.description;;Profili i audios ndikon në tingull vetëm kur altoparlantët e dekoderit janë në përdorim.
+settings.autoDelete;;Fshirja automatike do të nisë me regjistrimet e radhës të planifikuara. Rrit hapësirën për të shmangur fshirjen
+settings.automaticRecordings.description;;Një nga funksionalitetet e Vodafone TV është shikimi i programeve televizive të 7 ditëve të fundit. Mund të aksesohen programet direkt duke përdorur Guidën TV ose duke shtypur shigjetat Lart dhe Poshtë në telekomandë.
+settings.automaticRecordings.title;;Regjistrime Automatike
+settings.bluetooth;;Bluetooth
+settings.bluetooth.addDevice;;Shto Pajisje
+settings.bluetooth.autoConnect;;Lidhje automatike
+settings.bluetooth.connect;;Lidh një pajisje
+settings.bluetooth.connected;;Lidhur
+settings.bluetooth.connected.description;;"Lëviz lart/poshtë për të zgjedhur një pajisje. Shtyp OK për të lidhur ose shkëputur pajisjen e zgjedhur. Nuk e gjen pajisjen? Shko te ""Shto pajisje"" për të kërkuar pajisje të tjera."
+settings.bluetooth.connecting;;Duke u lidhur...
+settings.bluetooth.description;;Lista e pajisjeve bluetooth është bosh. <br> Fillimisht shto një pajisje për ta lidhur atë.
+settings.bluetooth.devices;;Pajisjet e mia
+settings.bluetooth.disconnecting;;Duke u shkëputur...
+settings.bluetooth.otherDevices;;Pajisjet e tjera
+settings.bluetooth.pairing;;Aktivizim Bluetooth
+settings.bluetooth.pairingPopup.description;;"Të lutem kontrollo pajisjen tënde për të konfirmuar. Më pas do të jetë e listuar te ""Pajisjet e mia"""
+settings.bluetooth.pairingPopup.title;;Duke shtuar %1
+settings.bluetooth.pairingScreen.description;;Lëviz lart/poshtë për të zgjedhur një pajisje. Shtyp OK për të shtuar pajisjen e zgjedhur në listën tënde.
+settings.bluetooth.refreshButton.text;;Rifresko
+settings.bluetooth.removeDevice;;Hiq Pajisje
+settings.bluetooth.removeScreen.description;;"Zgjidh një ose më shumë pajisje me ""OK"" në telekomandën tënde. <br/> Konfirmo përzgjedhjen tënde për t'i hequr ato nga lista e pajisjeve të tua."
+settings.bluetooth.screen.description;;Mund ta lidhësh pajisjen përmes Bluetooth për të dëgjuar muzikën tënde.
+settings.bluetooth.screen.title;;Lidhje Bluetooth
+settings.bluetooth.searching;;Duke kërkuar për pajisje të tjera
+settings.boxSpace;;Regjistrimet
+settings.cec.buttons.paired;;Lidhur
+settings.cec.buttons.unpaired;;Lidh tani
+settings.cec.paired.description;;Telekomanda Vodafone TV është lidhur për të kontrolluar Energjinë, Volumin, Heqjen e volumit dhe Burimin e sinjalit në TV.<br>Nëse nuk do të kontrollosh TV me telekomandë, shkëput lidhjen me telekomandën këtu
+settings.cec.paired.subtitle;;Shkëput lidhjen me TV
+settings.cec.title;;Kontrollet TV
+settings.cec.unpaired.description;;Lidh telekomandën Vodafone TV për të kontrolluar Ndezjen/Fikjen, Volumin dhe Burimin e sinjalit në TV.
+settings.cec.unpaired.subtitle;;Lidh Kontrollet TV
+settings.channelReordering.apply;;Apliko
+settings.channelReordering.confirm;;Konfirmo
+settings.channelReordering.multiSelection;;Përzgjedhje e Shumëfishtë
+settings.channelReordering.notification.channelAllSubHidden.description;;Ktheni të paktën një kanal të abonuar në të dukshëm. Për të fshehur kanalet pa gabime
+settings.channelReordering.notification.channelAllSubHidden.title;;Kanalet nuk mund të fshihen
+settings.channelReordering.notification.channelHidden.description;;"Për të shfaqur kanalin, shko tek ""Cilësimet e Vodafone TV"" dhe modifiko kanalin që do të shohësh"
+settings.channelReordering.notification.channelHidden.title;;%1 (%2) është i fshehur
+settings.channelReordering.notification.channelHidden.titleForAll;;Të gjitha kanalet janë të fshehura
+settings.channelReordering.notification.channelUnsubHidden.description;;Preferenca për të shfaqur/fshehur kanale të paabonuara u përditësua
+settings.channelReordering.notification.channelUnsubHidden.title;;Kliko për shfaqjen/fshehjen e kanaleve të paabonuar
+settings.channelReordering.notification.notSortable.description;;Përzgjedhja u vendos në pozicion 1%
+settings.channelReordering.notification.notSortable.title;;Pozicioni i kanalit 1% është i mbrojtur
+settings.channelReordering.reset;;Rivendos Renditjen
+settings.channelReordering.reset.popup.description;;A je i sigurt që dëshiron të rikthesh renditjen e kanaleve te cilësimet e paracaktuara?
+settings.channelReordering.reset.popup.title;;Rikthe Renditjen e Kanaleve
+settings.channelSorting.allChannels.selected;;Të gjitha Kanalet (1% e përzgjedhur)
+settings.channelSorting.allChannels.unselected;;Të gjitha Kanalet
+settings.channelSorting.description;;Për të ndryshuar renditjen e kanaleve, zgjidh kanalin duke shtypur OK.<br><br>Zhvendose kanalin tek pozicioni i dëshiruar ose vendos numrin e ri të kanalit.
+settings.channelSorting.description.batchSelection;;Zhvendos zgjedhjen Lart/Poshtë në pozicionin e ri, ose përdor tastet e numrave në pult.<br><br>Shtyp OK për ta lëvizur.
+settings.channelSorting.description.editMode;;Lëviz kanalin Lart/Poshtë në pozicionin e ri, ose përdor tastet e numrave në pult.<br><br>Shtyp OK për ta ruajtur atë.
+settings.channelSorting.description.multiSelectionMode;;Për të ndryshuar renditjen e kanaleve, zgjidh kanalin duke shtypur OK.<br><br>Zhvendose kanalin tek pozicioni i dëshiruar ose vendos numrin e ri të kanalit.
+settings.channelSorting.subtitle.customisation;;Personalizim
+settings.channelSorting.title;;Renditja e kanaleve
+settings.channelVisibility.allChannels.visible;;Të gjitha Kanalet
+settings.channelVisibility.confirm;;Konfirmo
+settings.channelVisibility.description;;Për të fshehur/shfaqur<br>kanale sipas dëshirës<br><br>gjej numrin e kanalit dhe shtyp OK.
+settings.channelVisibility.hideAllChannels;;Të paktën një kanal duhet të jetë i dukshëm në VTV.
+settings.channelVisibility.hideUnsubscribedChannels;;Fshih kanalet e pa abonuara
+settings.channelVisibility.showUnsubscribedChannels;;Shfaq kanalet e pa abonuara
+settings.channelVisibility.subtitle;;Fshih Kanalet
+settings.channelVisibility.subtitle.customisation;;Personalizim
+settings.channelVisibility.title;;Shfaqja e Kanalit
+settings.cloudRecordings;;Regjistrime në Cloud
+settings.cloudsRecordings;;Regjistrime në Cloud
+settings.connectedDevices;;Pajisje të lidhura
+settings.connectedDevices.mobilePairing;;Mobile Apps
+settings.connectedDevices.remote;;Telekomanda
+settings.connectedDevices.tvInput;;Input TV
+settings.connectedDevices.voiceAssistants;;Asistentë Zanorë
+settings.contentSettings;;Cilësimet e Përmbajtjes
+settings.developerMode;;Mënyra e Zhvilluesit
+settings.fallbackDeepLink;;Shko tek DeepLink Dinamik
+settings.frequentlyAskedQuestions;;Pyetjet më të shpeshta
+settings.frequentlyAskedQuestions.faqBrowser;;Merr përgjigje
+settings.informations.abrProfile;;Profili aktual ABR
+settings.informations.button.pvr;;Informacioni i diskut
+settings.informations.buttons.nagra;;Nagra
+settings.informations.buttons.nagraStv;;Nagra
+settings.informations.buttons.pvr;;PVR
+settings.informations.casingSerialNumber;;Numri Serial
+settings.informations.casingSerialNumber.unavailable;;I padisponueshëm
+settings.informations.channelNameDVBC;;Emri i kanalit kabllor
+settings.informations.channelNameDVBIP;;Emri i kanalit
+settings.informations.channelNameFTTH;;Emri i kanalit
+settings.informations.diskConnectState;;Gjendja e lidhjes së diskut
+settings.informations.diskConnectState.connected;;Lidhur
+settings.informations.diskConnectState.disconnected;;Shkëputur
+settings.informations.diskStatus;;Statusi i Diskut
+settings.informations.diskStatus.notReady;;Nuk është gati
+settings.informations.diskStatus.ready;;Gati
+settings.informations.freq;;Frekuenca
+settings.informations.hdcpVersion;;Versioni HDCP
+settings.informations.imei;;IMEI
+settings.informations.kdsn;;KDSN
+settings.informations.lcn;;LCN
+settings.informations.netflixEsn;;Netflix ESN
+settings.informations.nid;;ID e rrjetit
+settings.informations.onid;;ID origjinale e rrjetit
+settings.informations.otaUpdateProgress;;Progresi i përditësimit OTA
+settings.informations.ott;;OTT
+settings.informations.packetLoss;;Humbja e të dhënave
+settings.informations.sdkVersion;;Versioni SDK te Cilësimet
+settings.informations.sid;;ID Shërbimi
+settings.informations.signalQuality;;Cilësia
+settings.informations.smartTvVersion;;Versioni STV
+settings.informations.snr;;SNR
+settings.informations.tsid;;Transport Stream ID
+settings.informations.updateStatus.failed;;1%: Përditësimi dështoi
+settings.informations.updateStatus.success;;Sukses
+settings.informations.uri;;URI
+settings.informations.wireless.quality;;Informacion i cilësimeve për cilësinë e Wi-Fi
+settings.language.audioLanguage;;Gjuha audio
+settings.language.systemLanguage;;Gjuha e sistemit
+settings.language.systemLanguage.info;;Kur zgjidhet opsioni Auto, pajisja do të përdorë gjuhën e TV Smart si Gjuha e Sistemit të saj nëse pajisja nuk e ka këte gjuhë.
+settings.languageAndAccessibility;;Gjuha dhe Aksesueshmëria
+settings.languageAndAccessibility.audioLanguage;;Audio
+settings.languageAndAccessibility.subtitlesPreference;;Preferenca e Titrave
+settings.localRecordings;;Regjistrime Lokale
+settings.localRecordings.error;;Pati një problem kur u mor informacioni nga disku
+settings.localRecordings.reformatDisk.notification.helpMessage;;Të lutem ki parasysh që të gjitha regjistrimet lokale do të humbasin. <br/> Nuk mund ta kthesh mbrapsht këtë!
+settings.localRecordings.reformatDisk.notification.offlineSubtitle;;Formatimi i diskut nuk mund të bëhet kur je jashtë linje
+settings.localRecordings.reformatDisk.notification.offlineTitle;;Formatimi i diskut nuk mund të bëhet kur je jashtë linje
+settings.localRecordings.reformatDisk.notification.title;;Për të riformatuar vendos PIN.
+settings.logger;;Regjistruesi
+settings.logger.loggerIp;;Pika përfundimtare e regjistrave
+settings.logger.loggerModule;;Moduli i regjistruesit
+settings.logger.loggerType;;Llojet e regjistrave
+settings.loggerIp.description;;Regjistrat do të dërgohen në IP e mëposhtme me rregullat e mëposhtme në portën 8080
+settings.loggerIp.subtitle;;Vendos IP tënde
+settings.loggerIp.title;;IP e identifikuesit
+settings.loggerModule.description;;Aktivizimi i modulit do të lejojë të kesh më shumë detaje mbi një modul specifik.<br/> Kjo mund të ketë si efekt anësor ngadalësimin e lundrimit
+settings.loggerModule.subtitle;;Aktivizo regjistrin që të duhet
+settings.loggerModule.title;;Aktivizim i modulit të regjistrit
+settings.loggerType.description;;Ekzistojnë tre mundësi: - Shfletuesi: Ridrejtojeni atë te korrigjuesi i shfletuesit<br/> - Sagemcom MW: Dërgoni të gjitha regjistrat në MW (punon vetëm në STB),<br/> - Websocket: Ridrejtoni regjistrin tuaj përmes WebSocket në një IP që mund ta konfiguroni. <br/>Mbani parasysh se kjo mund të ketë si efekt anësor ngadalësimin e lundrimit
+settings.loggerType.subtitle;;Zgjidh vendin ku do të gjesh regjistrin tënd
+settings.loggerType.title;;Aktivizimi i regjistrit
+settings.network.channelScan.pleaseWait;;Skanim kanalesh, prit pak...
+settings.parentalControls.managePin;;Manaxhoni PIN
+settings.parentalControls.options;;Vlerësimi i moshës
+settings.parentalControls.purchasePin;;Blerjet
+settings.powerSaving.autoStandbyTime.2h;;2 Orë
+settings.powerSaving.autoStandbyTime.4h;;4 Orë
+settings.powerSaving.autoStandbyTime.8h;;8 Orë
+settings.powerSaving.quickBoot.description;;Nëse dëshiron të përdorësh Zërin ose të luash muzikë nga Bluetooth ose Spotify në standby, ky opsion duhet të jetë FIKUR. <br><br>Përndryshe do të jesh në gjendje ta bësh këtë vetëm për një kohë të shkurtër pasi të kesh fikur pajisjen.
+settings.powerSaving.remoteBooking.description;;Nëse dëshiron të përdorësh më pak energji ndërsa je në Standby, parazgjidh kursimin e energjisë. Nuk do të mund të përdorësh veçori si rezervimi në distancë (rezervim nga celulari) dhe do të kesh gjithashtu një nisje më të ngadaltë.
+settings.powerSaving.smartStandby.active;;Aktiv
+settings.powerSaving.smartStandby.active.description;;Kur pajisja dhe TV-ja janë i fikur, ti mund të lidhesh me Bluetooth dhe të luash muzikë, përdorësh Spotify Connect dhe Kontrollin e zërit.
+settings.powerSaving.smartStandby.energySaving;;Kursim energjie
+settings.powerSaving.smartStandby.energySaving.description;;Nëse dëshiron të përdorësh më pak energji ndërsa je në Standby, zgjidh Kursim Energjie si parazgjedhje. Nuk do të jesh në gjendje të përdorësh veçoritë e Standby Aktive/Smart dhe do të kesh një fillim më të ngadaltë.
+settings.powerSaving.smartStandby.smartStandby;;Në modalitetin Standby
+settings.powerSaving.smartStandby.smartStandby.description;;Kur pajisja dhe TV-ja janë fikur, ti mund të lidhësh Bluetooth dhe të luash muzikë, përdorësh Spotify Connect dhe Kontrollin e zërit. <br/>Ky opsion i Standby lejon që të gjitha vecoritë kryesore të jenë të disponueshme kur të nevojiten më shumë dhe kursen energji midis orëve 1-6 të mëngjesit.
+settings.privacy;;Privatësia
+settings.privacy.consent;;Pëlqimi i Privatësisë Vodafone TV
+settings.privacy.notice;;Njoftimi i Privatësisë Vodafone TV
+settings.privacyDisclaimer;;Sqarim i privatësisë
+settings.privacyDisclaimer.privacy;;Sqarim i deklaratës për Privatësinë e Vodafone TV
+settings.privacyDisclaimerPageTitle;;Sqarimi i deklaratës për Privatësinë e Vodafone TV
+settings.purchase.errorTurnOn;;Për të aktivizuar PIN-in e Blerjes, së pari duhet të aktivizohet PIN-i prindëror
+settings.purchase.turnOff;;PIN i çaktivizuar
+settings.purchase.turnOn;;PIN i aktivizuar
+settings.purchase.turnedOff;;PIN i çaktivizuar
+settings.purchase.turnedOn;;PIN i aktivizuar
+settings.purchasePin;;PIN i blerjeve
+settings.recommendations;;Rekomandime
+settings.recommendations.off;;Fik
+settings.recommendations.on;;Ndiz
+settings.recording.padding.fifteen;;+15 min
+settings.recording.padding.five;;+5 min
+settings.recording.padding.ten;;+10 min
+settings.recording.setPaddings.noPadding;;Pa mbushje
+settings.recordings.automaticRecordings;;Regjistrime Automatike
+settings.recordings.boxSpaceLow;;Tani ke kapacitet të ulët ruajtjeje
+settings.recordings.buyMoreStorage;;Bli më shumë hapësirë për ruajtje
+settings.recordings.buyStorage;;Bli Hapësire për ruajtje
+settings.recordings.ejectDisk;;Nxirr Diskun
+settings.recordings.filterContent;;Filtro Përmbajtjen
+settings.recordings.manage;;Menaxho regjistrimet
+settings.recordings.padding.none;;Pa rregullime
+settings.recordings.recommendationsOptOut;;Rekomandime Opt-Out
+settings.recordings.reformatDisk;;Riformato Diskun
+settings.recordings.remoteBooking;;Rezervimi në distancë
+settings.recordings.setPadding;;Vendos Rregullimin
+settings.recordings.setPadding.description;;Shto rregullimin për fillimin dhe fundin e regjistrimeve të tua.
+settings.recordings.setPadding.title;;Vendos Rregullimin
+settings.recordings.subscribedChannels;;Shfaq kanalet e abonimit
+settings.remote.buttons.back;;Pas
+settings.remote.buttons.green;;E gjelbër
+settings.remote.buttons.info;;Informacione për telekomandën
+settings.remote.buttons.paired;;Lidhur
+settings.remote.buttons.tv;;Kontrolli TV
+settings.remote.buttons.unpaired;;Të shkëputur
+settings.remote.buttons.voice;;Rreth Zërit
+settings.remote.connectionType.BLE;;BLE
+settings.remote.info.IRCodesTableDBVersion;;?
+settings.remote.info.batteryLevelGood;;Mirë
+settings.remote.info.batteryLevelLow;;E ulët
+settings.remote.info.batteryStatus.button;;Statusi i Baterisë
+settings.remote.info.batteryStatus.subtitle;;Statusi i Baterisë
+settings.remote.info.bleConnection.button;;Lidhje Bluetooth
+settings.remote.info.bluetooth;;Telekomanda po përdor Bluetooth për të kontrolluar pajisjen që nga 1% dhe është aktivizuar për Kontrollin e Zërit.<br><br>Shtyp dhe mbaj shtypur butonin e verdhë dhe butonin 3 për të shkëputur telekomandën nga lidhja.
+settings.remote.info.buttons.firmware.button;;Firmware
+settings.remote.info.connectivityStatus.button;;Statusi i lidhjes
+settings.remote.info.connectivityStatus.subtitle;;Statusi i lidhjes
+settings.remote.info.done.button;;U krye
+settings.remote.info.firmware.button;;Firmware
+settings.remote.info.firmware.subtitle;;Firmware
+settings.remote.info.hardwareVersion;;Versioni i harduerit
+settings.remote.info.infrared;;Telekomanda po përdor Rrezet Infra të kuqe për të kontrolluar pajisjen. 
+settings.remote.info.lastDownloadDateFirmware;;Data e shkarkimit të fundit të firmware-it
+settings.remote.info.macAddress;;Adresa RCU MAC:
+settings.remote.info.manufacturingDate;;Data e prodhimit
+settings.remote.info.productNumber;;Numri i produktit
+settings.remote.info.radioFrequency;;Telekomanda po përdor Frekuencën Radio për të kontrolluar pajisjen që nga 1%.<br><br>Shtyp dhe mbaj shtypur butonin e verdhë dhe butonin 3 për të shkëputur telekomandën nga lidhja.
+settings.remote.info.remoteSerialNumber;;Numri serial i telekomandës
+settings.remote.info.remoteVersion.button;;Versioni i telekomandës
+settings.remote.info.remoteVersion.subtitle;;Versioni i telekomandës
+settings.remote.info.serialNumber.button;;Numri Serial
+settings.remote.info.serialNumber.subtitle;;Numri Serial
+settings.remote.info.softwareVersion;;Versioni i Softuerit
+settings.remote.info.title;;Informacion për telekomandën
+settings.remote.info.version;;Versioni
+settings.remote.paired.descriptionBle;;Përdor Kontrollin Zanor duke shtypur butonin e Zërit në telekomandë. Gjithashtu nuk ka nevojë ta drejtosh atë drejt pajisjes për ta kontrolluar dhe mund të kontrollosh edhe TV (përzgjidh Kontroll TV).
+settings.remote.paired.descriptionIrRf;;Telekomanda është tashmë e lidhur me Frekuencën Radio për performancë më të mirë. Nuk ka nevojë për ta drejtuar telekomandën te pajisja.
+settings.remote.paired.subtitle;;Telekomanda e lidhur
+settings.remote.remoteStatus;;Statusi i telekomandës
+settings.remote.retry.descriptionBle;;Na vjen keq lidhja dështoi. Shtyp edhe njëherë butonin 3 dhe atë të verdhë për 5 sekonda për t'i lidhur.
+settings.remote.retry.descriptionIrRf;;Na vjen keq lidhja dështoi. Shtyp edhe njëherë butonin 1 dhe atë të verdhë për 5 sekonda për t'i lidhur.
+settings.remote.retry.subtitle;;Lidh Telekomandën
+settings.remote.title;;Statusi i Telekomandës
+settings.remote.tvControls;;Kontrollet e TV
+settings.remote.unpaired.descriptionBle;;Lidh telekomandën me Bluetooth për të aktivizuar kontrollin e Zërit. Telekomanda nuk ka nevojë të drejtohet te pajisja dhe mund të kontrollojë edhe TV.<br><br>Për të lidhur, shtyp butonin 3 dhe atë të verdhë dhe mbaji për 5 sekonda shtypur.
+settings.remote.unpaired.descriptionIrRf;;Lidh telekomandën me Frekuncën Radio për një performancë më të mirë dhe nuk ka nevojë për ta drejtuar te pajisja.<br><br>Për ta lidhur, shtyp butonin 1 dhe atë të verdhë dhe mbaje për 5 sekonda shtypur.
+settings.remote.unpaired.subtitle;;Lidh Telekomandën
+settings.remoteBooking.button.standbyOptions;;Opsionet e Standby
+settings.remoteBooking.screen.text;;"Për të rezervuar regjistrimet në distancë (p.sh. nga pajisja celulare) cilësimet e Standby të pajisjes tënde duhet të jenë ""Aktive"".<br><br>Modalitetin e gatishmërisë mund ta vendosësh te Cilësimet e Pajisjes"
+settings.remoteBooking.screen.title;;Rezervimi në distancë
+settings.remoteControl;;Cilësimet e Telekomandës
+settings.selfDiagnostics.button.internetConnection;;Lidhja e Internetit
+settings.selfDiagnostics.button.localStorage;;Hapësira e ruajtjes lokale
+settings.selfDiagnostics.button.networkConnection;;Lidhja e rrjetit
+settings.selfDiagnostics.button.remote;;Telekomanda
+settings.selfDiagnostics.button.softwareUpdates;;Përditësimet e Softuerit
+settings.selfDiagnostics.button.tvChannels;;Kanalet TV
+settings.selfDiagnostics.issuesTable.message.sdi01.01;;Pajisja nuk është e lidhur nëpërmjet LAN ose Wi-Fi. Kontrollo lidhjen me kabllin dhe verifiko cilësimet e lidhjes me rrjetin. 
+settings.selfDiagnostics.issuesTable.message.sdi01.02;;Vodafone TV nuk arriti të gjejë një adresë të vlefshme IP. Kontrollo cilësimet IP dhe rivendos ruterin dhe pajisjen TV. 
+settings.selfDiagnostics.issuesTable.message.sdi01.03;;Fuqia e lidhjes Wifi është e dobët. Lidhu duke përdorur kabllin LAN ose duke lëvizur ruterin wireless më pranë pajisjes Vodafone TV. 
+settings.selfDiagnostics.issuesTable.message.sdi02.01;;Pajisja Vodafone TV aktualisht nuk mund të lidhet me Internetin, nëse ke probleme të ngjashme në pajisje të tjera të lidhura me rrjetin në shtëpi, kontrollo me ofruesin e internetit pasi mund të ketë një ndërprerje të përgjithshme të Internetit<br />Nëse ke probleme me Vodafone TV, provo të fikësh pajisjen dhe rindize për ta rilidhur me internetin. Nëse problemet vazhdojnë, kontakto Kujdesin e Klientit për ndihmë të mëtejshme.
+settings.selfDiagnostics.issuesTable.message.sdi02.02;;Vodafone TV aktualisht nuk mund të lidhet me Vodafone për shkak të ndërprerjeve të mundshme të shërbimit. Kontakto Kujdesin e Klientit. 
+settings.selfDiagnostics.issuesTable.message.sdi03.01;;Aktualisht nuk ka kabëll ajror të lidhur me pajisjen. Kontrollo nëse kablli ajror është i lidhur. 
+settings.selfDiagnostics.issuesTable.message.sdi03.02;;Vodafone TV vëren që po shfaqet video me cilësi të dobët për shkak të sinjalit të dobët nga kablli ajror TV. Kontrollo lidhjen ajrore dhe rregullo antenën TV. 
+settings.selfDiagnostics.issuesTable.message.sdi03.03;;Vodafone TV vëren se transmetimi video është me cilësi të ulët për shkak të kapacitetit të internetit ose problemeve të lidhjes. Nëse po vëren problem në cilësinë e videove, kjo mund të ndodhë sepse aktualisht ke një konsum të lartë të përdorimit të internetit (Shikimi në më shumë se një pajisje ose shkarkimi i skedarëve të mëdhenj) që mund të degradojë përvojën në TV dhe në kapacitetin e përgjithshëm të internetit. <br/> Zvogëlo konsumin ndërsa shikon Vodafone TV ose përditëso paketën e Internetit. 
+settings.selfDiagnostics.issuesTable.message.sdi04.01;;Bateritë në telekomandën e Vodafone TV po konsumohen. Ndrysho bateritë e telekomandës. 
+settings.selfDiagnostics.issuesTable.message.sdi04.02;;Kur lidh telekomandën me pajisjen Vodafone TV, nuk kërkohet më ta drejtosh telekomandën në drejtim të pajisjes Vodafone TV. <br />Mund të vendosësh pajisjen brenda në dollap. Për të përfituar nga kjo, lidh telekomandën duke shkuar te Cilësimet > Më shumë cilësime > Telekomanda > Lidh telekomandën
+settings.selfDiagnostics.issuesTable.message.sdi05.01;;Ka përditësime softueri të disponueshme për pajisjen. Përditëso pajisjen për të aksesuar versionin më të fundit. 
+settings.selfDiagnostics.issuesTable.message.sdi06.01;;Ka një problem me hapësirën e ruajtjes lokale e cila çaktivizon Funksionalitetin PauseTV. <br/>Rindiz pajisjen ose telefono suportin teknik nëse problemi vazhdon.
+settings.selfDiagnostics.issuesTable.title.sdi01.01;;Nuk ka lidhje në rrjet
+settings.selfDiagnostics.issuesTable.title.sdi01.02;;Nuk ka Adresë IP
+settings.selfDiagnostics.issuesTable.title.sdi01.03;;Fuqi e dobët e sinjalit Wifi
+settings.selfDiagnostics.issuesTable.title.sdi02.01;;Nuk lidhet me Internetin
+settings.selfDiagnostics.issuesTable.title.sdi02.02;;Nuk mund të lidhet me Vodafone
+settings.selfDiagnostics.issuesTable.title.sdi03.01;;Nuk ka asnjë kabëll ajror të lidhur
+settings.selfDiagnostics.issuesTable.title.sdi03.02;;Sinjal me cilësi të ulët përmes kabllit ajror
+settings.selfDiagnostics.issuesTable.title.sdi03.03;;Transmetim Video TV me cilësi të ulët nëpërmjet Internetit
+settings.selfDiagnostics.issuesTable.title.sdi04.01;;Fuqi e Ulët në Bateritë e Telekomandës
+settings.selfDiagnostics.issuesTable.title.sdi04.02;;Lidh telekomandën me Vodafone TV
+settings.selfDiagnostics.issuesTable.title.sdi05.01;;Përditësime të disponueshme
+settings.selfDiagnostics.issuesTable.title.sdi06.01;;Nuk mund të aksesohet hapësira e ruajtjes lokale
+settings.selfDiagnostics.noErrors;;Nuk u gjet asnjë problem me Vodafone GigaTV
+settings.serviceSettings;;Cilësimet e Shërbimit
+settings.showBackgroundProcess.hide;;Fshih
+settings.showBackgroundProcess.show;;Shfaq
+settings.soundAndVideo;;Zëri dhe Video
+settings.subscriptionFiltering.allAppsHidden;;Të gjitha aplikacionet e fshehura
+settings.subscriptionFiltering.appsHidden;;%1 Aplikacione të fshehura
+settings.subscriptionFiltering.description;;Mund të zgjedhësh se cilat Aplikacione dëshiron të fshehësh apo shfaqësh duke bërë përzgjedhjen tënde nga lista e ofruesve të Aplikacionit.
+settings.subscriptionFiltering.title;;Filtro Aplikacionet
+settings.systemConfigurations.bluetooth.deviceList.title;;Pajisje të disponueshme
+settings.systemConfigurations.bluetooth.devicePairedList.title;;Pajisje të lidhura
+settings.systemConfigurations.developerMode;;Mënyra e Zhvilluesit
+settings.systemConfigurations.epgStbCacheStatus;;Statusi i ruajtjes së EPG në pajisje
+settings.systemConfigurations.epgUiCacheStatus;;Statusi i ruajtjes së ndërfaqes së EPG
+settings.systemConfigurations.lastActiveStandby;;Standby e fundit Aktive
+settings.systemConfigurations.lastBoots;;Ndezja e fundit
+settings.systemConfigurations.lastFullMaintenance;;Mirëmbajtja e fundit e plotë
+settings.systemConfigurations.lastLoginDate;;Data e identifikimit të fundit
+settings.systemConfigurations.lastMaintenance;;Mirëmbajtja e fundit
+settings.systemConfigurations.lastMaintenanceReboot;;Rindezja e fundit për mirëmbajtje
+settings.systemConfigurations.lastTechnicalDiagUpdate;;Përditësimi i fundit diagnostikues teknik
+settings.systemConfigurations.maintenanceTimeoutEvents;;Afat mirëmbajtje për eventet MW
+settings.systemConfigurations.mobilePairing;;Lidhja me telefonin
+settings.systemConfigurations.mobilePairing.concurrentPairingDenied;;Nuk mund të lidhësh më shumë se një pajisje.
+settings.systemConfigurations.mobilePairing.description;;Lidh dhe menaxho pajisjet e disponueshme celulare. <br/> Mund të lidhësh llogarinë tënde me aplikacionin celular duke përdorur një kod QR, thjesht skano kodin QR për të filluar.
+settings.systemConfigurations.mobilePairing.deviceList.title;;Pajisje të Disponueshme
+settings.systemConfigurations.mobilePairing.failed;;Dështoi
+settings.systemConfigurations.mobilePairing.failure;;Një gabim ndodhi gjatë lidhjes automatike me celularin tënd.
+settings.systemConfigurations.mobilePairing.paired;;Lidhur
+settings.systemConfigurations.mobilePairing.pairingError;;Gabim në lidhje
+settings.systemConfigurations.mobilePairing.pairingFailed;;Lidhja me pajisjen tënde dështoi
+settings.systemConfigurations.mobilePairing.pairingInProgress;;Lidhja në vazhdim
+settings.systemConfigurations.mobilePairing.pairingSuccessful;;Identifikuar me sukses në pajisjen tënde
+settings.systemConfigurations.mobilePairing.pinEntryHelpMessage;;Të lutem vendos PIN kryesor për të verifikuar pajisjen tënde
+settings.systemConfigurations.mobilePairing.qrCodeMode.description;;Skano këtë Kod QR në pajisjen tënde celulare për ta lidhur
+settings.systemConfigurations.mobilePairing.qrCodeMode.subtitle;;Skano Kodin QR
+settings.systemConfigurations.mobilePairing.readyToPair;;I disponueshëm për lidhje
+settings.systemConfigurations.mobilePairing.showQrCode;;Shfaq Kodin QR
+settings.systemConfigurations.mobilePairing.subtitle;;Pajisjet e Rrjetit
+settings.systemConfigurations.mobilePairing.title;;Lidhja me telefonin
+settings.systemConfigurations.networkAndPlayerLogs;;Regjistrat e Rrjetit dhe Player-it
+settings.systemConfigurations.networkLogsTitle;;Regjistrat e Rrjetit
+settings.systemConfigurations.noMaintenanceDone;;Nuk është kryer mirëmbajtja
+settings.systemConfigurations.noMaintenanceTimeout;;Pa afat mirëmbajtje
+settings.systemConfigurations.playerLogsTitle;;Regjistrat e Player-it
+settings.systemConfigurations.refreshCacheStatus;;Rifresko Statusin e kujtesës Cache
+settings.systemConfigurations.selfDiagnostics;;Vetë-Diagnostikim
+settings.systemConfigurations.soundBox;;Asistentë Zanorë
+settings.systemConfigurations.soundBox.description;;Mund ta shkëputësh këtë pajisje nga TV nëse nuk dëshiron të përdorësh më kontrollin e zërit ekstra.
+settings.systemConfigurations.soundBox.deviceList.title;;Pajisje të disponueshme
+settings.systemConfigurations.soundBox.disconnectDevice;;Shkëput
+settings.systemConfigurations.soundBox.hideAlexaCards;;Fshih Kartat Alexa
+settings.systemConfigurations.soundBox.showAlexaCards;;Shfaq Kartat Alexa
+settings.systemConfigurations.soundBox.title;;Asistentë Zanorë
+settings.systemConfigurations.soundbox.audioOutput;;Output i audios
+settings.systemConfigurations.soundbox.audioOutput.checkOptical;;Sigurohu që burimi optik është përzgjedhur gjatë instalimit të aplikacionit celular.
+settings.systemConfigurations.soundbox.audioOutput.off;;Fikur
+settings.systemConfigurations.soundbox.audioOutput.off.selected;;Shtyp OK për ta fikur.
+settings.systemConfigurations.soundbox.audioOutput.spdifstb;;Pajisja
+settings.systemConfigurations.soundbox.audioOutput.spdifstb.selected;;Shtyp OK për të lidhur Soundbox-in tënd si output të jashtëm për pajisjen Vodafone TV.
+settings.systemConfigurations.soundbox.audioOutput.spdiftv;;TV
+settings.systemConfigurations.soundbox.audioOutput.spdiftv.selected;;Shtyp OK për të lidhur Soundbox-in tënd si output të jashtëm për pajisjen Vodafone TV.
+settings.systemConfigurations.soundbox.audioOutput.turnedOff;;Fikur
+settings.systemConfigurations.soundbox.audioOutput.turnedOn;;Ndezur
+settings.systemConfigurations.status.downloading;;Duke shkarkuar ...
+settings.systemConfigurations.status.failed;;Dështoi
+settings.systemConfigurations.status.finished;;U krye
+settings.systemConfigurations.status.ok;;OK
+settings.systemConfigurations.status.ongoing;;Në vazhdim ...
+settings.systemConfigurations.subscriptionFiltering;;Filtrimi i Abonimit
+settings.systemConfigurations.technicalDiagnostics;;Diagnostikimi Teknik
+settings.systemConfigurations.technicalDiagnostics.auth;;Identifikimi
+settings.systemConfigurations.technicalDiagnostics.authNrefresh;;Rifreskim i tokenit AuthN
+settings.systemConfigurations.technicalDiagnostics.checkUpdate;;Kontrollo për përditësim
+settings.systemConfigurations.technicalDiagnostics.epg;;Përditësim EPG
+settings.systemConfigurations.technicalDiagnostics.licencesRefresh;;Rifreskim i licencave
+settings.systemConfigurations.technicalDiagnostics.localMaintenance;;Mirëmbajtja Lokale
+settings.systemConfigurations.technicalDiagnostics.nagraCheckMaintenance;;Mirëmbajtje kontrolli për Nagra
+settings.systemConfigurations.technicalDiagnostics.nagraSSPCheckMaintenance;;Kontroll mirëmbajtje për Nagra SSP
+settings.systemConfigurations.technicalDiagnostics.newMaintenance;;Modaliteti i ri i mirëmbajtjes
+settings.systemConfigurations.technicalDiagnostics.no_save_home_mcast_stats;;No save home MCast stats
+settings.systemConfigurations.technicalDiagnostics.noscan;;Nuk ka nevojë për skanim
+settings.systemConfigurations.technicalDiagnostics.noupdate;;Nuk ka Nevojë për Përditësim
+settings.systemConfigurations.technicalDiagnostics.oldMaintenance;;Mënyra e vjetër e mirëmbajtjes
+settings.systemConfigurations.technicalDiagnostics.restart;;Rindiz pajisjen
+settings.systemConfigurations.technicalDiagnostics.save_home_mcast_stats;;Save home MCast stats
+settings.systemConfigurations.technicalDiagnostics.scan;;Skanim
+settings.systemConfigurations.technicalDiagnostics.scanStart;;Fillimi i skanimit
+settings.systemConfigurations.technicalDiagnostics.sendTechnical;;Dërgo të dhënat teknike
+settings.systemConfigurations.technicalDiagnostics.subtitle;;Veprimet e mirëmbajtjes së fundit
+settings.systemConfigurations.technicalDiagnostics.update;;Përditëso pajisjen
+settings.systemConfigurations.technicalOverlay;;Mbulimi Teknik
+settings.technicalOverlay;;Mbulimi Teknik
+settings.technicalOverlay.disable;;Çaktivizo
+settings.technicalOverlay.enable;;Aktivizo
+settings.tvBoxSettings;;Cilësimet e Vodafone TV
+settings.tvChannels.currentlyFound.cable;;Kanalet e gjetura:<div class='halfSummary'>Kabëll<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyFound.ftth;;Kanalet e gjetura:<div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyHave.cable;;Kanalet aktuale:<div class='halfSummary'>Kabëll<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyHave.ftth;;Kanalet aktuale:<div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.showDttChannels;;Shfaq kanalet tokësore
+settings.tvChannels.weFound.cable;;Kanalet e gjetura:<div class='halfSummary'>Kabëll<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.weFound.ftth;;Kanalet e gjetura:<div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvInput.auto;;Automatike
+settings.tvInput.auto.description;;Zgjidh këtë opsion për të instaluar automatikisht telekomandën Vodafone TV që të kontrollosh volumin e TV dhe të aktivizosh ndezjen dhe fikjen e TV dhe pajisjes Vodafone TV së bashku, duke përdorur butonin e ndezjes.
+settings.tvInput.config.power;;Ndiz
+settings.tvInput.config.power.description;;Zgjidh këtë opsion për të kontrolluar gjendjen Stand-by të televizorit tënd dhe pajisjes Vodafone TV përmes butonit të energjisë të telekomandës së GigaTV
+settings.tvInput.config.volume;;Volumi
+settings.tvInput.config.volume.description;;Zgjidh këtë opsion për të mundësuar kontrollin e volumit të televizorit tënd duke përdorur telekomandën e Vodafone TV.
+settings.tvInput.deviceList;;Lista e Pajisjeve
+settings.tvInput.deviceList.availableDeviceList.description;;Do të jesh në gjendje të kontrollosh çdo pajisje që mbështetet dhe lidhet përmes HDMI duke përdorur telekomandën Vodafone TV
+settings.tvInput.deviceList.availableDeviceList.title;;Lista e Pajisjeve CEC
+settings.tvInput.deviceList.description;;Për të parë pajisjet e tua të lidhura HDMI dhe për të qenë në gjendje të kalosh midis tyre duke përdorur telekomandën Vodafone TV duhet të kesh të ndezura cilësimet e HDMI CEC
+settings.tvInput.deviceList.unavailableDeviceList.description;;Për të parë pajisjet e tua të lidhura HDMI dhe për të qenë në gjendje të kalosh midis tyre duke përdorur telekomandën Vodafone TV duhet të kesh të ndezura cilësimet e HDMI CEC
+settings.tvInput.deviceList.vodafoneDevice;;Vodafone GigaTV
+settings.tvInput.manual;;Manuale
+settings.tvInput.manual.cecSettings;;Cilësimet CEC
+settings.tvInput.manual.description;;Disa TV nuk do të lejojnë të kontrollosh disa karakteristika dhe nëse ka probleme, këshillohu me guidën TV. Zgjidh këtë mundësi për të lejuar të zgjedhësh volumin ose ndezjen e TV-në dhe pajisjes Vodafone TV njëkohësisht duke përdorur telekomandën.
+settings.tvInput.off;;Fikur
+settings.tvInput.off.description;;Zgjidh këtë opsion për të fikur TV e lidhur me HDMI dhe funksionet e pajisjes Vodafone TV.
+settings.tvInput.userOff;;Fikur
+settings.uiVersionOverlay;;Mbivendosja e versionit UI
+settings.uiVersionOverlay.hide;;Fshih
+settings.uiVersionOverlay.show;;Shfaq
+settings.visualScrubberStatus;;Scrubber Vizual
+settings.visualScrubberStatus.disable;;Çaktivizo
+settings.visualScrubberStatus.enable;;Aktivizo
+settings.voice.channel_change.default.answer;;Përgjigje për Ndryshim Kanali
+settings.voice.channel_change.default.question;;Ndryshim Kanali
+settings.voice.navigate.default.answer;;Përgjigje e Lundrimit
+settings.voice.navigate.default.question;;Lundro 
+settings.voice.search.default.answer;;Mund të përdorësh Zërin për të kontrolluar Vodafone TV. Aktivizo Zërin duke shtypur butonin e Zërit në telekomandë.
+settings.voice.search.default.question;;Kërko
+settings.voice.title;;Zëri
+settings.voice.voiceTopics;;Subjektet e Zërit
+settings.voiceAssistants;;Asistentë Zanorë
+settings.warning.popup.recommendationsOptOut;;Duke mos rënë dakord me cilësimet e mëparshme të përmbajtjes, do të humbësh disa nga veçoritë e veçanta të shërbimit dhe ne nuk mund të garantojmë përvojën më të mirë të Vodafone TV. A je i sigurt që do të vazhdosh me instalimin apo do të kthehesh pas për të ndryshuar zgjedhjen tënde?
+shopInShop.disclaimer.title;;Mohim
+smartTV.firstInstall.buttons.clear;;Fshi
+smartTV.firstInstall.buttons.signin;;Hyr
+smartTV.firstInstall.buttons.whatsnew;;Çfarë është Vodafone GigaTV
+smartTV.firstInstall.incompatibleDeviceErrorScreen.title;;Error për pajisjet Blacklist
+smartTV.firstInstall.login.error.description;;Të lutem provo përsëri<br/>ose kontakto direkt në Shërbimin e Klientit në numrin 0699000140
+smartTV.firstInstall.login.error.title;;Probleme me llogarinë
+smartTV.firstInstall.login.error.tooManyDevices.description;;Ka shumë pajisje në grupin e llogarisë tënde
+smartTV.firstInstall.login.error.tvAlreadyPaired.description;;Pajisja është e lidhur tashmë
+smartTV.firstInstall.login.fail.description;;Nuk mund të gjejmë llogarinë tënde
+smartTV.firstInstall.login.fail.title;;Oops
+smartTV.firstInstall.login.nativeInput.placeholder;;Shtyp OK për të hyrë
+smartTV.firstInstall.login.nativePassword.title;;Vendos fjalëkalimin
+smartTV.firstInstall.login.nativeUsername.title;;Vendos emrin e përdoruesit
+smartTV.firstInstall.login.password.description;;Nëse ke një llogari identifikohu. Nëse do të dish më shumë për shërbimin tonë TV, përzgjidh Cfarë është Vodafone GigaTV.
+smartTV.firstInstall.login.password.title;;Fjalëkalimi
+smartTV.firstInstall.login.success.description;;Pothuajse aty...
+smartTV.firstInstall.login.success.title;;Epo, Suksese!
+smartTV.firstInstall.login.udid;;UDID: %1
+smartTV.firstInstall.login.username.description;;Nëse ke një llogari, identifikohu në të.
+smartTV.firstInstall.login.username.placeholder;;Vendos emrin e përdoruesit
+smartTV.firstInstall.login.username.title;;Emri i përdoruesit
+smartTV.firstInstall.login.welcome.description;;Të lutem identifikohu me emrin e përdoruesit dhe fjalëkalimin e lidhur me llogarinë tënde Vodafone TV
+smartTV.firstInstall.login.welcome.title;;Mirësevjen në Vodafone TV
+smartTV.mainMenu.watchTV;;Shiko TV
+smartTV.popups.exit.message;;Je i sigurt që dëshiron të dalësh?
+smartTV.popups.exit.title;;Po del nga Vodafone TV
+smartTV.settings.account.logout;;Dil
+smartTV.settings.account.logout.popup;;A je i sigurt që do të dalësh?
+smarttv.offlineMode.buttonText;;Ngarko përsëri
+smarttv.offlineMode.descriptionText;;Të lutem rishiko cilësimet e rrjetit në cilësimet e TV Smart për të rivendosur lidhjen.
+smarttv.offlineMode.loadingText;;Duke u ngarkuar
+smarttv.offlineMode.title;;Humbja e lidhjes
+somethingDifferent;;Diçka ndryshe
+somethingSimilar;;Diçka e ngjashme
+sr.notification.error.authenticationError;;%1: Na vjen keq, nuk mundëm të të identifikonim. Provo përsëri më vonë.
+sr.notification.error.device.existsInOther.households;;%1: Na vjen keq, nuk mund ta regjistrojmë këtë pajisje. Pajisja është e lidhur me një llogari tjetër.
+sr.notification.error.exceeded.limit;;%1: Na vjen keq, ke arritur numrin maksimal të pajisjeve të lejuara për t'u regjistruar në llogarinë tënde. Të lutem hiq një pajisje nga llogaria jote.
+sr.notification.error.kaltura.service.expired;;%1 Moduli KS kthen gabimin KS ka skaduar
+sr.notification.error.kaltura.service.invalid;;%1 Moduli KS kthen gabimin KS i pavlefshëm
+sr.notification.error.kaltura.service.revocation;;%1 KS është i pavlefshëm (Kaltura kthen një gabim kur thërret backend API, ndoshta për shkak të revokimit të KS)
+sr.notification.error.notAllowed.type.device;;%1: Na vjen keq, kjo pajisje nuk është në përputhje me shërbimin tonë. Të lutem provo përsëri me një pajisje tjetër.
+sr.notification.error.secretCode.problem;;%1: Na vjen keq, nuk mundëm të të identifikonim. Provo përsëri më vonë. Ka dy çelësa në dokumentin Wit.
+technicalOverlay.widget.label.audioBuffer;;Audio buffer
+technicalOverlay.widget.label.audioPid;;Audio PID
+technicalOverlay.widget.label.bandwidthManagement;;Menaxhimi i kapacitetit
+technicalOverlay.widget.label.ber;;BER
+technicalOverlay.widget.label.blackout;;Errësim i plotë
+technicalOverlay.widget.label.bufferingTime;;Buffering time
+technicalOverlay.widget.label.currentTime;;Ora aktuale
+technicalOverlay.widget.label.droppedFrames;;Dropped frames
+technicalOverlay.widget.label.errorManagement;;Menaxhimi i gabimeve
+technicalOverlay.widget.label.estimatedBandwidth;;Kapaciteti aktual
+technicalOverlay.widget.label.frequency;;Frekuenca
+technicalOverlay.widget.label.licenseTime;;Kohëzgjatja e licencës
+technicalOverlay.widget.label.liveLatency;;Live latency
+technicalOverlay.widget.label.loadLatency;;Load latency
+technicalOverlay.widget.label.multiaudio;;Multiaudio
+technicalOverlay.widget.label.multicastGroup;;Grupi Multicast
+technicalOverlay.widget.label.packetLoss;;Humbja e paketës
+technicalOverlay.widget.label.progressBar;;Shiriti i Progresit
+technicalOverlay.widget.label.sid;;SID
+technicalOverlay.widget.label.snr;;SNR
+technicalOverlay.widget.label.streamBandwidth;;Kapaciteti i transmetimit
+technicalOverlay.widget.label.streamType;;Lloji i transmetimit
+technicalOverlay.widget.label.textBuffer;;Tekst buffer
+technicalOverlay.widget.label.videoBuffer;;Video buffer
+technicalOverlay.widget.label.videoPid;;Video PID
+technicalOverlay.widget.title;;Mbivendosje teknike
+upnext.footer.back;;Pas
+upnext.footer.moreEpisodes;;Më shumë Episode
+upnext.header.nextEpisode;;Episodi tjetër
+upnext.header.startingCounter;;Fillon në %1
+upnextRecommendations1;;Diçka e ngjashme
+upnextRecommendations2;;Diçka ndryshe
+voice.app.changeChannel.text;;<p>Mbyll %1 dhe shiko %2 në Vodafone TV</p><p>ose kërko për %3 në %4</p>
+voice.app.searchNotAllowed.text;;Kërkimi nuk është i mundur
+voice.interface.searchScreenAccessMessage;;Më thuaj çfarë po kërkon
+voice.interface.startMessage;;Si mund të ndihmoj?
+voiceChrome.interface.listening;;Duke dëgjuar...
+voiceChrome.interface.speaking;;Duke folur...
+voiceChrome.interface.thinking;;Duke menduar...
+volume.hintHotkeyProfiles;;shtyp gjatë butonin pa volum <br> për profilet audio 
+watchNext.purchase;;Bli
+watchNext.recording;;Regjistrimi
+watchNext.rental;;Me qira
+wifi.bandwidthStatePopup.description;;Për të zgjidhur këtë problem, të lutem shtyp riprovo dhe kontrollo ruterin, duke e vendosur më pranë pajisjes ose duke eliminuar çdo element pengues rreth tij, nëse gabimi vazhdon kontakto shërbimin e klientit (140).
+wifi.bandwidthStatePopup.title;;Na vjen keq por ndodhi një problem me kapacitetin tuaj Wi-Fi
+wifi.buttons.tryAgain;;Provo përsëri

@@ -1,0 +1,2156 @@
+key;en-GROUP;it-IT-x-IT text
+popups.reboot.footerText;SG002: Error number %1;[SG002] Errore numero %1. Vai su voda.it/vtvhelp
+popups.upgrade.footerText;SG001: Error number %1;[SG001] Errore numero %1. Vai su voda.it/vtvhelp
+popups.wifi.footerText;SC120: Error number %1;[SC120] Errore numero %1. Vai su voda.it/vtvhelp
+firstInstall.wifiNetworkErrorScreen.title;Network;Controlla connessione
+notification.recording.notForPast;Sorry, you can’t record programmes shown in the past.;Registrazione non consentita per programmi già trasmessi
+notification.recording.fullprotection;SR004: Maximum number of recordings already protected. Please unprotect other recordings and try again.;Per proteggere questa registrazione devi cancellarne una precedente [SR004]. Vai su voda.it/vtvhelp
+firstInstall.remotePairingFailedScreen.title;Remote pairing;Prova ad associare di nuovo il telecomando tenendo premuti i tasti '3' e 'Giallo' per almeno 5 secondi
+firstInstall.remotePairingFailedScreen.description;To reset your TV remote, hold the 3 and yellow buttons together for 5 seconds (or until the power light on the remote stops flashing).;Assicurati che le batterie siano cariche e che la linguetta gialla di protezione sia stata rimossa.Tieni premuti i tasti '3' e 'Giallo' per almeno 5 secondi (fino a quando il tastodi accensione smetterà di lampeggiare)
+notification.program.noInformation;SM002: No info available;Nessuna informazione disponibile [SM002]. Vai su voda.it/vtvhelp
+serieInfo.episode.notavailable;SM001: Sorry, title unavailable.;Informazioni non disponibili [SM001]. Vai su voda.it/vtvhelp
+settings.network.lan.waiting;Connect your Ethernet cable to set up your network;Collega il cavo Ethernet oppure connetti il TV box al Wi-Fi
+notification.channel.offline;SV003: Sorry, this channel is unavailable;Canale non disponibile [SV003]. Vai su voda.it/vtvhelp
+notification.player.videoUnavailable;SV002: Programme unavailable.;Diritto di visione non disponibile [SV002]
+notification.player.error;SV001: Error;Errore generico [SV001]. Vai su voda.it/vtvhelp
+notification.recording.failed;SR007: Recording failed;Registrazione non andata a buon fine [SR007].Vai su voda.it/vtvhelp
+notification.recording.notPossible;SR005: You can't record this.;Non è possibile registrare questo programma [SR005]. Vai su voda.it/vtvhelp
+notification.recording.notOnBarker;SR003: Sorry, you can't record this channel;Non è possibile registrare [SR003]. Vai su voda.it/vtvhelp
+notification.seriesRecording.failed;SR002: Recording failed, try again.;[SR002] Registrazione Serie non andata a buon fine. Riprova più tardi o vai su voda.it/vtvhelp
+popups.storage.title;SR001: Sorry, your storage is full;[SR001] Non hai più spazio disponibile. Cancella qualcosa per registrare un nuovo programma o vai su voda.it/vtvhelp
+notification.player.noAntenna;SD001: No aerial signal found.;Segnale antenna TV non rilevato [SD001]. Vai su voda.it/vtvhelp
+popups.playbackError.message;SC219: Please check your Wi-Fi or see vodafone.co.uk/tv;[SC219] Connessione non disponibile.<br/>Vai su voda.it/vtvhelp
+popups.playbackError.title;SC218: Sorry, we can't find a connection;Connessione non disponibile [SC218]. Vai su voda.it/vtvhelp
+firstInstall.wifiNetworkErrorScreen.noIP;SC123: Please reboot your router and try again.;[SC123] Connessione Wi-Fi non disponibile. Vai su voda.it/vtvhelp
+firstInstall.wifiNetworkErrorScreen.wirelessKeyError;SC116: Your Wi-Fi password is wrong, please try again.;Password Wi-Fi non corretta. Riprova [SC116]. Vai su voda.it/vtvhelp
+firstInstall.wiredNetworkScreen.noIP;SC013: You’re not connected to the internet – please try again.;Connessione internet non disponibile da cavo ethernet. <br/>  Assicurati che la Vodafone Station sia connessa ad internet e se necessario riavvia la connessione. Premi riprova. [SC013].
+notification.epg.date.invalid;SC007: Invalid date;Data e ora non disponibili [SC007]. Vai su voda.it/vtvhelp
+notification.network.offline;SC005: Connnection lost.;Connessione internet non disponibile [SC005]. Vai su voda.it/vtvhelp
+settings.network.lan.noIP;SC002: You’re not connected to the internet – please try again.;Connessione internet non disponibile da cavo ethernet. <br/>  Assicurati che la Vodafone Station sia connessa ad internet e se necessario riavvia la connessione. Premi riprova. [SC002].
+firstInstall.wiredNetworkScreen.connectionLost.description;SC001: Your internet connection was lost.;Connessione internet non rilevata. <br/>  Assicurati che la Vodafone Station sia connessa ad internet e se necessario riavvia la connessione. Premi riprova. [SC001].
+firstInstall.getHelpScreen.wired.title;Network;Connessione
+notification.channel.notSubscribed;SB003: You’re not subscribed.;[SB003] Canale non incluso nella tua offerta. Vai su voda.it/vtvhelp
+notification.purchase.failed;SB001: Purchase failed;L'acquisto non è andato a buon fine [SB001]. Vai su voda.it/vtvhelp
+settings.masterPin.doNotMatch;SA010: They don't match, please try again.;<strong> I PIN non corrispondono. </strong>Reinserisci il nuovo PIN e riprova [SA010]. Vai su voda.it/vtvhelp
+popups.pinEntry.failed;SA007: Sorry, that was the wrong PIN. Please try again.;[SA007] PIN non corretto. Riprova o vai su voda.it/vtvhelp
+continueWatching.noUsername;SA006: Unknown;Errore generico
+firstInstall.operatorPairingScreen.description.noPin;SA005: Please call us on 08080 034 515 to complete setup.;Si è verificato un errore. Chiama il Servizio clienti al numero 0284594650 [SA005]
+notification.login.error;SA002: Sorry, login failed.;Impossibile effettuare il login [SA002]. Vai su voda.it/vtvhelp
+pinEntry.unSuccessful;SA001: Wrong PIN;PIN errato. Riprova [SA001]. Vai su voda.it/vtvhelp
+firstInstall.pairingPinInputScreen.title;Welcome;Benvenuto
+firstInstall.remoteUnPairingScreen.description;To pair your TV box and remote, hold the 3 and yellow buttons together for 5 seconds, then repeat with the 1 and yellow buttons.;Resetta il telecomando premendo i tasti '3' e 'Giallo' per almeno 5 secondi, fino a quando il tasto di accensione smetterà di lampeggiare.
+firstInstall.remotePairingScreen.description;To pair your TV box and remote, hold the 1 and yellow buttons together for 5 seconds. ;Premi i tasti '1' e 'Giallo' per almeno 5 secondi, <br/> fino a quando il tasto di accensione smetterà di lampeggiare.
+settings.remote.pairing;Remote pairing;Associa telecomando
+settings.remote.remotePairNewDevice.step0.description;To unpair your remote, hold the 3 and yellow buttons together for 5 seconds.;Premi i tasti '3' e 'Giallo' per almeno 5 secondi, fino a quando il tasto di accensione smetterà di lampeggiare, poi clicca su Continua.
+firstInstall.wiredNetworkScreen.description;Connect your Ethernet cable to set up your network.;Collega il tuo TV Box alla Vodafone Station tramite il cavo Ethernet per assicurarti la migliore qualità di visione.<br> Altrimenti collegati in Wi-Fi nella prossima schermata.
+settings.remote.batteryStatus.low;Your battery status is low.;Le batterie sono quasi scariche
+settings.network.wifi;WiFi;Reti Wi-Fi
+firstInstall.wiredNetworkFoundScreen.description;You're now connected.;Il tuo Vodafone TV Box è collegato tramite cavo Ethernet
+settings.remote.remotePairNewDevice.step1.description;To pair your TV box and remote, hold the 1 and yellow buttons together for 5 seconds.;Associa il telecomando premendo i tasti '1' e 'GIALLO' per 5 secondi, fino a quando il tasto di accensione smetterà di lampeggiare.
+firstInstall.pairingPinInputScreen.description;Something went wrong, sorry – please call us on 08080 034 515;Accedi al servizio inserendo il Codice di Attivazione di Vodafone TV
+popups.reboot.title;Sorry, your box needs to reboot.;Spegni e riaccendi il tuo Vodafone TV Box
+settings.powerSaving.autoStandbyTime.hint;Remember, increasing auto standby time will use more power.;Nota: aumentando il tempo per lo standby automatico aumenterà il consumo energetico
+popups.upgrade.misc;Your box will reboot;Il tuo Vodafone TV Box verrà riavviato tra %1
+firstInstall.wiredNetworkScreen.title;Network;Connessione Internet
+settings.parentalPin.on;On;On
+settings.parentalPin.off;Off;Off
+firstInstall.wiredNetworkSearchScreen.title;Network;Connessione Ethernet
+firstInstall.scanSummaryScreen.title;Channels scanned;Canali TV
+settings.termsAndConditions.view;Read our Ts&Cs;Condizioni Generali
+settings.parentalPinInit;Your default PIN is 1234. We recommend you choose a new one now.;Il PIN predefinito è 0000. Ti consigliamo di modificarlo.
+settings.network.lan.connected;Connected;Connesso
+firstInstall.remotePairingScreen.title;Remote pairing;Associa telecomando
+firstInstall.wifiNetworkConnectingScreen.title;Network;Connessione Wi-Fi
+firstInstall.wifiNetworkSelectScreen.title;Network;Connetti Wi-Fi
+firstInstall.wifiKeyboardScreen.title;Network;Connetti Wi-Fi
+firstInstall.getHelpScreen.wifi.title;Network;Wi-Fi
+firstInstall.finishSetupScreen.title;Your devices;I tuoi dispositivi
+notification.recording.notAllow;Sorry, you can't record this programme;Non è possibile registrare questo programma
+settings.parentalAndPaiment;Payment & controls;Protezione Bambino
+settings.audioAndVisual.screenResolution;Screen resolution;Risoluzione schermo
+pinEntry.more;See more on PINs in Settings.;Per informazioni sul PIN vai su Impostazioni
+firstInstall.wifiNetworkFoundScreen.description;Your TV box is now connected to Wi-Fi.;Il Vodafone TV Box è collegato alla rete Wi-Fi
+settings.remote.remotePair;Pair;Associa
+settings.remote.remoteUnpair;Unpair;Disassocia
+firstInstall.getHelpScreen.channels.title;Channels;Canali
+settings.parentalControls.ageRating.info;Choosing PIN protection for age-rated programmes will also protect any recordings after 9pm.;
+rails.morefrom;More from;Potrebbe anche interessarti %1
+firstInstall.startChannelsScanScreen.title;Channels;Sintonizza i Canali TV
+settings.parentalAndPaiment.parentalPin;PIN;PIN
+settings.parentalPin;PIN;PIN
+firstInstall.wiredNetworkFoundScreen.title;You're connected;Connessione riuscita!
+firstInstall.wifiNetworkFoundScreen.title;You're connected;Connessione riuscita!
+keyboard.parentalPin.enter.placeholder;Please enter your new 4-digit PIN;Inserisci un nuovo PIN di 4 cifre
+keyboard.parentalPin.reEnter.placeholder;Please re-enter your new 4-digit PIN;Reinserisci il nuovo PIN
+settings.network.wps;WPS;WPS
+programInfo.actionButtons.moreRecordSeriesOptions;Record series;Registra Serie
+firstInstall.manualNetworkConfigurationScreen.title;Network;Connessione manuale
+common.help;Help;Aiuto
+keyboard.wifi.password.placeholder;Enter WiFi password;Inserisci Password
+settings.masterPin.changed;Your PIN's changed;PIN modificato
+settings.systemConfigurations.ledBrightness;Brightness;Luminosità  LED
+settings.network.lan;LAN;LAN
+settings.ledBrightness;Brightness;Luminosità LED
+settings.adjustBrightness;Adjust brightness;Regola luminosità
+change volume;Press +/- to change volume;Regola il volume con +/-
+firstInstall.helloScreen.title.foundAccount;Hi;Benvenuto
+firstInstall.startChannelsScanScreen.description;To set up your TV and radio channels, first make sure your TV aerial is connected.;La scansione dei canali cerca i canali <br/> TV e Radio disponibili nella tua zona
+settings.audioDescription.off;Off;Disattiva
+settings.subtitles.off;Off;Disattiva
+settings.powerSaving.quickBoot.on;On;Attiva
+settings.powerSaving.quickBoot.off;Off;Disattiva
+common.done;Done;Ok
+firstInstall.remotePairingSuccessScreen.description;Your TV box is now paired with your remote.;Il telecomando è stato associato al Vodafone TV Box
+settings.recordings.boxSpace;Storage;Spazio disponibile
+settings.remote.batteryStatus.view;View status;Livello batterie
+programInfo.catchup.watch;Watch;Guarda
+programInfo.watch;Watch;Guarda
+badging.parentalLock.on;Parental lock on;Protezione Bambino attiva
+firstInstall.operatorPairingScreen.title;Please call us;Contattaci
+firmwareUpdate.description.countdown;Update starts in:;L'aggiornamento inizierà tra: %1
+settings.masterPin.turnOff;PIN off;Disattiva
+settings.masterPin.turnOn;PIN on;Attiva
+settings.masterPin.changePin;Change your PIN;Modifica PIN
+settings.systemConfigurations.updates.upToDate;You already have the latest updates.;Nessun aggiornamento disponibile
+settings.lockedChannels;Locked channels;Canali bloccati
+mytv.recordings;Recordings;Registrazioni
+mytv.purchasesAndRentals;Purchases & rentals;Noleggiati
+programInfo.actionButtons.moreRecordOptions;Record episode;Registra Episodio
+programInfo.actionButtons.buyLabel;Buy;Acquista %1
+programInfo.actionButtons.rentLabel;Rent;Noleggia %1
+programInfo.actionButtons.bought;Purchased;Acquistato
+programInfo.actionButtons.rented;Rented;Noleggiato
+badging.parentalLock.off;Parental lock off;Protezione Bambino disattiva
+badging.recordable;Available to record;Disponibile per la Registrazione
+firstInstall.wifiNetworkSelector.joinOtherNetwork;Join other network;Reti nascoste
+firstInstall.buttons.getHelp;Get help;Info
+firmwareUpdate.description.inProgress;Updating now, please wait.;Aggiornamento in corso, attendi...
+settings.masterPin.turnedOff;PIN off;Disattivo
+settings.masterPin.turnedOn;PIN on;Attivo
+settings.parentalControls.lockedChannels;Lock channels;Blocca canali
+settings.network.joinOtherNetwork;Join other network;Reti nascoste
+popups.wifi.buttons.getHelp;Get help;Aiuto
+common.tryAgain;Try again;Riprova
+firstInstall.remotePairingSuccessScreen.title;Now paired;Associato
+firstInstall.buttons.wifi;WiFi;Wi-Fi
+firstInstall.buttons.backToWifiList;Back to WiFi list;Lista Wi-Fi
+firstInstall.buttons.abort;Stop;Interrompi
+keyboard.wifi.ssid.placeholder;Enter network name:;Inserisci il nome rete
+settings.masterPin.whats;See your PIN;Qual è il PIN?
+settings.informations.OUI;OUI;OUI
+settings.informations.updateStatus;Last system software update:;Ultimo aggiornamento software
+settings.informations.chipID;ID;ChipID
+settings.parentalControls.ageRating;Age rating;Livelli blocco
+settings.parentalControls.whats;See your PIN;Scopri PIN
+settings.parentalControls.okay;Okay;Ok
+settings.lockedChannels.permitted;Allowed;Autorizzati
+settings.boxSpaceProgression;You're using %1% of your available space;Stai utilizzando il %1% dello spazio disponibile
+settings.remote.itsPaired;Now paired;Associato
+popups.storage.buttons.buyMore;Buy more storage;Compra più spazio
+popups.settings.audioAndVisual.screenResolution;Save resolution?;Vuoi salvare la nuova risoluzione?
+rails.notitle;No title;No info
+badging.recording;Recording;Registrazione programmata
+notification.seriesRecording.start;Schedule series recording;Registrazione nuovi episodi programmata
+watch;Watch;Guarda %1
+volume;Volume:;Volume
+Today;Today;Oggi
+Tomorrow;Tomorrow;Domani
+Yesterday;Yesterday;Ieri
+locked;Locked;Bloccato
+mainMenu.myTV.title;MY TV;MY TV
+mainMenu.browse.title;ON DEMAND;ON DEMAND
+mainMenu.myTVCoverflow.title;Watch next;Iniziati
+mainMenu.appsCoverflow.title;MY apps;APP
+mainMenu.tvGuide.title;TV GUIDE;GUIDA TV
+mainMenu.apps.title;APPS;APP
+mainMenu.search;Search;Cerca
+mainMenu.settings;Settings;Impostazioni
+mainMenu.allChannelsTvGuide.title;All channels;Tutti i canali
+common.noData;No information;Nessuna informazione
+common.noItem;No item;Contenuto non disponibile
+common.onNow;On now;Ora in onda
+common.launchApp;Launch app;Scopri di più
+common.launch;Launch;Avvia
+common.onNext;On next;Successivo
+common.onLater;On later;Più tardi
+common.onTomorrow;On tomorrow;Domani
+common.today;Today;Oggi
+common.tomorrow;Tomorrow;Domani
+common.yesterday;Yesterday;Ieri
+common.continue;Continue;Continua
+common.popular;Popular;Più visti
+common.cancel;Cancel;Cancella
+common.yes;Yes;Sì
+common.no;No;No
+common.skip;Skip;Salta
+common.notAvailable;Not available;Non disponibile
+common.okay;Okay;Ok
+common.noSynopsis;Synopsis unavailable;Descrizione non disponibile
+common.channel;channel;canale
+common.channels;channels;canali
+language.eng;English;English
+language.fra;Français;Français
+language.ita;Italiano;Italiano
+language.deu;Deutsch;Deutsch
+language.spa;Español;Español
+language.swe;Svenska;Svenska
+language.tur;Türk;Türk
+liveScreen.noChannel;Channel unavailable;Canale non disponibile
+date.format.smallday0;Sun;Dom
+date.format.smallday1;Mon;Lun
+date.format.smallday2;Tue;Mar
+date.format.smallday3;Wed;Mer
+date.format.smallday4;Thu;Gio
+date.format.smallday5;Fri;Ven
+date.format.smallday6;Sat;Sab
+date.format.day0;Sunday;Domenica
+date.format.day1;Monday;Lunedì
+date.format.day2;Tuesday;Martedì
+date.format.day3;Wednesday;Mercoledì
+date.format.day4;Thursday;Giovedì
+date.format.day6;Saturday;Sabato
+date.format.smallmonth0;Jan;Gen
+date.format.smallmonth1;Feb;Feb
+date.format.smallmonth2;Mar;Mar
+date.format.smallmonth3;Apr;Apr
+date.format.smallmonth4;May;Mag
+date.format.smallmonth5;Jun;Giu
+date.format.smallmonth6;Jul;Lug
+date.format.smallmonth7;Aug;Ago
+date.format.smallmonth8;Sep;Set
+date.format.smallmonth9;Oct;Ott
+date.format.smallmonth10;Nov;Nov
+date.format.smallmonth11;Dec;Dic
+date.format.month0;January;Gennaio
+date.format.month1;February;Febbraio
+date.format.month2;March;Marzo
+date.format.month3;April;Aprile
+date.format.month4;May;Maggio
+date.format.month5;June;Giugno
+date.format.month6;July;Luglio
+date.format.month7;August;Agosto
+date.format.month8;September;Settembre
+date.format.month9;October;Ottobre
+date.format.month10;November;Novembre
+date.format.month11;December;Dicembre
+network.error.ssid.tooShort;Network name too short, please enter another one and try again.;Il nome della rete è troppo corto. Inserisci un nuovo nome e riprova.
+network.error.password.tooShort;Password is too short, please enter another one with more digits and try again.;La password è troppo corta. Inserisci una nuova password.
+firstInstall.languageScreen.title;Language;Lingua
+firstInstall.remoteUnPairingScreen.title;Remote pairing;Associa telecomando
+firstInstall.helpBar.toSelect;Choose;Seleziona
+firstInstall.helpBar.toGoBack;Back;Indietro
+firstInstall.wifiNetworkSelectScreen.description;Press the WPS button on your TV box until the connection confirmation screen appears, or enter your Wi-Fi details:;Per collegare il TV BOX a Internet premi il tasto WPS del TV BOX e della Station oppure scegli una rete Wi-Fi dall'elenco:
+firstInstall.wifiKeyboardScreen.ssid.description;Enter network name:;Inserisci il nome della rete:
+firstInstall.wifiKeyboardScreen.password.description;Enter Wi-Fi password:;Inserisci la password del Wi-Fi:
+firstInstall.wifiNetworkSelector.searchAgain;Search again;Cerca di nuovo
+firstInstall.helloScreen.title.searchingAccount;One moment;Un attimo…
+firstInstall.conflictedChannelsFoundScreen.title;Channels;Canali
+firstInstall.conflictedChannelsFoundScreen.description;Your aerial is picking up multiple regions for %1 %2. Please choose:;Abbiamo trovato dei canali in sovrapposizione: %1 %2. <br> Scegli quale sintonizzare:
+firstInstall.resolveChannelConflictScreen.title;Channel %1;Canale %1
+firstInstall.resolveChannelConflictScreen.description;Please choose one of the following options:;Seleziona una delle seguenti opzioni:
+firstInstall.conflictResolutionConfirmScreen.title;Confirm channels;Conferma canali
+firstInstall.conflictResolutionConfirmScreen.description;Please confirm your chosen channels:;Conferma i canali selezionati:
+firstInstall.buttons.pairLater;Pair later;Più tardi
+firstInstall.buttons.connect;Connect;Connetti
+firstInstall.buttons.ethernet;Ethernet;Ethernet
+firstInstall.buttons.tryAgain;Try again;Riprova
+firstInstall.buttons.tryAgainDHCP;Try again with DHCP;Riprova con DHCP
+firstInstall.buttons.connectWifi;Connect with WiFi;Connetti al Wi-Fi
+firstInstall.buttons.advanced;Advanced;Avanzate
+firstInstall.buttons.continue;Continue;Continua
+firstInstall.buttons.next;Next;Avanti
+firstInstall.buttons.confirm;Confirm;Conferma
+firstInstall.buttons.startScanning;Start scanning;Avvia scansione
+firstInstall.buttons.finishSetup;Finish setup;Inizia la visione
+firstInstall.buttons.skip;Skip;Salta
+firstInstall.buttons.startWatching;Start watching;Accedi al servizio
+firstInstall.buttons.autoSelect;Auto select;Selezione autom.
+firstInstall.buttons.customSelect;Custom select;Selezione manuale
+firstInstall.helpBar.help;Help;Info
+keyboard.masterPin.enter.placeholder;Please enter your new 4-digit PIN;Inserisci un nuovo PIN di 4 cifre
+keyboard.masterPin.reEnter.placeholder;Please re-enter your new 4-digit PIN;Reinserisci il nuovo PIN
+keyboard.lockedChannels.placeholder;Channel number;Numero canale
+firmwareUpdate.title;Please wait while your box updates.;Aggiornamento in corso, non spegnere il tuo Vodafone TV Box
+firmwareUpdate.buttonsBar.updateNow;Update now;Aggiorna
+settings.masterPin;PIN;PIN
+settings.masterPin.okay;Okay;Ok
+settings.masterPin.changeMyPin;Change your PIN;Cambia PIN
+settings.masterPin.whats.popup;Your default PIN is 1234;Il PIN predefinito è 0000. Quando è attivo, serve per impostare la Protezione Bambino e acquistare i contenuti a pagamento. Puoi attivarlo o disattivarlo in base alle tue esigenze. Se hai dimenticato il tuo PIN, puoi reimpostarlo su vodafone.it nell'area Fai da te.
+settings.parentalAndPaiment.paymentPin;PIN;PIN
+settings.recordings;Recordings;Le mie Registrazioni
+settings.recordings.deleteAll;Delete all;Cancella tutto
+settings.recordings.delete.dont;Don't delete all;Non cancellare tutto
+settings.recordings.activate.dont;Don't activate;Non attivare
+settings.recordings.autoDelete;Auto delete;Cancellazione automatica
+settings.recordings.buySpace;Buy space;Acquista spazio
+settings.language;Language;Lingua
+settings.accessibility;Accessibility;Servizi per l'accessibilità
+settings.accessibility.audioDescription;Audio description;Descrizione audio
+settings.accessibility.subtitles;Subtitles;Sottotitoli
+settings.termsAndConditions;Terms & conditions;Condizioni Generali
+settings.termsAndConditionsPageTitle;Terms & conditions;Condizioni Generali di Contratto
+settings.systemConfigurations.network;Network;Connessione internet
+settings.systemConfigurations.remote;Remote;Telecomando
+settings.systemConfigurations.tvChannels;TV channels;Canali TV
+settings.systemConfigurations.audioAndVisual;Audio & visual;Audio e Video
+settings.systemConfigurations.clockSettings;Clock settings;Impostazione orologio
+settings.clockSettings.hourFormats.12;am / pm;am / pm
+settings.clockSettings.hourFormats.24;24 hour;24 ore
+settings.systemConfigurations.updates;Updates;Aggiornamenti
+settings.systemConfigurations.updates.updateAvailable;Software update available. Please wait a few minutes while your TV box restarts and installs the update.;"Aggiornamento software disponibile: il tuo Vodafone TV Box si riavvierà a breve. Questa operazione potrebbe richiedere alcuni minuti; se vuoi continuare a seguire i tuoi programmi utilizza l'app Vodafone TV per smartphone o tablet."
+settings.systemConfigurations.information;Information;Informazioni
+settings.informations.buttons.general;General;Generali
+settings.informations.buttons.audioAndVideo;Audio & video;Audio e Video
+settings.informations.buttons.tvQuality;TV quality;Qualità TV
+settings.informations.title;Box information;Informazioni parametri decoder
+settings.informations.brandName;Brand name;Nome marchio
+settings.informations.modelName;Model name;Nome Modello
+settings.informations.hardwareVersion;Hardware version;Versione Hardware
+settings.informations.softwareVersion;Software version;Versione Software
+settings.informations.uiVersion;UI version;Versione UI
+settings.informations.updateDate;Last system software update:;Ultima data aggiornamento software
+settings.informations.epgData;EPG data;Data EPG
+settings.informations.householdID;Household ID;Household ID
+settings.informations.usedCapacityEMMC;Used/capacity eMMC;Utilizzato/Capacità MMC
+settings.informations.usbBack;USB back;USB posteriore
+settings.informations.activeConnection;Active connection;Connessione attiva
+settings.informations.ip;Current IP address;Indirizzo IP attuale
+settings.informations.wired.mac;Ethernet MAC address;Indirizzo Ethernet MAC
+settings.informations.wireless.mac;Wireless MAC address;Indirizzo Wireless MAC
+settings.informations.serialNumber;Serial number;Numero Seriale
+settings.informations.router;Router;Router
+settings.informations.speedtest;Speed test;Speedtest
+settings.informations.operationalMode;Operational mode;Modalità operativa
+settings.informations.videoConnectionMode;Video connection mode;Modalità connessione video
+settings.informations.tvModel;TV model;Modello TV
+settings.informations.audioConnectionMode;Audio connection mode;Modalità connessione audio
+settings.informations.audioOutput;Audio output;Uscita audio
+settings.informations.remoteControlMode;Remote control mode;Connessione telecomando
+settings.informations.channelNameDVBT;Channel name (DVB-T);Nome canale (DVB-T)
+settings.informations.frequency;Frequency;Frequenza
+settings.informations.signalStrength;Signal strength;Potenza segnale
+settings.informations.ber;BER;BER
+settings.informations.channelNameOTT;Channel name (over the top);Nome canale
+settings.informations.abr;ABR;ABR
+settings.informations.environment;Environment;Ambiente
+settings.parentalControls;Parental controls;Protezione Bambino
+settings.parentalControls.whats.popup;Your default PIN is 1234. When it’s turned on, you’ll be asked to enter it when you make payments and some settings changes like turning parental controls on/off.;Il PIN predefinito è %1. Quando il codice è attivo, ti verrà richiesto per accedere ai contenuti protetti o per effettuare degli acquisti.
+settings.lockedChannels.customise;Customise;Personalizza
+settings.lockedChannels.unlockAll;Unlock all;Sblocca tutto
+settings.lockedChannels.locked;Locked;Bloccato
+settings.tvChannels.premiumChannels;Premium channels;Canali premium
+settings.enterNewPin;Enter new PIN;Crea nuovo PIN
+settings.reEnterNewPin;Re-enter new PIN;Reinserisci nuovo PIN
+settings.pinConfirmed;PIN confirmed;PIN Confermato
+settings.ageRatings.universal;Universal;Universale
+settings.ageRatings.u;U;PT
+settings.ageRatings.pg;PG;BA
+settings.ageRatings.12;12;VM12
+settings.ageRatings.15;15;VM14
+settings.ageRatings.18;18;VM18
+settings.ageRatings.off;Off;Nessun blocco
+settings.network.searchAgain;Search again;Aggiorna reti
+settings.network.wps.popup;Press the WPS button on your TV box, then on your router to automatically start pairing.;Ora premi il tasto WPS della Vodafone Station.
+settings.network.lan.connect;Connect;Collega
+settings.network.advanced;Advanced;Configurazioni avanzate
+settings.network.advanced.ipAddress;IP address;Indirizzo IP
+settings.remote;Remote;Telecomando
+settings.remotePairing;Remote pairing;Associa telecomando
+settings.remote.batteryStatus;Battery status;Stato batterie
+settings.remote.batteryStatus.fine;Your battery status is OK;Le tue batterie sono cariche
+settings.remote.batteryStatus.sheetTitleview;View status;Visualizza stato
+settings.remote.batteryStatus.sheetSubtitleview;Battery status;Stato batterie
+settings.remote.connectionType;Connection type;Connessione telecomando
+settings.remote.connectionType.IR;IR;IR
+settings.remote.connectionType.infrared;Infrared;Infrarossi
+settings.remote.connectionType.RF;RF;RF
+settings.remote.connectionType.radioFrequency;Radio frequency;Radio Frequenza
+settings.tvChannels.autoScan;Auto scan;Ricerca automatica
+settings.tvChannels.startAutoScan;Start auto scan;Inizia ricerca
+settings.tvChannels.stopAutoScan;Stop auto scan;Interrompi ricerca
+settings.tvChannels.channelScan;Channel scan;Ricerca canali
+settings.tvChannels.currentlyHave;You currently have:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Attualmente disponibili: Digitale Terrestre<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Canali in streaming<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyFound;We've found:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Abbiamo trovato: <div class='halfSummary'>Digitale Terrestre<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Canali in streaming<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.weFound;We found:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Abbiamo trovato: <div class='halfSummary'>Digitale Terrestre<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Canali in streaming<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.autoSelect;Auto select;Selezione autom.
+settings.tvChannels.customSelect;Custom select;Selezione manuale
+settings.tvChannels.resolveConflict.description;Please confirm your chosen channel:;Conferma il canale selezionato:
+settings.tvChannels.confirmConflictResolution.description;Please confirm your chosen channels:;Conferma i canali selezionati:
+mytv.watchnext;Watch next;Continua a guardare
+mytv.allRecordings;All recordings;Tutte le Registrazioni
+mytv.scheduledRecordings;Scheduled recordings;Registrazioni Programmate
+mytv.allScheduledRecordings;All scheduled recordings;Tutte le Registrazioni Programmate
+mytv.allPurchasesAndRentals;All rentals & purchases;Noleggiati
+mytv.wishlist;Record;Preferiti
+mytv.allWishlist;Recordings;Tutti i Preferiti
+mytv.other;Others;Altri
+apps.apps;Apps;App
+apps.myApps;My apps;Le mie app
+apps.new;New;Nuovi
+apps.popular;Popular;Più Popolari
+apps.education;Education;Education
+search.searchResults;Search results;Risultati ricerca:
+search.noResults;No results;Nessun risultato disponibile
+programInfo.airedOn;Aired on;In onda
+programInfo.related;Related;Potrebbe anche interessarti
+programInfo.recording.record;Record;Registra
+programInfo.actionButtons.watch;Watch;Guarda %1
+programInfo.actionButtons.watchRecording;Watch your recording;Guarda registr.
+programInfo.actionButtons.watchLive;Watch;Guarda
+programInfo.actionButtons.recordOn;Record episode;Registra
+programInfo.actionButtons.watchCatchup;Watch;Guarda
+programInfo.actionButtons.startOver;Restart;Ricomincia
+programInfo.actionButtons.recordSeries;Record series;Registra Serie
+programInfo.actionButtons.cancelRecording;Cancel recording;Annulla registr.
+programInfo.actionButtons.deleteRecording;Delete recording;Elimina
+programInfo.actionButtons.cancelRecordSeriesOn;Cancel series recording;Cancella registr.serie
+programInfo.actionButtons.deleteRecordSeriesOn;Delete series recording;Elimina registr.
+programInfo.actionButtons.protect;Protect recording;Proteggi registr.
+programInfo.actionButtons.unprotect;Unprotect recording;Disattiva protezione
+programInfo.actionButtons.trailer;Watch trailer;Trailer
+programInfo.actionButtons.thirdPartyApp;0,01;%1
+programInfo.actionButtons.wishlist.remove;Remove;Elimina dai Preferiti
+programInfo.actionButtons.wishlist.add;Schedule record;Aggiungi ai Preferiti
+programInfo.actionButtons.watchContent;Watch %1;Guarda %1
+programInfo.actionButtons.buy;Buy;Acquista
+programInfo.actionButtons.rent;Rent;Noleggia
+programInfo.actionButtons.confirm4K;Your current resolution is not 4K. To watch 4K content your TV must be 4K-ready. Are you sure you want to continue?;La risoluzione del tuo televisore non è 4K (Ultra HD). Per guardare i contenuti in 4K devi avere un televisore compatibile. Vuoi procedere ugualmente?
+minutes.acronym;mins;min
+minute.acronym;min;min
+settings.audioAndVisual.audioOutput;Audio output;Uscita audio
+settings.audioAndVisual.audioOutput.stereo;Stereo;Stereo
+settings.audioAndVisual.audioOutput.dolbyAudio;Dolby Audio;Audio Dolby
+settings.audioAndVisual.hdmiAudioOutput;HDMI audio output;Uscita Audio HDMI
+settings.audioAndVisual.on;On;On
+settings.audioAndVisual.off;Off;Off
+settings.audioAndVisual.screenResolution.576p;576p;576p
+settings.audioAndVisual.screenResolution.720p;720p;720p
+settings.audioAndVisual.screenResolution.1080p;1080p;1080p
+settings.audioAndVisual.screenResolution.4k;4K;4K
+settings.systemConfigurations.powerSaving;Power;Modalità standby
+settings.powerSaving.quickBoot;Power saving mode;Modalità standby
+settings.powerSaving.autoStandbyTime;Auto standby time;Standby automatico
+settings.powerSaving.autoStandbyTime.3h;3 hours;3 ore
+settings.powerSaving.autoStandbyTime.6h;6 hours;6 ore
+settings.powerSaving.autoStandbyTime.12h;12 hours;12 ore
+settings.powerSaving.autoStandbyTime.off;Off;Spento
+settings.conflictedChannelsFoundScreen.description;Your aerial is picking up multiple regions for <insert>. Please choose an option:;L'antenna ha trovato più opzioni per <strong>%1 %2</strong>. Seleziona una delle opzioni:
+popups.powerSaving.buttons.cancel;Cancel standby;Annulla Standby
+popups.powerSaving.buttons.adjust;Change auto standby;Modifica Auto Standby
+network.ipAddress;IP address;Indirizzo IP
+network.subnetMask;Subnet mask;Maschera di rete
+network.defaultGateway;Default gateway;Gateway Predefinito
+network.primaryDNS;Primary DNS;DNS primario
+network.secondaryDNS;Secondary DNS;DNS secondario
+serieInfo.recordEpisode;Record episode;Registra Episodio
+serieInfo.recordSeries;Record series;Registra Serie
+serieInfo.season;Season;STAGIONE
+popups.upgrade.buttons.updateNow;Update now;Aggiorna
+popups.reboot.buttons.rebootNow;Reboot now;Riavvia
+popups.wifi.buttons.tryAgain;Try again;Riprova
+popups.storage.misc;0;<div class='progressFull'></div>
+popups.storage.buttons.manage;Manage my recordings;Gestisci le tue Registrazioni
+popups.storage.buttons.enableAutoDelete;Enable auto delete;Attiva Auto-elimina
+popups.continueWatching.buttons.next;Next episode;Prossimo episodio
+popups.continueWatching.buttons.startOver;Restart;Riavvia
+popups.maintenance.message;An update is scheduled for your TV box;È disponibile un nuovo aggiornamento per il tuo Vodafone TV Box: non spegnere.
+maintenance.wait;Update in progress, please wait.;Aggiornamento in corso, attendi senza spegnere il tuo Vodafone TV Box
+rails.more;More;Contenuti correlati:
+rails.moretitle;More %1;Contenuti correlati %1
+rails.bucketMore;See more;Vedi di più
+badging.expires;Expires from %1 in %2 days;Scade tra %1 in %2 giorni
+badging.recorded;Recorded;Registrato
+badging.protected;Protected recording;Registrazione protetta
+badging.subtitles;Subtitles available;Sottotitoli disponibili
+badging.audioDescription;Audio description available;Audio descrizione disponibile
+badging.wishList;Scheduled record;Aggiunto ai Preferiti
+badging.catchUp;Catch up;Disponibile
+badging.airsOn;Airs on %1;In onda
+notification.recording.delete;Recording deleted;Registrazione interrotta
+notification.recording.cancel;Recording cancelled;Registrazione cancellata
+notification.recording.scheduled;Recording scheduled;Registrazione programmata
+notification.seriesRecording.cancel;Series record cancelled;Registrazione Serie cancellata
+notification.seriesRecording.delete;Series record deleted;Registrazione Serie interrotta
+notification.recording.protect;Recording protected;Registrazione protetta
+notification.network.online;You're connected;Sei connesso a internet
+notification.purchase.success;Purchase made;Acquistato!
+notification.login.emptyToken;Empty token;Elimina token
+notification.battery.low;Your TV remote batteries are low, please replace them.;Batterie del telecomando quasi scariche
+settings.warning.popup.parentalControlEnable;Turning on parental controls will enable your TV PIN. Are you happy to continue?;Attivando la Protezione Bambino si attiverà il PIN, vuoi continuare? (Vai su voda.it/VTVhelp)
+settings.ledBrightness.medium;Medium;Medio
+programInfo.actionButtons.moreWatchOptions;More options;Guarda
+notification.recording.unprotect;Unlocked - you can now record;Registrazione non più protetta
+common.confirm;Okay?;Conferma
+keyboard.search.placeholder;Start searching;Cerca
+settings.warning.popup.masterPinDisable;Turning off your PIN will also turn off parental controls. Are you happy to continue?;Se disattivi il PIN disattiverai anche la Protezione Bambino, vuoi continuare?
+settings.network.wifi.waiting;Connecting to your Wi-Fi network;Connessione alla rete Wi-Fi in corso…
+settings.tvChannels.abortingAutoScan;Stopping;Interrompi
+settings.audioDescription.on;Turn on;Attiva
+settings.subtitles.on;Turn on;Attiva
+popups.powerSaving.message;Vodafone TV will go into standby mode in %1s;Il tuo Vodafone TV Box andrà in standby tra poco
+firstInstall.languageScreen.description;Choose your language;Seleziona la lingua
+settings.parentalControls.changeMyPin;Change PIN;Modifica PIN
+settings.parentalControls.changedPin;Your PIN has changed;PIN modificato
+settings.ledBrightness.high;High;Alto
+settings.informations.buttons.connectivity;Internet;Connettività
+settings.ledBrightness.low;Low;Basso
+settings.remote.remotePairNewDevice;Pair remote;Associa nuovo telecomando
+settings.channelScan.auto;Scan;Ricerca canali
+settings.powerSaving.quickBoot.hint;Turn power saving mode off for faster setup;Disattiva la modalità standby per velocizzare l'accensione
+firstInstall.helloScreen.description.searchingAccount;Logging in to your Vodafone TV account;Stiamo verificando il tuo account Vodafone...
+settings.systemConfigurations.subtitle;System info;Informazioni di sistema
+settings.network.advanced.configureIpAddress;Manual setup;Configurazione manuale
+popups.continueWatching.misc;Continue watching: starting in %1;Continua a guardare: inizia tra %1
+firstInstall.buttons.manualIPConfig;Manual IP setup;Setup manuale
+settings.systemConfigurations;More settings;Altre configurazioni
+settings.systemConfigurations.factoryReset;Reset;Ripristina configurazioni
+settings.informations.buttons.remoteControl;Remote;Telecomando
+settings.network.advanced.waiting;Connecting your IP address to your TV box;Connessione con Vodafone TV in corso…
+popups.reboot.misc;Reboot in %1;Riavvio in %1
+notification.recording.start;Recording;Registrazione in corso...
+date.format.day5;Friday;Venerdì
+firstInstall.helloScreen.description.foundAccount;Nearly done;Ci siamo quasi...
+firstInstall.wifiNetworkConnectingScreen.description;Connecting to your Wi-Fi network;Connessione al Wi-Fi in corso…
+settings.network.advanced.dhcp;Auto setup;Configurazione automatica
+settings.remote.remotePairNewDevice.step0.failed.description;Sorry, you pressed the wrong buttons: press and hold the 3 and yellow buttons together for 5 seconds.;Non abbiamo rilevato il comando. Riprova premendo i tasti '3' e 'Giallo' per 5 secondi.
+change language;Change language;Cambia lingua
+firstInstall.manualNetworkConfigurationScreen.description;Please enter your network details using the number keys.;Configura manualmente la rete con la tastiera numerica del telecomando
+settings.premiumChannels.hide;Hide;Nascondi
+settings.premiumChannels.show;Show;Mostra tutti
+pinEntry.parentalPinCode;Enter your PIN;Inserisci PIN
+settings.remote.remotePairNewDevice.step2.description;Great, your remote is now paired;Il nuovo telecomando è stato associato
+pinEntry.masterPinCode;Enter your PIN;Inserisci il tuo PIN
+settings.recordings.deleteAllQuestion;Are you sure you want to delete all recordings?;Sei sicuro di voler cancellare tutte le tue registrazioni?
+settings.recordings.autoDeleteQuestion;Are you sure you want to activate the auto delete feature?;Sei sicuro di voler attivare la cancellazione automatica delle tue registrazioni?
+pinEntry.successful;PIN confirmed;Sbloccato con successo
+popups.upgrade.title;Software upgrade about to start;Il tuo Vodafone TV Box è in fase di aggiornamento: non spegnere!
+firstInstall.getHelpScreen.channels.description;Once your TV aerial is connected, start scanning for channels.;Dopo aver collegato l'antenna avvia la scansione canali.
+settings.systemConfigurations.factoryReset.popup;<p>Are you sure you want to restore to factory settings? This will delete any customised settings.<br/>Don't worry, your recordings won't be deleted.</p>;Vuoi ripristinare le impostazioni iniziali?<br/>In questo caso, le configurazioni personalizzate verranno eliminate ma le tue registrazioni saranno ancora disponibili.
+firstInstall.wiredNetworkSearchScreen.manual.description;Trying to connect;Connessione in corso...
+firstInstall.wiredNetworkSearchScreen.description;Please make sure your Ethernet cable is plugged in.;Collega il TV Box alla Vodafone Station tramite il cavo Ethernet
+firstInstall.getHelpScreen.wifi.description;You'll find the answers to lots of questions at vodafone.co.uk/tv;Per info e supporto vai su voda.it/vtvhelp
+firstInstall.getHelpScreen.wired.description;You'll find the answers to lots of questions at vodafone.co.uk/tv;Vuoi collegare il TV Box tramite il cavo Ethernet?
+firstInstall.remotePairLaterScreen.description;If you can't pair your remote now, don't worry – you can always pair it later and it'll still work in the meantime when you point it at the box.;Non preoccuparti: il telecomando funziona comunque! L'associazione ti permette di estenderne il raggio di utilizzo. Potrai associarlo in qualsiasi momento dalle Impostazioni.
+settings.network.noInternet;;Verifica la connessione a Internet e riprova [SC115]. Vai su voda.it/vtvhelp
+firstInstall.wifiNetworkErrorScreen.noLink;;Connessione Wi-Fi non riuscita. Assicurati che la Vodafone Station sia connessa ad internet e se necessario riavvia la connessione. Premi riprova. [SC106].
+settings.network.lan.noLink;;Nessuna connessione rilevata. Collega il cavo Ethernet e riprova. Altrimenti prosegui collegandoti in Wi-Fi [SC022].
+firstInstall.wiredNetworkScreen.noLink;;Cavo Ethernet non rilevato. Ricollega il cavo Ethernet o prosegui collegandoti in Wi-Fi. Premi riprova. [SC021]
+notification.network.error;;Elaborazione richiesta... (SC014)
+programInfo.rentalExpiresOn;;Disponibile fino a %1
+Available to Purchase;;Disponibile per l'acquisto
+Smart TV FTU UDID;;
+adult.hidden.description;;Questo contenuto è bloccato per il parental rating della protezione bambino
+adult.hidden.title;;Contenuto protetto
+adult.visible.title;;adult.visible.title
+advertising.notification.description;;Il video continuerà a essere riprodotto dopo la pubblicità
+advertising.notification.personalizedAds.cannotWatch.description;;
+advertising.notification.personalizedAds.cannotWatch.title;;
+advertising.notification.personalizedAds.optIn;;
+advertising.notification.personalizedAds.optOut;;
+advertising.notification.title;;Interruzione pubblicitaria
+advertising.overlay.count;;Pubblicità %1 di %2
+alexa.EnablewithoutSetup.text;;"Senza la configurazione, Alexa continuerà a cercare programmi TV e film, controllare la riproduzione, regolare il volume e raccontare barzellette. Per terminare l'installazione in qualsiasi momento, vai su Impostazioni Alexa e collega il tuo account Amazon. <br><br><span class= ""subtext""> Amazon elabora interazioni Alexa nel cloud. Selezionando ""Abilita Alexa"", si accettano tutti i Termini e le Condizioni. È possibile saperne di più su Termini e Privacy di Alexa utilizzando i link qui sotto.</span>"
+alexa.EnablewithoutSetup.title;;Abilitare Amazon Alexa senza configurazione?
+alexa.alexaDisableScreen.cancelButton;;Cancella
+alexa.alexaDisableScreen.confirmButton;;Conferma
+alexa.alexaDisableScreen.text;;Non sarai più in grado di utilizzare Alexa su questo dispositivo.
+alexa.alexaDisableScreen.title;;Vuoi disabilitare Alexa?
+alexa.alexaSettignDefaultScreen.buttonSetUp;;Iniziare
+alexa.alexaSettingDefaultScreen.buttonLanguage;;Lingue
+alexa.alexaSettingDefaultScreen.buttonSignout;;Esci
+alexa.alexaSettingDefaultScreen.buttonTermsAndConditions;;Termini e Condizioni
+alexa.alexaSetupScreen.description;;Seleziona Aggiorna Codice se hai problemi con il codice fornito e riprova.
+alexa.alexareadyscreen.ia.information;;Per abilitare funzioni aggiuntive come musica, meteo e smart home control, vai a <span> Impostazioni > Assistenti vocali > Amazon Alexa</span> in qualsiasi momento per collegare il tuo account Amazon.
+alexa.alexareadyscreen.ia.term1;;"""Alexa, alza il volume"""
+alexa.alexareadyscreen.ia.term2;;"""Alexa, mostrami film d'azione"""
+alexa.alexareadyscreen.ia.term3;;"""Alexa, cosa va in onda questa sera?"""
+alexa.alexareadyscreen.information;;Per saperne di più su cosa può fare Alexa, scarica l'app Amazon Alexa da Google Play o dall'App Store.
+alexa.alexareadyscreen.subtitle;;Sul telecomando, premi<b> e tieni premuto il tasto</b> del microfono e prova a dire:
+alexa.alexareadyscreen.term1;;"""Alexa, alza il volume"""
+alexa.alexareadyscreen.term2;;"""Alexa, che tempo fa nel weekend?"""
+alexa.alexareadyscreen.term3;;“Apri Prime Video”
+alexa.alexareadyscreen.term4;;"""Mostrami film d'azione"""
+alexa.alexareadyscreen.term5;;"""Riproduci musica pop"""
+alexa.alexareadyscreen.vsb.information;;alexa.alexareadyscreen.vsb.information
+alexa.alexareadyscreen.vsb.subtitle;;Prova a dire:
+alexa.alexareadyscreen.vsb.term1;;"""Alexa, che tempo fa nel weekend?"""
+alexa.alexareadyscreen.vsb.term2;;“Alexa, apri Prime Video”
+alexa.alexareadyscreen.vsb.term3;;"""Alexa, aggiungi il latte alla lista della spesa"""
+alexa.alexareadyscreen.vsb.term4;;"""Alexa, metti canzoni pop degli anni '90"""
+alexa.alexareadyscreen.vsb.term5;;"""Alexa chi è Brad Pitt?"""
+alexa.alexareadyscreen.vsb.term6;;"""Alexa metti musica reggaeton"""
+alexa.authError;;Qualcosa è andato storto. Riprova in seguito
+alexa.card.canDoMore;;Alexa può fare di più
+alexa.card.connect;;Connettiti
+alexa.card.connectAmazonAccount;;Connetti il tuo account Amazon per abilitare funzionalità come meteo, smart home control e altro ancora.
+alexa.defaultScreen.description;;Alexa ti permette di usare la tua voce per trovare e guardare film e programmi TV, fare domande, controllare il meteo, riprodurre musica e molto altro ancora.
+alexa.defaultScreen.subDescription;;"Selezionando ""Iniziare"", si accettano tutti i Termini e le Condizioni. È possibile saperne di più su Termini e Privacy di Alexa utilizzando i link qui sotto."
+alexa.defaultscreen.buttonDisable;;Disabilita
+alexa.defaultscreen.buttonSigneIn;;Accedi ad Amazon Alexa
+alexa.defaultscreen.buttonTermOfUse;;Condizioni di utilizzo
+alexa.defaultscreen.devicename;;Nome dispositivo
+alexa.defaultscreen.signedInAs;;Hai effettuato l'accesso come
+alexa.enablePopup.title;;Vuoi attivare l'assistente vocale?
+alexa.enableWithoutSetup.ok;;Prova Alexa
+alexa.enablevoicesubMsg;;Il controllo vocale non è attivo.
+alexa.errorScreen.button.retry;;Riprova
+alexa.isReadyTitle;;Alexa è pronta per aiutarti
+alexa.notification.signout.body;;è possibile abilitarla nuovamente nelle impostazioni
+alexa.notification.signout.header;;Alexa è stata disabilitata
+alexa.popup.tryAlexa.title;;Prova Amazon Alexa senza un account
+alexa.setUpScreen.Goto;;Vai a
+alexa.setUpScreen.description;; sul tuo smartphone o PC ed inserisci questo codice
+alexa.setUpScreen.later;;Più tardi
+alexa.setUpScreen.refreshCode;;Aggiorna il codice
+alexa.setUpScreen.title;;Collega il tuo account Amazon
+alexa.termandConditionScreen.title;;Termini e condizioni
+alexa.termsOfUseScreen.title;;Termini e condizioni dell'utilizzo di Amazon Alexa
+apps.myApps.add.added;;Aggiunta
+apps.myApps.add.titleAppAdd;;Le mie app
+apps.myApps.add.titleAppAddDescription;;%1 di app aggiunte
+apps.myApps.add.titleAppRemove;;Le mie app
+apps.myApps.add.titleAppRemoveDescription;;%1 di app eliminate
+apps.myApps.add.titleMaxDescription;;Elimina un'app dalla lista Preferiti prima di aggiungerne una nuova
+apps.myApps.add.titleMaxLimit;;Le mie app
+apps.myApps.delete.remove;;Elimina
+apps.myApps.reorder.moved;;Sposta
+apps.rail.recentApps;;Applicazioni recenti
+badging.acronym.audioDescription;;AD
+badging.acronym.closedCaption;;CC
+badging.acronym.signLanguage;;LIS
+badging.acronym.subtitles;;S
+badging.airsNow;;In onda
+badging.airsOnDateAndTime;;In onda
+badging.availableToPurchase;;Acquista
+badging.availableToPurchaseAndExpiration;;
+badging.availableToSubscribe;;Attiva
+badging.failedOn;;
+badging.partiallyRecordedOn;;Parzialmente registrato
+badging.purchased;;Acquistato
+badging.recordableEpisode;;Registra ora
+badging.recordableSeries;;Registra la serie ora
+badging.recordedOn;;Registrazione attiva
+badging.recordingNow;;Registra ora
+badging.recordingScheduled;;Programmato
+badging.scheduled;;Programmato
+badging.subscribed;;Sottoscrizione attiva
+badging.subscribedTo;;
+badging.upcomingCatchUp;;Disponibile a breve
+bluetooth.fullplayer.audioprofile;;Profilo Audio
+bluetooth.fullplayer.collapse;;
+bluetooth.fullplayer.connected;;Connesso
+bluetooth.fullplayer.exit;;Esci
+bluetooth.fullplayer.unknownTrackAlbum;;Album sconosciuto
+bluetooth.fullplayer.unknownTrackArtist;;Artista sconosciuto
+bluetooth.fullplayer.unknownTrackTitle;;Brano sconosciuto
+bluetooth.popup.buttons.connect;;Connetti
+bluetooth.subtitle;;Conferma?
+bluetoothConnect.subtitle;;Conferma ?
+bluetoothConnect.title;;Vuoi attivare la voce?
+bluetoothConnection.title;;Sarai connesso a questo dispositivo
+bluetoothDisconnect.title;;Scegli che cosa fare
+buttons.filesFormat.3d;;3D
+buttons.filesFormat.4K;;4K
+buttons.filesFormat.HD;;HD
+buttons.filesFormat.SD;;SD
+cableRegio.scanSummary.description.success;;%1 canali sintonizzati:<br/>%2 Canali in streaming %3 Digitale Terrestre %4 Radio
+cableRegio.scanSummary.title;;Risultato della scansione canali
+cancelMultipleSeries.popup.subtitle;;Funzione non disponibile
+cancelMultipleSeries.popup.title;;Sei sicuro di voler cancellare %1 registrazioni?
+cancelSeries.subtitle;;Sei sicuro?
+cancelSeries.title;;Cancella serie?
+channelScan.completed;;Scansione canali completa
+channelScan.error;;Errore scansione canali
+clashManagementScreen.availableAsCatchup;;Disponibile in Catch-Up
+clashManagementScreen.recording;;Registrazione %1
+clashManagementScreen.repeatsOn;;Ripeti su %1
+clashManagementScreen.reschedule;;Riprogramma
+clashManagementScreen.subtitle;;Per registrare %1 scegli una delle opzioni disponibili.
+clashManagementScreen.title;;Hai troppe registrazioni
+common.back;;Indietro
+common.blockedContent;;
+common.browseAll;;
+common.buyStorage;;Acquista spazio
+common.deselectAll;;Deseleziona tutti
+common.disconnect;;Disconnetti
+common.hideAll;;Nascondi tutti
+common.min;;%1 min
+common.noThanks;;
+common.other;;Altro
+common.reorder;;Riordina
+common.searchOn;;
+common.selectAll;;Seleziona tutti
+common.showAll;;Mostra tutti
+common.subscribe;;Attiva
+common.tvGuide;;GuidaTV
+common.unpair;;
+common.welcomeTo;;Benvenuto
+continueWatching.household;;Dal tuo Vodafone TV Box
+date.format.duration.day;;giorno
+date.format.duration.days;;giorni
+date.format.duration.hour;;ora
+date.format.duration.hours;;ore
+date.format.duration.minute;;minuto
+date.format.duration.minutes;;minuti
+date.format.duration.month;;mese
+date.format.duration.months;;mesi
+date.format.duration.second;;secondo
+date.format.duration.seconds;;secondi
+date.format.duration.short.hours;;h
+date.format.duration.short.minutes;;m
+date.format.duration.short.seconds;;s
+date.format.duration.year;;anno
+date.format.duration.years;;anni
+deleteMultipleSeries.popup.protectedSubtitle;;Ci sono %1 registrazioni protette nella tua selezione. Vuoi cancellare comunque?
+deleteMultipleSeries.popup.subtitle;;Funzione non disponibile.
+deleteMultipleSeries.popup.title;;Sei sicuro di voler cancellare %1 registrazioni?
+deleteSeries.delete;;Cancella
+deleteSeries.subtitle;;Sei sicuro?
+deleteSeries.title;;Cancella serie
+deleteSingleSeries.popup.subtitle;;Vuoi selezionare l'intera serie o scegliere i singoli episodi?
+deleteSingleSeries.popup.title;;Serie selezionata
+detailsConfirmPurchaseScreen.audioTitle;;Audio
+detailsConfirmPurchaseScreen.detailsTitle;;Dettagli
+detailsConfirmPurchaseScreen.subtitlesTitle;;Sottotitoli
+epg.adultProgram.hidden.description;;Il contenuto può essere visto solo inserendo il PIN della protezione bambino. Per modificare il livello di protezione vai nelle impostazioni.
+epg.adultProgram.hidden.name;;Il programma è protetto
+epg.adultProgram.hidden.subtitle;;Modifica le impostazioni della protezione bambino per guardare il contenuto.
+epg.adultProgram.locked.description;;Il contenuto può essere visto solo inserendo il PIN della protezione bambino. Per modificare il livello di protezione vai nelle impostazioni.
+epg.adultProgram.locked.name;;Bloccato
+epg.allChannels;;Tutti i canali
+epg.channel.locked.name;;Canale bloccato
+epg.filters.all;;Tutti
+epg.filters.allChannels;;Tutti
+epg.filters.hdchannels;;Canali HD
+epg.filters.juststarted;;Iniziati
+epg.filters.mostWatched;;Più visti
+epg.filters.subscribedChannels;;Canali inclusi
+epg.filters.title;;Seleziona il filtro di tuo interesse
+epg.program.locked.description;;Il contenuto può essere visto solo inserendo il PIN della protezione bambino. Per modificare il livello di protezione vai nelle impostazioni.
+epg.summary.duration;;Durata
+epg.summary.origin;;Fonte
+epg.summary.releaseDate;;Data di rilascio
+error.actionNotAllowed;;Funzione non disponibile
+error.default;;Errore generico
+error.mdw.network.configurationGetFailed;;Errore di configurazione rete
+error.mdw.network.configurationSetFailed;;Errore di configurazione rete
+error.netflix.esn;;ESN Netflix non valido
+error.player.broadcast.cannotResolve;;Canale non disponibile
+error.player.broadcast.cannotTune;;Sintonizzazione non disponibile
+error.player.broadcast.channelChangeInterrupted;;Cambio canale non disponibile
+error.player.broadcast.channelNotFound;;Canale non disponibile
+error.player.broadcast.channelNotSupported;;Canale non disponibile
+error.player.broadcast.channelParentalLock;;Protezione Bambino attiva
+error.player.broadcast.channelRecordingOngoing;;Non è possibile cambiare canale quando è in corso la registrazione
+error.player.broadcast.encryptedChannel;;Canale criptato o modulo mancante
+error.player.broadcast.insufficientBandwidth;;Connessione non disponibile
+error.player.broadcast.insufficientResources;;Risorse insufficienti per sintonizzare il canale selezionato
+error.player.broadcast.tunerLocked;;Sintonizzazione non disponibile
+error.player.broadcast.unknownChannel;;Canale non riconosciuto
+error.player.broadcast.unrealized;;Cambio canale non disponibile
+error.player.oipf.connectionLost;;Errore di riproduzione [S404]
+error.player.oipf.corrupt;;Programma non disponibile [S101]
+error.player.oipf.format;;Formato A/V non supportato
+error.player.oipf.insufficientResources;;Risorse insufficienti sul player
+error.player.oipf.positionUnavailable;;Programma non disponibile [S103]
+error.player.oipf.unavailable;;Programma non disponibile [S102]
+error.player.unidentified;;Errore generico sul player
+error.purchase.er.PPVPurchased;;Acquisto effettuato
+error.purchase.er.accountNotValid;;Utente non valido
+error.purchase.er.collectionPurchased;;Collezione acquistata
+error.purchase.er.configNotFound;;Impossibile effettuare l'acquisto
+error.purchase.er.couponNotValid;;Voucher non valido
+error.purchase.er.free;;Incluso
+error.purchase.er.incorrectPrice;;Prezzo non corretto
+error.purchase.er.insufficientFunds;;Impossibile effettuare l'acquisto per credito insufficiente
+error.purchase.er.invalidUser;;Utente non riconosciuto
+error.purchase.er.notInDomain;;Utente non riconosciuto
+error.purchase.er.notPurchasable;;Non disponibile per l'acquisto
+error.purchase.er.pgChargeIDRequired;;Impossibile effettuare l'acquisto
+error.purchase.er.pgNoResponse;;Impossibile effettuare l'acquisto
+error.purchase.er.pgNotExist;;Impossibile effettuare l'acquisto
+error.purchase.er.pgNotSet;;Impossibile effettuare l'acquisto
+error.purchase.er.pgUnknownResponse;;Impossibile effettuare l'acquisto
+error.purchase.er.retryLimitExceeded;;Hai esaurito il numero massimo di tentativi
+error.purchase.er.signatureMismatch;;Impossibile effettuare l'acquisto
+error.purchase.er.subscriptionOnly;;Disponibile in abbonamento
+error.purchase.er.subscriptionPurchased;;Abbonamento attivato
+error.purchase.er.unknownPPV;;Impossibile effettuare l'acquisto
+error.purchase.er.unknownReason;;Impossibile effettuare l'acquisto
+error.purchase.er.unknownTransactionState;;Impossibile effettuare l'acquisto
+error.purchase.er.unknownUser;;Utente sconosciuto
+error.purchase.er.userNotExist;;Utente non esistente
+error.purchase.er.userSuspended;;Credenziali in stato sopseso
+error.purchase.unidentified;;Errore di acquisto
+error.token.store.failed;;Archiviazione Auth Token non riuscita
+error.userAccountSuspended;;Il tuo account è sospeso 
+error.userActionSuspended;;Il tuo account è sospeso
+explanatoryCard.localQuotaLimit.info;;Your local storage is low. You have <br/>%1 of local space left.
+explanatoryCard.localQuotaLimit.statusContent;;Manage Local Recordings
+explanatoryCard.localQuotaLimit.title;;Local Storage Low
+explanatoryCard.mytv.external.myTVRecommendations;;Qui potrai vedere i contenuti suggeriti per te in base al tuo utilizzo.
+explanatoryCard.mytv.purchasesAndRentals;;Qui trovi i programmi che hai acquistato o noleggiato
+explanatoryCard.mytv.recommendations;;Qui puoi trovare i contenuti suggeriti in base alla tua attività di visione.
+explanatoryCard.mytv.recommendations.recommendationsOptIn;;Non perderti i contenuti più adatti a te in base a ciò che guardi. Premi OK sul telecomando per abilitare il motore di raccomandazione.
+explanatoryCard.mytv.recommendations.title;;Film e show televisivi da vedere
+explanatoryCard.mytv.recordings;;Qui trovi i programmi che hai registrato e che puoi guardare subito
+explanatoryCard.mytv.rentals;;Qui trovi i programmi che hai noleggiato
+explanatoryCard.mytv.scheduledRecordings;;Qui trovi i programmi per cui hai programmato una registrazione
+explanatoryCard.mytv.title;;MY TV
+explanatoryCard.mytv.watchnext;;Qui trovi i programmi che hai iniziato a guardare
+explanatoryCard.mytv.watchnext.recommendationsOptIn;;Non perderti i contenuti più adatti a te in base a ciò che guardi. Premi OK sul telecomando per abilitare il motore di raccomandazione.
+explanatoryCard.mytv.watchnext.title;;I tuoi contenuti più importanti da vedere
+explanatoryCard.mytv.welcomeTo;;Benvenuto in
+explanatoryCard.mytv.welcomeToMyTV;;Benvenuto in MyTV
+explanatoryCard.mytv.wishlist;;Qui trovi i programmi che hai aggiunto ai Preferiti
+explanatoryCard.ondemand.recommendationsOptIn;;Non perderti i contenuti più adatti a te in base a ciò che guardi. Premi OK sul telecomando per abilitare il motore di raccomandazione.
+explanatoryCard.ondemand.title;;OnDemand consigliati
+explanatoryCard.quota.autoDelete;;Lo spazio per le registrazioni è quasi esaurito. La cancellazione automatica inizierà con le prossime registrazioni programmate.
+explanatoryCard.quota.title;;Acquista spazio di archiviazione
+explanatoryCard.railTitle.mytv.external.myTVRecommendations;;Film e show televisivi consigliati
+explanatoryCard.railTitle.mytv.purchasesAndRentals;;Noleggiati
+explanatoryCard.railTitle.mytv.recommendations;;Contenuti che potrebbero interessarti
+explanatoryCard.railTitle.mytv.recordings;;Registrazioni
+explanatoryCard.railTitle.mytv.rentals;;Noleggiati
+explanatoryCard.railTitle.mytv.scheduledRecordings;;Registrazioni programmate
+explanatoryCard.railTitle.mytv.watchnext;;Continua a guardare
+explanatoryCard.railTitle.mytv.wishlist;;Preferiti
+explanatoryCard.related.recommendationsOptIn;;Non perderti i contenuti più adatti a te in base a ciò che guardi. Premi OK sul telecomando per abilitare il motore di raccomandazione.
+explanatoryCard.related.title;;Correlati
+explanatoryCard.search.recommendationsOptIn;;Non perderti i contenuti più adatti a te in base a ciò che guardi. Premi OK sul telecomando per abilitare il motore di raccomandazione.
+explanatoryCard.search.title;;Contenuti sulla base delle tue preferenze
+explanatoryCard.switchOn;;Accendi
+fastZap.barker.countdown;;L'app si aprirà tra<br/><div>%1 secondi</div>
+fastZap.upNext;;Prossimo
+firstInstall.automaticRecordingsMoreInfoScreen.description;;Con Vodafone TV puoi guardare i programmi andati in onda negli ultimi 7 giorni su una selezione di canali. Accedi alla Guida TV e scorri la programmazione: se il programma che ti interessa ha l'icona con la freccia circolare, potrai iniziare subito a guardarlo.<br/><br/>
+firstInstall.automaticRecordingsMoreInfoScreen.title;;Registrazioni automatiche
+firstInstall.bleRemotePairLaterScreen.description;;Per associare la TV con il telecomando tieni premuti per più di 5 secondi i tasti '3' e 'Giallo'<br/><br/>Se non riesci ad associare ora il tuo telecomando, puoi farlo successivamente nelle Impostazioni.
+firstInstall.bleRemotePairingScreen.description;;Per associare il tuo telecomando alla TV, tieni premuto '3' e 'Giallo' per almeno 5 secondi.<br/>
+firstInstall.bleRemotePairingScreen.title;;Associazione telecomando
+firstInstall.bleRemotePairingSuccessScreen.description;;Il tuo TV box è ora associato con il tuo telecomando
+firstInstall.bleRemotePairingSuccessScreen.title;;Ora associato
+firstInstall.buttons.ATP;;ATP
+firstInstall.buttons.I&D;;I&D
+firstInstall.buttons.agree;;Accetto
+firstInstall.buttons.back;;Indietro
+firstInstall.buttons.deepMode;;Standby
+firstInstall.buttons.developerMode;;
+firstInstall.buttons.disagree;;Non acconsento
+firstInstall.buttons.instantMode;;Accensione rapida
+firstInstall.buttons.manual;;Manuale
+firstInstall.buttons.moreInfo;;Più info
+firstInstall.buttons.reset;;Reset
+firstInstall.buttons.skipScanning;;Salta scansione
+firstInstall.buttons.tryAgainWithEthernet;;Riprova
+firstInstall.buttons.updateAndReboot;;Aggiorna e riavvia
+firstInstall.buttons.validate;;Conferma
+firstInstall.cheatMenuScreen.desc;;Sovrascrive i parametri di configurazione di Vodafone TV Box
+firstInstall.cheatMenuScreen.title;;Menu di configurazione
+firstInstall.consent.description;;Per avere esperienze personalizzate è possibile accettare o non accettare i termini.
+firstInstall.contentSettingsScreen.automaticRecordingsAgreement.title;;Registrazione automatica dei programmi già andati in onda sui canali
+firstInstall.contentSettingsScreen.recommendationsAgreement.title;;Abilita il motore di raccomandazione
+firstInstall.contentSettingsScreen.title;;Impostazinoni contenuti
+firstInstall.firmwareUpdateScreen.desc;;Installa l'aggiornamento disponibile. Il tuo Vodafone TV Box si riavvierà automaticamente una volta terminato l'aggiornamento.
+firstInstall.firmwareUpdateScreen.title;;Aggiornamenti
+firstInstall.irRfRemotePairLaterScreen.description;;Per associare la TV con il telecomando tieni premuti per più di 5 secondi i tasti '1' e 'Giallo'.<br/>Se il tuo telecomando è già associato, tieni premuti i tasti '3' e 'Giallo' per più di 5 secondi per disassociarlo.<br/>Se non riesci ad associare ora il tuo telecomando, puoi farlo successivamente.
+firstInstall.irRfRemotePairingScreen.description;;Per associare il telecomando alla televisione, tieni premuti i tasti '1' e 'Giallo' per almeno 5 secondi.
+firstInstall.irRfRemotePairingScreen.title;;Associazione telecomando
+firstInstall.irRfRemotePairingSuccessScreen.description;;Il tuo TV box è ora associato al tuo telecomando
+firstInstall.irRfRemotePairingSuccessScreen.title;;Ora associato
+firstInstall.powerSaving.description;;
+firstInstall.powerSaving.title;;Risparmio energetico
+firstInstall.powerSaving.turnOff;;Disabilita
+firstInstall.powerSaving.turnOn;;Abilita
+firstInstall.progressbar.complete.label;;Scansione canali completata
+firstInstall.progressbar.label;;Scansione canali in corso %1%
+firstInstall.recommendationsMoreInfoScreen.description;;Film, serie Tv e programmi consigliati per te <br/><br/> Non perderti i contenuti suggeriti per te in base alle tue visioni. Clicca OK o vai nelle impostazioni e  abilita il motore di raccomandazione.<br/><br/> Potrai disabilitarlo quando vorrai.
+firstInstall.recommendationsMoreInfoScreen.title;;Suggerimenti
+firstInstall.recoverPwdScreen.description;;Scansiona questo QR-code dal tuo smartphone per recuperare o modificare la tua password
+firstInstall.recoverPwdScreen.subtitle;;Scannerizza il QR Code
+firstInstall.recoverPwdScreen.title;;Recupero password della Vodafone TV
+firstInstall.scanSummaryScreen.description.fail;;Sintonizzazione dei canali Digitale Terrestre: assicurati che l'antenna TV sia collegata al Vodafone TV Box.
+firstInstall.scanSummaryScreen.description.fail.OTTOnly;;Canali
+firstInstall.scanSummaryScreen.description.fail.cable;;Non abbiamo trovato canali disponibili. Controlla che il cavo antenna sia correttamente collegato al TV Box, che il TV Box sia connesso ad Internet e riprova.
+firstInstall.scanSummaryScreen.description.fail.ftth;;Fallito
+firstInstall.scanSummaryScreen.description.partial;;Non tutti i canali sono stati sintonizzati. Prova a controllare l'antenna e fai una nuova sintonizzazione dei canali. <div class='halfSummary'>Digitale Terrestre<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Canali in streaming<div class='channelsSummary'>%3 TV</div></div></div> 
+firstInstall.scanSummaryScreen.description.partial.cable;; 
+firstInstall.scanSummaryScreen.description.partial.ftth;;Parziale
+firstInstall.scanSummaryScreen.description.success;;Goditi lo spettacolo di Vodafone TV!<br/>Puoi iniziare subito a guardare: <div class='halfSummary'>Digitale Terrestre<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Canali in streaming<div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.OTTOnly;;Goditi lo spettacolo di Vodafone TV!.<br/>Puoi iniziare subito a guardare:<br/><div class='halfSummary'>Canali in streaming<div class='channelsSummary'>%1 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.cable;;""
+firstInstall.scanSummaryScreen.description.success.ftth;;Terminato
+firstInstall.standbyModeSelectionScreen.desc;;Selezionando la modalità Accensione Rapida l'avvio della TV sarà più veloce. Con la modalità Standby risparmi energia, ma l'avvio della TV richiedrà più tempo.
+firstInstall.standbyModeSelectionScreen.title;;Modalità standby
+firstInstall.startChannelsScanScreen.description.cable;;A breve partirà la scansione canali. Assicurati che il cavo antenna sia correttamente collegato al TV Box e che il TV Box sia connesso ad Internet.
+firstInstall.startChannelsScanScreen.description.ftth;;Trovati i canali TV e Radio<br/> disponibili nella tua zona
+firstInstall.unpairRfRemoteScreen.description;;Per associare il telecomando, tieni premuti i tasti '3' e 'Giallo' contemporaneamente.
+firstInstall.wifiBandwidthStateScreen.buttons.retry;;Riprova
+firstInstall.wifiNetworkErrorScreen.wirelessConnectionError;;Non è stato possibile stabilire la connessione Wi-fi, riprovare.
+firstInstall.wifiNetworkSelector.wps;;Opzione WPS
+firstInstall.wiredNetworkScreen.noInternet;;Mancato collegamento al server. <br/>  Assicurati che la Vodafone Station sia connessa ad internet e se necessario riavvia la connessione. Premi riprova. [SC115].
+folder.bundle.includes;;Incluso
+folder.button.confirm;;Conferma
+folder.button.selfcare.subscribe;;Sottoscrivi
+folder.button.subscribe;;Attiva %1/mese
+folder.button.subscribed;;Sottoscrizione attiva
+folder.channelGrid.title;;Canali da %1
+folder.subscriptionType.app;;Sottoscrizione
+folder.subscriptionType.individualLinearChannel;;Abbonamento
+folder.subscriptionType.pack;;Pacchetto in abbonamento
+ftu.welcome.scanQR.button.description;;
+ftu.welcome.signUp.buttonText;;
+gdpr.consent;;Consenso
+gdpr.notice;;Informativa
+gdpr.privacy;;Privacy
+gdpr.privacy.consent.ads.description;;
+gdpr.privacy.consent.confirmation;;Non accettando l'abilitazione del motore di raccomandazione, alcune funzionalità non saranno attive sul tuo TV Box e non potrai godere della migliore esperienza della Vodafone TV.  <br/> Sei sicuro di voler procedere o vuoi tornare indietro alle impostazioni e cambiare la selezione?
+gdpr.privacy.consent.description;;Acconsenti per abilitare il motore di raccomandazione.
+gdpr.privacy.consent.kids.description;;Acconsenti per accedere a tutte le funzionalità dell'Area Kids.
+gdpr.privacy.consent.title;;Consenso privacy
+gdpr.privacy.default.notice;;Should be the default notice ( version 0 ):<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sagittis dignissim metus nec scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vulputate tempus risus, vel dignissim leo sodales id. Morbi eu arcu ligula. Suspendisse sed leo placerat, cursus ligula ac, consequat leo. Vestibulum vehicula vel dolor ut consequat. Curabitur vel justo justo. Vestibulum urna quam, fringilla in elit mollis, porta vestibulum odio. Vestibulum pretium dolor pharetra, euismod odio at, dictum felis. Curabitur pulvinar imperdiet ornare. Vivamus ac venenatis nulla, vel scelerisque quam. Maecenas venenatis ultrices felis et hendrerit. Nunc magna orci, suscipit a justo dictum, ornare consectetur tortor. Ut lobortis fermentum rutrum.<br/><br/>Nullam enim lacus, consequat et purus id, hendrerit faucibus massa. Sed tempor, mauris sed faucibus sodales, risus lorem tempus dolor, eget posuere dolor eros a tortor. Sed vestibulum eros eu ornare dignissim. Fusce tristique lectus mattis metus feugiat, sed dignissim dui pharetra. Cras diam turpis, finibus sed lorem ac, interdum ullamcorper massa. Ut tempus suscipit leo, at gravida metus pretium ac. Sed vestibulum vulputate turpis, vitae auctor nulla sagittis non. Cras vitae quam nec nisi imperdiet dictum in at arcu. Morbi in tempor massa. Duis efficitur nec magna et cursus. Ut ultrices, felis id dictum posuere, tortor felis fermentum urna, eu porta orci massa ut mi. Sed ut aliquam diam, a tristique ligula.<br/><br/>Aliquam justo sapien, egestas sed feugiat a, dignissim non justo. Ut vitae neque vel magna efficitur consectetur. Sed rhoncus neque euismod arcu varius, sed rutrum ex ullamcorper. Aenean lacus nisl, interdum vitae efficitur quis, facilisis id nunc. Nulla hendrerit dignissim orci. Curabitur fringilla, dui nec gravida vestibulum, ex ligula finibus ipsum, et malesuada ante est id ligula. Suspendisse vitae diam quam. Duis quis cursus orci, id hendrerit magna. Maecenas lacus sem, lobortis quis massa non, ornare condimentum lectus. Nam vitae sagittis diam. Suspendisse potenti.<br/><br/>Quisque vitae posuere metus. Etiam cursus nisl eleifend erat placerat gravida. Donec id nibh sem. Integer maximus sapien et ex malesuada posuere. Vestibulum interdum ex elementum volutpat feugiat. Suspendisse nec tincidunt libero. Phasellus fermentum posuere mauris, in faucibus libero malesuada quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse at finibus ligula.<br/><br/>Pellentesque euismod urna sed ante ultrices, sed dapibus nisi porta. Mauris faucibus tempus rutrum. Aliquam placerat, risus vitae rutrum faucibus, lectus lectus bibendum libero, eu iaculis metus massa in libero. Nulla at leo semper, euismod augue id, tempor turpis. Nulla viverra, tellus ut porttitor laoreet, arcu tortor faucibus ipsum, et condimentum nibh felis sed eros. Duis pretium arcu ligula, vitae accumsan metus pretium a. Praesent tellus tortor, interdum quis massa ut, tincidunt vehicula lectus.
+gdpr.privacy.notice.description;;Acconsenti a questa informativa per utilizzare quest'applicazione.
+gdpr.privacy.notice.title;;Informativa privacy
+gdpr.privacy.settings.agree;;Acconsento
+gdpr.privacy.settings.agreed;;Acconsento
+gdpr.privacy.settings.agreedAll;;Accetto
+gdpr.privacy.settings.consent.description;;Acconsenti per abilitare il motore di raccomandazione.
+gdpr.privacy.settings.description;;Puoi annullare la tua scelta
+gdpr.privacy.settings.disagree;;Non acconsento
+gdpr.privacy.settings.disagreedAll;;Non accetto
+gdpr.privacy.settings.notAgreed;;Non acconsento
+gdpr.privacy.settings.notice.description;;Acconsenti per utilizzare l' applicazione.
+gdpr.privacy.thirdPartyConsent.description;;""
+gdpr.privacy.thirdPartyConsent.title;;Consenso alla privacy di terze parti
+hpvr.countdown.shortSeconds;;%1 secondi
+hpvr.dismiss;;Rimuovi
+hpvr.formatDisk;;Formatta il disco
+hpvr.hdd.connected;;
+hpvr.hdd.eject.popup.title;;Per guardare le registrazioni locali dovrai riconnettere il tuo disco locale
+hpvr.hdd.ongoing.eject.popup.title;;Disconnettendo il tuo disco locale perderai le tue registrazioni locali in corso
+hpvr.hdd.recognized;;
+hpvr.hddFormat.popup.subtitle;;Potrebbe essere necessario formattare questo disco. Se deciderai di farlo, tutti i dati salvati sul disco verranno eliminati.
+hpvr.hddFormat.popup.title;;Impossibile connettere questo disco locale
+hpvr.hddFormatFailed.popup.subtitle;;Puoi provare a formattare nuovamente il disco locale. Se l'errore dovesse presentarsi nuovamente, contatta il Servizio Clienti Vodafone TV al numero 0284594650.
+hpvr.hddFormatFailed.popup.title;;Errore durante la formattazione del disco locale
+hpvr.hddFormatting.popup.subtitle;;hpvr.hddFormatting.popup.subtitle
+hpvr.hddFormatting.popup.title;;Formattazione del disco locale in corso.
+hpvr.hddFormattingDone.popup.subtitle;;Per utilizzare il disco locale per le tue registrazioni è necessario riavviare il TV Box.
+hpvr.hddFormattingDone.popup.title;;Il tuo disco locale è stato formattato con successo.
+hpvr.hddNotRecognize.popup.subtitle;;Assicurati che il disco locale sia connesso alla Vodafone TV
+hpvr.hddNotRecognize.popup.title;;Disco locale non riconosciuto
+hpvr.hddPlugged.popup.subtitle;;Per utilizzare il tuo drive locale devi riavviare il TV Box. <br><br> Il tuo TV Box si riavvierà automaticamente tra
+hpvr.hddPlugged.popup.title;;Disco locale connesso
+hpvr.newHddPlug;;Disco locale connesso
+hpvr.recording.cancelled;;Registrazione cancellata
+hpvr.recording.channelNotFound;;La registrazione non è iniziata perché non è stato possibile trovare il canale
+hpvr.recording.completed;;Registrazione completata con successo
+hpvr.recording.deleted;;Registrazione cancellata
+hpvr.recording.hddBufferOverflow;;""
+hpvr.recording.noCASSessionAvailable;;""
+hpvr.recording.noEntitlement;;La registrazione non è andata a buon fine perché il contenuto non è incluso nella tua offerta
+hpvr.recording.noHDD;;La registrazione non è andata a buon fine perché il disco è stato rimosso
+hpvr.recording.noHDDSpace;;La registrazione non è andata a buon fine per mancanza di spazio sufficiente sul disco
+hpvr.recording.noHDDWritable;;La registrazione non è andata a buon fine per un errore di scrittura sul disco
+hpvr.recording.noSignal;;La registrazione non è andata a buon fine a causa di una perdita di segnale
+hpvr.recording.noTunersAvailable;;""
+hpvr.recording.ongoing;;Registrazione già iniziata
+hpvr.recording.partiallyCompleted;;La registrazione è iniziata ma è stata interrotta dal sistema
+hpvr.recording.scheduled;;Registrazione programmata con successo
+hpvr.restartLater;;Riavvia più tardi
+hpvr.restartNow;;Riavvia ora
+hpvr.subtitle.hddDisconnectedInformations;;Per guardare le registrazioni locali devi prima riconnettere il tuo drive locale.
+hpvr.subtitle.localQuotaLimitReached;;Local quota limit reached
+hpvr.title.formattingStorage;;Il disco è stato formattato.
+hpvr.title.hddDisconnected;;Il tuo disco locale non è connesso
+hpvr.title.localQuotaLimitReached;;Local quota limit reached
+hybridPvrNotification.lowStorageForRecord;;Per liberare spazio vai su My TV / Registrazioni ed elimina alcune registrazioni
+hybridPvrNotification.rescheduledRecording;;Registrazione riprogrammata
+hybridPvrNotification.rescheduledTo;;da %1 <br> a %2
+improvedRec.cancelEpisodes.selectEpisodes;;Seleziona gli episodi da cancellare
+improvedRec.deleteEpisodes.selectEpisodes;;Seleziona gli Episodi da eliminare
+improvedRec.deleteProtectedRecording.subtitle;;Questa registrazione è protetta. Sei sicuro di volerla eliminare?
+improvedRec.deleteProtectedRecording.title;;Eliminare la registrazione protetta?
+improvedRec.deleteProtectedRecordings.subtitle;;Ci sono registrazioni protette nella tua selezione. Sei sicuro di volerle eliminare?
+improvedRec.deleteProtectedRecordings.title;;Eliminare le registrazioni protette?
+improvedRec.episodeCancelledAndChooseOption.subtitle;;Vuoi cancellare altri episodi o l'intera serie?
+improvedRec.episodeCancelledAndChooseOption.title;;Episodio cancellato con successo.
+improvedRec.episodeDeletedAndChooseOption.subtitle;;Vuoi eliminare altri episodi o l'intera serie?
+improvedRec.episodeDeletedAndChooseOption.title;;Episodio eliminato con successo. 
+improvedRec.filters.all;;Tutte le registrazioni
+improvedRec.filters.genre.othersInfos;;"Le registrazioni cui non corrisponde un genere specifico saranno mostrate nella categoria ""Altro""."
+improvedRec.filters.genre.rail.allMovies;;Tutti i film
+improvedRec.filters.genre.rail.allTvShows;;Tutti i programmi TV
+improvedRec.filters.scheduledRecordings;;Registrazioni programmate
+improvedRec.infos.cloudPercentage;;%1% di spazio sul cloud residuo
+improvedRec.infos.localPercentage;;%1% di spazio locale residuo
+improvedRec.infos.recordings;;%1 Registrazioni
+improvedRec.infos.selectedOf;;Selezionato %1 di %2
+improvedRec.infos.simplePercentage;;%1% di spazio residuo
+improvedRec.infos.updated.recordings;;%1 registrazioni aggiornate...
+improvedRec.manage.noItemSelected.cancelDescription;;Devi selezionare almeno un elemento per poter eseguire questa azione.
+improvedRec.manage.noItemSelected.description;;Devi selezionare almeno un elemento per poter eseguire questa azione.
+improvedRec.manage.noItemSelected.title;;Nessun elemento selezionato
+improvedRec.manage.protectedDescription;;%1 registrazioni protette con successo
+improvedRec.manage.protectedTitle;;Protetto
+improvedRec.manage.unprotectedDescription;;Protezione eliminata per %1 registrazioni
+improvedRec.manage.unprotectedTitle;;Gestisci le registrazioni protette
+improvedRec.manageProtect.chooseBothRecordings;;Per continuare devi prima rimuovere la protezione da %1 registrazioni locali e da %2 registrazioni sul cloud.
+improvedRec.manageProtect.chooseCloudRecordings;;Per continuare devi prima rimuovere la protezione da %1 registrazioni sul cloud.
+improvedRec.manageProtect.chooseLocalRecordings;;Per continuare devi prima rimuovere la protezione da %1 registrazioni locali.
+improvedRec.manageProtect.chooseUnprotect;;
+improvedRec.manageProtect.exceedProtected;;Troppe registrazioni protette
+improvedRec.manageProtect.maxAndLeftRecordings;;Stai cercando di proteggere un totale di %1 registrazioni ma puoi proteggerne al massimo %2.
+improvedRec.manageProtect.maxAndLeftRecordingsBoth;;Stai cercando di proteggere un totale di %1 registrazioni sul cloud e %2 registrazioni locali ma puoi proteggerne al massimo %2 di entrambe.
+improvedRec.manageProtect.maxAndLeftRecordingsCloud;;Stai cercando di proteggere un totale di %1 registrazioni sul cloud ma puoi proteggerne al massimo %2.
+improvedRec.manageProtect.maxAndLeftRecordingsLocal;;Stai cercando di proteggere un totale di %1 registrazioni locali ma puoi proteggerne al massimo %2.
+improvedRec.manageProtect.maximumBothProtected;;Puoi proteggere un massimo di %1 registrazioni locali e sul cloud.
+improvedRec.manageProtect.maximumCloudProtected;;Puoi proteggere un massimo di %1 registrazioni sul cloud.
+improvedRec.manageProtect.maximumLocalProtected;;Puoi proteggere un massimo di %1 registrazioni locali.
+improvedRec.manageProtect.maximumProtected;;Troppe registrazioni protette sul cloud.
+improvedRec.manageProtect.selectUnprotect;;"Seleziona ""Rimuovi Protezione"" per confermare la tua scelta."
+improvedRec.manageProtect.title;;Gestisci le registrazioni protette
+improvedRec.notification.cancelRecordings.description;;%1 episodi cancellati con successo.
+improvedRec.notification.cancelRecordings.title;;Registrazioni cancellate
+improvedRec.notification.deleteRecordings.description;;%1 episodi eliminati con successo
+improvedRec.notification.deleteRecordings.title;;Registrazioni eliminate
+improvedRec.option.cancel;;Cancella
+improvedRec.option.cancelAll;;Cancella tutto
+improvedRec.option.cancelSeries;;Cancella la serie
+improvedRec.option.delete;;Cancella
+improvedRec.option.deleteAll;;Elimina tutto
+improvedRec.option.deleteSeries;;Elimina serie
+improvedRec.option.deleteUnprotect;;Elimina registrazioni non protette
+improvedRec.option.deselectSeason;;Deseleziona Stagione %1
+improvedRec.option.manage;;Gestisci
+improvedRec.option.protect;;Proteggi
+improvedRec.option.selectSeason;;Seleziona Stagione %1
+improvedRec.option.selectSingleEpisodes;;Scegli gli episodi
+improvedRec.option.showProtected;;Mostra le registrazioni protette
+improvedRec.option.unprotect;;Rimuovi protezione
+improvedRec.seriesSelected.subtitle;;Vuoi selezionare l'intera serie o scegliere singoli episodi?
+improvedRec.seriesSelected.title;;Serie selezionata
+improvedRec.userAgreement.subtitle;;Sei sicuro?
+improvedRec.userAgreementForSeries.title;;Eliminare la serie?
+improvedRec.userAgreementForUnprotected.title;;Eliminare tutti gli episodi non protetti?
+improvedRecordings.cloud.leftSpace;;Ti rimangono <b>%1% registrazioni sul cloud</b>
+improvedRecordings.local.leftSpace;;Ti rimangono <b>%1% registrazioni locali</b>
+improvedRecordings.scheduled.recordingClashes;;Registrazioni in conflitto
+improvedRecordings.scheduled.seriesRecordings;;Serie registrate
+improvedRecordings.scheduled.singleRecordings;;Registrazioni singole
+jpn;;
+keyboard.search.otherPlaceholderText;;Premi <div class='microIcon'></div> per usare la ricerca vocale
+kids.PIN.turnOff;;Spegni
+kids.PIN.turnOn;;Accendi
+kids.accept.consent;;Accetta
+kids.accept.notice;;Per accettare l'informativa
+kids.actors;;Attori
+kids.agreed;;Accettato
+kids.back;;Indietro
+kids.bedtime.turnedOnFrom;;Attiva dalle %1 alle %2
+kids.cancel;;Annulla
+kids.characters;;Tag
+kids.common.continue;;Continua
+kids.countdown.cancel;;Cancella
+kids.countdown.change;;Modifica
+kids.countdown.changeTimerSettings;;Imposta il limite conto alla rovescia
+kids.countdown.clearCountdown;;Resetta conto alla rovescia
+kids.countdown.overrideBedtime;;Sei sicuro di voler modificare il limite orario  %1? <br/>%2 Al momento è impostato su %3 ore e %4 minuti.
+kids.countdown.shortSeconds;;%1 sec
+kids.countdown.startCountdown;;Inizia il conto alla rovescia
+kids.countdown.updateCountdown;;Aggiorna il conto alla rovescia
+kids.countdown.useBedtimeLimit;;Attiva il limite orario di utilizzo
+kids.disagreed;;Non accettato
+kids.exit;;Esci
+kids.explanatoryCard.subtitle.text;;Errore
+kids.explanatoryCard.title.text;;Uh Oh!
+kids.ftusettings.ageSelection.setBirthday;;Seleziona il tuo compleanno
+kids.ftusettings.ageSelection.title;;Seleziona la tua età
+kids.ftusettings.birthdaySelection.description;;Inserisci la data del tuo compleanno per aggiornare automaticamente l'età nel tuo profilo.<br/> Accedi alle impostazioni per vedere la modifica.
+kids.ftusettings.birthdaySelection.set;;Ok
+kids.ftusettings.birthdaySelection.title;;Seleziona il tuo compleanno
+kids.ftusettings.buttons.agree;;Accetto
+kids.ftusettings.buttons.disagree;;Non accetto
+kids.ftusettings.buttons.getStarted;;Inizia
+kids.ftusettings.buttons.watchAgain;;Guarda di nuovo
+kids.ftusettings.changeBirthday.title;;Modifica il compleanno
+kids.ftusettings.changeCharacter.title;;Cambia l'avatar
+kids.ftusettings.changeNickname.title;;Modifica il nickname
+kids.ftusettings.characterSelection.title;;Scegli un avatar
+kids.ftusettings.nicknameEntry.emptyName;;Devi inserire almeno una lettera
+kids.ftusettings.nicknameEntry.maximumReached;;Massimo 10 lettere consentite
+kids.ftusettings.nicknameEntry.title;;Inserisci il tuo nickname
+kids.gdpr.privacy.consent.confirmation;;Non accettando l'abilitazione del motore di raccomandazione, alcune funzionalità non saranno attive sul tuo TV Box e non potrai godere della migliore esperienza della Vodafone TV. <br/> Sei sicuro di voler procedere o vuoi tornare indietro alle impostazioni e cambiare la selezione?
+kids.gdpr.privacy.consent.subtitle;;Accetta per utilizzare il motore di raccomandazione
+kids.gdpr.privacy.consent.subtitle.part2;;La tua selezione sarà applicata a tutti i profili
+kids.gdpr.privacy.consent.title;;Consenso privacy
+kids.gdpr.privacy.default.consent;;Fornendo il consenso, ci autorizzi a raccogliere le informazioni legate al tuo utilizzo di Vodafone TV (fra cui i tempi della tua connessione a Vodafone TV, quali programmi guardi, le funzionalità che usi, i tuoi contenuti preferiti) con finalità di profilazione per poterti offrire un’esperienza personalizzata grazie al motore di raccomandazione. Se non ci autorizzi verranno raccolte solo informazioni tecniche per il miglioramento dell’utilizzo della piattaforma e per consentire attività di assistenza tecnica. In questo caso il motore di raccomandazione verrà disabilitato e non potrai utilizzare funzionalità come l’Area Kids, i Consigliati per te e il Continua a guardare.
+kids.gdpr.privacy.default.notice;;Tutti i dati personali da te forniti in fase di adesione a Vodafone TV o successivamente acquisiti durante l’utilizzo del Servizio saranno trattati da Vodafone in conformità con la norma vigente e con quanto indicato nell’Informativa Privacy relativa al contratto per il Servizio ADSL o Fibra e di connettività Wireless. Tale informativa è sempre disponibile sul sito vodafone.it, Sezione Privacy Policy, raggiungibile dalla home page.
+kids.gdpr.privacy.notice.title;;Informativa privacy
+kids.languages.turnedOff;;Disabilitato
+kids.languages.turnedOn;;Abilitato
+kids.menu;;Menu
+kids.menu.episode;;Episodio
+kids.menu.season;;Stagione
+kids.notForKids.changeChannel;;Cambia canale per scoprire nuovi contenuti o torna indietro al menu principale
+kids.notForKids.showNotForKids;;Questo programma non è per bambini
+kids.notification.incorrect.configuration.description;;
+kids.notification.network.offline.subtitle;;Si è verificato un errore di connessione
+kids.notification.network.offline.title;;Errore di connessione
+kids.notification.noContent.message;;Nessun contenuto disponibile
+kids.notification.noContent.subtitle;;Nessun contenuto per bambini
+kids.notification.noContent.title;;Nessun contenuto
+kids.notification.player.error.subtitle;;Si è verificato un errore del player
+kids.notification.player.error.title;;Errore player
+kids.pinEntry.accessProfile;;Accedi al profilo
+kids.pinEntry.approveProfile;;Approva profilo
+kids.pinEntry.deleteProfile;;Per cancellare il profilo di %1
+kids.pinEntry.enterSettings;;Entra nelle impostazioni
+kids.pinEntry.exit;;Uscita Area Kids
+kids.pinEntry.help.defaultPin;;Il PIN iniziale è 0000.
+kids.pinEntry.help.details;;Se attivo, il PIN serve per verificare i tuoi acquisti <br/> e pagamenti e per cambiare le impostazioni.<br/><br/><br/> Il PIN serve anche a cambiare il livello della protezione bambino <br/> dalle impostazioni (se decidi di attivarlo). <br/><br/><br/> Se hai dimenticato il tuo PIN, puoi andare nell'area Fai da te di Vodafone.it e richierderlo nuovamente,
+kids.pinEntry.help.whats;;Cos'è il PIN?
+kids.pinEntry.title;;Per favore inserisci il tuo PIN
+kids.player.back;;Indietro
+kids.player.info;;Info
+kids.player.retry;;Riprova
+kids.player.setCountdown;;Imposta conto alla rovescia
+kids.playerError;;Si è verificato un errore del player
+kids.profileSelection.addProfile;;Aggiungi profilo
+kids.profileSelection.aged;;Età %1
+kids.profileSelection.bedtimeStartedSince;;L'ora della nanna è iniziata %1 fa.
+kids.profileSelection.bedtimeStartedSince.atLeastTwoHours;;L'ora della nanna è iniziata %1 ore fa
+kids.profileSelection.bedtimeStartedSince.betweenOneHourAndTwoHours;;L'ora della nanna è iniziata 1 ora e %1 minuti fa
+kids.profileSelection.bedtimeStartedSince.lessThanOneHour;;L'ora della nanna è iniziata %1 minuti fa
+kids.profileSelection.countdownFinishedSince;;Conto alla rovescia terminato %1 fa.
+kids.profileSelection.settings;;Impostazioni
+kids.profileSelection.unconfirmed;;Non confermato
+kids.profiles;;Profili
+kids.programInfo.audioDescription;;Descrizione audio
+kids.programInfo.language;;Lingua
+kids.programInfo.subtitles;;Sottotitoli
+kids.settings;;Impostazioni protezione bambino
+kids.settings.bedtime;;Ora della nanna
+kids.settings.bedtime.from;;Dalle
+kids.settings.bedtime.setBedtime;;Imposta l'ora per andare a nanna
+kids.settings.bedtime.setTime;;Imposta l'ora
+kids.settings.bedtime.to;;Alle
+kids.settings.changeAge;;Modifica l'età
+kids.settings.changeAvatar;;Cambia l'avatar
+kids.settings.changeName;;Modifica il nickname
+kids.settings.content.preferredLanguage;;Lingua preferita
+kids.settings.contentSettings;;Impostazioni contenuti
+kids.settings.delete;;Cancella
+kids.settings.deleteProfile;;Cancella il profilo
+kids.settings.editProfile;;Modifica il profilo
+kids.settings.help;;Aiuto
+kids.settings.pinRequest;;Richiesta del PIN
+kids.settings.privacy;;Privacy
+kids.settings.showVideos;;Vedi il tutorial
+kids.settings.subtitle.askForPin;;Chiedi il PIN
+kids.settings.subtitle.deleteProfile.part1;;Sei sicuro di
+kids.settings.subtitle.deleteProfile.part2;;voler cancellare il profilo di %1 ?
+kids.settings.timeManagement;;Limite orario
+kids.tick.dontShowAgain;;Non mostrarlo più
+kids.timeOver.addMoreTime;;Aggiungi più tempo
+kids.timeOver.exit;;Esci dall'Area Kids
+kids.timeOver.takeABreak;;È ora di fare una pausa
+kids.timeOver.wakeup;;Wake up
+kids.turnOff;;Disabilita
+kids.turnOn;;Abilita
+kids.turnedOff;;Spento
+kids.turnedOn;;Acceso
+kids.update.gdpr.privacy.consent.subtitle;;Accetta i termini e condizioni per utilizzare il motore di raccomandazione.
+kids.update.gdpr.privacy.consent.subtitle.part2;;La tua selezione sarà applicata a tutti i profili
+kids.update.gdpr.privacy.consent.title;;Consenso privacy aggiornato
+kids.update.gdpr.privacy.notice.subtitle;;Per continuare ad utilizzare l'Area Kids,  leggi e seleziona Continua
+kids.update.gdpr.privacy.notice.title;;Informativa privacy aggiornata
+language.afr;;Afrikaans
+language.ang;;Inglese antico (ca. 450–1100)
+language.ara;;Arabo
+language.auto;;Automatico
+language.ces;;Ceco
+language.chi;;Cinese
+language.dan;;Danese
+language.de-DE;;Tedesco (DE)
+language.dut;;Olandese
+language.ell;;Greco
+language.en-GB;;Inglese (GB)
+language.en-US;;Inglese (US)
+language.es-ES;;Spagnolo (ES)
+language.fas;;Persiano
+language.fin;;Finlandese
+language.grc;;greco
+language.gsw;;Svizzero Tedesco
+language.heb;;Ebraico
+language.hin;;Hindi
+language.hun;;Ungherese
+language.isl;;Islandese
+language.it-IT;;Italiano (IT)
+language.jap;;Giapponese
+language.jpn;;Giapponese
+language.kaz;;Kazako
+language.kor;;Koreano
+language.lav;;Lettone
+language.mao;;Maori
+language.mri;;Maori
+language.mul;;Multilingua
+language.nld;;Olandese
+language.nor;;Norvegese
+language.per;;Persiano
+language.pol;;Polacco
+language.por;;Portoghese
+language.prt;;Portoghese
+language.pt-BR;;Portoghese (BR)
+language.pt-PT;;Portoghese (PT)
+language.qaa;;Lingua originale
+language.ron;;Rumeno
+language.rus;;Russo
+language.slk;;Slovacco
+language.slv;;Sloveno
+language.sqi;;Albanese
+language.ukr;;Ucraino
+language.zho;;Cinese
+mainMenu.kids;;Area Kids
+mainMenu.mediaLibrary;;Media Library
+mainMenu.onTv.title;;In onda ora
+mainMenu.recordings;;Registrazioni
+mainMenu.topBar.search;;Cerca film, attori, serie...
+mainMenu.tvGuide.subscribeNow;;Attiva ora
+mainMenu.tvGuide.watch;;Guarda
+maintenance.description;;TV Box sta ottimizzando la tua esperienza. Questo potrebbe richiedere alcuni minuti. Non spegnere o disconnettere il Box fino al completamento.
+maintenance.title;;Aggiornamenti in corso
+miniProgramInfo.showMore;;Mostra più informazioni
+myApps.Shortcut.Add;;Aggiungi a Le mie app
+myApps.Shortcut.Manage;;Gestisci
+myApps.add.info;;Seleziona una o più app che vuoi aggiungere
+myApps.add.title;;Aggiungi a Le mie app
+myApps.delete.info;;Seleziona le app che vuoi eliminare
+myApps.delete.title;;Elimina da Le mie app
+myApps.manage.favorite;;Le mie app - Preferiti
+myApps.manage.info.favorite;;Gestisci le tue app preferite
+myApps.manage.info.favorite.number;;%1 app
+myApps.manage.info.recent;;mostra le 20 applicazioni utilizzate di recente
+myApps.manage.info.recent.number;;Nessuna app utilizzata finora.
+myApps.manage.recent;;Le mie app - Recenti
+myApps.manage.title;;Le mie app
+myApps.reorder.info.default;;Seleziona l'app che vuoi spostare
+myApps.reorder.info.reorderMode;;Muovi a destra o a sinistra per spostare l'app dove preferisci, premi OK per confermare
+myApps.reorder.title;;Riordina le app
+mytv.external.myTVRecommendations;;Consigliati per te
+mytv.kaltura.Adults;;programmi bloccati
+mytv.recommendations;;Consigliati per te
+mytv.recommended;;Continua a guardare
+mytv.recordings.all.lastMonth;;Mese scorso
+mytv.recordings.all.lastWeek;;Settimana scorsa
+mytv.recordings.all.month;;Questo mese
+mytv.recordings.all.older;;Registrazioni precedenti
+mytv.recordings.all.week;;Questa settimana
+mytv.recordings.cloud.future;;In scadenza più avanti
+mytv.recordings.cloud.month;;In scadenza questo mese
+mytv.recordings.cloud.never;;Senza scadenza
+mytv.recordings.cloud.nextMonth;;In scadenza il mese prossimo
+mytv.recordings.cloud.nextWeek;;In scadenza settimana prossima
+mytv.recordings.cloud.week;;In scadenza questa settimana
+mytv.recordings.cloud.year;;In scadenza quest'anno
+mytv.recordings.failed.lastMonth;;Ultimo mese
+mytv.recordings.failed.lastWeek;;Settimana scorsa
+mytv.recordings.failed.month;;Questo mese
+mytv.recordings.failed.week;;Questa settimana
+mytv.recordings.local.hd;;HD
+mytv.recordings.local.lastMonth;;Ultimo mese
+mytv.recordings.local.lastWeek;;Ultima settimana
+mytv.recordings.local.month;;Mese corrente
+mytv.recordings.local.older;;Registrazioni precedenti
+mytv.recordings.local.other;;Altro
+mytv.recordings.local.sd;;SD
+mytv.recordings.local.uhd;;4K
+mytv.recordings.local.week;;Questa settimana
+mytv.recordings.month;;Questo mese
+mytv.recordings.nextWeek;;Prossima settimana
+mytv.recordings.older;;Le mie registrazioni
+mytv.recordings.scheduledRecordings.clashes;;Registrazioni in conflitto
+mytv.recordings.scheduledRecordings.series;;Serie registrate
+mytv.recordings.scheduledRecordings.single;;Registrazioni singole
+mytv.recordings.soon;;In scadenza
+mytv.recordings.unwatched.lastMonth;;Mese scorso
+mytv.recordings.unwatched.lastWeek;;Settimana scorsa
+mytv.recordings.unwatched.month;;Questo mese
+mytv.recordings.unwatched.week;;Questa settimana
+mytv.recordings.week;;Questa settimana
+mytvRecommendations1;;Continua a guardare
+mytvRecommendations2;;Consigliati per te
+nagra.information.authNToken;;AuthNToken
+nagra.information.cakVersion;;Versione CAK
+nagra.information.chipset.revision;;Revisione chipset
+nagra.information.chipset.type;;Chipset
+nagra.information.dasSDKVersion;;
+nagra.information.irdsn;;IRDSN
+nagra.information.lastAuthNTokenDate;;Ultimo aggiornamento token
+nagra.information.lastConnectionsToOTT;;Ultima connessione ad OTT
+nagra.information.lastEntitlement;;Ultima data di autorizzazione
+nagra.information.lastLicenceUpdate;;Ultimo aggiornamento licenze
+nagra.information.lastProvision;;Ultima data di attivazione
+nagra.information.nc.OpVaultTimestamp;;
+nagra.information.nc.deviceUniqueId;;ID Univoco di dispositivo
+nagra.information.nc.initStatus;;Status Init
+nagra.information.nc.integrationContextCertificateName;;Nome di certificato
+nagra.information.nc.integrationContextCertificateOperatorId;;Certificato ID Operatore
+nagra.information.nc.integrationContextCertificatePlatform;;Certificato di piattaforma
+nagra.information.nc.integrationContextCertificateSecurityLevel;;Certificato di livello di sicurezza
+nagra.information.nc.integrationContextCertificateType;;Tipo di certificato
+nagra.information.nc.nuid;;NUD
+nagra.information.nc.prmaVersion;;Versione PRMA
+nagra.information.nc.prmcVersion;;Versione PRMC
+nagra.information.nuid;;NUID
+nagra.information.projectInfo;;Info progetto
+nagra.popups.connectionLost;;Errore di connessione. Vai su voda.it/vtvhelp
+nagra.popups.defaultError;;Canale non incluso nell'offerta
+nagra.popups.suspended;;Vodafone TV Box è stato sospeso
+nagra.popups.uninitialized;;Vodafone TV Box non inizializzato
+nagra.popups.unsubscribed;;Canale non incluso nella tua offerta
+network.wifi.band.unit;;GHz
+network.wifi.quality.good;;Connessione migliore
+network.wifi.quality.incompatible;;Connessione scarsa
+network.wifi.quality.sufficient;;Connessione sufficiente
+networkAccessValidation.defaultErrorMessage;;Credenziali errate, impossibile connettersi alla rete selezionata. Ti chiediamo di riprovare.
+notification.HDCPError.description;;Descrizione errore HDCP
+notification.HDCPError.title;;Errore HDCP
+notification.adultProgram.hidden.description;;Per guardare il contenuto, cambia le impostazioni della protezione bambino.
+notification.adultProgram.hidden.title;;Programma protetto
+notification.alexa.alert.description;;"Per disattivare l'avviso, semplicemente dì ""Alexa, stop"""
+notification.alexa.alert.title;;Sveglia
+notification.alexa.alexaNumberOfNotification.title;;Sono presenti notifiche di Alexa 
+notification.alexa.apps.notAvailable;;Funzione non disponibile
+notification.alexa.apps.wrongContext;;Funzione non disponibile
+notification.alexa.listenToNotification.description;;"Prova a dire ""ascolta le notifiche"" per saperne di più."
+notification.alexa.pressingVoiceButton.description;;"Premi il pulsante vocale e dì ""ascolta le notifiche"" per saperne di più."
+notification.alexaAction.disabledInsideApps;;L'interfaccia vocale non è disponibile all'interno delle app.
+notification.app.cts.token.error;;
+notification.app.gdpr.disagree;;
+notification.app.notSubscribed;;Non hai una sottoscrizione attiva per questa applicazione
+notification.automaticRecordings.channelDisabled;;Attiva le Registrazioni Automatiche per questo canale
+notification.backend.error;;Elaborazione richiesta... (SC402)
+notification.bleRemotePairing.failed;;Associazione del telecomando non riuscita.
+notification.bleRemotePairing.info;;Per utilizzare il controllo vocale, associa il tuo telecomando tenendo premuti i tasti 1 e 'Giallo' per almeno 5 secondi.
+notification.bleRemotePairing.success;;Il telecomando è ora associato.
+notification.bluetooth.connected;;Connessione Bluetooth
+notification.bluetooth.disconnected;;Bluetooth scollegato
+notification.bluetooth.fail;;Associazione fallita
+notification.bluetooth.multiple.remove.subtitle;;
+notification.bluetooth.noDevice;;Nessun nuovo dispositivo trovato
+notification.bluetooth.rcu.connected;;Il telecomando è ora connesso in Bluetooth
+notification.bluetooth.remove;;Rimuovi i dispositivi bluetooth
+notification.bluetooth.remove.subtitle;; rimossi
+notification.bluetooth.success;;Aggiunto con successo
+notification.bluetooth.unsupportedRcu.description;;
+notification.bluetooth.unsupportedRcu.title;;RCU non supportata
+notification.buy.notPossible;;
+notification.channel.liveApp;;Premi ch + o - sul telecomando per accedere a %1 APP
+notification.channel.liveApp.redButton;;Premi il bottone ROSSO per aprire la app %1.
+notification.drmUnavailable.description;;Nagra non è ancora pronta
+notification.drmUnavailable.title;;DRM non disponibile
+notification.episode.past;;"Contenuti disponibile nelle tue ""Registrazioni"""
+notification.episode.scheduled;;Registrazione programmata
+notification.episode.scheduledNew;;La serie %1 è stata programmata
+notification.episode.start;;Registrazione in corso
+notification.folder.confirm;;Conferma
+notification.frequentlyAskedQuestions.fetch.error;;Impossibile visualizzare le Domande e risposte
+notification.mcast.insufficient.bandwidth;;
+notification.network.fallback;;
+notification.network.fallback.Id;;
+notification.network.noMuMimoEnabled;;
+notification.network.notEnoughBandwidth;;Il tuo segnale Wi-Fi è debole, la qualità del servizio potrebbe non rispettare gli standard normali. Per risolvere questo problema vai su Impostazioni > Altre Impostazioni > Rete e seleziona una nuova rete.
+notification.offline.error;;Nessuna connessione disponibile
+notification.player.blackout.message1;;La visualizzazione di questo programma non è consentita per una limitazione di diritti televisivi. Torna più tardi per continuare la visione su questo canale.
+notification.player.blackout.message2;;[SV003] La visualizzazione di questo programma non è consentita per una limitazione di diritti televisivi.<br/> Torna più tardi per continuare la visione su questo canale.
+notification.player.concurrent;;Hai raggiunto il numero massimo di dispositivi
+notification.player.noRights;;Non è possibile visualizzare il programma su più di 2 dispositivi [SB003]. Vai su voda.it/vtvhelp
+notification.ppv.success;;Acquistato con successo
+notification.privacy.fail.description;;Riprova dopo
+notification.privacy.fail.title;;Errore privacy 
+notification.programInfo.failure;;Impossibile visualizzare tutte le informazioni relative alla Serie TV
+notification.programInfo.purchase.disclaimer;;L'acquisto verrà confermato con l'inserimento del PIN, dopodichè non sarà più possibile annullarlo
+notification.programInfo.recording.noChannel;;Questa registrazione non corrisponde a nessun canale presente
+notification.programInfo.rental.days.disclaimer;;Il noleggio per %1 giorni verrà confermato con l'inserimento del PIN, dopodichè non sarà più possibile annullarlo
+notification.programInfo.rental.hour.disclaimer;;Il noleggio di %1h verrà confermato con l'inserimento del PIN, dopodichè non sarà più possibile annullarlo
+notification.programInfo.rental.hours.disclaimer;;Potrai visualizzare il tuo noleggio %1h dopo l'inserimento del PIN
+notification.programInfo.rental.month.disclaimer;;Il noleggio per %1 mesi verrà confermato con l'inserimento del PIN, dopodichè non sarà più possibile annullarlo
+notification.programInfo.rental.months.disclaimer;;Il noleggio per %1 mesi verrà confermato con l'inserimento del PIN, dopodichè non sarà più possibile annullarlo
+notification.programInfo.subscribe.disclaimer;;La tua sottoscrizione inizierà appena inserito il PIN
+notification.recommendations.disabled;;Il motore di raccomandazioni è stato disabilitato.
+notification.recommendations.enabled;;Il motore di raccomandazioni è ora attivo.
+notification.recommendationsOptIn;;Se vuoi disabilitare il motore di raccomandazione vai in Impostazioni > Privacy > Motore di raccomandazione
+notification.recommendationsOptOut;;Se vuoi disabilitare il motore di raccomandazione vai in Impostazioni > Impostazioni contenuti
+notification.recording.cancel.failed;;Impossibile eliminare la registrazione
+notification.recording.clash.multiple;;Sono stati rilevati alcuni conflitti di registrazione
+notification.recording.clash.multiple.description;;Per risolverli premi %1 sul telecomando per andare su My TV / Registrazioni Programmate
+notification.recording.clash.resolve;;Conflitto risolto
+notification.recording.clash.resolve.description;;Descrizione del conflitto risolto
+notification.recording.clash.single;;È stato rilevato un conflitto di registrazione
+notification.recording.clash.single.description;;Per risolverlo premi %1 sul telecomando per andare su My TV / Registrazioni Programmate
+notification.recording.delete.failed;;Impossibile eliminare la registrazione
+notification.recording.description.deleteRecordings;;Eliminate. &1 registrazioni eliminate con successo.
+notification.recording.fullCloudProtection;;Troppe registrazioni protette sul cloud
+notification.recording.fullLocalProtection;;Troppe registrazioni locali protette
+notification.recording.fullProtectionTitle;;Impossibile proteggere la registrazione
+notification.recording.localNotPossible;;
+notification.recording.past;;Contenuti  presto disponibili nelle tue registrazioni
+notification.recording.scheduledNew;;La registrazione %1 è stata programmata
+notification.recording.title.delete;;Cancella registrazioni 
+notification.recordings.update;;Aggiornamento Vodafone TV
+notification.remoteBooking.hddConnected.title;;
+notification.remoteDiagnostics.speedTest.ongoing;;Lo speedtest è in corso, ti preghiamo di attendere.
+notification.remotePairing.timeout;;
+notification.rent.notPossible;;
+notification.rollingBuffer.description;;
+notification.rollingBuffer.title;;
+notification.search.characterLimit.description;;
+notification.search.characterLimit.title;;
+notification.search.fail.description;;
+notification.search.fail.title;;
+notification.seriesInfo.fetchDataFailed;;Impossibile visualizzare le informazioni relative alla Serie TV. Verifica la tua connessione.
+notification.seriesInfo.missingMetadata;;ID Serie non disponibile. Impossibile visualizzare le informazioni sul programma
+notification.seriesRecording.alreadyScheduled;;Questo contenuto è già stato programmato per la registrazione. Per ulteriori opzioni seleziona questo contenuto cliccando OK
+notification.seriesRecording.past;;Tutti gli episodi precedenti saranno a breve disponibili in MY TV- Registrazioni
+notification.seriesRecording.pastNew;;Gli episodi precedenti saranno presto disponibili nelle Registrazioni
+notification.soundbox.audio.off;;Uscita audio selezionata: nessuna
+notification.soundbox.audio.stb;;Uscita audio selezionata: TV Box
+notification.soundbox.audio.tv;;Uscita audio selezionata: TV
+notification.soundbox.connected;;%1 connesso
+notification.soundbox.description;;Vai su Impostazioni / Dispositivi Collegati / Assistenti Vocali per il controllo.
+notification.soundbox.disconnected;;Non connesso
+notification.subscribe.notPossible;;
+notification.subscription.success;;Iscrizione effettuata
+notification.timeout.error;;Elaborazione richiesta... (SC401)
+notification.trickMode.notAllowed;;Trick Mode not allowed
+notification.vodafoneNetworkLost.description;;Per utilizzare tutte le funzioni di Vodafone TV devi essere connesso alla tua rete Vodafone.
+notification.vodafoneNetworkLost.title;;Errore di connessione
+notification.voiceAction.appNonExistent;;Questa applicazione non supporta il controllo vocale
+notification.voiceAction.appNotAvailable;;Il controllo vocale non è supportato da questa applicazione
+notification.voiceAction.areaNonExistent;;Contenuto non trovato. Riprova a cercarlo.
+notification.voiceAction.genericError;;Qualcosa è andato storto, ti chiediamo di riprovare
+notification.voiceAction.keyPressedTooShort;;Non ho capito, Tieni premuto maggiormente il bottone del controllo vocale e ripeti
+notification.voiceAction.kids.profileNotSelected;;Seleziona un profilo per utilizzare il controllo vocale.
+notification.voiceAction.kids.screenNotAllowed;;Abilita il controllo vocale dalle impostazioni.
+notification.voiceAction.misunderstanding;;Scusa non ho capito, puoi ripetere?
+notification.voiceAction.noChannel;;Il canale %1 non esiste
+notification.voiceAction.noChannelError;;Questo canale non esiste
+notification.voiceAction.noChannelNumber;;Il numero di questo canale non esiste
+notification.voiceAction.noResults;;Nessun risultato corrispondente, riprova
+notification.voiceAction.notAllowedContent;;Ci scusiamo, non sei abilitato a vedere questo contenuto
+notification.voiceAction.notAllowedInApp;;Azione non possibile con questa App
+notification.voiceAction.notPossible;;Non è possibile proseguire con questa richiesta
+notification.voiceAction.notSupportedInKids;;Non è possibile procedere con la richiesta nell'Area Kids.
+notification.voiceAction.voiceASRFailure;;Non è stato possibile completare la tua richiesta, riprova.
+notification.voiceAction.voiceToSearch;;Utilizza il controllo vocale per la ricerca dei contenuti
+notifications.privacy.fail.title;;Impossibile accedere all'informativa/consenso privacy
+optIn;;Attiva ora
+pin.consecutiveDigitsError.popup.text;;
+pin.consecutiveDigitsError.popup.title;;
+pin.lockedPin.notification.description;;
+pin.lockedPin.notification.title;;
+pin.lockedPin.popup.text;;PIN non corretto inserito per tre volte di seguito<br>Puoi riprovare in %1
+pin.lockedPin.popup.title;;Inserimento del PIN è bloccata per il prossimo %1<br><br>
+pinEntry.adultPin;;Inserisci PIN
+pinEntry.purchasePinCode;;Inserisci PIN
+player.endOfBuffer.description;;Hai terminato la registrazione automatica
+player.endOfBuffer.title;;Registrazione automatica terminata
+player.feedback.remaining;;Rimanente
+player.notification.cantRecoverMedia.description;;
+player.notification.cantRecoverMedia.title;;
+popup.gdpr.app.disagree;;
+popups.buttons.continueWithoutRebooting;;Continua senza canali
+popups.buttons.rebootStb;;Riavvia TV Box
+popups.cecStandBy.message;;Il tuo TV Box sta per spegnersi. Se il tuo TV non si dovesse spegnere, controlla che non ci siano altri dispositivi HDMI ancora accesi e collegati o spegni il televisore.
+popups.deepLinkError.button;;Ok
+popups.deepLinkError.message;;Non è stato possibile completare l'azione. Riprova più tardi.
+popups.deepLinkError.title;;Errore, riprova
+popups.emptyChannelList.description;;Premere OK su 'Riavvia TV Box' per riavviare Vodafone TV e risolvere il problema. <br> Se si desidera procedere senza canali, premere OK su 'Continua senza canali'. Per risolvere il problema in un secondo momento, scollegare e ricollegare l'alimentatore.
+popups.emptyChannelList.title;;Non è stato possibile caricare l'elenco completo dei canali
+popups.error.folderWithIncorrectApp;;Errore
+popups.howToSubscribe;;Il contenuto non è incluso nella tua offerta. Per attivarlo chiama il 190 o vai su vodafone.it nell'area Fai da te.
+popups.networkValidation.buttons.retry;;Riprova
+popups.networkValidation.misc;;Errore rilevato (errore: %1).
+popups.networkValidation.title;;Validazione network fallita
+popups.noInternetConnection.button;;Apri Impostazioni
+popups.noInternetConnection.message;;Verifica la connessione internet. Vai su voda.it/vtvhelp
+popups.noInternetConnection.title;;Connessione internet non disponibile
+popups.notEnoughBandwidth.buttons.retry;;Riprova
+popups.notEnoughBandwidth.message;;Per risolvere il problema, premere Riprova e controllare il router, avvicinandolo al Vodafone TV box o eliminando qualsiasi elemento di blocco intorno ad essa. Se l'errore persiste chiamare il Servizio Clienti (al numero 0284594650).
+popups.notEnoughBandwidth.title;;Errore di connessione relativo alla banda Wi-Fi, riprova.
+popups.powerSaving.buttons.closeThirdAppsAndAdjust;;Chiudi l'applicazione e cambia la modalita' di standby
+popups.speedTest.misc;;È in corso lo speedtest. Desideri interromperlo?
+popups.subscriptionFiltering.buttons.cancel;;No
+popups.subscriptionFiltering.buttons.showApp;;Programma TV %1
+popups.subscriptionFiltering.message;;Vuoi vedere il contenuto %1 nell'area on demand e fra i risultati della search?
+popups.subscriptionFiltering.title;;Ci auguriamo che ti sia piaciuta questa applicazione.
+popups.update.failed;;Aggiornamento software fallito. Errore %1
+popups.update.success;;Il tuo Vodafone TV Box è aggiornato.
+programInfo.actionButtons.confirm;;Conferma
+programInfo.actionButtons.from;;Da
+programInfo.actionButtons.listen;;Ascolta
+programInfo.actionButtons.noFolderSubscribe;;Attiva
+programInfo.actionButtons.own;;Acquista
+programInfo.actionButtons.ownAsPPVLabel;;Acquista %1
+programInfo.actionButtons.ownLabel;;Acquista %1
+programInfo.actionButtons.rentAsPPVLabel;;Noleggia %1
+programInfo.actionButtons.restartLiveOn;;Ricomincia la diretta
+programInfo.actionButtons.resume;;Riprendi
+programInfo.actionButtons.subscribeLabel;;Attiva
+programInfo.actionButtons.subscribePrice;;Sottoscrivi %1
+programInfo.actionButtons.subscribeSelfcare;;Attiva
+programInfo.actionButtons.subscribedLabel;;Attiva
+programInfo.actionButtons.trailers;;Trailers
+programInfo.actionButtons.watchBundle;;Guarda tutti
+programInfo.actionButtons.watchBundleIn;;Guarda tutto in %1
+programInfo.actionButtons.watchCatchupOn;;Guarda su
+programInfo.actionButtons.watchLiveOn;;Guarda su
+programInfo.actionButtons.watchOn;;Guarda su 
+programInfo.actionButtons.watchSubscriptionOn;;Guarda %1 su
+programInfo.actors.label;;Cast
+programInfo.badging.availableToRent;;Noleggia 
+programInfo.badging.availableToRentAndExpiration;;
+programInfo.bundle.partOf;;Parte di %1
+programInfo.catchupExpiresOn;;Scade tra %1
+programInfo.director.label;;Regista
+programInfo.newPI.catchupAiredOn;;
+programInfo.newPI.catchupExpiresOn;;
+programInfo.newPI.recordedOn;;
+programInfo.newPi.recordingServiceName;;
+programInfo.partialRecordingExpiresOn;;Registrazione parziale in scadenza tra %1
+programInfo.purchase.disclaimer;;Informativa in caso di acquisto di un programma
+programInfo.recordingExpiresOn;;La registrazione scade tra %1
+programInfo.series.special;;Speciale
+rails.availableToOwn;;Disponibile all'acquisto
+rails.defaultGenreLabel;;Varie
+rails.relatedfrom;;Contenuti correlati a %1
+rails.relatedto;;Contenuti simili a  %1
+rails.rollingBuffer.title.dayOfTheMonthDateFormat;;ddd dd mmm
+rails.rollingBuffer.title.today;;Oggi
+rails.rollingBuffer.title.today-1;;Ieri
+rails.rollingBuffer.title.today-2;;2 giorni fa
+rails.rollingBuffer.title.today-3;;3 giorni fa
+rails.rollingBuffer.title.today-4;;4 giorni fa
+rails.rollingBuffer.title.today-5;;5 giorni fa
+rails.rollingBuffer.title.today-6;;6 giorni fa
+rails.rollingBuffer.title.today-7;;7 giorni fa
+rails.subscription;;Sottoscrizioni
+rails.title.morefrom;;%1
+recordingCancel.cancelSeries;;Cancella serie
+recordingCancel.subtitle;;Vuoi cancellare l'intera serie?
+recordingCancel.title;;Registrazione cancellata
+recordings.update.please.wait;;
+relatedbyactor;;Altri titoli con %1
+relatedbydirector;;Diretti da %1
+relatedbygenre;;Altri titoli
+relatedto;;Contenuti simili a %1
+sdk7.browse.myHome.aboutMyHome;;
+sdk7.browse.myHome.breadcrumbTitle;;
+sdk7.browse.myHome.button.browseOnDemand;;Ricerca On Demand
+sdk7.browse.myHome.button.openTvGuide;;Apri Guida TV
+sdk7.browse.myHome.contentInfo;;Trova qui le tue registrazioni e i preferiti. Cerca nel catalogo On Demand e nella Guida TV contenuti da registrare o salvare
+sdk7.countrySelection.text;;
+sdk7.countrySelection.title;;Selezionare il proprio paese
+sdk7.epg.focusedTile.remaining;;%1 rimanente
+sdk7.lockedPin.modal.subtitle;;Inserisci il tuo PIN
+sdk7.lockedPin.modal.title;;Bloccato con PIN
+sdk7.menu.tab.onTv;;
+sdk7.miniProgramInfo.remaining;;
+sdk7.miniProgramInfo.showMore;;Più info
+sdk7.moreBucket.all;;
+sdk7.pinEntry.helpLabel;;Problemi con il PIN?
+sdk7.pinEntry.success;;Evvai, successo!
+sdk7.pinEntry.success.subtitle;;%1 sbloccato
+sdk7.pinEntry.unSuccessful;;PIN errato
+sdk7.pinEntry.unSuccessful.subtitle;;Riprova di nuovo per sbloccare %1
+sdk7.pinEntry.verifying;;Verificando...
+sdk7.programInfo.actionButtons.wishlist.add;;
+sdk7.programInfo.actionButtons.wishlist.remove;;
+sdk7.programInfo.showInfo;;
+sdk7.search.noResults;;
+sdk7.search.searchResults;;
+sdk7.serieInfo.episodePrefix;;Episodio %1
+sdk7.serieInfo.episodeShortPrefix;;E
+sdk7.serieInfo.seasonShortPrefix;;S
+sdk7.settings;;Impostazioni
+sdk7.settings.changePin.confirm;;Conferma
+sdk7.settings.changePin.confirmNewPin;;Conferma il tuo nuovo PIN
+sdk7.settings.changePin.enterNewPin;;Inserisci il tuo nuovo PIN
+sdk7.settings.changePin.hideNewPin;;Nascondi nuovo PIN
+sdk7.settings.changePin.masterPin;;
+sdk7.settings.changePin.pinChanged.failed;;Modifica PIN non riuscita
+sdk7.settings.changePin.pinChanged.successfully;;Il tuo PIN è stato modificato
+sdk7.settings.changePin.pinChanged.tryAgain;;Premi OK per riprovare
+sdk7.settings.changePin.secondaryString;;
+sdk7.settings.changePin.showNewPin;;Mostra nuovo PIN
+sdk7.settings.changePin.title;;Cambia PIN
+sdk7.settings.hiddenChannels;;Canali nascosti
+sdk7.settings.parentalControls.adultContent;;Contenuto per adulti
+sdk7.settings.parentalControls.ageRating.pinModal.event;;Classificazione per età
+sdk7.settings.parentalControls.ageRating.screen.description;;
+sdk7.settings.parentalControls.ageRating.screen.secondary.description;;
+sdk7.settings.parentalPurchases.locked;;Il PIN per acquistare è abilitato. Premere OK per disabilitarlo.
+sdk7.settings.parentalPurchases.locked.desc;;
+sdk7.settings.parentalPurchases.purchasePinState;;Stato del PIN di acquisto
+sdk7.settings.parentalPurchases.unlocked;;
+sdk7.settings.parentalPurchases.unlocked.desc;;
+sdk7.settings.pinProtection.desc;;
+sdk7.settings.pinProtection.isActivated;;Il PIN è attivo e la Protezione Bambino è abilitato. Premere OK per disattivare.
+sdk7.settings.pinProtection.isDeactivated;;Il PIN è disattivato e la Protezione Bambino è disabilitato. Premere OK per attivare.
+sdk7.settings.pinProtection.pinConfirmationModal.message.activatePin;;Sei sicuro di voler attivare il PIN?
+sdk7.settings.pinProtection.pinConfirmationModal.message.deactivatePin;;Sei sicuro di voler disattivare il PIN?
+sdk7.settings.pinProtection.pinConfirmationModal.title.activatePin;;Attiva il PIN
+sdk7.settings.pinProtection.pinConfirmationModal.title.deactivatePin;;Disattiva PIN
+sdk7.settings.pinProtection.pinProtection;;Protezione PIN
+sdk7.settings.premiumChannels.hidden;;
+sdk7.settings.premiumChannels.intro;;
+sdk7.settings.premiumChannels.visible;;
+sdk7.settings.privacy.and.terms;;Privacy e Condizioni
+sdk7.settings.privacy.consent.disagree.text;;
+sdk7.settings.privacy.consent.disagree.title;;Sei sicuro?
+sdk7.settings.vodafoneTV;;Vodafone TV
+sdk7.smartTV.firstInstall.login.error.title;;Problemi con l'account?
+sdk7.watch.timestamp.live;;
+search.recentSearches;;Ricerche recenti
+search.recommendations;;Suggeriti per te
+searchRecommendations1;;Tutti
+searchRecommendations2;;Ora in onda
+searchRecommendations3;;Andati in onda
+serieInfo.episodeShort;;E
+serieInfo.seasonPrefix;;Stagione %1
+serieInfo.seasonShort;;S
+settings.accessibility.audioLanguage.description;;Clicca su/giù per selezionare una lingua e premere OK per confermare la selezione.
+settings.accessibility.audioLanguage.description.selected;;La lingua audio è impostata su %1. Se disponibile verrà riprodotto automaticamente.
+settings.accessibility.help;;Aiuto
+settings.accessibility.help.description;;Per maggiori informazioni sui servizi di accesibilità vai su voda.it/vtvhelp
+settings.alexa;;Amazon Alexa
+settings.alexa.deviceName;;Nome del dispositivo: 
+settings.alexa.status.finished;;Terminato
+settings.ast.astDisableVisualScrubber;;
+settings.ast.astOverrideShakaSettings;;
+settings.ast.astSettings;;
+settings.ast.astShowBackgroundProcess;;
+settings.ast.overrideShakaSettings.items.bufferingGoal;;
+settings.ast.overrideShakaSettings.items.defaultBandwidthEstimate;;
+settings.ast.overrideShakaSettings.items.defaultPresentationDelay;;
+settings.ast.overrideShakaSettings.items.rebufferingGoal;;
+settings.ast.overrideShakaSettings.resetButton;;Ripristina configurazioni
+settings.ast.overrideShakaSettings.title;;
+settings.audioAndVisual.audioOutput.auto;;Auto
+settings.audioAndVisual.audioOutput.resetVolume;;Reset volume
+settings.audioAndVisual.audioOutput.resetVolumeInfo;;Il reset imposterà il volume del TV Box al massimo livello. <br/>Ti consigliamo di utilizzare questa funzione se hai associato il telecomando al Vodafone TV Box e hai riscontrato problemi con il volume.
+settings.audioAndVisual.audioSettings;;Audio
+settings.audioAndVisual.audioSettings.hdmi;;HDMI
+settings.audioAndVisual.audioSettings.localSpeaker;;
+settings.audioAndVisual.soundMode;;Profilo Audio
+settings.audioAndVisual.soundMode.automatic;;Automatico
+settings.audioAndVisual.soundMode.game;;Videogioco
+settings.audioAndVisual.soundMode.movie;;Film
+settings.audioAndVisual.soundMode.music;;Musica
+settings.audioAndVisual.soundMode.music.fidelity;;
+settings.audioAndVisual.soundMode.music.loud;;
+settings.audioAndVisual.soundMode.music.surround;;Surround
+settings.audioAndVisual.soundMode.night;;Notte
+settings.audioAndVisual.soundMode.off;;Off
+settings.audioAndVisual.soundMode.sport;;Sport
+settings.audioAndVisual.soundMode.voice;;Controllo vocale
+settings.audioAndVisual.widescreen;;Formato 4:3
+settings.audioAndVisual.widescreen.fullmode;;Formato panoramico
+settings.audioAndVisual.widescreen.original;;Formato originale
+settings.audioAndVisual.widescreen.zoom;;Formato zoom
+settings.audioProfile.description;;
+settings.autoDelete;;La cancellazione automatica delle registrazioni inizierà con la prossima registrazione programmata. Per evitare la cancellazione, acquista spazio di archiviazione aggiuntivo.
+settings.automaticRecordings.description;;Con Vodafone TV puoi guardare i programmi andati in onda negli ultimi 7 giorni su una selezione di canali. Accedi alla Guida TV e, se il programma che ti interessa ha l'icona con la freccia circolare, potrai iniziare subito a guardarlo
+settings.automaticRecordings.title;;Registrazioni automatiche
+settings.bluetooth;;Bluetooth
+settings.bluetooth.addDevice;;Aggiungi dispositivo
+settings.bluetooth.autoConnect;;
+settings.bluetooth.connect;;Collega un dispositivo
+settings.bluetooth.connected;;Connesso
+settings.bluetooth.connected.description;;"Sposta su/giù per selezionare un dispositivo. Premi OK per connetterlo o scollegarlo. Non riesci a trovarlo? Vai su ""Aggiungi dispositivo""."
+settings.bluetooth.connecting;;Connettendo...
+settings.bluetooth.description;;L'elenco dei dispositivi bluetooth è vuoto. <br> Aggiungi prima un dispositivo per collegarlo.
+settings.bluetooth.devices;;I miei dispositivi
+settings.bluetooth.disconnecting;;Disconnettendo...
+settings.bluetooth.otherDevices;;Altri dispositivi
+settings.bluetooth.pairing;;Attivazione Bluetooth
+settings.bluetooth.pairingPopup.description;;"Controlla il tuo dispositivo per confermare. Successivamente sarà disponibile ne ""I miei dispositivi""."
+settings.bluetooth.pairingPopup.title;;Aggiunto 
+settings.bluetooth.pairingScreen.description;;Sposta su/giù per selezionare un dispositivo. Premi OK per aggiungerlo all'elenco.
+settings.bluetooth.refreshButton.text;;Ricarica
+settings.bluetooth.removeDevice;;Rimuovi il dispositivo
+settings.bluetooth.removeScreen.description;;"Seleziona uno o più dispositivi con l' ""OK"" sul telecomando. <br/> Conferma la selezione per rimuoverli dall'elenco."
+settings.bluetooth.screen.description;;È possibile collegare il dispositivo tramite Bluetooth per ascoltare la musica.
+settings.bluetooth.screen.title;;Connessione Bluetooth
+settings.bluetooth.searching;;
+settings.boxSpace;;Registrazioni
+settings.cec.buttons.paired;;Associato
+settings.cec.buttons.unpaired;;Associa ora
+settings.cec.paired.description;;Il telecomando è associato e puoi controllare il TV Box.<br>Se non vuoi controllare il TV Box dal telecomando, disassocialo da qui.
+settings.cec.paired.subtitle;;Disassocia il controllo delle impostazioni del TV Box
+settings.cec.title;;Controllo impostazioni TV Box
+settings.cec.unpaired.description;;Associa il tuo telecomando al TV Box per accenderlo e regolare il volume.
+settings.cec.unpaired.subtitle;;Associa il controllo del TV Box
+settings.channelReordering.apply;;Applica
+settings.channelReordering.confirm;;Conferma
+settings.channelReordering.multiSelection;;Selezione multipla
+settings.channelReordering.notification.channelAllSubHidden.description;;
+settings.channelReordering.notification.channelAllSubHidden.title;;
+settings.channelReordering.notification.channelHidden.description;;"Per vedere il canale vai su Canali Visibili in ""Impostazioni TV Box"" ed effettua la modifica."
+settings.channelReordering.notification.channelHidden.title;;%1 (%2) è nascosto
+settings.channelReordering.notification.channelHidden.titleForAll;;Tutti i canali sono nascosti
+settings.channelReordering.notification.channelUnsubHidden.description;;La preferenza per mostrare/nascondere i canali non abbonati è stata aggiornata
+settings.channelReordering.notification.channelUnsubHidden.title;;Clicca su mostra/nascondi i canali non abbonati
+settings.channelReordering.notification.notSortable.description;;Il canale è stato spostato alla posizione %1
+settings.channelReordering.notification.notSortable.title;;La posizione del canale %1 è protetta
+settings.channelReordering.reset;;Reimposta l'ordine
+settings.channelReordering.reset.popup.description;;Sei sicuro di voler reimpostare l'ordinamento dei tuoi canali personali alle impostazioni predefinite?
+settings.channelReordering.reset.popup.title;;Reimposta l'ordinamento dei canali
+settings.channelSorting.allChannels.selected;;Tutti i canali (%1 Selezionati)
+settings.channelSorting.allChannels.unselected;;Tutti i canali
+settings.channelSorting.description;;Per modificare l’ordine dei canali scorri la lista oppure digita il numero sul telecomando.<br><br> Seleziona il canale e spostalo nella posizione desiderata.
+settings.channelSorting.description.batchSelection;;Sposta la selezione su/giù nella nuova posizione, oppure utilizza i tasti numerici del telecomando.<br><br> Premi OK per incollarla.
+settings.channelSorting.description.editMode;;Sposta il canale Su/Giù nella nuova posizione o usa i tasti numerici sul tuo telecomando.<br><br> Premi OK per incollarlo.
+settings.channelSorting.description.multiSelectionMode;;Puoi selezionare due o più canali e spostarli in blocco nella posizione desiderata.<br><br>
+settings.channelSorting.subtitle.customisation;;Personalizzazione
+settings.channelSorting.title;;Ordinamento canali
+settings.channelVisibility.allChannels.visible;;Tutti i canali
+settings.channelVisibility.confirm;;Conferma
+settings.channelVisibility.description;;Per nascondere i canali indesiderati <br> scorri la lista oppure digita il numero sul telecomando.<br><br>Premi OK.
+settings.channelVisibility.hideAllChannels;;Deve essere visibile almeno un canale.
+settings.channelVisibility.hideUnsubscribedChannels;;Nascondi i canali non inclusi
+settings.channelVisibility.showUnsubscribedChannels;;Mostra i canali non inclusi
+settings.channelVisibility.subtitle;;Nascondi i canali
+settings.channelVisibility.subtitle.customisation;;Personalizzazione
+settings.channelVisibility.title;;Canali visibili
+settings.cloudRecordings;;Registrazioni sul Cloud
+settings.cloudsRecordings;;Registrazioni sul Cloud
+settings.connectedDevices;;Device connessi
+settings.connectedDevices.mobilePairing;;Mobile Apps
+settings.connectedDevices.remote;;Telecomando
+settings.connectedDevices.tvInput;;TV Input
+settings.connectedDevices.voiceAssistants;;Assistente vocale
+settings.contentSettings;;Impostazioni
+settings.developerMode;;
+settings.fallbackDeepLink;;Vai al deeplink
+settings.frequentlyAskedQuestions;;Domande e risposte
+settings.frequentlyAskedQuestions.faqBrowser;;Consulta
+settings.informations.abrProfile;;
+settings.informations.button.pvr;;
+settings.informations.buttons.nagra;;DRM
+settings.informations.buttons.nagraStv;;Nagra
+settings.informations.buttons.pvr;;PVR
+settings.informations.casingSerialNumber;;Serial Number
+settings.informations.casingSerialNumber.unavailable;;Non disponibile
+settings.informations.channelNameDVBC;;Nome canale
+settings.informations.channelNameDVBIP;;Nome canale
+settings.informations.channelNameFTTH;;Nome canale
+settings.informations.diskConnectState;;Stato connessione disco
+settings.informations.diskConnectState.connected;;Connesso
+settings.informations.diskConnectState.disconnected;;Disconnesso
+settings.informations.diskStatus;;Stato del disco
+settings.informations.diskStatus.notReady;;Non pronto
+settings.informations.diskStatus.ready;;Pronto
+settings.informations.freq;;Frequenza
+settings.informations.hdcpVersion;;Versione HDCP
+settings.informations.imei;;IMEI
+settings.informations.kdsn;;KDSN
+settings.informations.lcn;;Numerazione canali lineari
+settings.informations.netflixEsn;;Netflix ESN
+settings.informations.nid;;Network ID
+settings.informations.onid;;Original Network ID
+settings.informations.otaUpdateProgress;;Stato di avanzamento dell'aggiornamento
+settings.informations.ott;;
+settings.informations.packetLoss;;Perdita pacchetti
+settings.informations.sdkVersion;;
+settings.informations.sid;;Service ID
+settings.informations.signalQuality;;Qualità
+settings.informations.smartTvVersion;;Versione Smart TV
+settings.informations.snr;;SNR
+settings.informations.tsid;;Transport Stream ID
+settings.informations.updateStatus.failed;;Fallito. Codice %1.
+settings.informations.updateStatus.success;;Ok
+settings.informations.uri;;URI
+settings.informations.wireless.quality;;
+settings.language.audioLanguage;;Lingua audio
+settings.language.systemLanguage;;Lingua di sistema
+settings.language.systemLanguage.info;;
+settings.languageAndAccessibility;;Lingua & Accessibilità
+settings.languageAndAccessibility.audioLanguage;;Audio
+settings.languageAndAccessibility.subtitlesPreference;;Preferenza sottotitoli
+settings.localRecordings;;Registrazioni locali
+settings.localRecordings.error;;Errore durante il recupero delle informazioni dal disco
+settings.localRecordings.reformatDisk.notification.helpMessage;;Attenzione, tutte le registrazioni andranno perse. <br/> Non potrai annullare il procedimento.
+settings.localRecordings.reformatDisk.notification.offlineSubtitle;;settings.localRecordings.reformatDisk.notification.offlineSubtitle
+settings.localRecordings.reformatDisk.notification.offlineTitle;;settings.localRecordings.reformatDisk.notification.offlineTitle
+settings.localRecordings.reformatDisk.notification.title;;Inserisci il PIN per resettare
+settings.logger;;
+settings.logger.loggerIp;;
+settings.logger.loggerModule;;
+settings.logger.loggerType;;
+settings.loggerIp.description;;
+settings.loggerIp.subtitle;;Inserisci il tuo IP
+settings.loggerIp.title;;
+settings.loggerModule.description;;
+settings.loggerModule.subtitle;;
+settings.loggerModule.title;;
+settings.loggerType.description;;
+settings.loggerType.subtitle;;
+settings.loggerType.title;;
+settings.network.channelScan.pleaseWait;;Scansione canali, attendi...
+settings.parentalControls.managePin;;Gestisci PIN
+settings.parentalControls.options;;Age Rating
+settings.parentalControls.purchasePin;;Acquisti
+settings.powerSaving.autoStandbyTime.2h;;2 ore
+settings.powerSaving.autoStandbyTime.4h;;4 ore
+settings.powerSaving.autoStandbyTime.8h;;8 ore
+settings.powerSaving.quickBoot.description;;
+settings.powerSaving.remoteBooking.description;;
+settings.powerSaving.smartStandby.active;;Attiva
+settings.powerSaving.smartStandby.active.description;;
+settings.powerSaving.smartStandby.energySaving;;Risparmio energetico
+settings.powerSaving.smartStandby.energySaving.description;;
+settings.powerSaving.smartStandby.smartStandby;;Standby intelligente
+settings.powerSaving.smartStandby.smartStandby.description;;
+settings.privacy;;Privacy
+settings.privacy.consent;;Consenso privacy
+settings.privacy.notice;;Informativa Privacy
+settings.privacyDisclaimer;;Liberatoria privacy
+settings.privacyDisclaimer.privacy;;Vodafone TV liberatoria privacy
+settings.privacyDisclaimerPageTitle;;Vodafone TV liberatoria privacy
+settings.purchase.errorTurnOn;;Per attivare il PIN Acquisti devi prima attivare il PIN Protezione Bambino
+settings.purchase.turnOff;;Disattiva PIN
+settings.purchase.turnOn;;Attiva PIN
+settings.purchase.turnedOff;;PIN disattivo
+settings.purchase.turnedOn;;PIN attivo
+settings.purchasePin;;PIN di acquisto
+settings.recommendations;;Motore di raccomandazione
+settings.recommendations.off;;Disabilita
+settings.recommendations.on;;Abilita
+settings.recording.padding.fifteen;;+15 min
+settings.recording.padding.five;;+5 min
+settings.recording.padding.ten;;+10 min
+settings.recording.setPaddings.noPadding;;Nessun Buffer
+settings.recordings.automaticRecordings;;Registrazioni automatiche
+settings.recordings.boxSpaceLow;;Hai quasi esaurito lo spazio di archiviazione
+settings.recordings.buyMoreStorage;;Acquista più spazio di archiviazione
+settings.recordings.buyStorage;;Acquista spazio di archiviazione
+settings.recordings.ejectDisk;;Rimuovi disco
+settings.recordings.filterContent;;Filtro contenuto
+settings.recordings.manage;;Gestisci le registrazioni
+settings.recordings.padding.none;;Buffer registrazione pre e post evento non attiva
+settings.recordings.recommendationsOptOut;;Disattiva suggerimenti
+settings.recordings.reformatDisk;;Ri-formatta il disco
+settings.recordings.remoteBooking;;
+settings.recordings.setPadding;;Imposta Buffer
+settings.recordings.setPadding.description;;Aggiungi Buffer all'inizio e alla fine delle tue registrazioni.
+settings.recordings.setPadding.title;;Imposta Buffer
+settings.recordings.subscribedChannels;;Mostra canali
+settings.remote.buttons.back;;Indietro
+settings.remote.buttons.green;;Verde
+settings.remote.buttons.info;;Informazioni telecomando
+settings.remote.buttons.paired;;Associato
+settings.remote.buttons.tv;;Controllo TV
+settings.remote.buttons.unpaired;;Non associato
+settings.remote.buttons.voice;;Informazioni sul controllo vocale
+settings.remote.connectionType.BLE;;BLE
+settings.remote.info.IRCodesTableDBVersion;;?
+settings.remote.info.batteryLevelGood;;Buono
+settings.remote.info.batteryLevelLow;;Basso
+settings.remote.info.batteryStatus.button;;Livello batterie
+settings.remote.info.batteryStatus.subtitle;;Livello della batteria
+settings.remote.info.bleConnection.button;;Connessione Bluetooth
+settings.remote.info.bluetooth;;Il tuo telecomando utilizza il Bluetooth per controllare il TV Box da %1 ed è abilitato al controllo vocale.<br><br>Tieni premuti i tasti giallo e 3 per disassociare il telecomando.
+settings.remote.info.buttons.firmware.button;;Firmware
+settings.remote.info.connectivityStatus.button;;Stato connessione
+settings.remote.info.connectivityStatus.subtitle;;Informazioni connettività
+settings.remote.info.done.button;;Fatto
+settings.remote.info.firmware.button;;Firmware
+settings.remote.info.firmware.subtitle;;Firmware
+settings.remote.info.hardwareVersion;;Versione hardware
+settings.remote.info.infrared;;Il telecomando sta utilizzando gli infrarossi per controllo il TV Box 
+settings.remote.info.lastDownloadDateFirmware;;Ultimo download del firmware
+settings.remote.info.macAddress;;
+settings.remote.info.manufacturingDate;;Data di produzione
+settings.remote.info.productNumber;;Prodotto numero
+settings.remote.info.radioFrequency;;Il telecomando sta utilizzando le frequenze radio per controllare il TV Box da %1.<br><br>Tieni premuti i tasti 'Giallo' e 3 per disassociare il telecomando.
+settings.remote.info.remoteSerialNumber;;Numero seriale telecomando
+settings.remote.info.remoteVersion.button;;Versione telecomando
+settings.remote.info.remoteVersion.subtitle;;Versione telecomando
+settings.remote.info.serialNumber.button;;Numero seriale
+settings.remote.info.serialNumber.subtitle;;Seriale
+settings.remote.info.softwareVersion;;Versione software
+settings.remote.info.title;;Info telecomando
+settings.remote.info.version;;Versione
+settings.remote.paired.descriptionBle;;Puoi iniziare ad usare il controllo vocale tenendo premuto il bottone microfono sul tuo telecomando (non avrai più bisogno di puntarlo al tuo TV Box).
+settings.remote.paired.descriptionIrRf;;Il tuo telecomando è ora associato alle frequenze radio e non dovrai più puntarlo al tuo TV Box.
+settings.remote.paired.subtitle;;Associa il telecomando
+settings.remote.remoteStatus;;Stato telecomando
+settings.remote.retry.descriptionBle;;Associazione non andata a buon fine. Riprova tenendo premuti per almeno 5 secondi i tasti 3 e 'Giallo' insieme.
+settings.remote.retry.descriptionIrRf;;Associazione non andata a buon fine. Riprova tenendo premuti per almeno 5 secondi i tasti 1 e giallo insieme.
+settings.remote.retry.subtitle;;Associa il telecomando
+settings.remote.title;;Associazione telecomando
+settings.remote.tvControls;;Controllo TV Box
+settings.remote.unpaired.descriptionBle;;Associa il tuo telecomando al Bluetooth per avere il controllo vocale attivo. Potrai utilizzare il telecomando senza essere di fronte al tuo TV Box.<br><br>Per associarlo tieni premuti i tasti 3 e giallo per almeno 5 secondi.
+settings.remote.unpaired.descriptionIrRf;;Associa il tuo telecomando con le frequenze radio per avere migliori prestazioni e non doverlo puntare al tuo televisore.<br><br>Per associare tieni premuti per almeno 5 secondi i tasti 1 e giallo insieme.
+settings.remote.unpaired.subtitle;;Associa il telecomando
+settings.remoteBooking.button.standbyOptions;;
+settings.remoteBooking.screen.text;;
+settings.remoteBooking.screen.title;;
+settings.remoteControl;;Impostazioni telecomando
+settings.selfDiagnostics.button.internetConnection;;Connessione Internet
+settings.selfDiagnostics.button.localStorage;;Memoria locale
+settings.selfDiagnostics.button.networkConnection;;Connessione Internet
+settings.selfDiagnostics.button.remote;;Telecomando
+settings.selfDiagnostics.button.softwareUpdates;;Aggiornamenti software
+settings.selfDiagnostics.button.tvChannels;;Canali TV
+settings.selfDiagnostics.issuesTable.message.sdi01.01;;Il tuo dispositivo non è collegato tramite Ethernet o Wi-Fi. Controlla la connessione e verificare le impostazioni di connessione di rete. 
+settings.selfDiagnostics.issuesTable.message.sdi01.02;;Vodafone TV non è grado di rilevare un indirizzo IP valido. Verifica le impostazioni IP e prova a scollegare Vodafone TV dalla corrente per alcuni secondi. 
+settings.selfDiagnostics.issuesTable.message.sdi01.03;;La potenza del segnale Wi-Fi è debole. Prova a collegare Vodafone TV Box tramite cavo Ethernet. Per un supporto sulla connessione vai su voda.it/vtvhelp 
+settings.selfDiagnostics.issuesTable.message.sdi02.01;;Vodafone TV non risulta essere connessa alla rete internet in questo momento.<br />.Prova a scollegare il cavo di alimentazione dal Vodafone TV Box, aspetta 5-10 secondi e ricollegalo alla presa.<br />Successivamente verifica che il tuo Vodafone TV Box sia correttamente connesso ad internet accedendo dal menu principale del tuo TV Box a Impostazioni / Altre Configurazioni / Connessione internet. In questo caso il bottone della tua rete dovrà essere colorato di verde.<br />Se il problema persiste vai su voda.it/vtvhelp
+settings.selfDiagnostics.issuesTable.message.sdi02.02;;Impossibile connettersi ad internet.<br />Verifica il funzionamento di altri dispositivi connessi alla stessa rete.<br />Se il problema è relativo solo a Vodafone TV, prova a scollegare il cavo di alimentazione da Vodafone TV Box, aspetta 5-10 secondi e ricollegalo alla presa.<br />Successivamente verifica che il tuo Vodafone TV Box sia correttamente connesso ad internet accedendo dal menu principale del tuo TV Box a Impostazioni / Altre Configurazioni / Connessione internet. In questo caso il bottone della tua rete dovrà essere colorato di verde.<br />Se il problema persiste vai su voda.it/vtvhelp 
+settings.selfDiagnostics.issuesTable.message.sdi03.01;;Cavo antenna non collegato. Prova a ricollegare l'antenna TV a Vodafone TV Box. 
+settings.selfDiagnostics.issuesTable.message.sdi03.02;;Ricezione segnale Digitale Terrestre di bassa qualità. Prova a scollegare e ricollegare l'antenna TV a Vodafone TV Box. Verifica inoltre che il cavo antenna utilizzato per il Vodafone TV Box funzioni con il televisore normale. Se il problema persiste vai su voda.it/vtvhelp 
+settings.selfDiagnostics.issuesTable.message.sdi03.03;;Ricezione canali in streaming di bassa qualità (a causa di un problema con la connessione internet). Vai su voda.it/vtvhelp 
+settings.selfDiagnostics.issuesTable.message.sdi04.01;;Le batterie del tuo telecomando sono quasi esaurite, sostituiscile al più presto. 
+settings.selfDiagnostics.issuesTable.message.sdi04.02;;Associando il telecomando a Vodafone TV non avrai più bisogno di puntarlo direttamente verso il tuo Vodafone TV Box per scegliere il programma che ti interessa.<br />Associalo subito entrando in Impostazioni/Altre configurazioni/Telecomando/Associa telecomando.
+settings.selfDiagnostics.issuesTable.message.sdi05.01;;È disponibile un nuovo aggiornamento. Aggiorna subito Vodafone TV Box per accedere alle ultime novità. 
+settings.selfDiagnostics.issuesTable.message.sdi06.01;;Impossibile utilizzare la funzionalità Pausa a causa di un problema sulla memoria locale. <br/>Spegni e riaccendi il tuo Vodafone TV Box. Se il problema persiste vai su voda.it/vtvsupporto
+settings.selfDiagnostics.issuesTable.title.sdi01.01;;Nessuna connessione disponibile
+settings.selfDiagnostics.issuesTable.title.sdi01.02;;Nessun indirizzo IP
+settings.selfDiagnostics.issuesTable.title.sdi01.03;;Scarsa Potenza di segnale Wi-Fi
+settings.selfDiagnostics.issuesTable.title.sdi02.01;;Impossibile connettersi a internet
+settings.selfDiagnostics.issuesTable.title.sdi02.02;;Impossibile connettersi a internet
+settings.selfDiagnostics.issuesTable.title.sdi03.01;;Cavo antenna non collegato
+settings.selfDiagnostics.issuesTable.title.sdi03.02;;Ricezione segnale Digitale Terrestre di bassa qualità
+settings.selfDiagnostics.issuesTable.title.sdi03.03;;Ricezione canali in streaming di bassa qualità
+settings.selfDiagnostics.issuesTable.title.sdi04.01;;Livello basso delle batterie del tuo telecomando
+settings.selfDiagnostics.issuesTable.title.sdi04.02;;Associa il telecomando a Vodafone TV
+settings.selfDiagnostics.issuesTable.title.sdi05.01;;Aggiornamenti disponibili
+settings.selfDiagnostics.issuesTable.title.sdi06.01;;Impossibile accedere alla memoria locale
+settings.selfDiagnostics.noErrors;;Nessun problema rilevato con Vodafone TV
+settings.serviceSettings;;Impostazioni servizio
+settings.showBackgroundProcess.hide;;
+settings.showBackgroundProcess.show;;Show
+settings.soundAndVideo;;
+settings.subscriptionFiltering.allAppsHidden;;Tutti i provider sono disabilitati
+settings.subscriptionFiltering.appsHidden;;%1 di applicazioni nascoste
+settings.subscriptionFiltering.description;;Puoi decidere quali Apps mostrare o nascondere selezionandole dalla lista dei providers.
+settings.subscriptionFiltering.title;;Filtro applicazioni
+settings.systemConfigurations.bluetooth.deviceList.title;;Dispositivi disponibili
+settings.systemConfigurations.bluetooth.devicePairedList.title;;Dispositivi associati
+settings.systemConfigurations.developerMode;;
+settings.systemConfigurations.epgStbCacheStatus;;Stato cache della Guida TV
+settings.systemConfigurations.epgUiCacheStatus;;Stato cache della Guida TV
+settings.systemConfigurations.lastActiveStandby;;
+settings.systemConfigurations.lastBoots;;Ultimo riavvio
+settings.systemConfigurations.lastFullMaintenance;;
+settings.systemConfigurations.lastLoginDate;;Ultimo accesso
+settings.systemConfigurations.lastMaintenance;;Ultima manutenzione
+settings.systemConfigurations.lastMaintenanceReboot;;Ultimo riavvio
+settings.systemConfigurations.lastTechnicalDiagUpdate;;
+settings.systemConfigurations.maintenanceTimeoutEvents;;Maintenance timeout MW events
+settings.systemConfigurations.mobilePairing;;Associazione device mobile
+settings.systemConfigurations.mobilePairing.concurrentPairingDenied;;Non puoi associare più di un device per volta
+settings.systemConfigurations.mobilePairing.description;;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+settings.systemConfigurations.mobilePairing.deviceList.title;;Device disponibili
+settings.systemConfigurations.mobilePairing.failed;;Fallito
+settings.systemConfigurations.mobilePairing.failure;;Impossibile associare il tuo device mobile. Riprova.
+settings.systemConfigurations.mobilePairing.paired;;Associato
+settings.systemConfigurations.mobilePairing.pairingError;;Errore nell'associazione
+settings.systemConfigurations.mobilePairing.pairingFailed;;Associazione del device fallita. Ti chiediamo di riprovare.
+settings.systemConfigurations.mobilePairing.pairingInProgress;;Associazione in corso
+settings.systemConfigurations.mobilePairing.pairingSuccessful;;Il tuo device è correttamente associato
+settings.systemConfigurations.mobilePairing.pinEntryHelpMessage;;Inserisci il PIN per verificare il tuo device
+settings.systemConfigurations.mobilePairing.qrCodeMode.description;;Per associare il tuo smartphone, scannerizza questo  QR-Code
+settings.systemConfigurations.mobilePairing.qrCodeMode.subtitle;;Scannerizza QR Code
+settings.systemConfigurations.mobilePairing.readyToPair;;Device disponibili per l'associazione
+settings.systemConfigurations.mobilePairing.showQrCode;;Mostra QR Code
+settings.systemConfigurations.mobilePairing.subtitle;;Connessione dispositivi
+settings.systemConfigurations.mobilePairing.title;;Associazione dispositivi mobili
+settings.systemConfigurations.networkAndPlayerLogs;;Log relativi alla rete e al player
+settings.systemConfigurations.networkLogsTitle;;Log di rete
+settings.systemConfigurations.noMaintenanceDone;;Nessuna attività di manutenzione effettuata
+settings.systemConfigurations.noMaintenanceTimeout;;No maintenance timeout
+settings.systemConfigurations.playerLogsTitle;;Log del player
+settings.systemConfigurations.refreshCacheStatus;;Aggiorna cache
+settings.systemConfigurations.selfDiagnostics;;Auto diagnostica
+settings.systemConfigurations.soundBox;;Assistente voice
+settings.systemConfigurations.soundBox.description;;Se non vuoi più utilizzare il controllo vocale extra, puoi disconnettere questo dispositivo dal tuo TV Box.
+settings.systemConfigurations.soundBox.deviceList.title;;Device disponibili
+settings.systemConfigurations.soundBox.disconnectDevice;;Disconnetti
+settings.systemConfigurations.soundBox.hideAlexaCards;;Nascondi Alexa cards
+settings.systemConfigurations.soundBox.showAlexaCards;;Mostra Alexa cards
+settings.systemConfigurations.soundBox.title;;Assistente vocale
+settings.systemConfigurations.soundbox.audioOutput;;Uscita audio
+settings.systemConfigurations.soundbox.audioOutput.checkOptical;;
+settings.systemConfigurations.soundbox.audioOutput.off;;SPENTO
+settings.systemConfigurations.soundbox.audioOutput.off.selected;;Premi OK per spegnere.
+settings.systemConfigurations.soundbox.audioOutput.spdifstb;;TV Box
+settings.systemConfigurations.soundbox.audioOutput.spdifstb.selected;;Premi OK per connettere la tua Soundbox come periferica esterna del tuo TV Box.
+settings.systemConfigurations.soundbox.audioOutput.spdiftv;;TV
+settings.systemConfigurations.soundbox.audioOutput.spdiftv.selected;;Premi OK per connettere la tua Soundbox come periferica esterna del tuo televisore.
+settings.systemConfigurations.soundbox.audioOutput.turnedOff;;Spento
+settings.systemConfigurations.soundbox.audioOutput.turnedOn;;Acceso
+settings.systemConfigurations.status.downloading;;In download...
+settings.systemConfigurations.status.failed;;Fallito
+settings.systemConfigurations.status.finished;;Terminato
+settings.systemConfigurations.status.ok;;OK
+settings.systemConfigurations.status.ongoing;;In corso...
+settings.systemConfigurations.subscriptionFiltering;;Filtro sottoscrizioni
+settings.systemConfigurations.technicalDiagnostics;;Diagnostica tecnica
+settings.systemConfigurations.technicalDiagnostics.auth;;Autenticazione
+settings.systemConfigurations.technicalDiagnostics.authNrefresh;;Aggiornamento del token AuthN
+settings.systemConfigurations.technicalDiagnostics.checkUpdate;;Controllo aggiornamenti
+settings.systemConfigurations.technicalDiagnostics.epg;;Aggiornamento Guida TV
+settings.systemConfigurations.technicalDiagnostics.licencesRefresh;;Aggiornamento licenza
+settings.systemConfigurations.technicalDiagnostics.localMaintenance;;Manutenzione locale
+settings.systemConfigurations.technicalDiagnostics.nagraCheckMaintenance;;Nagra verifica manutenzione
+settings.systemConfigurations.technicalDiagnostics.nagraSSPCheckMaintenance;;Nagra SSP check maintenance
+settings.systemConfigurations.technicalDiagnostics.newMaintenance;;
+settings.systemConfigurations.technicalDiagnostics.no_save_home_mcast_stats;;
+settings.systemConfigurations.technicalDiagnostics.noscan;;Scansione non necessaria
+settings.systemConfigurations.technicalDiagnostics.noupdate;;Nessun aggiornamento necessario
+settings.systemConfigurations.technicalDiagnostics.oldMaintenance;;
+settings.systemConfigurations.technicalDiagnostics.restart;;Riavvia Vodafone TV Box
+settings.systemConfigurations.technicalDiagnostics.save_home_mcast_stats;;
+settings.systemConfigurations.technicalDiagnostics.scan;;Scansione
+settings.systemConfigurations.technicalDiagnostics.scanStart;;Scan start
+settings.systemConfigurations.technicalDiagnostics.sendTechnical;;Invia informazioni tecniche
+settings.systemConfigurations.technicalDiagnostics.subtitle;;Ultima attività di manutenzione
+settings.systemConfigurations.technicalDiagnostics.update;;Aggiornamento Vodafone TV Box
+settings.systemConfigurations.technicalOverlay;;Technical Overlay
+settings.technicalOverlay;;Technical Overlay
+settings.technicalOverlay.disable;;Disabilita
+settings.technicalOverlay.enable;;Abilita
+settings.tvBoxSettings;;Impostazioni TV Box
+settings.tvChannels.currentlyFound.cable;;""
+settings.tvChannels.currentlyFound.ftth;;Abbiamo trovato: <div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Canali in streaming<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyHave.cable;;""
+settings.tvChannels.currentlyHave.ftth;;Canali disponibili: <div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Canali in streaming<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.showDttChannels;;Mostra i canali del digitale terrestre
+settings.tvChannels.weFound.cable;;""
+settings.tvChannels.weFound.ftth;;Abbiamo trovato: <div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Canali in streaming<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvInput.auto;;Auto
+settings.tvInput.auto.description;;Scegli questa opzione per abilitare automaticamente il telecomando del tuo TV Box a controllare l’accensione, lo spegnimento e il volume del tuo televisore insieme al TV Box. Attenzione, alcuni TV non supportano questa funzionalità.
+settings.tvInput.config.power;;Power
+settings.tvInput.config.power.description;;Scegli questa opzione per controllare lo stand-by del tuo televisore insieme al tuo box tramite il pulsante di accensione del telecomando.
+settings.tvInput.config.volume;;Volume
+settings.tvInput.config.volume.description;;Scegli questa opzione per controllare il volume del tuo televisore utilizzando il telecomando della Vodafone TV.
+settings.tvInput.deviceList;;Lista device
+settings.tvInput.deviceList.availableDeviceList.description;;Potrai controllare con il telecomando del Vodafone TV Box tutti i device connessi tramite HDMI.
+settings.tvInput.deviceList.availableDeviceList.title;;Lista device
+settings.tvInput.deviceList.description;;Qui puoi vedere quali device puoi controllare direttamente con il telecomando della Vodafone TV.
+settings.tvInput.deviceList.unavailableDeviceList.description;;Per vedere i device connessi tramite HDMI e poterli controllare direttamente con il telecomando della Vodafone TV, abilita l'opzione Auto o Manuale.
+settings.tvInput.deviceList.vodafoneDevice;;TV Box
+settings.tvInput.manual;;Manuale
+settings.tvInput.manual.cecSettings;;Impostazioni CEC
+settings.tvInput.manual.description;;Scegli questa opzione per decidere se abilitare il telecomando del tuo TV Box a controllare solo l’accensione e lo spegnimento oppure anche il volume del tuo televisore insieme al TV Box. Attenzione, alcuni TV non supportano questa funzionalità.
+settings.tvInput.off;;Spento
+settings.tvInput.off.description;;Disabilita la funzione di accensione, spegnimento e controllo volume del tuo TV tramite telecomando del TV Box.
+settings.tvInput.userOff;;Disattivato
+settings.uiVersionOverlay;;
+settings.uiVersionOverlay.hide;;Nascondi
+settings.uiVersionOverlay.show;;Show
+settings.visualScrubberStatus;;
+settings.visualScrubberStatus.disable;;Disabilita
+settings.visualScrubberStatus.enable;;Abilita
+settings.voice.channel_change.default.answer;;
+settings.voice.channel_change.default.question;;Cambia canale
+settings.voice.navigate.default.answer;;Esplora la risposta
+settings.voice.navigate.default.question;;Esplora 
+settings.voice.search.default.answer;;Puoi utilizzare la voce per controllare la tua Vodafone TV. Per attivare il controllo vocale premi il tasto Voce sul tuo telecomando
+settings.voice.search.default.question;;Cerca
+settings.voice.title;;Controllo vocale
+settings.voice.voiceTopics;;Controllo vocale
+settings.voiceAssistants;;Assistenti Vocali
+settings.warning.popup.recommendationsOptOut;;Non accettando l'abilitazione del motore di raccomandazione, alcune funzionalita' non saranno attive sul tuo TV Box e non potrai godere della migliore esperienza della Vodafone TV. Sei sicuro di voler procedere o vuoi tornare indietro alle impostazioni e cambiare la selezione?
+shopInShop.disclaimer.title;;Note legali
+smartTV.firstInstall.buttons.clear;;Cancella
+smartTV.firstInstall.buttons.signin;;Sign in
+smartTV.firstInstall.buttons.whatsnew;;Cosa c'è di nuovo?
+smartTV.firstInstall.incompatibleDeviceErrorScreen.title;;
+smartTV.firstInstall.login.error.description;;Riprova <br/> o contatta il servizio clienti al numero 0284594650.
+smartTV.firstInstall.login.error.title;;Errore
+smartTV.firstInstall.login.error.tooManyDevices.description;;Errore: troppi devices associati
+smartTV.firstInstall.login.error.tvAlreadyPaired.description;;TV già associata
+smartTV.firstInstall.login.fail.description;;
+smartTV.firstInstall.login.fail.title;;
+smartTV.firstInstall.login.nativeInput.placeholder;;Premi OK per accedere
+smartTV.firstInstall.login.nativePassword.title;;Inserisci la tua password
+smartTV.firstInstall.login.nativeUsername.title;;Inserisci il tuo username
+smartTV.firstInstall.login.password.description;;Descrizione
+smartTV.firstInstall.login.password.title;;Password
+smartTV.firstInstall.login.success.description;;
+smartTV.firstInstall.login.success.title;;
+smartTV.firstInstall.login.udid;;
+smartTV.firstInstall.login.username.description;;Accedi se hai gia' un account.
+smartTV.firstInstall.login.username.placeholder;;Inserisci il tuo username
+smartTV.firstInstall.login.username.title;;Username
+smartTV.firstInstall.login.welcome.description;;
+smartTV.firstInstall.login.welcome.title;;Benvenuto su Vodafone TV
+smartTV.mainMenu.watchTV;;Guarda la TV
+smartTV.popups.exit.message;;Sei sicuro di voler uscire?
+smartTV.popups.exit.title;;Stai per uscire da Vodafone TV
+smartTV.settings.account.logout;;Esci
+smartTV.settings.account.logout.popup;;Sei sicuro di voler uscire?
+smarttv.offlineMode.buttonText;;
+smarttv.offlineMode.descriptionText;;
+smarttv.offlineMode.loadingText;;
+smarttv.offlineMode.title;;
+somethingDifferent;;Prova qualcosa di diverso
+somethingSimilar;;Altri titoli simili
+sr.notification.error.authenticationError;;%1: Spiacenti, non è stato possibile accedere. Riprova più tardi.
+sr.notification.error.device.existsInOther.households;;%1: Spiacenti, non è stato possibile registrare questo dispositivo. Il dispositivo è associato a un altro account.
+sr.notification.error.exceeded.limit;;%1: Spiacenti, hai raggiunto il numero massimo di dispositivi che possono essere registrati nel tuo account. Rimuovi un dispositivo dal tuo account.
+sr.notification.error.kaltura.service.expired;;
+sr.notification.error.kaltura.service.invalid;;
+sr.notification.error.kaltura.service.revocation;;
+sr.notification.error.notAllowed.type.device;;%1: Spiacenti, questo dispositivo non è compatibile con il nostro servizio. Riprova con un altro dispositivo.
+sr.notification.error.secretCode.problem;;%1: Spiacenti, impossibile accedere. Riprova più tardi. Questo ha due chiavi nel documento wit.
+technicalOverlay.widget.label.audioBuffer;;Buffer audio
+technicalOverlay.widget.label.audioPid;;Audio PID
+technicalOverlay.widget.label.bandwidthManagement;;Bandwidth management
+technicalOverlay.widget.label.ber;;BER
+technicalOverlay.widget.label.blackout;;Blackout
+technicalOverlay.widget.label.bufferingTime;;Tempo di buffering
+technicalOverlay.widget.label.currentTime;;
+technicalOverlay.widget.label.droppedFrames;;
+technicalOverlay.widget.label.errorManagement;;Errore
+technicalOverlay.widget.label.estimatedBandwidth;;
+technicalOverlay.widget.label.frequency;;Frequenza
+technicalOverlay.widget.label.licenseTime;;
+technicalOverlay.widget.label.liveLatency;;
+technicalOverlay.widget.label.loadLatency;;
+technicalOverlay.widget.label.multiaudio;;Multiaudio
+technicalOverlay.widget.label.multicastGroup;;Multicast Group
+technicalOverlay.widget.label.packetLoss;;Perdita di pacchetto
+technicalOverlay.widget.label.progressBar;;Progress Bar
+technicalOverlay.widget.label.sid;;SID
+technicalOverlay.widget.label.snr;;SNR
+technicalOverlay.widget.label.streamBandwidth;;
+technicalOverlay.widget.label.streamType;;Tipologia di streaming
+technicalOverlay.widget.label.textBuffer;;Buffer testo
+technicalOverlay.widget.label.videoBuffer;;Buffer video
+technicalOverlay.widget.label.videoPid;;Video PID
+technicalOverlay.widget.title;;Technical Overlay
+upnext.footer.back;;Indietro
+upnext.footer.moreEpisodes;;Più episodi
+upnext.header.nextEpisode;;Prossimo episodio
+upnext.header.startingCounter;;Inizia fra %1
+upnextRecommendations1;;Qualcosa di simile
+upnextRecommendations2;;Qualcosa di diverso
+voice.app.changeChannel.text;;<p>Esci %1 e guarda %2 su Vodafone TV</p><p>o cerca %3 su %4</p>
+voice.app.searchNotAllowed.text;;La ricerca non è possibile all'interno
+voice.interface.searchScreenAccessMessage;;Dimmi quello che stai cercando
+voice.interface.startMessage;;In cosa posso essere d'aiuto?
+voiceChrome.interface.listening;;In ascolto...
+voiceChrome.interface.speaking;;Parlare...
+voiceChrome.interface.thinking;;Sto pensando...
+volume.hintHotkeyProfiles;;
+watchNext.purchase;;Acquisto
+watchNext.recording;;Registrazioni
+watchNext.rental;;Noleggiati
+wifi.bandwidthStatePopup.description;;
+wifi.bandwidthStatePopup.title;;
+wifi.buttons.tryAgain;;Riprova

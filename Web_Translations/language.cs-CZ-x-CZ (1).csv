@@ -1,0 +1,2156 @@
+key;en-GROUP;cs-CZ-x-CZ text
+popups.reboot.footerText;SG002: Error number %1;SG002: Číslo chyby %1
+popups.upgrade.footerText;SG001: Error number %1;SG001: Číslo chyby %1
+popups.wifi.footerText;SC120: Error number %1;SC120: Číslo chyby %1
+firstInstall.wifiNetworkErrorScreen.title;Network;Wi-Fi
+notification.recording.notForPast;Sorry, you can’t record programmes shown in the past.;Nelze nahrávat. Pořad skončil.
+notification.recording.fullprotection;SR004: Maximum number of recordings already protected. Please unprotect other recordings and try again.;Nahrávku nelze chránit. Zrušte ochranu jiných nahrávek a zkuste to znovu.
+firstInstall.remotePairingFailedScreen.title;Remote pairing;Zkusit znovu
+firstInstall.remotePairingFailedScreen.description;To reset your TV remote, hold the 3 and yellow buttons together for 5 seconds (or until the power light on the remote stops flashing).;Omlouváme se, pokus o spárování dálkového ovladače Vodafone TV <br/> selhal.  Chcete-li to zkusit znovu, podržte současně tlačítko <br/> 3 a žluté tlačítko po dobu 5 sekund.
+notification.program.noInformation;SM002: No info available;SM002: Programy ve funkci „Pokračujte, kde jste skončili“ nelze načíst.
+serieInfo.episode.notavailable;SM001: Sorry, title unavailable.; 
+settings.network.lan.waiting;Connect your Ethernet cable to set up your network;Připojte ethernetový kabel
+notification.channel.offline;SV003: Sorry, this channel is unavailable;Tento kanál je momentálně off-line.  Zkuste to prosím později.
+notification.player.videoUnavailable;SV002: Programme unavailable.;SV002: U tohoto pořadu není možné opětovné přehrávání.
+notification.player.error;SV001: Error;SV001: Chyba opětovného přehrávání.
+notification.recording.failed;SR007: Recording failed;SR007: Nahrávání se nezdařilo. Zkuste to prosím později.
+notification.recording.notPossible;SR005: You can't record this.;Nahrávání není možné. Pořady, které lze nahrávat, naleznete v televizním programu.
+notification.recording.notOnBarker;SR003: Sorry, you can't record this channel;Na tomto kanálu není možné nahrávat.
+notification.seriesRecording.failed;SR002: Recording failed, try again.;SR002: Nahrávání se nezdařilo. Zkuste to prosím později.
+popups.storage.title;SR001: Sorry, your storage is full;Nelze nahrávat. Chcete-li uvolnit úložiště, odstraňte některé záznamy.
+notification.player.noAntenna;SD001: No aerial signal found.;SD001: Žádný signál. Zkontrolujte koaxiální kabel a zkuste to znovu.
+popups.playbackError.message;SC219: Please check your Wi-Fi or see vodafone.co.uk/tv;SC218: Přehrávání bylo přerušeno. <br/> Zkontrolujte prosím router a zkuste to znovu.
+popups.playbackError.title;SC218: Sorry, we can't find a connection;Wi-Fi připojení ztraceno. Zkontrolujte prosím router a zkuste to znovu.
+firstInstall.wifiNetworkErrorScreen.noIP;SC123: Please reboot your router and try again.;SC123: Vaše Wi-Fi nemá přístup k internetu. Zkontrolujte prosím router a zkuste to znovu.
+firstInstall.wifiNetworkErrorScreen.wirelessKeyError;SC116: Your Wi-Fi password is wrong, please try again.;Nesprávné heslo Wi-Fi. Zkuste to prosím znovu.
+firstInstall.wiredNetworkScreen.noIP;SC013: You’re not connected to the internet – please try again.;SC013: Na vašem kabelovém připojení nebylo nalezeno žádné připojení k internetu. <br/> Zkontrolujte prosím router a zkuste to znovu.
+notification.epg.date.invalid;SC007: Invalid date;SC007: Neplatné datum
+notification.network.offline;SC005: Connnection lost.;SC005: Připojení ke službě ztraceno. Zkontrolujte své připojení k internetu.
+settings.network.lan.noIP;SC002: You’re not connected to the internet – please try again.;SC002: Na vašem ethernetovém připojení nebylo nalezeno žádné připojení k internetu. <br/> Zkontrolujte prosím router.
+firstInstall.wiredNetworkScreen.connectionLost.description;SC001: Your internet connection was lost.;SC001: Připojení bylo ztraceno. <br/> Zkontrolujte prosím router a zkuste to znovu
+firstInstall.getHelpScreen.wired.title;Network;Připojení k internetu
+notification.channel.notSubscribed;SB003: You’re not subscribed.;SB003: Drobný výpadek signálu nebo používáte více zařízení najednou.
+notification.purchase.failed;SB001: Purchase failed;SB001: Nákup selhal.  Zkuste to prosím znovu.
+settings.masterPin.doNotMatch;SA010: They don't match, please try again.;SA010: PINy si vzájemně neodpovídají.  Zkuste to prosím znovu.
+popups.pinEntry.failed;SA007: Sorry, that was the wrong PIN. Please try again.;Nesprávný kód PIN. Zkuste to prosím znovu.
+continueWatching.noUsername;SA006: Unknown;Neznámý
+firstInstall.operatorPairingScreen.description.noPin;SA005: Please call us on 08080 034 515 to complete setup.;SA005: Nastavení nelze dokončit. Navštivte prosím https://www.vodafone.cz/vypadky/ kde naleznete více podrobností. Děkujeme
+notification.login.error;SA002: Sorry, login failed.;SA002: Nelze vás připojit k službě. Navštivte prosím https://www.vodafone.cz/vypadky/ kde naleznete více podrobností. Děkujeme.
+pinEntry.unSuccessful;SA001: Wrong PIN;Nesprávný kód PIN. Zkuste to prosím znovu.
+firstInstall.pairingPinInputScreen.title;Welcome;Dobrý den
+firstInstall.remoteUnPairingScreen.description;To pair your TV box and remote, hold the 3 and yellow buttons together for 5 seconds, then repeat with the 1 and yellow buttons.;Chcete-li spárovat dálkový ovladač s TV Boxem, podržte současně tlačítko 3 a žluté tlačítko po dobu 5 sekund a poté podržte tlačítko 3 a žluté tlačítko po dobu 5 sekund.
+firstInstall.remotePairingScreen.description;To pair your TV box and remote, hold the 1 and yellow buttons together for 5 seconds. ;Chcete-li spárovat dálkový ovladač s TV Boxem, podržte současně tlačítko <br/> 3 a žluté tlačítko po dobu 5 sekund.
+settings.remote.pairing;Remote pairing;Spárování dálkového ovládače
+settings.remote.remotePairNewDevice.step0.description;To unpair your remote, hold the 3 and yellow buttons together for 5 seconds.;Podržte současně tlačítko 3 a žluté tlačítko po dobu 5 sekund.
+firstInstall.wiredNetworkScreen.description;Connect your Ethernet cable to set up your network.;Připojte ethernetový kabel z TV Boxu k routeru
+settings.remote.batteryStatus.low;Your battery status is low.;Vložte nové baterie
+settings.network.wifi;WiFi;Wi-Fi
+firstInstall.wiredNetworkFoundScreen.description;You're now connected.;Připojení proběhlo v pořádku
+settings.remote.remotePairNewDevice.step1.description;To pair your TV box and remote, hold the 1 and yellow buttons together for 5 seconds.;Párování se nezdařilo, opakujte párování později.
+firstInstall.pairingPinInputScreen.description;Something went wrong, sorry – please call us on 08080 034 515;Nastavení s vámi dokončí naše oddělení služeb zákazníkům, obraťte se na něj telefonicky prosím.
+popups.reboot.title;Sorry, your box needs to reboot.;Váš Vodafone TV Box je třeba restartovat
+settings.powerSaving.autoStandbyTime.hint;Remember, increasing auto standby time will use more power.;Poznámka: Při prodloužení doby automatického pohotovostního režimu dojde k nárůstu spotřeby energie
+popups.upgrade.misc;Your box will reboot;Váš Box se restartuje za %1
+firstInstall.wiredNetworkScreen.title;Network;Připojení k internetu
+settings.parentalPin.on;On;Zapnuto
+settings.parentalPin.off;Off;Vypnuto
+firstInstall.wiredNetworkSearchScreen.title;Network;Síť
+firstInstall.scanSummaryScreen.title;Channels scanned;Nalezené kanály
+settings.termsAndConditions.view;Read our Ts&Cs;Právní podmínky
+settings.parentalPinInit;Your default PIN is 1234. We recommend you choose a new one now.;Další informace o kódech PIN naleznete na webových stránkách vodafone.cz/pece
+settings.network.lan.connected;Connected;Připojeno
+firstInstall.remotePairingScreen.title;Remote pairing;Spárování dálkového ovládače
+firstInstall.wifiNetworkConnectingScreen.title;Network;Wi-Fi
+firstInstall.wifiNetworkSelectScreen.title;Network;Wi-Fi
+firstInstall.wifiKeyboardScreen.title;Network;Wi-Fi
+firstInstall.getHelpScreen.wifi.title;Network;Wi-Fi
+firstInstall.finishSetupScreen.title;Your devices;Vaše zařízení
+notification.recording.notAllow;Sorry, you can't record this programme;Nelze nahrávat. Nemáte předplatné
+settings.parentalAndPaiment;Payment & controls;Poplatky a ovládací prvky
+settings.audioAndVisual.screenResolution;Screen resolution;Rozlišení obrazovky
+pinEntry.more;See more on PINs in Settings.;Více na vodafone.cz/pece
+firstInstall.wifiNetworkFoundScreen.description;Your TV box is now connected to Wi-Fi.;Vodafone TV Box je <br/> nyní připojen
+settings.remote.remotePair;Pair;Spárovat
+settings.remote.remoteUnpair;Unpair;Zrušit spárování
+firstInstall.getHelpScreen.channels.title;Channels;Kanály
+settings.parentalControls.ageRating.info;Choosing PIN protection for age-rated programmes will also protect any recordings after 9pm.;Ochrana pomocí kódu PIN pro Rodičovskou kontrolu se vztahuje také na veškeré nahrávání po 21. hodině.
+rails.morefrom;More from;Více od %1
+firstInstall.startChannelsScanScreen.title;Channels;Kanály
+settings.parentalAndPaiment.parentalPin;PIN;PIN
+settings.parentalPin;PIN;PIN
+firstInstall.wiredNetworkFoundScreen.title;You're connected;Jste připojeni
+firstInstall.wifiNetworkFoundScreen.title;You're connected;Wi-Fi připojeno
+keyboard.parentalPin.enter.placeholder;Please enter your new 4-digit PIN;Zadejte nový čtyřmístný kód PIN
+keyboard.parentalPin.reEnter.placeholder;Please re-enter your new 4-digit PIN;Zadejte nový čtyřmístný kód PIN
+settings.network.wps;WPS;WPS
+programInfo.actionButtons.moreRecordSeriesOptions;Record series;Nahrát seriál
+firstInstall.manualNetworkConfigurationScreen.title;Network;Síť
+common.help;Help;Nápověda
+keyboard.wifi.password.placeholder;Enter WiFi password;Zadejte své heslo na Wi-Fi
+settings.masterPin.changed;Your PIN's changed;Kód PIN byl změněn
+settings.systemConfigurations.ledBrightness;Brightness;Jas
+settings.network.lan;LAN;LAN
+settings.ledBrightness;Brightness;Jas
+settings.adjustBrightness;Adjust brightness;Upravit jas
+change volume;Press +/- to change volume;Pro změnu hlasitosti stiskněte +/-
+firstInstall.helloScreen.title.foundAccount;Hi;Dobrý den
+firstInstall.startChannelsScanScreen.description;To set up your TV and radio channels, first make sure your TV aerial is connected.;Vyhledávač kanálů vyhledává dostupné TV a rozhlasové<br/> kanály.
+settings.audioDescription.off;Off;Vypnout
+settings.subtitles.off;Off;Vypnuto
+settings.powerSaving.quickBoot.on;On;Režim vysoké úspory
+settings.powerSaving.quickBoot.off;Off;Režim nízké úspory
+common.done;Done;Hotovo
+firstInstall.remotePairingSuccessScreen.description;Your TV box is now paired with your remote.;Dálkový ovladač je spárovaný s vaším <br/> Vodafone TV Boxem.
+settings.recordings.boxSpace;Storage;Úložiště
+settings.remote.batteryStatus.view;View status;Zobrazit stav baterie
+programInfo.catchup.watch;Watch;Sledovat
+programInfo.watch;Watch;Sledovat
+badging.parentalLock.on;Parental lock on;Zamčeno
+firstInstall.operatorPairingScreen.title;Please call us;Kontaktujte nás
+firmwareUpdate.description.countdown;Update starts in:;Vodafone TV Box se restartuje za %1
+settings.masterPin.turnOff;PIN off;Deaktivovat PIN
+settings.masterPin.turnOn;PIN on;Aktivovat PIN
+settings.masterPin.changePin;Change your PIN;Změnit PIN
+settings.systemConfigurations.updates.upToDate;You already have the latest updates.;K dispozici nejsou žádné nové aktualizace.
+settings.lockedChannels;Locked channels;Uzamknuté kanály
+mytv.recordings;Recordings;Nahrávky
+mytv.purchasesAndRentals;Purchases & rentals;Výpůjčky
+programInfo.actionButtons.moreRecordOptions;Record episode;Nahrát díl
+programInfo.actionButtons.buyLabel;Buy;Koupit %1
+programInfo.actionButtons.rentLabel;Rent;Vypůjčit si %1
+programInfo.actionButtons.bought;Purchased;Zakoupeno
+programInfo.actionButtons.rented;Rented;Vypůjčeno
+badging.parentalLock.off;Parental lock off;Odemčeno
+badging.recordable;Available to record;Lze nahrávat
+firstInstall.wifiNetworkSelector.joinOtherNetwork;Join other network;Připojte se k jiné síti
+firstInstall.buttons.getHelp;Get help;Nápověda
+firmwareUpdate.description.inProgress;Updating now, please wait.;Vodafone TV Box se aktualizuje, Počkejte prosím
+settings.masterPin.turnedOff;PIN off;PIN neaktivní
+settings.masterPin.turnedOn;PIN on;PIN aktivní
+settings.parentalControls.lockedChannels;Lock channels;Uzamknout kanály
+settings.network.joinOtherNetwork;Join other network;Připojte se k jiné síti
+popups.wifi.buttons.getHelp;Get help;Nápověda
+common.tryAgain;Try again;Zkusit znovu
+firstInstall.remotePairingSuccessScreen.title;Now paired;Spárováno
+firstInstall.buttons.wifi;WiFi;WiFi
+firstInstall.buttons.backToWifiList;Back to WiFi list;Zpět
+firstInstall.buttons.abort;Stop;Stop
+keyboard.wifi.ssid.placeholder;Enter network name:;Zadejte název sítě:
+settings.masterPin.whats;See your PIN;Informace o PINu
+settings.informations.OUI;OUI;OUI
+settings.informations.updateStatus;Last system software update:;Poslední aktualizace softwaru
+settings.informations.chipID;ID;ID
+settings.parentalControls.ageRating;Age rating;Nastavit věkové omezení
+settings.parentalControls.whats;See your PIN;Informace o PINu
+settings.parentalControls.okay;Okay;OK
+settings.lockedChannels.permitted;Allowed;Povoleno
+settings.boxSpaceProgression;You're using %1% of your available space;Využito %1% dostupných hodin
+settings.remote.itsPaired;Now paired;Spárováno
+popups.storage.buttons.buyMore;Buy more storage;Úložiště Vodafone TV
+popups.settings.audioAndVisual.screenResolution;Save resolution?;Uložit nastavení?
+rails.notitle;No title;Bez názvu
+badging.recording;Recording;Nahrávka
+notification.seriesRecording.start;Schedule series recording;Naplánované nové epizody
+watch;Watch;Sledovat
+volume;Volume:;Hlasitost
+Today;Today;Dnes
+Tomorrow;Tomorrow;Zítra
+Yesterday;Yesterday;Včera
+locked;Locked;Zamčeno
+mainMenu.myTV.title;MY TV;Moje TV
+mainMenu.browse.title;ON DEMAND;VIDEOTÉKA
+mainMenu.myTVCoverflow.title;Watch next;Pokračujte, kde jste přestali
+mainMenu.appsCoverflow.title;MY apps;Zobrazit více
+mainMenu.tvGuide.title;TV GUIDE;Televizní program
+mainMenu.apps.title;APPS;Aplikace
+mainMenu.search;Search;Vyhledávání
+mainMenu.settings;Settings;Nastavení
+mainMenu.allChannelsTvGuide.title;All channels;Všechny kanály
+common.noData;No information;Žádné informace
+common.noItem;No item;Žádná položka
+common.onNow;On now;Právě se vysílá
+common.launchApp;Launch app;Spustit aplikaci
+common.launch;Launch;Spustit
+common.onNext;On next;Následující program
+common.onLater;On later;Program, který se bude vysílat později
+common.onTomorrow;On tomorrow;Program, který se bude vysílat zítra
+common.today;Today;Dnes
+common.tomorrow;Tomorrow;Zítra
+common.yesterday;Yesterday;Včera
+common.continue;Continue;Pokračovat
+common.popular;Popular;Oblíbené
+common.cancel;Cancel;Zrušit
+common.yes;Yes;Ano
+common.no;No;Ne
+common.skip;Skip;Přeskočit
+common.notAvailable;Not available;Není k dispozici
+common.okay;Okay;OK
+common.noSynopsis;Synopsis unavailable;Synopse není k dispozici
+common.channel;channel;Kanál
+common.channels;channels;Kanály
+language.eng;English;angličtina
+language.fra;Français;francouzština
+language.ita;Italiano;italština
+language.deu;Deutsch;němčina
+language.spa;Español;španělština
+language.swe;Svenska;švédština
+language.tur;Türk;turečtina
+liveScreen.noChannel;Channel unavailable;Kanál není k dispozici
+date.format.smallday0;Sun;Ne
+date.format.smallday1;Mon;Po
+date.format.smallday2;Tue;Út
+date.format.smallday3;Wed;St
+date.format.smallday4;Thu;Čt
+date.format.smallday5;Fri;Pá
+date.format.smallday6;Sat;So
+date.format.day0;Sunday;neděle
+date.format.day1;Monday;pondělí
+date.format.day2;Tuesday;úterý
+date.format.day3;Wednesday;středa
+date.format.day4;Thursday;čtvrtek
+date.format.day6;Saturday;sobota
+date.format.smallmonth0;Jan;Led
+date.format.smallmonth1;Feb;Úno
+date.format.smallmonth2;Mar;Bře
+date.format.smallmonth3;Apr;Dub
+date.format.smallmonth4;May;Květ
+date.format.smallmonth5;Jun;Čen
+date.format.smallmonth6;Jul;Čec
+date.format.smallmonth7;Aug;Srp
+date.format.smallmonth8;Sep;Zář
+date.format.smallmonth9;Oct;Říj
+date.format.smallmonth10;Nov;Lis
+date.format.smallmonth11;Dec;Pro
+date.format.month0;January;Leden
+date.format.month1;February;Únor
+date.format.month2;March;Březen
+date.format.month3;April;Duben
+date.format.month4;May;Květen
+date.format.month5;June;Červen
+date.format.month6;July;Červenec
+date.format.month7;August;Srpen
+date.format.month8;September;Září
+date.format.month9;October;Říjen
+date.format.month10;November;Listopad
+date.format.month11;December;Prosinec
+network.error.ssid.tooShort;Network name too short, please enter another one and try again.;Zadaný název sítě je příliš krátký. Zkuste to prosím znovu.
+network.error.password.tooShort;Password is too short, please enter another one with more digits and try again.;Zadané heslo je příliš krátké. Zkuste to prosím znovu.
+firstInstall.languageScreen.title;Language;Jazyk
+firstInstall.remoteUnPairingScreen.title;Remote pairing;Spárování dálkového ovládače
+firstInstall.helpBar.toSelect;Choose;Vybrat
+firstInstall.helpBar.toGoBack;Back;Zpět
+firstInstall.wifiNetworkSelectScreen.description;Press the WPS button on your TV box until the connection confirmation screen appears, or enter your Wi-Fi details:;Zadejte údaje o Wi-Fi:
+firstInstall.wifiKeyboardScreen.ssid.description;Enter network name:;Zadejte název sítě:
+firstInstall.wifiKeyboardScreen.password.description;Enter Wi-Fi password:;Zadejte heslo:
+firstInstall.wifiNetworkSelector.searchAgain;Search again;Hledej znovu
+firstInstall.helloScreen.title.searchingAccount;One moment;Připojuji
+firstInstall.conflictedChannelsFoundScreen.title;Channels;Kanály
+firstInstall.conflictedChannelsFoundScreen.description;Your aerial is picking up multiple regions for %1 %2. Please choose:;Nalezeno více oblastí pro <br/>%1 %2. Vyberte:
+firstInstall.resolveChannelConflictScreen.title;Channel %1;Kanál %1
+firstInstall.resolveChannelConflictScreen.description;Please choose one of the following options:;Zaškrtněte jednu z uvedených možností:
+firstInstall.conflictResolutionConfirmScreen.title;Confirm channels;Potvrďte kanály
+firstInstall.conflictResolutionConfirmScreen.description;Please confirm your chosen channels:;Potvrďte vybrané kanály:
+firstInstall.buttons.pairLater;Pair later;Spárovat později
+firstInstall.buttons.connect;Connect;Připojit
+firstInstall.buttons.ethernet;Ethernet;Ethernet
+firstInstall.buttons.tryAgain;Try again;Zkusit znovu
+firstInstall.buttons.tryAgainDHCP;Try again with DHCP;Zkusit znovu
+firstInstall.buttons.connectWifi;Connect with WiFi;Připojit přes Wi-Fi
+firstInstall.buttons.advanced;Advanced;Pokročilé
+firstInstall.buttons.continue;Continue;Pokračovat
+firstInstall.buttons.next;Next;Další
+firstInstall.buttons.confirm;Confirm;Potvrdit
+firstInstall.buttons.startScanning;Start scanning;Spustit vyhledávání
+firstInstall.buttons.finishSetup;Finish setup;Sledovat TV
+firstInstall.buttons.skip;Skip;Přeskočit
+firstInstall.buttons.startWatching;Start watching;Začněte sledovat
+firstInstall.buttons.autoSelect;Auto select;Automatický výběr
+firstInstall.buttons.customSelect;Custom select;Vlastní výběr
+firstInstall.helpBar.help;Help;Nápověda
+keyboard.masterPin.enter.placeholder;Please enter your new 4-digit PIN;Zadejte nový čtyřmístný kód PIN
+keyboard.masterPin.reEnter.placeholder;Please re-enter your new 4-digit PIN;Zadejte svůj PIN ještě jednou
+keyboard.lockedChannels.placeholder;Channel number;Číslo kanálu
+firmwareUpdate.title;Please wait while your box updates.;Aktualizace Vodafone TV Boxu, Počkejte prosím
+firmwareUpdate.buttonsBar.updateNow;Update now;Aktualizovat nyní
+settings.masterPin;PIN;PIN
+settings.masterPin.okay;Okay;OK
+settings.masterPin.changeMyPin;Change your PIN;Změnit kód PIN
+settings.masterPin.whats.popup;Your default PIN is 1234;Více informací na stránkách vodafone.cz
+settings.parentalAndPaiment.paymentPin;PIN;PIN
+settings.recordings;Recordings;Nahrávky
+settings.recordings.deleteAll;Delete all;Smazat všechny
+settings.recordings.delete.dont;Don't delete all;Nemazat všechny
+settings.recordings.activate.dont;Don't activate;Neaktivovat
+settings.recordings.autoDelete;Auto delete;Automatické mazání
+settings.recordings.buySpace;Buy space;Koupit hodiny
+settings.language;Language;Jazyk
+settings.accessibility;Accessibility;Jazyk a titulky
+settings.accessibility.audioDescription;Audio description;Zvukový popis
+settings.accessibility.subtitles;Subtitles;Titulky
+settings.termsAndConditions;Terms & conditions;Obchodní podmínky
+settings.termsAndConditionsPageTitle;Terms & conditions;Obchodní podmínky
+settings.systemConfigurations.network;Network;Síť
+settings.systemConfigurations.remote;Remote;Dálkový ovladač
+settings.systemConfigurations.tvChannels;TV channels;TV kanály
+settings.systemConfigurations.audioAndVisual;Audio & visual;Zvuk & Obraz
+settings.systemConfigurations.clockSettings;Clock settings;Nastavení hodin
+settings.clockSettings.hourFormats.12;am / pm;dopoledne / odpoledne
+settings.clockSettings.hourFormats.24;24 hour;24 hodin
+settings.systemConfigurations.updates;Updates;Aktualizace
+settings.systemConfigurations.updates.updateAvailable;Software update available. Please wait a few minutes while your TV box restarts and installs the update.;Aktualizace k dispozici. Počkejte několik minut, než se váš Vodafone TV Box aktualizuje a restartuje.
+settings.systemConfigurations.information;Information;Informace
+settings.informations.buttons.general;General;Všeobecné
+settings.informations.buttons.audioAndVideo;Audio & video;Zvuk & Video
+settings.informations.buttons.tvQuality;TV quality;Kvalita signálu
+settings.informations.title;Box information;Informace o Boxu
+settings.informations.brandName;Brand name;Název značky
+settings.informations.modelName;Model name;Název modelu
+settings.informations.hardwareVersion;Hardware version;Verze hardwaru
+settings.informations.softwareVersion;Software version;Verze softwaru
+settings.informations.uiVersion;UI version;Verze uživatelského rozhraní
+settings.informations.updateDate;Last system software update:;Poslední aktualizace softwaru
+settings.informations.epgData;EPG data;EPG data
+settings.informations.householdID;Household ID;ID domácnosti
+settings.informations.usedCapacityEMMC;Used/capacity eMMC;eMMC: využito/celkem
+settings.informations.usbBack;USB back;USB Zpět
+settings.informations.activeConnection;Active connection;Aktivní připojení
+settings.informations.ip;Current IP address;Aktuální adresa IP
+settings.informations.wired.mac;Ethernet MAC address;Ethernetová MAC adresa
+settings.informations.wireless.mac;Wireless MAC address;Wi-Fi MAC adresa
+settings.informations.serialNumber;Serial number;Sériové číslo
+settings.informations.router;Router;Router
+settings.informations.speedtest;Speed test;Test rychlosti
+settings.informations.operationalMode;Operational mode;Provozní režim
+settings.informations.videoConnectionMode;Video connection mode;Režim připojení videa
+settings.informations.tvModel;TV model;Televizní model
+settings.informations.audioConnectionMode;Audio connection mode;Režim připojení zvuku
+settings.informations.audioOutput;Audio output;Audio výstup
+settings.informations.remoteControlMode;Remote control mode;Režim dálkového ovládání
+settings.informations.channelNameDVBT;Channel name (DVB-T);Název kanálu DTT
+settings.informations.frequency;Frequency;Frekvence
+settings.informations.signalStrength;Signal strength;Síla signálu
+settings.informations.ber;BER;BER
+settings.informations.channelNameOTT;Channel name (over the top);Název televizního kanálu na internetu
+settings.informations.abr;ABR;ABR
+settings.informations.environment;Environment;Životní prostředí
+settings.parentalControls;Parental controls;Rodičovská kontrola
+settings.parentalControls.whats.popup;Your default PIN is 1234. When it’s turned on, you’ll be asked to enter it when you make payments and some settings changes like turning parental controls on/off.;Výchozí kód PIN je %1 a doporučujeme jej změnit. Je vyžadován při nákupech nebo sledování obsahu s přístupností omezenou podle věku, pokud je zapnuta funkce Rodičovská kontrola.
+settings.lockedChannels.customise;Customise;Přizpůsobit
+settings.lockedChannels.unlockAll;Unlock all;Odemknout vše
+settings.lockedChannels.locked;Locked;Zamčeno
+settings.tvChannels.premiumChannels;Premium channels;Zobrazit nepředplacené kanály
+settings.enterNewPin;Enter new PIN;Zadejte nový kód PIN
+settings.reEnterNewPin;Re-enter new PIN;Zadejte nový kód PIN ještě jednou
+settings.pinConfirmed;PIN confirmed;Kód PIN potvrzen
+settings.ageRatings.universal;Universal;Univerzální
+settings.ageRatings.u;U;U
+settings.ageRatings.pg;PG;PG
+settings.ageRatings.12;12;12
+settings.ageRatings.15;15;15
+settings.ageRatings.18;18;18
+settings.ageRatings.off;Off;Vypnuto
+settings.network.searchAgain;Search again;Hledej znovu
+settings.network.wps.popup;Press the WPS button on your TV box, then on your router to automatically start pairing.;Stiskněte tlačítko WPS ve svém Vodafone TV Boxu a poté na routeru.
+settings.network.lan.connect;Connect;Připojit
+settings.network.advanced;Advanced;Pokročilé
+settings.network.advanced.ipAddress;IP address;IP adresa
+settings.remote;Remote;Dálkový ovladač
+settings.remotePairing;Remote pairing;Spárování dálkového ovládače
+settings.remote.batteryStatus;Battery status;Stav baterie
+settings.remote.batteryStatus.fine;Your battery status is OK;Stav baterie je OK
+settings.remote.batteryStatus.sheetTitleview;View status;Zobrazit stav
+settings.remote.batteryStatus.sheetSubtitleview;Battery status;Stav baterie
+settings.remote.connectionType;Connection type;Typ připojení
+settings.remote.connectionType.IR;IR;IR
+settings.remote.connectionType.infrared;Infrared;Infračervené záření
+settings.remote.connectionType.RF;RF;RF
+settings.remote.connectionType.radioFrequency;Radio frequency;Rádiová frekvence
+settings.tvChannels.autoScan;Auto scan;Automatické vyhledávání
+settings.tvChannels.startAutoScan;Start auto scan;Spustit automatické vyhledávání
+settings.tvChannels.stopAutoScan;Stop auto scan;Zastavit automatické vyhledávání
+settings.tvChannels.channelScan;Channel scan;Vyhledávání kanálů
+settings.tvChannels.currentlyHave;You currently have:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Aktuální kanály:<div class='halfSummary'>Volně dostupné kanály<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyFound;We've found:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Nalezené kanály:<div class='halfSummary'>Volně dostupné kanály<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.weFound;We found:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Nalezené kanály:<div class='halfSummary'>Volně dostupné kanály<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.autoSelect;Auto select;Automatický výběr
+settings.tvChannels.customSelect;Custom select;Vlastní výběr
+settings.tvChannels.resolveConflict.description;Please confirm your chosen channel:;Který kanál upřednostňujete?:
+settings.tvChannels.confirmConflictResolution.description;Please confirm your chosen channels:;Potvrďte vybrané kanály:
+mytv.watchnext;Watch next;Sledovat další
+mytv.allRecordings;All recordings;Všechny nahrávky
+mytv.scheduledRecordings;Scheduled recordings;Plánování nahrávek
+mytv.allScheduledRecordings;All scheduled recordings;Všechny naplánované nahrávky
+mytv.allPurchasesAndRentals;All rentals & purchases;Všechny výpůjčky
+mytv.wishlist;Record;Chci vidět
+mytv.allWishlist;Recordings;Celý seznam programů, které chci vidět
+mytv.other;Others;Ostatní
+apps.apps;Apps;Aplikace
+apps.myApps;My apps;Moje aplikace
+apps.new;New;Nové
+apps.popular;Popular;Oblíbené
+apps.education;Education;Vzdělávání
+search.searchResults;Search results;Výsledky vyhledávání
+search.noResults;No results;Nebyly nalezeny žádné výsledky
+programInfo.airedOn;Aired on;Vysíláno dne
+programInfo.related;Related;Související
+programInfo.recording.record;Record;Nahrávat
+programInfo.actionButtons.watch;Watch;Sledovat %1
+programInfo.actionButtons.watchRecording;Watch your recording;Sledovat nahrávku
+programInfo.actionButtons.watchLive;Watch;Sledovat živě
+programInfo.actionButtons.recordOn;Record episode;Nahrát titul
+programInfo.actionButtons.watchCatchup;Watch;Sledovat Minulé díly
+programInfo.actionButtons.startOver;Restart;Přehrát od začátku
+programInfo.actionButtons.recordSeries;Record series;Nahrát seriál
+programInfo.actionButtons.cancelRecording;Cancel recording;Zrušit nahrávání
+programInfo.actionButtons.deleteRecording;Delete recording;Odstranit nahrávku
+programInfo.actionButtons.cancelRecordSeriesOn;Cancel series recording;Zrušit nahrávání seriálu
+programInfo.actionButtons.deleteRecordSeriesOn;Delete series recording;Smazat seriál
+programInfo.actionButtons.protect;Protect recording;Nastavit ochranu nahrávky
+programInfo.actionButtons.unprotect;Unprotect recording;Zrušit ochranu této nahrávky
+programInfo.actionButtons.trailer;Watch trailer;Sledovat upoutávku
+programInfo.actionButtons.thirdPartyApp;0,01;%1
+programInfo.actionButtons.wishlist.remove;Remove;Odebrat ze seznamu „Chci vidět“
+programInfo.actionButtons.wishlist.add;Schedule record;Přidat na seznam „Chci vidět“
+programInfo.actionButtons.watchContent;Watch %1;Sledovat
+programInfo.actionButtons.buy;Buy;Koupit
+programInfo.actionButtons.rent;Rent;Vypůjčit si
+programInfo.actionButtons.confirm4K;Your current resolution is not 4K. To watch 4K content your TV must be 4K-ready. Are you sure you want to continue?;Vypadá to, že váš televizor není kompatibilní s technologií 4K (Ultra HD). Chcete pokračovat?
+minutes.acronym;mins;min
+minute.acronym;min;min
+settings.audioAndVisual.audioOutput;Audio output;Audio výstup
+settings.audioAndVisual.audioOutput.stereo;Stereo;Stereo
+settings.audioAndVisual.audioOutput.dolbyAudio;Dolby Audio;Dolby Audio
+settings.audioAndVisual.hdmiAudioOutput;HDMI audio output;Výstup zvuku HDMI
+settings.audioAndVisual.on;On;Zapnuto
+settings.audioAndVisual.off;Off;Vypnuto
+settings.audioAndVisual.screenResolution.576p;576p;576p
+settings.audioAndVisual.screenResolution.720p;720p;720p
+settings.audioAndVisual.screenResolution.1080p;1080p;1080p
+settings.audioAndVisual.screenResolution.4k;4K;4K
+settings.systemConfigurations.powerSaving;Power;Napájení
+settings.powerSaving.quickBoot;Power saving mode;Úsporný režim
+settings.powerSaving.autoStandbyTime;Auto standby time;Automatický pohotovostní režim
+settings.powerSaving.autoStandbyTime.3h;3 hours;3 hodiny
+settings.powerSaving.autoStandbyTime.6h;6 hours;6 hodin
+settings.powerSaving.autoStandbyTime.12h;12 hours;12 hodin
+settings.powerSaving.autoStandbyTime.off;Off;Vypnuto
+settings.conflictedChannelsFoundScreen.description;Your aerial is picking up multiple regions for <insert>. Please choose an option:;Nalezeno více oblastí pro <strong>%1 %2 </ strong>. Který kanál upřednostňujete?:
+popups.powerSaving.buttons.cancel;Cancel standby;Zrušit pohotovostní režim
+popups.powerSaving.buttons.adjust;Change auto standby;Změna pohotovostního režimu
+network.ipAddress;IP address;IP adresa
+network.subnetMask;Subnet mask;Maska podsítě
+network.defaultGateway;Default gateway;Výchozí brána
+network.primaryDNS;Primary DNS;Primární DNS
+network.secondaryDNS;Secondary DNS;Sekundární DNS
+serieInfo.recordEpisode;Record episode;Nahrát díl
+serieInfo.recordSeries;Record series;Nahrát seriál
+serieInfo.season;Season;SÉRIE
+popups.upgrade.buttons.updateNow;Update now;Aktualizovat nyní
+popups.reboot.buttons.rebootNow;Reboot now;Restartujte nyní
+popups.wifi.buttons.tryAgain;Try again;Zkusit znovu
+popups.storage.misc;0;0
+popups.storage.buttons.manage;Manage my recordings;Spravovat Mé nahrávky
+popups.storage.buttons.enableAutoDelete;Enable auto delete;Povolit automatické mazání
+popups.continueWatching.buttons.next;Next episode;Další díl
+popups.continueWatching.buttons.startOver;Restart;Od začátku
+popups.maintenance.message;An update is scheduled for your TV box;Pro Vodafone TV Box je naplánována aktualizace.
+maintenance.wait;Update in progress, please wait.;Prosím, čekejte ...
+rails.more;More;Více
+rails.moretitle;More %1;Další %1
+rails.bucketMore;See more;Zobrazit více
+badging.expires;Expires from %1 in %2 days;Vyprší z %1 za %2 dny/dnů
+badging.recorded;Recorded;Nahráno
+badging.protected;Protected recording;Chráněná nahrávka
+badging.subtitles;Subtitles available;Dostupné titulky
+badging.audioDescription;Audio description available;Dostupný zvukový popis
+badging.wishList;Scheduled record;Přidáno do seznamu „Chci vidět“
+badging.catchUp;Catch up;Sledovat nyní
+badging.airsOn;Airs on %1;Začíná v
+notification.recording.delete;Recording deleted;Nahrávka smazána
+notification.recording.cancel;Recording cancelled;Nahrávání zrušeno
+notification.recording.scheduled;Recording scheduled;Nahrávání naplánováno
+notification.seriesRecording.cancel;Series record cancelled;Nahrávání seriálu zrušeno
+notification.seriesRecording.delete;Series record deleted;Seriál smazán
+notification.recording.protect;Recording protected;Chráněno proti smazání
+notification.network.online;You're connected;Vaše zařízení je připojeno.
+notification.purchase.success;Purchase made;Nákup proběhl v pořádku
+notification.login.emptyToken;Empty token;Prázdný token
+notification.battery.low;Your TV remote batteries are low, please replace them.;Vyměňte baterie v dálkovém ovladači k Vodafone TV
+settings.warning.popup.parentalControlEnable;Turning on parental controls will enable your TV PIN. Are you happy to continue?;Prosím potvrďte. Je potřeba použít váš TV PIN (více na vodafone.cz/pece).
+settings.ledBrightness.medium;Medium;Střední
+programInfo.actionButtons.moreWatchOptions;More options;Možnosti sledování
+notification.recording.unprotect;Unlocked - you can now record;Není nastavena ochrana nahrávky
+common.confirm;Okay?;Potvrdit
+keyboard.search.placeholder;Start searching;Vyhledávejte filmy, seriály, herce...
+settings.warning.popup.masterPinDisable;Turning off your PIN will also turn off parental controls. Are you happy to continue?;Deaktivací kódu PIN se zruší nastavení Rodičovské kontroly. Chcete pokračovat?
+settings.network.wifi.waiting;Connecting to your Wi-Fi network;Připojování k síti Wi-Fi ...
+settings.tvChannels.abortingAutoScan;Stopping;Zastavuji operaci
+settings.audioDescription.on;Turn on;Zapnout
+settings.subtitles.on;Turn on;Zapnuto
+popups.powerSaving.message;Vodafone TV will go into standby mode in %1s;Váš Vodafone TV Box během několika sekund přejde do pohotovostního režimu.
+firstInstall.languageScreen.description;Choose your language;Zvolte jazyk
+settings.parentalControls.changeMyPin;Change PIN;Změnit PIN
+settings.parentalControls.changedPin;Your PIN has changed;Kód PIN byl změněn
+settings.ledBrightness.high;High;Vysoký
+settings.informations.buttons.connectivity;Internet;Internet
+settings.ledBrightness.low;Low;Nízký
+settings.remote.remotePairNewDevice;Pair remote;Spárování dálkového ovládače
+settings.channelScan.auto;Scan;Vyhledávat
+settings.powerSaving.quickBoot.hint;Turn power saving mode off for faster setup;Pro rychlejší spuštění vypněte úsporný režim
+firstInstall.helloScreen.description.searchingAccount;Logging in to your Vodafone TV account;Připojování k účtu Vodafone TV
+settings.systemConfigurations.subtitle;System info;Informace o systému
+settings.network.advanced.configureIpAddress;Manual setup;Ruční nastavení
+popups.continueWatching.misc;Continue watching: starting in %1;Pořad začíná za %1
+firstInstall.buttons.manualIPConfig;Manual IP setup;Pokročilé
+settings.systemConfigurations;More settings;Další nastavení
+settings.systemConfigurations.factoryReset;Reset;Resetovat
+settings.informations.buttons.remoteControl;Remote;Dálkový ovladač
+settings.network.advanced.waiting;Connecting your IP address to your TV box;Vodafone TV Box se připojuje
+popups.reboot.misc;Reboot in %1;Restart proběhne za %1
+notification.recording.start;Recording;Nahrávání probíhá
+date.format.day5;Friday;pátek
+firstInstall.helloScreen.description.foundAccount;Nearly done;Téměř hotovo
+firstInstall.wifiNetworkConnectingScreen.description;Connecting to your Wi-Fi network;Připojování k Wi-Fi
+settings.network.advanced.dhcp;Auto setup;Automatické nastavení
+settings.remote.remotePairNewDevice.step0.failed.description;Sorry, you pressed the wrong buttons: press and hold the 3 and yellow buttons together for 5 seconds.;Zkuste to prosím znovu. Podržte současně tlačítko 3 a žluté tlačítko po dobu 5 sekund.
+change language;Change language;Změnit jazyk
+firstInstall.manualNetworkConfigurationScreen.description;Please enter your network details using the number keys.;Zadejte údaje o síti
+settings.premiumChannels.hide;Hide;Skrýt
+settings.premiumChannels.show;Show;Zobrazit
+pinEntry.parentalPinCode;Enter your PIN;Zadejte PIN
+settings.remote.remotePairNewDevice.step2.description;Great, your remote is now paired;Dálkový ovladač spárován
+pinEntry.masterPinCode;Enter your PIN;Zadejte PIN
+settings.recordings.deleteAllQuestion;Are you sure you want to delete all recordings?;Opravdu chcete smazat všechny nahrávky?
+settings.recordings.autoDeleteQuestion;Are you sure you want to activate the auto delete feature?;Opravdu chcete mazat nahrávky automaticky?
+pinEntry.successful;PIN confirmed;Kód PIN potvrzen
+popups.upgrade.title;Software upgrade about to start;Vodafone TV Box se za moment začne aktualizovat
+firstInstall.getHelpScreen.channels.description;Once your TV aerial is connected, start scanning for channels.;Zkontrolujte, zda je koaxiální kabel připojen, a spusťte<br/>vyhledávání kanálů.
+settings.systemConfigurations.factoryReset.popup;<p>Are you sure you want to restore to factory settings? This will delete any customised settings.<br/>Don't worry, your recordings won't be deleted.</p>;<p>Opravdu chcete obnovit tovární nastavení? Svůj Box budete muset opět nastavit.<br/>Nemusíte se však bát, nahrávky vám zůstanou.</p>
+firstInstall.wiredNetworkSearchScreen.manual.description;Trying to connect;Pokus o připojení
+firstInstall.wiredNetworkSearchScreen.description;Please make sure your Ethernet cable is plugged in.;Ujistěte se, že je připojen<br/>ethernetový kabel<br/>.
+firstInstall.getHelpScreen.wifi.description;You'll find the answers to lots of questions at vodafone.co.uk/tv;Potřebujete-li další nápovědu, navštivte stránku<br/>vodafone.cz/pece
+firstInstall.getHelpScreen.wired.description;You'll find the answers to lots of questions at vodafone.co.uk/tv;Potřebujete-li další nápovědu, navštivte stránku<br/>vodafone.cz/pece
+firstInstall.remotePairLaterScreen.description;If you can't pair your remote now, don't worry – you can always pair it later and it'll still work in the meantime when you point it at the box.;Dálkový ovladač lze spárovat<br/>později v sekci Nastavení<br/>, poté nebudete muset<br/>ovladačem mířit na Box.
+settings.network.noInternet;;Nebylo nalezeno žádné připojení k internetu. Zkontrolujte prosím router a zkuste to znovu.
+firstInstall.wifiNetworkErrorScreen.noLink;;Wi-fi spojení selhalo. Prosím zkontrolujte váš router a opakujte celou akci.
+settings.network.lan.noLink;;SC022: Ethernetový kabel nebyl detekován. Opakujte zapojení kabelu.
+firstInstall.wiredNetworkScreen.noLink;;Ethernetový kabel nebyl detekován. Opakujte zapojení kabelu.
+notification.network.error;;Chyba zapojení služby. Zkontrolujte vaše internetové připojení.
+programInfo.rentalExpiresOn;;Expiruje v %1
+Available to Purchase;;Lze zakoupit.
+Smart TV FTU UDID;;UDID: %1
+adult.hidden.description;;Tento obsah je uzamčen kvůli rodičovským hodnocením
+adult.hidden.title;;Skrytý obsah
+adult.visible.title;;Pro dospělé
+advertising.notification.description;;Video bude automaticky pokračovat po reklamě
+advertising.notification.personalizedAds.cannotWatch.description;;Abyste mohli sledovat tento obsah, musíte souhlasit s personalizací reklam.
+advertising.notification.personalizedAds.cannotWatch.title;;Personalizace reklamy
+advertising.notification.personalizedAds.optIn;;Abyste neměli personalizované reklamy, běžte do Nastavení/Soukromí/Ochrana soukromí a osobních údajů u třetích stran
+advertising.notification.personalizedAds.optOut;;Abyste dostávali personalizované reklamy, běžte do Nastavení/Soukromí/Ochrana soukromí a osobních údajů u třetích stran
+advertising.notification.title;;Reklama
+advertising.overlay.count;;Reklama %1 z %2
+alexa.EnablewithoutSetup.text;;"Bez přihlášení se, Alexa bude nadále vyhledávat TV seriály a filmy, spravovat vysílání a říkat vtipy. Pro dokončení nastavení, běžte do Nastavení Alexy a připojte svůj Amazon účet.<br><br><span class= ""subtext"">Amazon procesuje interakce s Alexou v cloudu. Při výběru ""Povolit Alexu"", dáváte souhlas se všemi obchodními podmínkami. Více informací ohledně obchodních podmínek Alexy se můžete dozvědět přes odkaz níže.</span>"
+alexa.EnablewithoutSetup.title;;Spustit Alexu bez nastavení?
+alexa.alexaDisableScreen.cancelButton;;Zrušit
+alexa.alexaDisableScreen.confirmButton;;Potvrdit
+alexa.alexaDisableScreen.text;;Nebudete moci Alexu na tomto zařízení využívat.
+alexa.alexaDisableScreen.title;;Zakázat Alexu?
+alexa.alexaSettignDefaultScreen.buttonSetUp;;Nastavit Alexu
+alexa.alexaSettingDefaultScreen.buttonLanguage;;Jazyk Alexa
+alexa.alexaSettingDefaultScreen.buttonSignout;;Odhlásit
+alexa.alexaSettingDefaultScreen.buttonTermsAndConditions;;Obchodní podmínky
+alexa.alexaSetupScreen.description;;Vyberte Obnovit kód pokud máte problém s poskytnutým kódem a zkuste to znovu.
+alexa.alexareadyscreen.ia.information;;Abyste povolili dodatečné komponenty jako je hudba, počasí a chytrá domácnost, běžte do <span>Nastavení > Hlasoví asistenti > Amazon Alexa</span> a připojte svůj Amazon účet.
+alexa.alexareadyscreen.ia.term1;;"""Alexo, přidej hlasitost"""
+alexa.alexareadyscreen.ia.term2;;"""Alexo, ukaž mi akční filmy"""
+alexa.alexareadyscreen.ia.term3;;"""Alexo, co dnes večer dávají v televizi?"""
+alexa.alexareadyscreen.information;;Abyste se dozvěděli více o tom, co Alexa umí, stáhněte si aplikaci Amazon Alexa z Google Play nebo z App Storu.
+alexa.alexareadyscreen.subtitle;;Stiskněte a držte čudlík pro mikrofón a pak zkuste říct:
+alexa.alexareadyscreen.term1;;"""Alexo, zvyš hlasitost"""
+alexa.alexareadyscreen.term2;;"""Alexo, ukaž mi předpověď na víkend"""
+alexa.alexareadyscreen.term3;;"""Alexo, jaké jsou novinky na můj sport?"""
+alexa.alexareadyscreen.term4;;"""Alexo, hledej Akční filmy"""
+alexa.alexareadyscreen.term5;;"""Alexo, zahraj popová hudební videa"""
+alexa.alexareadyscreen.vsb.information;;
+alexa.alexareadyscreen.vsb.subtitle;;Na vašem zařízení, zkuste říct:
+alexa.alexareadyscreen.vsb.term1;;"""Alexo, ukaž mi předpověď počasí na víkend"""
+alexa.alexareadyscreen.vsb.term2;;"""Alexo, jaké jsou novinky na můj sport?"""
+alexa.alexareadyscreen.vsb.term3;;"""Alexo, přidej mléko na můj nákupní seznam"""
+alexa.alexareadyscreen.vsb.term4;;"""Alexo, spusť popové písně z devadesátých let"""
+alexa.alexareadyscreen.vsb.term5;;"""Alexo, kdo je Brad Pitt?"""
+alexa.alexareadyscreen.vsb.term6;;"""Alexo, spusť reggaeton hudbu"""
+alexa.authError;;Něco se pokazilo. Zkuste to prosím znovu.
+alexa.card.canDoMore;;Alexa toho může udělat víc
+alexa.card.connect;;Připojit
+alexa.card.connectAmazonAccount;;Připojte svůj Amazon účet, abyste povolili funkce jako počasí, chytrou domácnost a další
+alexa.defaultScreen.description;;Alexa vám umožňuje použít hlas k nalezení a spuštění filmů a seriálů. Dále jí můžete klást otázky, podívat se na počasí, pouštět hudbu, obsluhovat svou chytrou domácnost, a spoustu dalších věcí.
+alexa.defaultScreen.subDescription;;"Amazon zpracovává interakce s Alexou na cloudu. Při volbě ""Povolit Alexu"" souhlasíte s obchodními podmínkami. Pro více informací klikněte na odkazy níže."
+alexa.defaultscreen.buttonDisable;;Vypnout
+alexa.defaultscreen.buttonSigneIn;;Přihlásit se do Alexy
+alexa.defaultscreen.buttonTermOfUse;;Podmínky používání
+alexa.defaultscreen.devicename;;Název zářízení
+alexa.defaultscreen.signedInAs;;Připojit účet
+alexa.enablePopup.title;;Chcete povolit hlasové ovládání?
+alexa.enableWithoutSetup.ok;;Zkuste Alexu
+alexa.enablevoicesubMsg;;Hlasové ovládání jste na svém ovladači zatím nepovolili
+alexa.errorScreen.button.retry;;Zkusit znovu
+alexa.isReadyTitle;;Alexa je připravena
+alexa.notification.signout.body;;můžete ji znovu zapnout v nastavení
+alexa.notification.signout.header;;Alexa byla vypnuta
+alexa.popup.tryAlexa.title;;Vyzkoušejte Alexu bez účtu
+alexa.setUpScreen.Goto;;Jdi na
+alexa.setUpScreen.description;;zadejte na svém telefonu nebo PC tento kód
+alexa.setUpScreen.later;;Později
+alexa.setUpScreen.refreshCode;;Obnovit kód
+alexa.setUpScreen.title;;Připojte svůj Amazon účet
+alexa.termandConditionScreen.title;;Obchodní podmínky
+alexa.termsOfUseScreen.title;;Podmínky použití Alexy
+apps.myApps.add.added;;Přidáno
+apps.myApps.add.titleAppAdd;;Moje aplikace
+apps.myApps.add.titleAppAddDescription;;%1 aplikací úspěšně přidáno
+apps.myApps.add.titleAppRemove;;Moje aplikace
+apps.myApps.add.titleAppRemoveDescription;;%1 aplikací úspěšně odstraněno
+apps.myApps.add.titleMaxDescription;;Odstraňte aplikace ze svých Oblíbených pro přidání nových aplikací
+apps.myApps.add.titleMaxLimit;;Moje aplikace
+apps.myApps.delete.remove;;Odstranit
+apps.myApps.reorder.moved;;Přesunout
+apps.rail.recentApps;;apps.rail.recentApps
+badging.acronym.audioDescription;;AD
+badging.acronym.closedCaption;;CC
+badging.acronym.signLanguage;;SL
+badging.acronym.subtitles;;S
+badging.airsNow;;Právě se vysílá
+badging.airsOnDateAndTime;;Vysílá se v
+badging.availableToPurchase;;Lze zakoupit.
+badging.availableToPurchaseAndExpiration;;"""%1 den(y) nákupu k dispozici od %2"""
+badging.availableToSubscribe;;Lze předplatit
+badging.failedOn;;Selhalo
+badging.partiallyRecordedOn;;Částečně nahráno na
+badging.purchased;;Zakoupeno
+badging.recordableEpisode;;Přidat do nahrávek jeden díl
+badging.recordableSeries;;Přidat do nahrávek všechny díly
+badging.recordedOn;;Nahráno dne
+badging.recordingNow;;Nahrávání
+badging.recordingScheduled;;Naplánováno
+badging.scheduled;;Naplánováno
+badging.subscribed;;Lze sledovat v rámci vašeho předplatného
+badging.subscribedTo;;Součástí vašeho %1
+badging.upcomingCatchUp;;Brzy bude k dispozici v „Minulých dílech“
+bluetooth.fullplayer.audioprofile;;Audio-profil
+bluetooth.fullplayer.collapse;;Sbalit
+bluetooth.fullplayer.connected;;Připojeno
+bluetooth.fullplayer.exit;;Odejít
+bluetooth.fullplayer.unknownTrackAlbum;;Neznámé album
+bluetooth.fullplayer.unknownTrackArtist;;Neznámý umělec
+bluetooth.fullplayer.unknownTrackTitle;;Neznámá skladba
+bluetooth.popup.buttons.connect;;Připojit
+bluetooth.subtitle;;Validovat?
+bluetoothConnect.subtitle;;Ověřit?
+bluetoothConnect.title;;Chcete povolit hlasové ovládání?
+bluetoothConnection.title;;Budete připojeni k tomuto zařízení
+bluetoothDisconnect.title;;Vyberte, co chcete udělat
+buttons.filesFormat.3d;;3D
+buttons.filesFormat.4K;;UHD
+buttons.filesFormat.HD;;HD
+buttons.filesFormat.SD;;SD
+cableRegio.scanSummary.description.success;;%1 kanálů nalezeno:<br/>%2 Internetový %3 Terestriální %4 Rádiový
+cableRegio.scanSummary.title;;Výsledek vyhledávání kanálů
+cancelMultipleSeries.popup.subtitle;;Tento krok nelze vzít zpět.
+cancelMultipleSeries.popup.title;;Jste si jistí, že chcete zrušit %1 svých nahrávek?
+cancelSeries.subtitle;;Jste si jistí?
+cancelSeries.title;;Zrušit nahrávání seriálu?
+channelScan.completed;;Skenování kanálů dokončeno
+channelScan.error;;Chyba skenování kanálů
+clashManagementScreen.availableAsCatchup;;Dostupné jako catch-up
+clashManagementScreen.recording;;Nahrávání 1%
+clashManagementScreen.repeatsOn;;Opakování na 1%
+clashManagementScreen.reschedule;;Přeplánovat
+clashManagementScreen.subtitle;;K nahrání %1 zvolte z možností níže
+clashManagementScreen.title;;Máte příliš mnoho lokálních nahrávek
+common.back;;Zpět
+common.blockedContent;;Nepřístupný obsah
+common.browseAll;;Procházet vše
+common.buyStorage;;Úložiště Vodafone TV
+common.deselectAll;;Odznačit vše
+common.disconnect;;Odpojit
+common.hideAll;;Skrýt vše
+common.min;;%1 min.
+common.noThanks;;Ne, děkuji
+common.other;;Další
+common.reorder;;změnit pořadí
+common.searchOn;;Hledat na
+common.selectAll;;Označit vše
+common.showAll;;Ukázat vše
+common.subscribe;;Předplatit
+common.tvGuide;;Televizní program
+common.unpair;;Odpárovat
+common.welcomeTo;;Vítejte
+continueWatching.household;;Můj Box
+date.format.duration.day;;den
+date.format.duration.days;;dny/dnů
+date.format.duration.hour;;Hodina
+date.format.duration.hours;;h
+date.format.duration.minute;;minuta
+date.format.duration.minutes;;min.
+date.format.duration.month;;měsíc
+date.format.duration.months;;měsíce
+date.format.duration.second;;sekunda
+date.format.duration.seconds;;sekundy
+date.format.duration.short.hours;;h
+date.format.duration.short.minutes;;m
+date.format.duration.short.seconds;;s
+date.format.duration.year;;rok
+date.format.duration.years;;roky
+deleteMultipleSeries.popup.protectedSubtitle;;Ve vašem výběru je %1 chráněných nahrávek. Přesto smazat?
+deleteMultipleSeries.popup.subtitle;;Tento krok nelze zrušit
+deleteMultipleSeries.popup.title;;Opravdu chcete smazat %1 vašich nahrávek
+deleteSeries.delete;;Smazat seriál
+deleteSeries.subtitle;;Jste si jistí?
+deleteSeries.title;;Smazat seriál
+deleteSingleSeries.popup.subtitle;;Chcete vybrat celý seriál, nebo jednotlivé díly?
+deleteSingleSeries.popup.title;;Seriál byl vybrán
+detailsConfirmPurchaseScreen.audioTitle;;Zvuk
+detailsConfirmPurchaseScreen.detailsTitle;;Detaily
+detailsConfirmPurchaseScreen.subtitlesTitle;;Titulky
+epg.adultProgram.hidden.description;;Rodičovská kontrola neumožňuje sledování tohoto pořadu bez zadání kódu PIN. Chcete-li toto změnit, přejděte do nastavení.
+epg.adultProgram.hidden.name;;Pořad je skrytý.
+epg.adultProgram.hidden.subtitle;;Změna rodičovského nastavení pořadů, které lze sledovat
+epg.adultProgram.locked.description;;Rodičovská kontrola neumožňuje sledování tohoto pořadu bez zadání kódu PIN. Chcete-li toto změnit, přejděte do nastavení.
+epg.adultProgram.locked.name;;Zamčeno
+epg.allChannels;;Všechny kanály
+epg.channel.locked.name;;Zamčeno
+epg.filters.all;;Všechno
+epg.filters.allChannels;;Všechny kanály
+epg.filters.hdchannels;;HD kanály
+epg.filters.juststarted;;Novinky
+epg.filters.mostWatched;;Nejsledovanější
+epg.filters.subscribedChannels;;Předplacené kanály
+epg.filters.title;;Vyberte filtr kanálů
+epg.program.locked.description;;Rodičovská kontrola neumožňuje sledování tohoto pořadu bez zadání kódu PIN. Chcete-li toto změnit, přejděte do nastavení.
+epg.summary.duration;;Délka
+epg.summary.origin;;Původ
+epg.summary.releaseDate;;Datum vydání
+error.actionNotAllowed;;Tuto akci nelze provést
+error.default;;Něco se pokazilo.
+error.mdw.network.configurationGetFailed;;Chyba čtení konfigurace sítě.
+error.mdw.network.configurationSetFailed;;Chyba zápisu konfigurace sítě.
+error.netflix.esn;;Netflix ESN není platný.
+error.player.broadcast.cannotResolve;;Nelze vyřešit URI referenčního kanálu IP.
+error.player.broadcast.cannotTune;;Nelze naladit daný transportní tok.
+error.player.broadcast.channelChangeInterrupted;;Přepínání kanálu bylo přerušeno.
+error.player.broadcast.channelNotFound;;Určený kanál nebyl v transportním toku nalezen.
+error.player.broadcast.channelNotSupported;;Tuner tento kanál nepodporuje.
+error.player.broadcast.channelParentalLock;;Kanál podléhá Rodičovské kontrole.
+error.player.broadcast.channelRecordingOngoing;;Kanál nelze přepnout, protože se právě nahrává.
+error.player.broadcast.encryptedChannel;;Šifrovaný kanál nebo chybí klíč/modul.
+error.player.broadcast.insufficientBandwidth;;Nedostatečná šířka pásma.
+error.player.broadcast.insufficientResources;;Nedostatečné prostředky k prezentaci daného kanálu.
+error.player.broadcast.tunerLocked;;Tuner je uzamčen jiným objektem.
+error.player.broadcast.unknownChannel;;Neznámý kanál.
+error.player.broadcast.unrealized;;Kanál nelze změnit/Nerealizováno.
+error.player.oipf.connectionLost;;Nelze se připojit k serveru nebo došlo ke ztrátě připojení.
+error.player.oipf.corrupt;;Obsah je poškozený nebo neplatný.
+error.player.oipf.format;;Formát A/V není podporován.
+error.player.oipf.insufficientResources;;Nedostatečné zdroje.
+error.player.oipf.positionUnavailable;;Obsah není v daném místě k dispozici.
+error.player.oipf.unavailable;;Obsah není k dispozici.
+error.player.unidentified;;Kanál není předplacený
+error.purchase.er.PPVPurchased;;PPV zakoupeno.
+error.purchase.er.accountNotValid;;Neplatný účet.
+error.purchase.er.collectionPurchased;;Sbírka zakoupena.
+error.purchase.er.configNotFound;;Nebyla nalezena žádná konfigurace.
+error.purchase.er.couponNotValid;;Kupon není platný.
+error.purchase.er.free;;Zdarma.
+error.purchase.er.incorrectPrice;;Nesprávná cena.
+error.purchase.er.insufficientFunds;;Nedostatečné finanční prostředky.
+error.purchase.er.invalidUser;;Neplatný uživatel.
+error.purchase.er.notInDomain;;Uživatel není v doméně.
+error.purchase.er.notPurchasable;;Není k dispozici k nákupu.
+error.purchase.er.pgChargeIDRequired;;Je třeba zadat ID platby pro platební bránu.
+error.purchase.er.pgNoResponse;;Žádná odpověď od platební brány.
+error.purchase.er.pgNotExist;;Platební brána neexistuje.
+error.purchase.er.pgNotSet;;Platební brána není nastavena pro domácnost.
+error.purchase.er.pgUnknownResponse;;Neznámá odpověď platební brány.
+error.purchase.er.retryLimitExceeded;;Překročen počet opakování.
+error.purchase.er.signatureMismatch;;Podpis nesouhlasí.
+error.purchase.er.subscriptionOnly;;Pouze pro zakoupení předplatného.
+error.purchase.er.subscriptionPurchased;;Předplatné zakoupeno.
+error.purchase.er.unknownPPV;;Neznámý modul PPV.
+error.purchase.er.unknownReason;;Neznámý důvod.
+error.purchase.er.unknownTransactionState;;Neznámý stav transakce.
+error.purchase.er.unknownUser;;Uživatel neznámý.
+error.purchase.er.userNotExist;;Uživatel neexistuje.
+error.purchase.er.userSuspended;;Uživatel byl pozastaven.
+error.purchase.unidentified;;Neidentifikovaná chyba nákupu.
+error.token.store.failed;;Nepodařilo se uložit Auth tokeny
+error.userAccountSuspended;;Váš účet je pozastaven 
+error.userActionSuspended;;Váš účet je pozastaven
+explanatoryCard.localQuotaLimit.info;;Na lokálním úložišti máte už jen <br/>%1
+explanatoryCard.localQuotaLimit.statusContent;;Spravovat lokální nahrávky
+explanatoryCard.localQuotaLimit.title;;Málo místa na lokálním úložišti
+explanatoryCard.mytv.external.myTVRecommendations;;Zde uvidíte doporučení ze sekce „Videotéka“ a pořadů, které právě běží v televizi, vytvořená přímo pro vás na základě programů, které jste sledovali, nahrávali nebo půjčovali v minulosti.
+explanatoryCard.mytv.purchasesAndRentals;;Filmy si můžete vypůjčit ve „Vodafone Filmy“ a sledovat je zde.
+explanatoryCard.mytv.recommendations;;Zde naleznete svá doporučení
+explanatoryCard.mytv.recommendations.recommendationsOptIn;;Nenechte si ujít programy vybrané přímo pro vás na základě programů, které jste sledovali, nahrávali nebo půjčovali v minulosti. Chcete-li zapnout „Doporučení“, stiskněte OK.
+explanatoryCard.mytv.recommendations.title;;Filmy a televizní pořady, které musíte vidět
+explanatoryCard.mytv.recordings;;Sledujte a spravujte své nahrávky, přímo zde.
+explanatoryCard.mytv.rentals;;Filmy si můžete vypůjčit ve „Vodafone Filmy“ a sledovat je zde.
+explanatoryCard.mytv.scheduledRecordings;;Programy, které jste vybrali pro nahrávání, se zobrazí zde.
+explanatoryCard.mytv.title;;Moje TV
+explanatoryCard.mytv.watchnext;;K rozkoukaným pořadům se můžete snadno vrátit.
+explanatoryCard.mytv.watchnext.recommendationsOptIn;;Chcete-li zobrazit přehled všech pořadů, na které se chcete dodívat, a vašich posledních nahrávek a vypůjčených filmů, stiskněte tlačítko OK, kterým zapnete „Doporučení“.
+explanatoryCard.mytv.watchnext.title;;Nejdůležitější pořady, které musíte vidět
+explanatoryCard.mytv.welcomeTo;;Vítejte
+explanatoryCard.mytv.welcomeToMyTV;;Vítejte v MyTV
+explanatoryCard.mytv.wishlist;;Uložte si filmy ze sekce „Videotéka“ a televizní pořady do seznamu „Chci vidět“, abyste se k nim později mohli snadno vrátit.
+explanatoryCard.ondemand.recommendationsOptIn;;Nenechte si ujít programy vybrané přímo pro vás na základě programů, které jste sledovali, nahrávali nebo půjčovali v minulosti. Chcete-li zapnout „Doporučení“, stiskněte OK.
+explanatoryCard.ondemand.title;;Doporučené filmy ze sekce „Videotéka“
+explanatoryCard.quota.autoDelete;;Kapacita je téměř vyčerpaná. S dalšími naplánovanými nahrávkami se spustí automatické mazání od nejstarších nahrávek.
+explanatoryCard.quota.title;;Úložiště Vodafone TV
+explanatoryCard.railTitle.mytv.external.myTVRecommendations;;Zobrazit doporučení filmů a pořadů, které si nesmíte nechat ujít.
+explanatoryCard.railTitle.mytv.purchasesAndRentals;;Výpůjčky
+explanatoryCard.railTitle.mytv.recommendations;;Filmy a TV pořady, které můžete mít v oblibě.
+explanatoryCard.railTitle.mytv.recordings;;Nahrávky
+explanatoryCard.railTitle.mytv.rentals;;Výpůjčky
+explanatoryCard.railTitle.mytv.scheduledRecordings;;Plánování nahrávek
+explanatoryCard.railTitle.mytv.watchnext;;Pokračujte, kde jste přestali
+explanatoryCard.railTitle.mytv.wishlist;;Chci vidět
+explanatoryCard.related.recommendationsOptIn;;Nenechte si ujít programy vybrané přímo pro vás na základě programů, které jste sledovali, nahrávali nebo půjčovali v minulosti. Chcete-li zapnout „Doporučení“, stiskněte OK.
+explanatoryCard.related.title;;Podobné
+explanatoryCard.search.recommendationsOptIn;;Nenechte si ujít programy vybrané přímo pro vás na základě programů, které jste sledovali, nahrávali nebo půjčovali v minulosti. Chcete-li zapnout „Doporučení“, stiskněte OK.
+explanatoryCard.search.title;;Výsledek je založen na vašich předchozích volbách
+explanatoryCard.switchOn;;Zapnout
+fastZap.barker.countdown;;Aplikace se otevře za <br/> <div>%1 sekundu </ div>
+fastZap.upNext;;Další na programu
+firstInstall.automaticRecordingsMoreInfoScreen.description;;Jednou z hlavních výhod Vodafone TV je možnost zpětně sledovat pořady z posledních 7 dní. Pořady v sekci „Minulé díly“ můžete spustit přímo přes „Televizní program“ nebo při sledování televize stisknutím šipek nahoru a dolů na dálkovém ovladači.<br/><br/>Souhlas nemá vliv na vaše širokopásmové připojení ani na úložiště, jedná se o čistě regulační požadavek.
+firstInstall.automaticRecordingsMoreInfoScreen.title;;Automatické nahrávky
+firstInstall.bleRemotePairLaterScreen.description;;Chcete-li spárovat televizor a dálkový ovladač, podržte současně tlačítko 3 a žluté tlačítko po dobu 5 sekund.<br/>Je-li váš ovladač již spárován, podržte současně tlačítko 3 a žluté tlačítko po dobu 5 sekund, tím se spárování zruší.<br/>Nemůžete-li dálkový ovladač spárovat, nevadí – můžete jej spárovat později. Do té doby bude fungovat, když jej namíříte na Box.
+firstInstall.bleRemotePairingScreen.description;;Chcete-li spárovat televizor a dálkový ovladač, podržte současně tlačítko 3 a žluté tlačítko po dobu 5 sekund.<br/>Je-li váš ovladač již spárován, podržte současně tlačítko 3 a žluté tlačítko po dobu 5 sekund, tím se spárování zruší.
+firstInstall.bleRemotePairingScreen.title;;Párování dálkového ovladače
+firstInstall.bleRemotePairingSuccessScreen.description;;TV Box je nyní spárován s dálkovým ovladačem
+firstInstall.bleRemotePairingSuccessScreen.title;;Spárováno
+firstInstall.buttons.ATP;;ATP
+firstInstall.buttons.I&D;;I&D
+firstInstall.buttons.agree;;Souhlasím
+firstInstall.buttons.back;;Zpět
+firstInstall.buttons.deepMode;;Režim vysoké úspory
+firstInstall.buttons.developerMode;;Mód pro vývojáře
+firstInstall.buttons.disagree;;Nesouhlasím
+firstInstall.buttons.instantMode;;Režim nízké úspory
+firstInstall.buttons.manual;;Manuální
+firstInstall.buttons.moreInfo;;Více informací
+firstInstall.buttons.reset;;Resetovat
+firstInstall.buttons.skipScanning;;Přeskočit vyhledávání
+firstInstall.buttons.tryAgainWithEthernet;;Zkusit znovu
+firstInstall.buttons.updateAndReboot;;Aktualizovat a restartovat
+firstInstall.buttons.validate;;Ověřit
+firstInstall.cheatMenuScreen.desc;;Lokálně předělá konfigurační parametry set-top boxu
+firstInstall.cheatMenuScreen.title;;Provozní nabídka
+firstInstall.consent.description;;Abyste měli personalizované sledování, můžete Souhlasit nebo Nesouhlasit s podmínkami.
+firstInstall.contentSettingsScreen.automaticRecordingsAgreement.title;;Automaticky zaznamenává všechny kanály pro sledování programů v minulosti.
+firstInstall.contentSettingsScreen.recommendationsAgreement.title;;Zobrazit doporučení filmů a pořadů, které si nesmíte nechat ujít.
+firstInstall.contentSettingsScreen.title;;Nastavení obsahu
+firstInstall.firmwareUpdateScreen.desc;;Nainstalujte prosím dostupné aktualizace softwaru. Po aktualizaci se vaše zařízení automaticky restartuje.
+firstInstall.firmwareUpdateScreen.title;;Aktualizace
+firstInstall.irRfRemotePairLaterScreen.description;;Chcete-li spárovat televizor a dálkový ovladač, podržte současně tlačítko 3 a žluté tlačítko po dobu 5 sekund.<br/>Je-li váš ovladač již spárován, podržte současně tlačítko 3 a žluté tlačítko po dobu 5 sekund, tím se spárování zruší.<br/>Nemůžete-li dálkový ovladač spárovat, nevadí – můžete jej spárovat později. Do té doby bude fungovat, když jej namíříte na Box.
+firstInstall.irRfRemotePairingScreen.description;;Chcete-li spárovat televizor a dálkový ovladač, podržte současně tlačítko 3 a žluté tlačítko po dobu 5 sekund.
+firstInstall.irRfRemotePairingScreen.title;;Párování dálkového ovladače
+firstInstall.irRfRemotePairingSuccessScreen.description;;TV Box je nyní spárován s dálkovým ovladačem
+firstInstall.irRfRemotePairingSuccessScreen.title;;Spárováno
+firstInstall.powerSaving.description;;Pokud chcete používat Hlasové ovládání nebo přehrávat hudbu přes Bluetooth v pohotovostním režimu, tato volba musí být VYPNUTA. <br><br> Jinak bude tato funkcionalita dostupná pouze chvilku po vypnutí zařízení. <br><br> Tuto možnost můžete později změnit v nastavení TV boxu.
+firstInstall.powerSaving.title;;Úsporný režim
+firstInstall.powerSaving.turnOff;;Vypnout
+firstInstall.powerSaving.turnOn;;Zapnout
+firstInstall.progressbar.complete.label;;Vyhledávání kanálů dokončeno
+firstInstall.progressbar.label;;Probíhá vyhledávání kanálů %1%
+firstInstall.recommendationsMoreInfoScreen.description;;Filmy a televizní pořady, které musíte vidět<br/><br/>Nenechte si ujít programy vybrané přímo pro vás na základě programů, které jste sledovali, nahrávali nebo půjčovali v minulosti. „Doporučení“ zapnete stisknutím OK nebo v sekci „Nastavení“. <br/> <br/>Lze je kdykoli vypnout.
+firstInstall.recommendationsMoreInfoScreen.title;;Doporučení
+firstInstall.recoverPwdScreen.description;;Naskenujte tento QR-kód svým telefonem pro obnovu či změnu vašeho hesla.
+firstInstall.recoverPwdScreen.subtitle;;Skenovat QR-kód
+firstInstall.recoverPwdScreen.title;;Obnova hesla Vodafone TV
+firstInstall.scanSummaryScreen.description.fail;;Nebyly nalezeny žádné kanály. <br/>Znovu zapojte koaxiální kabel a postup zopakujte nebo navštivte www.vodafone.cz/vypadky.
+firstInstall.scanSummaryScreen.description.fail.OTTOnly;;Nebyly nalezeny žádné kanály. Zkontrolujte síťové připojení a zkuste to znovu.
+firstInstall.scanSummaryScreen.description.fail.cable;;Omlouváme se, nebyly nalezeny žádné kanály. Zkontrolujte, zda je kabel správně připojen a zkuste to znovu.
+firstInstall.scanSummaryScreen.description.fail.ftth;;Omlouváme se, nebyly nalezeny žádné kanály. Zkontrolujte, zda je kabel správně připojen, a zkuste to znovu.
+firstInstall.scanSummaryScreen.description.partial;;<div class='halfSummary'>Volně dostupné kanály<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>Scan kanálů přerušen. Vložte koaxiální kabel a opakujte akci.
+firstInstall.scanSummaryScreen.description.partial.cable;;<div class='halfSummary'>Cable<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>Pokud chcete, můžete zkontrolovat připojení kabelu a zkusit to znovu.
+firstInstall.scanSummaryScreen.description.partial.ftth;;<div class='halfSummary'>Cable<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>Pokud chcete, můžete zkontrolovat připojení kabelu a zkusit to znovu.
+firstInstall.scanSummaryScreen.description.success;;Scan byl dokončen.<br/>Byly nalezeny následující kanály:<br/><div class='halfSummary'>Volně dostupné<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.OTTOnly;;Vyhledávání kanálů dokončeno.<br/>Byly nalezeny následující kanály:<br/><div class='halfSummary'>Internet<div class='channelsSummary'>%1 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.cable;;Vyhledávání kanálů dokončeno. <br/>Nalezené kanály:<br/><div class='halfSummary'>Cable<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.ftth;;Vyhledávání kanálů dokončeno. <br/>Nalezené kanály:<br/><div class='halfSummary'>Cable<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.standbyModeSelectionScreen.desc;;Zvolte úsporný režim<br><br>Nízká úspora znamená, že váš Box se bude spouštět rychleji (ale spotřebuje více energie)<br><br>Vysoká úspora znamená delší čas spuštění (ale nižší spotřebu energie)
+firstInstall.standbyModeSelectionScreen.title;;Pohotovostní režim
+firstInstall.startChannelsScanScreen.description.cable;;Začneme hledat televizní kanály. Ujistěte se, že je kabel připojen.
+firstInstall.startChannelsScanScreen.description.ftth;;Vyhledávač kanálů vyhledává dostupné TV a rozhlasové<br/> kanály.
+firstInstall.unpairRfRemoteScreen.description;;Zmáčkněte a podržte žluté tlačítko spolu s tlačítkem 3, abyste spárovali ovladač.
+firstInstall.wifiBandwidthStateScreen.buttons.retry;;Zkusit znovu
+firstInstall.wifiNetworkErrorScreen.wirelessConnectionError;;Připojení WI-FI se nepodařilo navázat, zkuste to prosím později.
+firstInstall.wifiNetworkSelector.wps;;Možnost WPS
+firstInstall.wiredNetworkScreen.noInternet;;SC115: Váš TV Box se momentálně nemůže připojit na server.<br/>Zkuste to prosím později nebo navštivte www.vodafone.cz/vypadky.
+folder.bundle.includes;;Zahrnuje
+folder.button.confirm;;Potvrdit
+folder.button.selfcare.subscribe;;Předplatit
+folder.button.subscribe;;Přeplatit %1 / měsíc
+folder.button.subscribed;;Předplaceno
+folder.channelGrid.title;;Kanály z %1
+folder.subscriptionType.app;;Předplatné aplikace
+folder.subscriptionType.individualLinearChannel;;Předplatné kanálu
+folder.subscriptionType.pack;;Balíček předplatného
+ftu.welcome.scanQR.button.description;;Pokud již máte v mobilu službu Vodafone TV, vyberte tuto možnost, abyste mohli používat fotoaparát a rychleji se přihlásit.
+ftu.welcome.signUp.buttonText;;Zaregistrujte se
+gdpr.consent;;Akceptuji
+gdpr.notice;;Oznámení
+gdpr.privacy;;Soukromí
+gdpr.privacy.consent.ads.description;;Abyste dostávali personalizované reklamy, musíte dát souhlas.
+gdpr.privacy.consent.confirmation;;"Pokud souhlas neposkytnete, přijdete o ""Doporučení"" a další speciální funkce, které vám pomohou si Vodafone TV co nejvíce užít. <br/>Opravdu chcete pokračovat v nastavení, nebo chcete jít zpět a svou volbu změnit?""Doporučení"""
+gdpr.privacy.consent.description;;Chcete-li využívat doporučení, musíte udělit souhlas.
+gdpr.privacy.consent.kids.description;;Chcete-li naplno využívat dětskou aplikaci, musíte udělit souhlas.
+gdpr.privacy.consent.title;;"Aktivace ""Doporučení"""
+gdpr.privacy.default.notice;;Mělo by se jednat o základní text oznámení (verze 0): <br/> <br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sagittis dignissim metus nec scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vulputate tempus risus, vel dignissim leo sodales id. Morbi eu arcu ligula. Suspendisse sed leo placerat, cursus ligula ac, consequat leo. Vestibulum vehicula vel dolor ut consequat. Curabitur vel justo justo. Vestibulum urna quam, fringilla in elit mollis, porta vestibulum odio. Vestibulum pretium dolor pharetra, euismod odio at, dictum felis. Curabitur pulvinar imperdiet ornare. Vivamus ac venenatis nulla, vel scelerisque quam. Maecenas venenatis ultrices felis et hendrerit. Nunc magna orci, suscipit a justo dictum, ornare consectetur tortor. Ut lobortis fermentum rutrum.<br/><br/>Nullam enim lacus, consequat et purus id, hendrerit faucibus massa. Sed tempor, mauris sed faucibus sodales, risus lorem tempus dolor, eget posuere dolor eros a tortor. Sed vestibulum eros eu ornare dignissim. Fusce tristique lectus mattis metus feugiat, sed dignissim dui pharetra. Cras diam turpis, finibus sed lorem ac, interdum ullamcorper massa. Ut tempus suscipit leo, at gravida metus pretium ac. Sed vestibulum vulputate turpis, vitae auctor nulla sagittis non. Cras vitae quam nec nisi imperdiet dictum in at arcu. Morbi in tempor massa. Duis efficitur nec magna et cursus. Ut ultrices, felis id dictum posuere, tortor felis fermentum urna, eu porta orci massa ut mi. Sed ut aliquam diam, a tristique ligula.<br/><br/>Aliquam justo sapien, egestas sed feugiat a, dignissim non justo. Ut vitae neque vel magna efficitur consectetur. Sed rhoncus neque euismod arcu varius, sed rutrum ex ullamcorper. Aenean lacus nisl, interdum vitae efficitur quis, facilisis id nunc. Nulla hendrerit dignissim orci. Curabitur fringilla, dui nec gravida vestibulum, ex ligula finibus ipsum, et malesuada ante est id ligula. Suspendisse vitae diam quam. Duis quis cursus orci, id hendrerit magna. Maecenas lacus sem, lobortis quis massa non, ornare condimentum lectus. Nam vitae sagittis diam. Suspendisse potenti.<br/><br/>Quisque vitae posuere metus. Etiam cursus nisl eleifend erat placerat gravida. Donec id nibh sem. Integer maximus sapien et ex malesuada posuere. Vestibulum interdum ex elementum volutpat feugiat. Suspendisse nec tincidunt libero. Phasellus fermentum posuere mauris, in faucibus libero malesuada quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse at finibus ligula.<br/><br/>Pellentesque euismod urna sed ante ultrices, sed dapibus nisi porta. Mauris faucibus tempus rutrum. Aliquam placerat, risus vitae rutrum faucibus, lectus lectus bibendum libero, eu iaculis metus massa in libero. Nulla at leo semper, euismod augue id, tempor turpis. Nulla viverra, tellus ut porttitor laoreet, arcu tortor faucibus ipsum, et condimentum nibh felis sed eros. Duis pretium arcu ligula, vitae accumsan metus pretium a. Praesent tellus tortor, interdum quis massa ut, tincidunt vehicula lectus.
+gdpr.privacy.notice.description;;Chcete-li aplikaci používat, musíte s tímto oznámením souhlasit.
+gdpr.privacy.notice.title;;Informace ke zpracování osobních údajů
+gdpr.privacy.settings.agree;;Souhlasím
+gdpr.privacy.settings.agreed;;Potvrzeno
+gdpr.privacy.settings.agreedAll;;Souhlasím
+gdpr.privacy.settings.consent.description;;"Chcete-li využívat ""Doporučení"", musíte udělit souhlas."
+gdpr.privacy.settings.description;;Svou volbu můžete změnit
+gdpr.privacy.settings.disagree;;Nesouhlasím
+gdpr.privacy.settings.disagreedAll;;Nesouhlasím
+gdpr.privacy.settings.notAgreed;;Nepotvrzeno
+gdpr.privacy.settings.notice.description;;Chcete-li aplikaci používat, musíte s tímto oznámením souhlasit.
+gdpr.privacy.thirdPartyConsent.description;;
+gdpr.privacy.thirdPartyConsent.title;;Ochrana soukromí a osobních údajů u třetích stran
+hpvr.countdown.shortSeconds;;%1 vteřiny
+hpvr.dismiss;;Zamítnout
+hpvr.formatDisk;;Formátovat disk
+hpvr.hdd.connected;;Připojen místní disk
+hpvr.hdd.eject.popup.title;;Musíte znovuzapojit svůj lokální disk, abyste mohli sledovat místní nahrávky.
+hpvr.hdd.ongoing.eject.popup.title;;Jakmile odpojíte svůj lokální disk, ztratíte všechny probíhající lokální nahrávky.
+hpvr.hdd.recognized;;Místní disk rozpoznán
+hpvr.hddFormat.popup.subtitle;;Pokud se rozhodnete provést tuto operaci, bude pravděpodobně nutné tuto jednotku naformátovat
+hpvr.hddFormat.popup.title;;Tento lokální disk nelze připojit
+hpvr.hddFormatFailed.popup.subtitle;;Můžete se pokusit lokální disk znovu zformátovat. Pokud chyba přetrvává, kontaktujte prosím zákaznickou péči.
+hpvr.hddFormatFailed.popup.title;;Při formátování lokálního disku došlo k chybě.
+hpvr.hddFormatting.popup.subtitle;;
+hpvr.hddFormatting.popup.title;;Váš lokální disk se formátuje
+hpvr.hddFormattingDone.popup.subtitle;;Abyste mohli svůj lokální disk používat pro nahrávky, budete muset set-top box restartovat.
+hpvr.hddFormattingDone.popup.title;;Váš lokální disk byl úspěšně zformátován.
+hpvr.hddNotRecognize.popup.subtitle;;Zkontrolujte, zda jste připojili Vodafone TV lokální disk
+hpvr.hddNotRecognize.popup.title;;Lokální disk není rozpoznán
+hpvr.hddPlugged.popup.subtitle;;Chcete-li použít místní disk pro nahrávání, je třeba restartovat zařízení Set Top Box. /n/n Váš Set-Top Box se automaticky restartuje za
+hpvr.hddPlugged.popup.title;;Připojený lokální disk
+hpvr.newHddPlug;;Lokální disk je připojen
+hpvr.recording.cancelled;;Nahrávání zrušeno
+hpvr.recording.channelNotFound;;Nahrávání nelze spustit, protože kanál nebyl nalezen
+hpvr.recording.completed;;Nahrávání bylo úspěšně dokončeno
+hpvr.recording.deleted;;Nahrávání smazáno
+hpvr.recording.hddBufferOverflow;;Záznam nemohl být dokončen kvůli přetečení vyrovnávací paměti místního disku
+hpvr.recording.noCASSessionAvailable;;Záznam nemohl být dokončen kvůli nedostupnosti CAS relací
+hpvr.recording.noEntitlement;;Záznam nemohl být dokončen z důvodu scházejícího oprávnění k obsahu
+hpvr.recording.noHDD;;Nahrávání nemohlo být dokončeno, protože pevný disk byl odstraněn
+hpvr.recording.noHDDSpace;;Záznam nemohl být dokončen kvůli nedostatku volného místa na pevném disku
+hpvr.recording.noHDDWritable;;Nahrávání nemohlo být dokončeno z důvodu chyby při zápisu na pevný disk
+hpvr.recording.noSignal;;Nahrávání nemohlo být dokončeno z důvodu ztráty signálu
+hpvr.recording.noTunersAvailable;;Nahrávání nemohlo být dokončeno kvůli nedostupnosti TV tunerů
+hpvr.recording.ongoing;;Nahrávání již začalo
+hpvr.recording.partiallyCompleted;;Nahrávání začalo, ale bylo přerušeno
+hpvr.recording.scheduled;;Nahrávání úspěšně nastaveno
+hpvr.restartLater;;Restartovat později
+hpvr.restartNow;;Restartovat nyní
+hpvr.subtitle.hddDisconnectedInformations;;Pro sledování nahrávek z lokálního disku, jej znovu připojte
+hpvr.subtitle.localQuotaLimitReached;;Kapacita lokálního disku dosažena
+hpvr.title.formattingStorage;;Pevný disk byl zformátován.
+hpvr.title.hddDisconnected;;Lokální disk je odpojen
+hpvr.title.localQuotaLimitReached;;Kapacita lokálního disku dosažena
+hybridPvrNotification.lowStorageForRecord;;Přejděte na stránku Moje TV / Nahrávky a odstraňte některé nahrávky, abyste uvolnili úložiště
+hybridPvrNotification.rescheduledRecording;;Přeplánované nahrávání
+hybridPvrNotification.rescheduledTo;;od 1% do %2
+improvedRec.cancelEpisodes.selectEpisodes;;Vyberte epizodu, u které chcete zrušit nahrávání
+improvedRec.deleteEpisodes.selectEpisodes;;Vyberte díly ke smazání
+improvedRec.deleteProtectedRecording.subtitle;;Toto je chráněná nahrávka. Chcete ji přesto smazat?
+improvedRec.deleteProtectedRecording.title;;Smazat chráněnou nahrávku?
+improvedRec.deleteProtectedRecordings.subtitle;;Ve vašem výběru jsou chráněné nahrávky. Chcete je smazat?
+improvedRec.deleteProtectedRecordings.title;;Smazat chráněné nahrávky?
+improvedRec.episodeCancelledAndChooseOption.subtitle;;Chcete zrušit nahrávání dalších dílů nebo celého seriálu?
+improvedRec.episodeCancelledAndChooseOption.title;;Nahrávání dílu bylo úspěšně zrušeno.
+improvedRec.episodeDeletedAndChooseOption.subtitle;;Chcete odstranit více dílů nebo celý seriál?
+improvedRec.episodeDeletedAndChooseOption.title;;Díl byl úspěšně smazán. 
+improvedRec.filters.all;;Vše
+improvedRec.filters.genre.othersInfos;;"Nahrávky bez žánru budou k zobrazení v ""Ostatní"""
+improvedRec.filters.genre.rail.allMovies;;Všechny filmy
+improvedRec.filters.genre.rail.allTvShows;;Všechny seriály
+improvedRec.filters.scheduledRecordings;;Plánované nahrávky
+improvedRec.infos.cloudPercentage;;zbývá %1% volného prostoru ve vzdáleném úložišti
+improvedRec.infos.localPercentage;;zbývá %1% volného prostoru v lokálním úložišti
+improvedRec.infos.recordings;;%1 nahrávek
+improvedRec.infos.selectedOf;;%1 z %2 vybraný
+improvedRec.infos.simplePercentage;;Zbývá %1% místa
+improvedRec.infos.updated.recordings;;%1 aktualizovaných nahrávek...
+improvedRec.manage.noItemSelected.cancelDescription;;Musíte vybrat alespoň jeden titul, abyste mohli dokončit tento krok.
+improvedRec.manage.noItemSelected.description;;Musíte vybrat alespoň jeden titul, abyste mohli dokončit tento krok.
+improvedRec.manage.noItemSelected.title;;Nebyl vybrán žádný titul
+improvedRec.manage.protectedDescription;;Ochrana u %1 nahrávek byla úspěšně nastavena
+improvedRec.manage.protectedTitle;;Chráněné
+improvedRec.manage.unprotectedDescription;;Úspěšně zrušeno chránění u %1 nahrávek
+improvedRec.manage.unprotectedTitle;;Spravovat chráněné nahrávky
+improvedRec.manageProtect.chooseBothRecordings;;Chcete-li pokračovat, musíte zrušit chránění u %1 lokálních nahrávek a %2 u síťových nahrávek.
+improvedRec.manageProtect.chooseCloudRecordings;;Chcete-li pokračovat, musíte zrušit % 1 chráněných záznamů.
+improvedRec.manageProtect.chooseLocalRecordings;;Chcete-li pokračovat, musíte zrušit chránění u %1 lokálních nahrávek.
+improvedRec.manageProtect.chooseUnprotect;;Chcete chránit %1 nahrávek, ale můžete chránit už pouze %2 nahrávek.
+improvedRec.manageProtect.exceedProtected;;Příliš mnoho chráněných
+improvedRec.manageProtect.maxAndLeftRecordings;;Snažíte se ochránit celkem% 1 záznamů, můžete nastavit pouze% 2
+improvedRec.manageProtect.maxAndLeftRecordingsBoth;;Snažíte se nastavit %1 chráněných nahrávek na cloudu a %2 na lokálním disku. Můžete ovšem nastavit chráněné nahrávky pouze u %3 na obou úložištích
+improvedRec.manageProtect.maxAndLeftRecordingsCloud;;Snažíte se nastavit %1 chráněných nahrávek na cloudu, můžete ovšem nastavit chráněné nahrávky pouze u %2
+improvedRec.manageProtect.maxAndLeftRecordingsLocal;;Snažíte se nastavit %1 chráněných nahrávek na lokálním disku, můžete ovšem nastavit chráněné nahrávky pouze u %2
+improvedRec.manageProtect.maximumBothProtected;;Můžete nastavit ochranu u %1 síťových a lokálních nahrávek
+improvedRec.manageProtect.maximumCloudProtected;;Můžete nastavit ochranu u %1 síťových nahrávek
+improvedRec.manageProtect.maximumLocalProtected;;Můžete nastavit ochranu u %1 lokálních nahrávek
+improvedRec.manageProtect.maximumProtected;;Příliš chráněných síťových nahrávek
+improvedRec.manageProtect.selectUnprotect;;K potvrzení volby, zvolte Nechraněné
+improvedRec.manageProtect.title;;Správa chráněných nahrávek
+improvedRec.notification.cancelRecordings.description;;Úspěšně zrušeno nahrávání u %1 dílů
+improvedRec.notification.cancelRecordings.title;;Zrušené nahrávání
+improvedRec.notification.deleteRecordings.description;;Díly %1 úspěšně smazány
+improvedRec.notification.deleteRecordings.title;;Smazané nahrávky
+improvedRec.option.cancel;;Zrušit
+improvedRec.option.cancelAll;;Zrušit vše
+improvedRec.option.cancelSeries;;Zrušit nahrávání seriálu
+improvedRec.option.delete;;Smazat
+improvedRec.option.deleteAll;;Smazat vše
+improvedRec.option.deleteSeries;;Smazat seriál
+improvedRec.option.deleteUnprotect;;Odstranit nechráněné
+improvedRec.option.deselectSeason;;Zrušte výběr %1
+improvedRec.option.manage;;Spravovat
+improvedRec.option.protect;;Zajistit ochranu
+improvedRec.option.selectSeason;;Vyberte řadu %1
+improvedRec.option.selectSingleEpisodes;;Vyberte jednotlivé díly
+improvedRec.option.showProtected;;Zobrazit veškerý chráněný obsah
+improvedRec.option.unprotect;;Zrušit ochranu
+improvedRec.seriesSelected.subtitle;;Chcete vybrat celý seriál, nebo si vybrat jednotlivé díly?
+improvedRec.seriesSelected.title;;Seriál byl vybrán
+improvedRec.userAgreement.subtitle;;Jste si jistí?
+improvedRec.userAgreementForSeries.title;;Smazat seriál?
+improvedRec.userAgreementForUnprotected.title;;Smazat všechny nechráněné díly?
+improvedRecordings.cloud.leftSpace;;Máte pouze <b>%1% místa pro nahrávky na cloud</b>.
+improvedRecordings.local.leftSpace;;Máte pouze <b>%1% místa pro nahrávky na disk</b>.
+improvedRecordings.scheduled.recordingClashes;;Konflikty v nahrávkách
+improvedRecordings.scheduled.seriesRecordings;;Nahrávky seriálů
+improvedRecordings.scheduled.singleRecordings;;Jednotlivé nahrávky
+jpn;;jpn
+keyboard.search.otherPlaceholderText;;Pro hlasové vyhledávání stiskněte <div class='microIcon'></div>
+kids.PIN.turnOff;;VYPNOUT
+kids.PIN.turnOn;;ZAPNOUT
+kids.accept.consent;;Přijmout souhlas
+kids.accept.notice;;Přijmout oznámení
+kids.actors;;Herci
+kids.agreed;;Souhlasím
+kids.back;;Zpět
+kids.bedtime.turnedOnFrom;;Zapnuto od %1 do %2
+kids.cancel;;Zrušit
+kids.characters;;Avataři
+kids.common.continue;;Pokračovat
+kids.countdown.cancel;;Zrušit
+kids.countdown.change;;Změna
+kids.countdown.changeTimerSettings;;Nastavení odpočítávání
+kids.countdown.clearCountdown;;Zrušit odpočítávání
+kids.countdown.overrideBedtime;;Opravdu chcete přepsat nastavení večerky pro %1? <br/> %2 má večerku za %3 hodin a %4 minut.
+kids.countdown.shortSeconds;;%1 s
+kids.countdown.startCountdown;;Začít odpočítávání
+kids.countdown.updateCountdown;;Aktualizace odpočítávání
+kids.countdown.useBedtimeLimit;;Nastavit večerku
+kids.disagreed;;Nesouhlasím
+kids.exit;;Exit
+kids.explanatoryCard.subtitle.text;;Tohle je pro starší děti
+kids.explanatoryCard.title.text;;Ne ne,
+kids.ftusettings.ageSelection.setBirthday;;Nastavení narozenin
+kids.ftusettings.ageSelection.title;;Nastavte svůj věk
+kids.ftusettings.birthdaySelection.description;;Pokud nastavíte datum svých narozenin, bude se věk v profilu automaticky aktualizovat. <br/>Toto nastavení můžete vidět později v „Nastavení“.
+kids.ftusettings.birthdaySelection.set;;Nastavit
+kids.ftusettings.birthdaySelection.title;;Nastavení narozenin
+kids.ftusettings.buttons.agree;;Souhlasím
+kids.ftusettings.buttons.disagree;;Nesouhlasím
+kids.ftusettings.buttons.getStarted;;Začínáme
+kids.ftusettings.buttons.watchAgain;;Sledovat znovu
+kids.ftusettings.changeBirthday.title;;Změnit datum narození
+kids.ftusettings.changeCharacter.title;;Změnit avatara
+kids.ftusettings.changeNickname.title;;Změnit přezdívku
+kids.ftusettings.characterSelection.title;;Vyberte si avatara
+kids.ftusettings.nicknameEntry.emptyName;;Musí být zadáno alespoň jedno písmeno
+kids.ftusettings.nicknameEntry.maximumReached;;Nesmí přesáhnout 10 písmen
+kids.ftusettings.nicknameEntry.title;;Zadejte přezdívku
+kids.gdpr.privacy.consent.confirmation;;"Pokud souhlas neposkytnete, přijdete o ""Doporučení"" a další speciální funkce, které vám pomohou si Vodafone TV co nejvíce užít. <br/>Opravdu chcete pokračovat v nastavení, nebo chcete jít zpět a svou volbu změnit?"
+kids.gdpr.privacy.consent.subtitle;;"Chcete-li využívat ""Doporučení"", musíte udělit souhlas."
+kids.gdpr.privacy.consent.subtitle.part2;;Vaše volba ovlivňuje všechny profily.
+kids.gdpr.privacy.consent.title;;"Funkce ""Doporučení"""
+kids.gdpr.privacy.default.consent;;Mělo by se jednat o základní text oznámení (verze 0): <br/> <br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sagittis dignissim metus nec scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vulputate tempus risus, vel dignissim leo sodales id. Morbi eu arcu ligula. Suspendisse sed leo placerat, cursus ligula ac, consequat leo. Vestibulum vehicula vel dolor ut consequat. Curabitur vel justo justo. Vestibulum urna quam, fringilla in elit mollis, porta vestibulum odio. Vestibulum pretium dolor pharetra, euismod odio at, dictum felis. Curabitur pulvinar imperdiet ornare. Vivamus ac venenatis nulla, vel scelerisque quam. Maecenas venenatis ultrices felis et hendrerit. Nunc magna orci, suscipit a justo dictum, ornare consectetur tortor. Ut lobortis fermentum rutrum.<br/><br/>Nullam enim lacus, consequat et purus id, hendrerit faucibus massa. Sed tempor, mauris sed faucibus sodales, risus lorem tempus dolor, eget posuere dolor eros a tortor. Sed vestibulum eros eu ornare dignissim. Fusce tristique lectus mattis metus feugiat, sed dignissim dui pharetra. Cras diam turpis, finibus sed lorem ac, interdum ullamcorper massa. Ut tempus suscipit leo, at gravida metus pretium ac. Sed vestibulum vulputate turpis, vitae auctor nulla sagittis non. Cras vitae quam nec nisi imperdiet dictum in at arcu. Morbi in tempor massa. Duis efficitur nec magna et cursus. Ut ultrices, felis id dictum posuere, tortor felis fermentum urna, eu porta orci massa ut mi. Sed ut aliquam diam, a tristique ligula.<br/><br/>Aliquam justo sapien, egestas sed feugiat a, dignissim non justo. Ut vitae neque vel magna efficitur consectetur. Sed rhoncus neque euismod arcu varius, sed rutrum ex ullamcorper. Aenean lacus nisl, interdum vitae efficitur quis, facilisis id nunc. Nulla hendrerit dignissim orci. Curabitur fringilla, dui nec gravida vestibulum, ex ligula finibus ipsum, et malesuada ante est id ligula. Suspendisse vitae diam quam. Duis quis cursus orci, id hendrerit magna. Maecenas lacus sem, lobortis quis massa non, ornare condimentum lectus. Nam vitae sagittis diam. Suspendisse potenti.<br/><br/>Quisque vitae posuere metus. Etiam cursus nisl eleifend erat placerat gravida. Donec id nibh sem. Integer maximus sapien et ex malesuada posuere. Vestibulum interdum ex elementum volutpat feugiat. Suspendisse nec tincidunt libero. Phasellus fermentum posuere mauris, in faucibus libero malesuada quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse at finibus ligula.<br/><br/>Pellentesque euismod urna sed ante ultrices, sed dapibus nisi porta. Mauris faucibus tempus rutrum. Aliquam placerat, risus vitae rutrum faucibus, lectus lectus bibendum libero, eu iaculis metus massa in libero. Nulla at leo semper, euismod augue id, tempor turpis. Nulla viverra, tellus ut porttitor laoreet, arcu tortor faucibus ipsum, et condimentum nibh felis sed eros. Duis pretium arcu ligula, vitae accumsan metus pretium a. Praesent tellus tortor, interdum quis massa ut, tincidunt vehicula lectus.
+kids.gdpr.privacy.default.notice;;Mělo by se jednat o základní text oznámení (verze 0): <br/> <br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sagittis dignissim metus nec scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vulputate tempus risus, vel dignissim leo sodales id. Morbi eu arcu ligula. Suspendisse sed leo placerat, cursus ligula ac, consequat leo. Vestibulum vehicula vel dolor ut consequat. Curabitur vel justo justo. Vestibulum urna quam, fringilla in elit mollis, porta vestibulum odio. Vestibulum pretium dolor pharetra, euismod odio at, dictum felis. Curabitur pulvinar imperdiet ornare. Vivamus ac venenatis nulla, vel scelerisque quam. Maecenas venenatis ultrices felis et hendrerit. Nunc magna orci, suscipit a justo dictum, ornare consectetur tortor. Ut lobortis fermentum rutrum.<br/><br/>Nullam enim lacus, consequat et purus id, hendrerit faucibus massa. Sed tempor, mauris sed faucibus sodales, risus lorem tempus dolor, eget posuere dolor eros a tortor. Sed vestibulum eros eu ornare dignissim. Fusce tristique lectus mattis metus feugiat, sed dignissim dui pharetra. Cras diam turpis, finibus sed lorem ac, interdum ullamcorper massa. Ut tempus suscipit leo, at gravida metus pretium ac. Sed vestibulum vulputate turpis, vitae auctor nulla sagittis non. Cras vitae quam nec nisi imperdiet dictum in at arcu. Morbi in tempor massa. Duis efficitur nec magna et cursus. Ut ultrices, felis id dictum posuere, tortor felis fermentum urna, eu porta orci massa ut mi. Sed ut aliquam diam, a tristique ligula.<br/><br/>Aliquam justo sapien, egestas sed feugiat a, dignissim non justo. Ut vitae neque vel magna efficitur consectetur. Sed rhoncus neque euismod arcu varius, sed rutrum ex ullamcorper. Aenean lacus nisl, interdum vitae efficitur quis, facilisis id nunc. Nulla hendrerit dignissim orci. Curabitur fringilla, dui nec gravida vestibulum, ex ligula finibus ipsum, et malesuada ante est id ligula. Suspendisse vitae diam quam. Duis quis cursus orci, id hendrerit magna. Maecenas lacus sem, lobortis quis massa non, ornare condimentum lectus. Nam vitae sagittis diam. Suspendisse potenti.<br/><br/>Quisque vitae posuere metus. Etiam cursus nisl eleifend erat placerat gravida. Donec id nibh sem. Integer maximus sapien et ex malesuada posuere. Vestibulum interdum ex elementum volutpat feugiat. Suspendisse nec tincidunt libero. Phasellus fermentum posuere mauris, in faucibus libero malesuada quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse at finibus ligula.<br/><br/>Pellentesque euismod urna sed ante ultrices, sed dapibus nisi porta. Mauris faucibus tempus rutrum. Aliquam placerat, risus vitae rutrum faucibus, lectus lectus bibendum libero, eu iaculis metus massa in libero. Nulla at leo semper, euismod augue id, tempor turpis. Nulla viverra, tellus ut porttitor laoreet, arcu tortor faucibus ipsum, et condimentum nibh felis sed eros. Duis pretium arcu ligula, vitae accumsan metus pretium a. Praesent tellus tortor, interdum quis massa ut, tincidunt vehicula lectus.
+kids.gdpr.privacy.notice.title;;"Funkce ""Doporučení"""
+kids.languages.turnedOff;;VYPNUTO
+kids.languages.turnedOn;;ZAPNUTO
+kids.menu;;Menu
+kids.menu.episode;;Díl
+kids.menu.season;;Série
+kids.notForKids.changeChannel;;Chcete-li vyhledat více pořadů pro děti, přepněte kanál nebo se vraťte zpět do nabídky
+kids.notForKids.showNotForKids;;Tento pořad není pro děti
+kids.notification.incorrect.configuration.description;;Cesta k aplikaci není k dispozici
+kids.notification.network.offline.subtitle;;Došlo k chybě sítě
+kids.notification.network.offline.title;;Chyba sítě
+kids.notification.noContent.message;;Neexistuje Žádný dostupný obsah
+kids.notification.noContent.subtitle;;Žádný obsah pro děti
+kids.notification.noContent.title;;Žádný obsah pro děti
+kids.notification.player.error.subtitle;;Došlo k chybě přehrávače
+kids.notification.player.error.title;;Došlo k chybě přehrávače
+kids.pinEntry.accessProfile;;Přístup k profilu
+kids.pinEntry.approveProfile;;Schválení profilu
+kids.pinEntry.deleteProfile;;Chcete-li odstranit profil %1
+kids.pinEntry.enterSettings;;Chcete-li zadat nastavení
+kids.pinEntry.exit;;Chcete-li ukončit dětský režim
+kids.pinEntry.help.defaultPin;;Výchozí hlavní kód PIN je 1234.
+kids.pinEntry.help.details;;Pokud jej povolíte, bude váš hlavní kód PIN sloužit k ověření příkazů <br/> a plateb a k provedení některých změn nastavení. <br/> <br/> <br/>Váš hlavní PIN se také bude používat pro změnu nastavení rodičovské kontroly <br/> (pokud se rozhodnete je aktivovat). <br/> <br/> <br/>Pokud zapomenete svůj kód PIN, můžete jej obnovit online na adrese vodafone.cz/pece.
+kids.pinEntry.help.whats;;Co je to hlavní kód PIN?
+kids.pinEntry.title;;Zadejte svůj kód PIN
+kids.player.back;;Zpět
+kids.player.info;;Info
+kids.player.retry;;Zkusit znovu
+kids.player.setCountdown;;Nastavit odpočítávání
+kids.playerError;;Došlo k chybě přehrávače
+kids.profileSelection.addProfile;;Přidat profil
+kids.profileSelection.aged;;Věk %1
+kids.profileSelection.bedtimeStartedSince;;Večerka začala před %1
+kids.profileSelection.bedtimeStartedSince.atLeastTwoHours;;Večerka začala před %1 hodinami
+kids.profileSelection.bedtimeStartedSince.betweenOneHourAndTwoHours;;Večerka začala před %1 hodinami a %2 minutami
+kids.profileSelection.bedtimeStartedSince.lessThanOneHour;;Večerka začala před %1 minutami
+kids.profileSelection.countdownFinishedSince;;Odpočítávání skončilo před %1
+kids.profileSelection.settings;;Nastavení 
+kids.profileSelection.unconfirmed;; Rozdíl oproti původní verzi 
+kids.profiles;;Profily
+kids.programInfo.audioDescription;;Zvukový popis
+kids.programInfo.language;;Jazyk
+kids.programInfo.subtitles;;Titulky
+kids.settings;;Rodičovská nastavení
+kids.settings.bedtime;;Večerka
+kids.settings.bedtime.from;;Od
+kids.settings.bedtime.setBedtime;;Nastavte večerku
+kids.settings.bedtime.setTime;;Nastavit čas
+kids.settings.bedtime.to;;Do
+kids.settings.changeAge;;Změnit věk
+kids.settings.changeAvatar;;Změnit avatara
+kids.settings.changeName;;Změnit jméno
+kids.settings.content.preferredLanguage;;Upřednostňovaný jazyk
+kids.settings.contentSettings;;Nastavení obsahu
+kids.settings.delete;;Odstranit
+kids.settings.deleteProfile;;Odstranit profil
+kids.settings.editProfile;;Změnit profil
+kids.settings.help;;Nápověda
+kids.settings.pinRequest;;Žádost o PIN
+kids.settings.privacy;;Doporučení
+kids.settings.showVideos;;Zobrazit úvodní video
+kids.settings.subtitle.askForPin;;Vyžadovat kód PIN
+kids.settings.subtitle.deleteProfile.part1;;Opravdu chcete
+kids.settings.subtitle.deleteProfile.part2;;odstranit profil %1?
+kids.settings.timeManagement;;Organizace času
+kids.tick.dontShowAgain;;Nezobrazovat znovu
+kids.timeOver.addMoreTime;;Přidat více času
+kids.timeOver.exit;;Ukončit dětský režim
+kids.timeOver.takeABreak;;Je čas na přestávku
+kids.timeOver.wakeup;;Budíček
+kids.turnOff;;VYPNOUT
+kids.turnOn;;ZAPNOUT
+kids.turnedOff;;VYPNUTO
+kids.turnedOn;;ZAPNUTO
+kids.update.gdpr.privacy.consent.subtitle;;"Chcete-li využívat ""Doporučení"", musíte znovu udělit souhlas."
+kids.update.gdpr.privacy.consent.subtitle.part2;;Vaše volba ovlivňuje všechny profily.
+kids.update.gdpr.privacy.consent.title;;"Funkce ""Doporučení"""
+kids.update.gdpr.privacy.notice.subtitle;;Chcete-li pokračovat v používání služby VTV, přečtěte si tento text a vyberte možnost Pokračovat
+kids.update.gdpr.privacy.notice.title;;"Aktivace ""Doporučení"""
+language.afr;;afrikánština
+language.ang;;angličtina, stáří (ca 450-1100)
+language.ara;;arabština
+language.auto;;Automaticky
+language.ces;;čeština
+language.chi;;čínština
+language.dan;;Dánština
+language.de-DE;;Deutsch (DE)
+language.dut;;holandština
+language.ell;;řečtina
+language.en-GB;;English (GB)
+language.en-US;;English (US)
+language.es-ES;;Español (ES)
+language.fas;;perština
+language.fin;;finština
+language.grc;;řečtina
+language.gsw;;švýcarská němčina
+language.heb;;hebrejština
+language.hin;;hindština
+language.hun;;maďarština
+language.isl;;islandština
+language.it-IT;;Italština (IT)
+language.jap;;japonština
+language.jpn;;japonština
+language.kaz;;kazaština
+language.kor;;korejština
+language.lav;;lotyština
+language.mao;;maorština
+language.mri;;maorština
+language.mul;;Původní znění
+language.nld;;holandština
+language.nor;;norština
+language.per;;perština
+language.pol;;polština
+language.por;;portugalština
+language.prt;;portugalština
+language.pt-BR;;Português (BR)
+language.pt-PT;;Português (PT)
+language.qaa;;Původní znění
+language.ron;;rumunština
+language.rus;;ruština
+language.slk;;slovenština
+language.slv;;slovenština
+language.sqi;;albánština
+language.ukr;;ukrajinština
+language.zho;;čínština
+mainMenu.kids;;Děti
+mainMenu.mediaLibrary;;Knihovna
+mainMenu.onTv.title;;Právě se vysílá
+mainMenu.recordings;;Nahrávky
+mainMenu.topBar.search;;Hledat filmy, herce, seriály ...
+mainMenu.tvGuide.subscribeNow;;Přeplatit nyní
+mainMenu.tvGuide.watch;;Sledovat
+maintenance.description;;Váš Set Top Box právě optimalizuje nastavení. Může to trvat několik minut. Dokud není akce dokončena, nevypínejte ani neodpojujte zařízení.
+maintenance.title;;Probíhá aktualizace systému
+miniProgramInfo.showMore;;Zobrazit více informací
+myApps.Shortcut.Add;;Přidat do Moje aplikace
+myApps.Shortcut.Manage;;Spravovat
+myApps.add.info;;Vyberte jednu nebo více aplikací, které chcete přidat
+myApps.add.title;;Přidat do Moje aplikace
+myApps.delete.info;;Vyberte aplikace, které chcete odstranit
+myApps.delete.title;;Odstranit z Moje aplikace
+myApps.manage.favorite;;Moje aplikace - Oblíbené
+myApps.manage.info.favorite;;prohlížejte si a spravujte své oblíbené aplikace
+myApps.manage.info.favorite.number;;%1 aplikace
+myApps.manage.info.recent;;ukazuje až 20 nedávno používaných aplikací
+myApps.manage.info.recent.number;;Zatím nepoužíváte žádné aplikace.
+myApps.manage.recent;;Moje aplikace - Nejnovější
+myApps.manage.title;;Moje aplikace
+myApps.reorder.info.default;;Vyberte aplikace, které chcete přesunout
+myApps.reorder.info.reorderMode;;Šipkami doleva a doprava jednoduše přesuňte aplikaci tam, kam ji chcete umístit. Stiskněte OK pro umístění.
+myApps.reorder.title;;Přeuspořádat Moje aplikace
+mytv.external.myTVRecommendations;;Doporučení na míru
+mytv.kaltura.Adults;;Uzamčené programy
+mytv.recommendations;;Doporučení na míru
+mytv.recommended;;Doporučení
+mytv.recordings.all.lastMonth;;Minulý měsíc
+mytv.recordings.all.lastWeek;;Minulý týden
+mytv.recordings.all.month;;Tento měsíc
+mytv.recordings.all.older;;Starší
+mytv.recordings.all.week;;Tento týden
+mytv.recordings.cloud.future;;Vyprší později
+mytv.recordings.cloud.month;;Vyprší v tomto měsíci
+mytv.recordings.cloud.never;;Bez data platnosti
+mytv.recordings.cloud.nextMonth;;Vyprší v příštím měsíci
+mytv.recordings.cloud.nextWeek;;Vyprší v příštím týdnu
+mytv.recordings.cloud.week;;Vyprší v tomto týdnu
+mytv.recordings.cloud.year;;Vyprší v tomto roce
+mytv.recordings.failed.lastMonth;;Minulý měsíc
+mytv.recordings.failed.lastWeek;;Minulý týden
+mytv.recordings.failed.month;;Tento měsíc
+mytv.recordings.failed.week;;Tento týden
+mytv.recordings.local.hd;;HD
+mytv.recordings.local.lastMonth;;Minulý měsíc
+mytv.recordings.local.lastWeek;;Minulý týden
+mytv.recordings.local.month;;Tento měsíc
+mytv.recordings.local.older;;Starší
+mytv.recordings.local.other;;Ostatní
+mytv.recordings.local.sd;;SD
+mytv.recordings.local.uhd;;4K
+mytv.recordings.local.week;;Tento týden
+mytv.recordings.month;;Tento měsíc
+mytv.recordings.nextWeek;;Příští týden
+mytv.recordings.older;;Starší nahrávky
+mytv.recordings.scheduledRecordings.clashes;;Konflikty v nahrávkách
+mytv.recordings.scheduledRecordings.series;;Nahrávky seriálů
+mytv.recordings.scheduledRecordings.single;;Jednotlivé nahrávky
+mytv.recordings.soon;;Brzy vyprší
+mytv.recordings.unwatched.lastMonth;;Minulý měsíc
+mytv.recordings.unwatched.lastWeek;;Minulý týden
+mytv.recordings.unwatched.month;;Tento měsíc
+mytv.recordings.unwatched.week;;Tento týden
+mytv.recordings.week;;Tento týden
+mytvRecommendations1;;Pokračujte, kde jste přestali
+mytvRecommendations2;;Doporučení na míru
+nagra.information.authNToken;;Poslední obnovení tokenu
+nagra.information.cakVersion;;Verze CAK
+nagra.information.chipset.revision;;Revize čipové sady
+nagra.information.chipset.type;;Typ čipové sady
+nagra.information.dasSDKVersion;;DAS SDK Verze
+nagra.information.irdsn;;IRDSN
+nagra.information.lastAuthNTokenDate;;Poslední obnovení tokenu AuthN
+nagra.information.lastConnectionsToOTT;;Poslední připojení k OTT
+nagra.information.lastEntitlement;;Poslední datum oprávnění
+nagra.information.lastLicenceUpdate;;Poslední aktualizace licencí
+nagra.information.lastProvision;;Datum posledního poskytnutí
+nagra.information.nc.OpVaultTimestamp;;
+nagra.information.nc.deviceUniqueId;;Jedinečné ID zařízení
+nagra.information.nc.initStatus;;Počáteční stav
+nagra.information.nc.integrationContextCertificateName;;Název certifikátu
+nagra.information.nc.integrationContextCertificateOperatorId;;ID operátora certifikátu
+nagra.information.nc.integrationContextCertificatePlatform;;Platforma certifikátů
+nagra.information.nc.integrationContextCertificateSecurityLevel;;Úroveň zabezpečení certifikátu
+nagra.information.nc.integrationContextCertificateType;;Typ certifikátu
+nagra.information.nc.nuid;;NUID
+nagra.information.nc.prmaVersion;;Verze PRMA
+nagra.information.nc.prmcVersion;;Verze PRMC
+nagra.information.nuid;;NUID
+nagra.information.projectInfo;;Informace o projektu
+nagra.popups.connectionLost;;Problém s připojením set-top boxu
+nagra.popups.defaultError;;Kanál není předplacen
+nagra.popups.suspended;;Set-top box pozastaven
+nagra.popups.uninitialized;;Set-top box není inicializován
+nagra.popups.unsubscribed;;Ke kanálu nemáte předplatné
+network.wifi.band.unit;;GHz
+network.wifi.quality.good;;Nejlepší připojení
+network.wifi.quality.incompatible;;Slabé připojení
+network.wifi.quality.sufficient;;Dostatečné připojení
+networkAccessValidation.defaultErrorMessage;;Neplatný přístup k síti. Připojte prosím váš set-top box k přístupu k širokopásmové síti Vodafone a zkuste to znovu.
+notification.HDCPError.description;;Chyba HDCP popisu
+notification.HDCPError.title;;Chyba HDCP
+notification.adultProgram.hidden.description;;Změna rodičovského nastavení pořadů, které lze sledovat
+notification.adultProgram.hidden.title;;Pořad je skrytý
+notification.alexa.alert.description;;"Řekněte ""Alexo stop"" pro vypnutí."
+notification.alexa.alert.title;;Alexa budík
+notification.alexa.alexaNumberOfNotification.title;;Máte %1 upozornění od Alexy 
+notification.alexa.apps.notAvailable;;Ovládací prvky médií zatím nejsou uvnitř aplikací k dispozici
+notification.alexa.apps.wrongContext;;Ovládací prvky médií zatím nejsou uvnitř aplikací k dispozici
+notification.alexa.listenToNotification.description;;"Řekněte ""poslechnout upozornění"", abyste se doslechli více"
+notification.alexa.pressingVoiceButton.description;;"Zmáčkněte tlačítko Hlas a řekněte ""poslechnout upozornění"", abyste se doslechli více"
+notification.alexaAction.disabledInsideApps;;Hlasové ovládání nefunguje uvnitř aplikací.
+notification.app.cts.token.error;;Došlo k chybě. Aplikace se může spouštět s určitými omezeními.
+notification.app.gdpr.disagree;;Přejděte do Nastavení a změňte předvolbu souhlasu se zpracováním osobních údajů
+notification.app.notSubscribed;;K této aplikaci nemáte opravnění
+notification.automaticRecordings.channelDisabled;;Chcete-li sledovat tento obsah, povolte pro tento kanál automatické nahrávky.
+notification.backend.error;;SC402: Server ohlásil chybu. Zkuste to prosím později.
+notification.bleRemotePairing.failed;;Nebylo možné spárovat ovladač
+notification.bleRemotePairing.info;;Pro použití hlasového ovládání, spárujte dálkový ovladač takto: stiskněte a držte podobu pěti vteřin žluté tlačítko a tlačítko 3.
+notification.bleRemotePairing.success;;Dálkový ovladač je spárován a připraven k prvotnímu použití
+notification.bluetooth.connected;;Bluetooth připojen
+notification.bluetooth.disconnected;;Bluetooth odpojen
+notification.bluetooth.fail;;Párování selhalo
+notification.bluetooth.multiple.remove.subtitle;;%1 zařízení úspěšně odstraněna
+notification.bluetooth.noDevice;;Nebylo nalezeno žádné nové zařízení
+notification.bluetooth.rcu.connected;;Tento ovladač je nyní připojen skrze Bluetooth
+notification.bluetooth.remove;;Odstranit zařízení bluetooth
+notification.bluetooth.remove.subtitle;; Úspěšně odstraněno
+notification.bluetooth.success;;Úspěšně přidáno
+notification.bluetooth.unsupportedRcu.description;;Verze ovladače není správná.
+notification.bluetooth.unsupportedRcu.title;;Nepodporovaný ovladač
+notification.buy.notPossible;;Na tomto zařízení není možné zakoupit tento obsah.
+notification.channel.liveApp;;Aplikaci %1 otevřete stisknutím tlačítka NAHORU nebo DOLŮ.
+notification.channel.liveApp.redButton;;Aplikaci %1 spusťte stisknutím ČERVENÉHO tlačítka.
+notification.drmUnavailable.description;;Nagra ještě není připravena
+notification.drmUnavailable.title;;DRM nedostupné
+notification.episode.past;;Díl bude brzy dostupný ve vašich nahrávkách
+notification.episode.scheduled;;Nahrávání naplánováno
+notification.episode.scheduledNew;;Řada %1 byla naplánována
+notification.episode.start;;Nahrávání probíhá
+notification.folder.confirm;;OK
+notification.frequentlyAskedQuestions.fetch.error;;Nelze zobrazit často kladené dotazy
+notification.mcast.insufficient.bandwidth;;Nedostatečná rychlost internetového připojení
+notification.network.fallback;;Nové konfigurace nejsou validní. Zkuste to, prosím, znovu nebo stiskněte tlačítko ZPĚT pro zrušení nastavení a vrácení předchozí konfigurace.
+notification.network.fallback.Id;;ID %1
+notification.network.noMuMimoEnabled;;Kvalita služby může být snížena v důsledku špatné šířky pásma WiFi, chcete-li tento problém vyřešit, přejděte do části Nastavení > Další nastavení > Síť a vyberte novou síť
+notification.network.notEnoughBandwidth;;Kvalita služby může být snížena v důsledku špatné šířky pásma WiFi, chcete-li tento problém vyřešit, přejděte do části Nastavení > Další nastavení > Síť a vyberte novou síť
+notification.offline.error;;Zařízení je v režimu offline
+notification.player.blackout.message1;;Tento pořad vám nemůžeme zobrazit z důvodu omezení práv. Zkuste to později.
+notification.player.blackout.message2;;Tento pořad vám nemůžeme zobrazit z důvodu omezení práv. Zkuste to později.
+notification.player.concurrent;;Pořad se již přehrává na maximálním možném počtu zařízení.
+notification.player.noRights;;SB003: Drobný výpadek signálu nebo používáte více zařízení najednou.
+notification.ppv.success;;Nákup proběhl v pořádku
+notification.privacy.fail.description;;Zkuste to později znovu
+notification.privacy.fail.title;;Chyba ochrany osobních údajů 
+notification.programInfo.failure;;SM010: Došlo k chybě, kvůli níž nelze zobrazit informace o pořadu.
+notification.programInfo.purchase.disclaimer;;Nákup se spustí po zadání kódu PIN, a poté již nebude možné jej zrušit
+notification.programInfo.recording.noChannel;;Tato nahrávka nepatří do žádného kanálu.
+notification.programInfo.rental.days.disclaimer;;Vaše výpůjčka na %1 dnů začíná běžet po zadání kódu PIN, a poté již nebude možné ji zrušit
+notification.programInfo.rental.hour.disclaimer;;Vaše výpůjčka na %1 h začíná běžet po zadání kódu PIN, a poté již nebude možné ji zrušit
+notification.programInfo.rental.hours.disclaimer;;notification.programInfo.rental.hours.disclaimer
+notification.programInfo.rental.month.disclaimer;;Vaše výpůjčka na %1 měsíc začíná běžet po zadání kódu PIN, a poté již nebude možné ji zrušit
+notification.programInfo.rental.months.disclaimer;;Vaše výpůjčka na %1 měsíce/měsíců začíná běžet po zadání kódu PIN, a poté již nebude možné ji zrušit
+notification.programInfo.subscribe.disclaimer;;Vaše výpůjčka začíná běžet po zadání kódu PIN
+notification.recommendations.disabled;;„Doporučení“ jsou neaktivní.
+notification.recommendations.enabled;;„Doporučení“ jsou aktivní.
+notification.recommendationsOptIn;;Pokud chcete znovu VYPNOUT, přejděte do části Nastavení> Nastavení obsahu
+notification.recommendationsOptOut;;Pokud chcete znovu ZAPNOUT, přejděte do části Nastavení> Nastavení obsahu
+notification.recording.cancel.failed;;Nahrávání nelze zrušit. Zkuste to prosím později.
+notification.recording.clash.multiple;;Byly zjištěny vícenásobné konflikty v nahrávání
+notification.recording.clash.multiple.description;;Pro vyřešení stiskněte  %1 na vašem dálkovém ovladači a přejděte v menu do Moje TV / Naplánované nahrávky
+notification.recording.clash.resolve;;Neshoda v nahrávání vyřešena
+notification.recording.clash.resolve.description;;Popis
+notification.recording.clash.single;;Byl zjištěn konflikt v nahrávání
+notification.recording.clash.single.description;;Pro vyřešení stiskněte  %1 na vašem dálkovém ovladači a přejděte v menu do Moje TV / Naplánované nahrávky
+notification.recording.delete.failed;;Nahrávku nelze odstranit. Zkuste to prosím později.
+notification.recording.description.deleteRecordings;;Smazáno. Úspěšně smazáno %1 všech nahrávek
+notification.recording.fullCloudProtection;;Příliš chráněných síťových nahrávek
+notification.recording.fullLocalProtection;;Příliš chráněných lokálních nahrávek
+notification.recording.fullProtectionTitle;;Nahrávku nelze zařadit do chráněných
+notification.recording.localNotPossible;;Musíte se připojit ke svému lokálnímu pevnému disku pro naplánování této nahrávky
+notification.recording.past;;Obsah bude brzy dostupný ve vašich nahrávkách
+notification.recording.scheduledNew;;Nahrávání %1 bylo naplánováno
+notification.recording.title.delete;;Smazat nahrávku 
+notification.recordings.update;;Aktualizace Vodafone TV
+notification.remoteBooking.hddConnected.title;;Chcete-li rezervovat nahrávky na dálku, stiskněte zelené tlačítko a změňte pohotovostní režim svého boxu.
+notification.remoteDiagnostics.speedTest.ongoing;;Probíhá test rychlosti, počkejte prosím.
+notification.remotePairing.timeout;;Omlouváme se, párování selhalo. Zkuste to, prosím, znovu stisknutím tlačítka pro hlasové ovládání.
+notification.rent.notPossible;;Na tomto zařízení není možné si tento obsah vypůjčit.
+notification.rollingBuffer.description;;nebo stiskněte ZPĚT pro pokračování sledování aktuálního pořadu
+notification.rollingBuffer.title;;Zpět na živé vysílaní za 
+notification.search.characterLimit.description;;Zadali jste maximální počet znaků
+notification.search.characterLimit.title;;Dosažení limitu
+notification.search.fail.description;;Nastala chyba při načítání obsahu
+notification.search.fail.title;;Chyba vyhledávání
+notification.seriesInfo.fetchDataFailed;;SM011: Nelze zobrazit všechny dostupné díly. Zkontrolujte připojení k internetu.
+notification.seriesInfo.missingMetadata;;Chybí ID seriálu. Nelze zobrazit informace o pořadu.
+notification.seriesRecording.alreadyScheduled;;Tento obsah je již naplánován. Pro více možností vyberte tento obsah pomocí OK
+notification.seriesRecording.past;;Nahrávky najdete v Moje TV
+notification.seriesRecording.pastNew;;Předchozí epizody budou brzy k dispozici v sekci Moje nahrávky.
+notification.soundbox.audio.off;;Zvukový výstup je VYPNUT
+notification.soundbox.audio.stb;;Zvukový výstup nastaven přes Set Top Box
+notification.soundbox.audio.tv;;Zvukový výstup nastaven přes TV
+notification.soundbox.connected;;%1 připojeno
+notification.soundbox.description;;Přejděte do Nastavení / Připojená zařízení / Hlasoví asistenti, které chcete ovládat.
+notification.soundbox.disconnected;;odpojeno
+notification.subscribe.notPossible;;Na tomto zařízení není možné předplatit tento obsah.
+notification.subscription.success;;Předplacení proběhlo v pořádku
+notification.timeout.error;;SC401: Při získávání dat byl překročen časový limit. Zkontrolujte, zda se nevyskytly problémy s připojením k internetu v routeru. Případně navštivte  https://www.vodafone.cz/vypadky/ kde naleznete více podrobností
+notification.trickMode.notAllowed;;V souvislosti s požadavkem FTV Prima nelze žádné její programy zrychleně přetáčet vpřed.
+notification.vodafoneNetworkLost.description;;Abyste mohli využívat všechny funkce Vodafone TV, musíte být připojeni k síti Vodafone
+notification.vodafoneNetworkLost.title;;Síť Vodafone ztracena
+notification.voiceAction.appNonExistent;;Tato aplikace nepodporuje hlasové ovládání
+notification.voiceAction.appNotAvailable;;Tato aplikace nepodporuje hlasové ovládání
+notification.voiceAction.areaNonExistent;;Toto vám nemůžeme ukázat, protože to neexistuje
+notification.voiceAction.genericError;;Omlouváme se, něco se pokazilo, zkuste to prosím znovu
+notification.voiceAction.keyPressedTooShort;;Nerozuměli jsme, podržte tlačítko pro ovládání hlasem déle a hovořte
+notification.voiceAction.kids.profileNotSelected;;Před zadáním hlasového vstupu musíte vybrat profil
+notification.voiceAction.kids.screenNotAllowed;;Před použitím hlasového vstupu musíte jít do Menu
+notification.voiceAction.misunderstanding;;Omlouváme se, nerozuměli jsme vám, zkuste to prosím znovu
+notification.voiceAction.noChannel;;Kanál %1 neexistuje
+notification.voiceAction.noChannelError;;Tento kanál neexistuje
+notification.voiceAction.noChannelNumber;;Neplatné číslo kanálu
+notification.voiceAction.noResults;;Nic jsme nenašli, řekněte to ještě jednou prosím
+notification.voiceAction.notAllowedContent;;Omlouváme se, nemáte právo sledovat tento typ obsahu
+notification.voiceAction.notAllowedInApp;;Akce není s touto aplikací možná
+notification.voiceAction.notPossible;;Není možné provést požadovanou akci.
+notification.voiceAction.notSupportedInKids;;Omlouváme se, s Vodafone Kids to nejde.
+notification.voiceAction.voiceASRFailure;;Váš požadavek jsme nemohli zpracovat. Zkuste to znovu.
+notification.voiceAction.voiceToSearch;;Použít Hlasové vyhledávání
+notifications.privacy.fail.title;;Nelze získat přístup k informacím o zpracování osobních údajů
+optIn;;Zapnout nyní
+pin.consecutiveDigitsError.popup.text;;Čtyři stejné číslice za sebou nejsou povoleny (např. 2222)<br> Prosím, zvolte jinou kombinaci.
+pin.consecutiveDigitsError.popup.title;;Tato kombinace není povolena<br><br> 
+pin.lockedPin.notification.description;;Zkuste to prosím znovu za %1
+pin.lockedPin.notification.title;;Vložení PINu je zamčené
+pin.lockedPin.popup.text;;Třikrát za sebou jste zadali špatný PIN<br> Můžete to zkusit znovu za %1
+pin.lockedPin.popup.title;;Zadání PINu je blokováno na dalších %1<br><br> 
+pinEntry.adultPin;;Zadejte PIN
+pinEntry.purchasePinCode;;Zadejte PIN
+player.endOfBuffer.description;;Došlo k zahájení automatického nahrávání
+player.endOfBuffer.title;;Stream nahrávaný automaticky Překročeno
+player.feedback.remaining;;Zbývá
+player.notification.cantRecoverMedia.description;;Nepodařilo se nám obnovit vaše média
+player.notification.cantRecoverMedia.title;;Chyba přehrávání
+popup.gdpr.app.disagree;;Chcete-li tuto akci dokončit, musíte zařízení restartovat.
+popups.buttons.continueWithoutRebooting;;Stále žádné kanály
+popups.buttons.rebootStb;;Restartovat STB
+popups.cecStandBy.message;;Váš set-top box se nyní vypne
+popups.deepLinkError.button;;Ok
+popups.deepLinkError.message;;Omlouváme se, při provádění této operace došlo k potížím. Zkuste to prosím později.
+popups.deepLinkError.title;;Něco se pokazilo
+popups.emptyChannelList.description;;Stiskněte tlačítko OK na tlačítku Restartovat STB, abyste restartovali svůj Box a vyřešili problém. <br> Pokud si přejete pokračovat bez kanálů, stiskněte OK na 'Pokračovat bez kanálů'. Chcete-li problém vyřešit později, vypněte a znovu zapněte STB ze zdroje napájení.
+popups.emptyChannelList.title;;Nepodařilo se nám načíst úplný seznam kanálů.
+popups.error.folderWithIncorrectApp;;popups.error.folderWithIncorrectApp
+popups.howToSubscribe;;Tento program si můžete aktivovat přes samoobsluhu Můj Vodafone.
+popups.networkValidation.buttons.retry;;Opakovat
+popups.networkValidation.misc;;Chyba (č: %1).
+popups.networkValidation.title;;Selhání ověření přístupu k síti
+popups.noInternetConnection.button;;Otevřít nastavení
+popups.noInternetConnection.message;;Zkontrolujte, zda jsou všechny kabely řádně připojeny a zda máte správně nastavený internet. Pokud problém přetrvává, navštivte www.vodafone.cz/vypadky.
+popups.noInternetConnection.title;;Nebylo zjištěno žádné připojení k internetu
+popups.notEnoughBandwidth.buttons.retry;;Zkusit znovu
+popups.notEnoughBandwidth.message;;"K vyřešení tohoto problému, prosím, stiskněte ""zkusit znovu"" a zkontrolujte router, přemístěte jej blíže k set-top boxu nebo z jeho okolí odstraňte cokoli, co by jej mohlo blokovat, pokud chyba přetrvává, navštivte https://www.vodafone.cz/vypadky nebo zavolejte na (800 77 00 77)"
+popups.notEnoughBandwidth.title;;Omlouváme se, došlo k potížím s šířkou pásma Wi-FI
+popups.powerSaving.buttons.closeThirdAppsAndAdjust;;Zavřít a změnit pohotovostní režim
+popups.speedTest.misc;;Probíhá test rychlosti. Chcete ho přerušit?
+popups.subscriptionFiltering.buttons.cancel;;Ne
+popups.subscriptionFiltering.buttons.showApp;;Zobrazit %1
+popups.subscriptionFiltering.message;;Zobrazit obsah %1 v části „Videotéka“ a „Výsledky vyhledávání“?
+popups.subscriptionFiltering.title;;Doufáme, že se vám tato aplikace líbí.
+popups.update.failed;;Chyba %1: Aktualizace softwaru se nezdařila
+popups.update.success;;Aktualizace proběhla v pořádku
+programInfo.actionButtons.confirm;;Potvrdit
+programInfo.actionButtons.from;;Od
+programInfo.actionButtons.listen;;Poslouchat
+programInfo.actionButtons.noFolderSubscribe;;Předplatit
+programInfo.actionButtons.own;;Vlastní
+programInfo.actionButtons.ownAsPPVLabel;;Vlastní %1
+programInfo.actionButtons.ownLabel;;Vlastní %1
+programInfo.actionButtons.rentAsPPVLabel;;Vypůjčit si %1
+programInfo.actionButtons.restartLiveOn;;Sledovat od začátku na
+programInfo.actionButtons.resume;;Pokračovat
+programInfo.actionButtons.subscribeLabel;;Předplatit
+programInfo.actionButtons.subscribePrice;;Přeplatit %1 / měsíc
+programInfo.actionButtons.subscribeSelfcare;;Přeplatit nyní
+programInfo.actionButtons.subscribedLabel;;Předplaceno
+programInfo.actionButtons.trailers;;Upoutávky
+programInfo.actionButtons.watchBundle;;Podívat se na všechno
+programInfo.actionButtons.watchBundleIn;;Sledovat vše v %1
+programInfo.actionButtons.watchCatchupOn;;Sledovat na
+programInfo.actionButtons.watchLiveOn;;Sledovat živě na
+programInfo.actionButtons.watchOn;;Sledovat na 
+programInfo.actionButtons.watchSubscriptionOn;;Sledovat na %1 z
+programInfo.actors.label;;Herci
+programInfo.badging.availableToRent;;Lze vypůjčit 
+programInfo.badging.availableToRentAndExpiration;;%1 den(y) pronájmu k dispozici od %2
+programInfo.bundle.partOf;;Část z %1
+programInfo.catchupExpiresOn;;Možnost přehrát vyprší za %1
+programInfo.director.label;;Režisér
+programInfo.newPI.catchupAiredOn;;Vysíláno %1
+programInfo.newPI.catchupExpiresOn;;Vyprší za %1hod a %2min
+programInfo.newPI.recordedOn;;Nahráno %1
+programInfo.newPi.recordingServiceName;;na %1
+programInfo.partialRecordingExpiresOn;;Částečná nahrávka vyprší za %1
+programInfo.purchase.disclaimer;;Nelze zrušit, poté začíná výpůjčka na 48 hodin. Viz následující účet.
+programInfo.recordingExpiresOn;;Nahrávka vyprší za %1
+programInfo.series.special;;SPECIÁLNÍ
+rails.availableToOwn;;Lze zakoupit
+rails.defaultGenreLabel;;Bude stanoveno
+rails.relatedfrom;;Více od %1
+rails.relatedto;;Podobné jako %1
+rails.rollingBuffer.title.dayOfTheMonthDateFormat;;ddd dd mmm
+rails.rollingBuffer.title.today;;Více od %1
+rails.rollingBuffer.title.today-1;;Včera
+rails.rollingBuffer.title.today-2;;před 2 dny
+rails.rollingBuffer.title.today-3;;před 3 dny
+rails.rollingBuffer.title.today-4;;před 4 dny
+rails.rollingBuffer.title.today-5;;před 5 dny
+rails.rollingBuffer.title.today-6;;před 6 dny
+rails.rollingBuffer.title.today-7;;před 7 dny
+rails.subscription;;Předplatné
+rails.title.morefrom;;%1
+recordingCancel.cancelSeries;;Potvrdit
+recordingCancel.subtitle;;Chcete zrušit nahrávání celého seriálu?
+recordingCancel.title;;Nahrávání zrušeno
+recordings.update.please.wait;;Čekejte, prosím
+relatedbyactor;;Více od %1
+relatedbydirector;;Režie %1
+relatedbygenre;;Další tituly stejného žánru
+relatedto;;Souvisí s %1
+sdk7.browse.myHome.aboutMyHome;;O Moje TV
+sdk7.browse.myHome.breadcrumbTitle;;Moje TV
+sdk7.browse.myHome.button.browseOnDemand;;Procházet videotéku
+sdk7.browse.myHome.button.openTvGuide;;Otevřít televizní program
+sdk7.browse.myHome.contentInfo;;Nahrané televizní pořady, vypůjčené filmy a seriály nebo uložené oblíbené položky - to vše najdete v této oblasti. Neváhejte a projděte si videotéku nebo naše televizní programy, které si můžete nahrát, vypůjčit nebo předplatit.
+sdk7.countrySelection.text;;Tento výběr bude použit pro konfiguraci jazyka aplikace.
+sdk7.countrySelection.title;;Vyberete prosím svou zemi
+sdk7.epg.focusedTile.remaining;;%1 zbývá
+sdk7.lockedPin.modal.subtitle;;Zadejte kód PIN pro odemknutí %1
+sdk7.lockedPin.modal.title;;Uzamčeno pomocí kódu PIN
+sdk7.menu.tab.onTv;;V TV
+sdk7.miniProgramInfo.remaining;;Zbývá
+sdk7.miniProgramInfo.showMore;;Více informací
+sdk7.moreBucket.all;;Všechno
+sdk7.pinEntry.helpLabel;;Problémy s pinem ?
+sdk7.pinEntry.success;;Jupí, úspěch!
+sdk7.pinEntry.success.subtitle;;%1 odemčeno
+sdk7.pinEntry.unSuccessful;;Nesprávný PIN
+sdk7.pinEntry.unSuccessful.subtitle;;Zkuste prosím znovu odemknout %1
+sdk7.pinEntry.verifying;;Ověřování...
+sdk7.programInfo.actionButtons.wishlist.add;;Chci vidět
+sdk7.programInfo.actionButtons.wishlist.remove;;"Odebrat ze seznamu ""Chci vidět"""
+sdk7.programInfo.showInfo;;Zobrazit více informací
+sdk7.search.noResults;;Nebyly nalezeny žádné výsledky
+sdk7.search.searchResults;;Výsledky vyhledávání
+sdk7.serieInfo.episodePrefix;;%1 . epizoda
+sdk7.serieInfo.episodeShortPrefix;;
+sdk7.serieInfo.seasonShortPrefix;;
+sdk7.settings;;Nastavení
+sdk7.settings.changePin.confirm;;Potvrdit
+sdk7.settings.changePin.confirmNewPin;;Potvrďte svůj nový kód PIN
+sdk7.settings.changePin.enterNewPin;;Zadejte nový kód PIN
+sdk7.settings.changePin.hideNewPin;;Skrýt nový PIN kód
+sdk7.settings.changePin.masterPin;;Hlavní kód PIN
+sdk7.settings.changePin.pinChanged.failed;;Změna kódu PIN se nepodařila
+sdk7.settings.changePin.pinChanged.successfully;;Váš kód PIN byl změněn
+sdk7.settings.changePin.pinChanged.tryAgain;;Stiskněte tlačítko OK a zkuste to znovu
+sdk7.settings.changePin.secondaryString;;Z bezpečnostních důvodů nemůže váš PIN obsahovat stejná čísla. Pokud vámi zvolený PIN není přijat, zkuste to prosím později.
+sdk7.settings.changePin.showNewPin;;Zobrazit nový PIN kód
+sdk7.settings.changePin.title;;Změňte svůj kód PIN
+sdk7.settings.hiddenChannels;;Všechny kanály jsou skryté
+sdk7.settings.parentalControls.adultContent;;Pro dospělé
+sdk7.settings.parentalControls.ageRating.pinModal.event;;Nastavit věkové omezení
+sdk7.settings.parentalControls.ageRating.screen.description;;Povolit sledování obsahu bez zadání kódu PIN pro vybranou věkovou kategorii. Výše uvedený obsah bude uzamčen a bude možné jej zobrazit pouze po zadání kódu PIN.
+sdk7.settings.parentalControls.ageRating.screen.secondary.description;;Výchozí rodičovský PIN je 0000. Uživatelům doporučujeme, aby si definovali nový, pokud tak ještě neučinili.
+sdk7.settings.parentalPurchases.locked;;Kód PIN pro nákup je povolen. Stisknutím tlačítka OK jej zakážete.
+sdk7.settings.parentalPurchases.locked.desc;;PIN je nutný k pronájmu, nákupu nebo k předplacení obsahu. V případě, že je vypnut, lze všechny transakce provést rovnou.
+sdk7.settings.parentalPurchases.purchasePinState;;Stav kódu PIN pro nákup
+sdk7.settings.parentalPurchases.unlocked;;Kód PIN pro nákup je zakázán. Stisknutím tlačítka OK jej povolíte.
+sdk7.settings.parentalPurchases.unlocked.desc;;Obsah si můžete rovnou pronajmout, koupit nebo si ho předplatit. Pokud je tato funkce povolena, bude pro všechny transakce vyžadován kód PIN.
+sdk7.settings.pinProtection.desc;;Když je PIN ochrana aktivována, vybraný obsah a akce jsou uzamčeny a k odemknutí je třeba zadat PIN. Pokud je PIN ochrana deaktivována, veškerý obsah (včetně obsahu pro dospělé a kanálů) a akce jsou odemčeny a není třeba zadávat PIN.
+sdk7.settings.pinProtection.isActivated;;PIN ochrana je aktivována a nastavení rodičovské kontroly je povoleno. Stisknutím tlačítka OK ji deaktivujete.
+sdk7.settings.pinProtection.isDeactivated;;PIN ochrana je deaktivována a nastavení rodičovské kontroly je zakázáno. Stisknutím tlačítka OK je aktivujete.
+sdk7.settings.pinProtection.pinConfirmationModal.message.activatePin;;Opravdu si přejete aktivovat ochranu PIN?
+sdk7.settings.pinProtection.pinConfirmationModal.message.deactivatePin;;Opravdu si přejete deaktivovat ochranu PIN?
+sdk7.settings.pinProtection.pinConfirmationModal.title.activatePin;;Aktivace PIN kódu
+sdk7.settings.pinProtection.pinConfirmationModal.title.deactivatePin;;Deaktivace PIN kódu
+sdk7.settings.pinProtection.pinProtection;;Ochrana PIN
+sdk7.settings.premiumChannels.hidden;;V současné době jsou tyto kanály skryté. Stisknutím OK zobrazíte všechny odhlášené prémiové kanály.
+sdk7.settings.premiumChannels.intro;;Pro vaše pohodlí můžete skrýt nebo zobrazit všechny prémiové stanice, které nemáte na Vodafone TV předplacené.
+sdk7.settings.premiumChannels.visible;;V současné době jsou tyto kanály viditelné. Stisknutím tlačítka OK skryjete všechny neodebírané prémiové kanály.
+sdk7.settings.privacy.and.terms;;Ochrana osobních údajů a smluvní podmínky
+sdk7.settings.privacy.consent.disagree.text;;"Pokud souhlas neposkytnete, přijdete o ""Doporučení"" a další speciální funkce, které vám pomohou si Vodafone TV co nejvíce užít."
+sdk7.settings.privacy.consent.disagree.title;;Jste si jistí?
+sdk7.settings.vodafoneTV;;Vodafone TV
+sdk7.smartTV.firstInstall.login.error.title;;Problémy s účtem?
+sdk7.watch.timestamp.live;;živě
+search.recentSearches;;Nedávná vyhledávání
+search.recommendations;;Doporučení
+searchRecommendations1;;Všechny
+searchRecommendations2;;Aktuální živé vysílání
+searchRecommendations3;;Poslední díly
+serieInfo.episodeShort;;E
+serieInfo.seasonPrefix;;%1 . řada
+serieInfo.seasonShort;;S
+settings.accessibility.audioLanguage.description;;Pohybem nahoru/dolů zvolte jazyk a výběr potvrďte stisknutím tlačítka OK.
+settings.accessibility.audioLanguage.description.selected;;Jazyk zvuku je nastaven na %1. Pokud je k dispozici, přehraje se automaticky.
+settings.accessibility.help;;Nápověda
+settings.accessibility.help.description;;Další informace o usnadnění přístupu k službám Vodafone, <br/> naleznete na stránkách www.vodafone.cz
+settings.alexa;;Alexa
+settings.alexa.deviceName;;Název zařízení:
+settings.alexa.status.finished;;Dokončeno
+settings.ast.astDisableVisualScrubber;;Visual Scrubber
+settings.ast.astOverrideShakaSettings;;Shaka Settings
+settings.ast.astSettings;;Advanced Shaka Troubleshooting
+settings.ast.astShowBackgroundProcess;;Proces na pozadí
+settings.ast.overrideShakaSettings.items.bufferingGoal;;Buffering goal
+settings.ast.overrideShakaSettings.items.defaultBandwidthEstimate;;Default bandwidth estimate
+settings.ast.overrideShakaSettings.items.defaultPresentationDelay;;Default presentation delay
+settings.ast.overrideShakaSettings.items.rebufferingGoal;;Rebuffering goal
+settings.ast.overrideShakaSettings.resetButton;;Reset
+settings.ast.overrideShakaSettings.title;;Shaka Settings
+settings.audioAndVisual.audioOutput.auto;;Auto
+settings.audioAndVisual.audioOutput.resetVolume;;Obnovit úroveň hlasitosti
+settings.audioAndVisual.audioOutput.resetVolumeInfo;;Obnovení úrovně hlasitosti nastaví výstupní hlasitost Vodafone TV na plnou úroveň.<br/> Použijte, pokud jste spárovali dálkový ovladač Vodafone s televizorem a máte problém s nízkou úrovní hlasitosti.
+settings.audioAndVisual.audioSettings;;Audio
+settings.audioAndVisual.audioSettings.hdmi;;HDMI
+settings.audioAndVisual.audioSettings.localSpeaker;;Lokální reproduktor
+settings.audioAndVisual.soundMode;;Režim zvuku
+settings.audioAndVisual.soundMode.automatic;;Automatický
+settings.audioAndVisual.soundMode.game;;Hra
+settings.audioAndVisual.soundMode.movie;;Film
+settings.audioAndVisual.soundMode.music;;Hudba
+settings.audioAndVisual.soundMode.music.fidelity;;Kvalita reprodukce zvuku
+settings.audioAndVisual.soundMode.music.loud;;Hlasitý zvuk
+settings.audioAndVisual.soundMode.music.surround;;Prostorový zvuk
+settings.audioAndVisual.soundMode.night;;Noc
+settings.audioAndVisual.soundMode.off;;Vypnuto
+settings.audioAndVisual.soundMode.sport;;Sport
+settings.audioAndVisual.soundMode.voice;;Hlas
+settings.audioAndVisual.widescreen;;Rozlišení 4:3
+settings.audioAndVisual.widescreen.fullmode;;Režim celé obrazovky
+settings.audioAndVisual.widescreen.original;;Originál
+settings.audioAndVisual.widescreen.zoom;;Zoom
+settings.audioProfile.description;;Výběr zvukového profilu ovlivňuje pouze zvuk při použití reproduktorů Set Top Boxu.
+settings.autoDelete;;S dalšími naplánovanými nahrávkami se spustí automatické mazání od nejstarších nahrávek. Odstraňte z úložiště nahrávky, které už nepotřebujete, ať předejdete mazání uloženého obsahu.
+settings.automaticRecordings.description;;Jednou z hlavních výhod Vodafone TV je možnost zpětně sledovat pořady z posledních 7 dní. Pořady v sekci „Minulé díly“ můžete spustit přímo přes „Televizní program“ nebo při sledování televize stisknutím šipek nahoru a dolů na dálkovém ovladači.
+settings.automaticRecordings.title;;Automatické nahrávky
+settings.bluetooth;;Bluetooth
+settings.bluetooth.addDevice;;Přidat zařízení
+settings.bluetooth.autoConnect;;Automatické připojení
+settings.bluetooth.connect;;Připojte zařízení
+settings.bluetooth.connected;;Připojeno
+settings.bluetooth.connected.description;;"Pohybujte se směrovými šipkami nahoru a dolů pro volbu zařízení. Stiskněte OK k připojení nebo odpojení zvoleného zařízení. Nemůžete své zařízení najít? Běžte do ""Přidat zařízení""."
+settings.bluetooth.connecting;;Připojování...
+settings.bluetooth.description;;Seznam bluetooth zařízení je prázdný. <br> Nejprve přidejte zařízení, abyste se k němu mohli připojit.
+settings.bluetooth.devices;;Moje zařízení
+settings.bluetooth.disconnecting;;Odpojování...
+settings.bluetooth.otherDevices;;Jiná zařízení
+settings.bluetooth.pairing;;Aktivace Bluetooth
+settings.bluetooth.pairingPopup.description;;"Zkontrolujte své zařízení pro potvrzení. Poté bude k dispozici v ""Má zařízení"""
+settings.bluetooth.pairingPopup.title;;Přidávání 
+settings.bluetooth.pairingScreen.description;;Pohybujte se směrovými šipkami nahoru a dolů pro volbu zařízení. Stiskněte OK k připojení nebo odpojení zvoleného zařízení.
+settings.bluetooth.refreshButton.text;;Obnovit
+settings.bluetooth.removeDevice;;Odstranit zařízení
+settings.bluetooth.removeScreen.description;;Vyberte jeden nebo více zařízení stiskem tlačítka OK na vašem ovladači. <br/> Potvrďte svůj výběr pro odstranění ze seznamu zařízení.
+settings.bluetooth.screen.description;;Své zařízení můžete připojit pomocí Bluetooth a poslouchat svou hudbu.
+settings.bluetooth.screen.title;;Bluetooth připojení
+settings.bluetooth.searching;;Vyhledávání jiných zařízení
+settings.boxSpace;;Nahrávky
+settings.cec.buttons.paired;;Spárováno
+settings.cec.buttons.unpaired;;Spárovat nyní
+settings.cec.paired.description;;Váš dálkový ovladač Vodafone TV je spárován pro ovládání Napájení, Hlasitost, Ztlumení a vstupní zdroj na televizoru. <br>Pokud si nepřejete ovládat televizor pomocí ovladače Vodafone, zrušte spárování vašeho dálkového ovladače zde
+settings.cec.paired.subtitle;;Zrušit spárování TV ovladačů
+settings.cec.title;;TV ovladače
+settings.cec.unpaired.description;;Spárujte svůj dálkový ovladač Vodafone TV pro ovládání Napájení, Hlasitost a vstupní zdroj na televizoru.
+settings.cec.unpaired.subtitle;;Párování TV ovladačů
+settings.channelReordering.apply;;Aplikovat
+settings.channelReordering.confirm;;Potvrdit
+settings.channelReordering.multiSelection;;Vícenásobný výběr
+settings.channelReordering.notification.channelAllSubHidden.description;;Nastavte alespoň jeden přihlášený kanál na viditelný. Pro skrytí kanálů bez chyb
+settings.channelReordering.notification.channelAllSubHidden.title;;Kanály nelze skrýt
+settings.channelReordering.notification.channelHidden.description;;Pro zobrazení kanálu, upravte viditelnost kanálu v Nastavení zařízení
+settings.channelReordering.notification.channelHidden.title;;%1 (%2) je schováno
+settings.channelReordering.notification.channelHidden.titleForAll;;Všechny kanály jsou skryté
+settings.channelReordering.notification.channelUnsubHidden.description;;Předvolba zobrazení/skrytí neodebíraných kanálů byla aktualizována
+settings.channelReordering.notification.channelUnsubHidden.title;;Klikněte na zobrazit/skrýt neodebírané kanály
+settings.channelReordering.notification.notSortable.description;;Vaše selekce byla vložena na pozici %1
+settings.channelReordering.notification.notSortable.title;;Pozice kanálu %1 je chráněna
+settings.channelReordering.reset;;Resetovat řazení
+settings.channelReordering.reset.popup.description;;Jste si jistí, že chcete resetovat vaše osobní nastavení řazení kanálů?
+settings.channelReordering.reset.popup.title;;Resetovat řazení kanálů
+settings.channelSorting.allChannels.selected;;Všechny kanály (%1 vybraných)
+settings.channelSorting.allChannels.unselected;;Všechny kanály
+settings.channelSorting.description;;Pro změnu pořadí programů, vyberte program a přesuňte ho na novou pozici. <br><br>Pohybujte se nahoru/dolů nebo zadejte číslo programu. Stiskněte OK pro zvolení programu.
+settings.channelSorting.description.batchSelection;;Posouvejte selekci nahoru/dolů na novou pozici nebo použijte číslice na svém ovladači.<br><br>Stiskněte OK pro vložení na zvolenou pozici.
+settings.channelSorting.description.editMode;;Posouvejte kanál šipkami nahoru/dolů nebo použijte číslice na svém ovladači.<br><br>Stiskněte OK pro vložení na zvolenou pozici.
+settings.channelSorting.description.multiSelectionMode;;Posouvejte se šipkami nahoru/dolů nebo využijte číslice na svém ovladači pro nalezení kanálu. Stiskněte OK pro vybrání nebo zrušení výběru kanálu.<br><br>Po potvrzení výběru kanálu ho můžete posunout na novou pozici.
+settings.channelSorting.subtitle.customisation;;Přizpůsobení
+settings.channelSorting.title;;Řazení kanálů
+settings.channelVisibility.allChannels.visible;;Všechny kanály
+settings.channelVisibility.confirm;;Potvrdit
+settings.channelVisibility.description;;Můžete si schovat nechtěné<br>kanály na Vodafone TV.<br><br>Najeďte šipkami nahoru/dolů nebo zadejte číslo kanálu, abyste ho našli. Stiskněte OK pro skrytí nebo zobrazení kanálu.
+settings.channelVisibility.hideAllChannels;;Alespoň jeden kanál musí být viditelný.
+settings.channelVisibility.hideUnsubscribedChannels;;Schovat nepředplacené kanály
+settings.channelVisibility.showUnsubscribedChannels;;Ukázat nepředplacené kanály
+settings.channelVisibility.subtitle;;Schovat kanály
+settings.channelVisibility.subtitle.customisation;;Přizpůsobení
+settings.channelVisibility.title;;Skrýt kanály
+settings.cloudRecordings;;Nahrávky v cloudu
+settings.cloudsRecordings;;Nahrávky v cloudu
+settings.connectedDevices;;Připojená zařízení
+settings.connectedDevices.mobilePairing;;Mobilní aplikace
+settings.connectedDevices.remote;;Nastavení dálkového ovládání
+settings.connectedDevices.tvInput;;Televizní vstup
+settings.connectedDevices.voiceAssistants;;Hlasoví asistenti
+settings.contentSettings;;Nastavení obsahu
+settings.developerMode;;Vývojářský mód
+settings.fallbackDeepLink;;Přejít na dynamický DeepLink
+settings.frequentlyAskedQuestions;;Časté dotazy
+settings.frequentlyAskedQuestions.faqBrowser;;Získejte odpovědi
+settings.informations.abrProfile;;Současný ABR profil
+settings.informations.button.pvr;;settings.informations.button.pvr
+settings.informations.buttons.nagra;;Podmíněný přístup
+settings.informations.buttons.nagraStv;;Nagra
+settings.informations.buttons.pvr;;PVR
+settings.informations.casingSerialNumber;;Sériové číslo
+settings.informations.casingSerialNumber.unavailable;;Nedostupné
+settings.informations.channelNameDVBC;;Název kabelového kanálu
+settings.informations.channelNameDVBIP;;Název kanálu
+settings.informations.channelNameFTTH;;Název kanálu
+settings.informations.diskConnectState;;Stav připojení disku
+settings.informations.diskConnectState.connected;;Připojeno
+settings.informations.diskConnectState.disconnected;;Odpojeno
+settings.informations.diskStatus;;Stav disku
+settings.informations.diskStatus.notReady;;Není připraveno
+settings.informations.diskStatus.ready;;Připraveno
+settings.informations.freq;;Frekvence
+settings.informations.hdcpVersion;;Verze HDCP
+settings.informations.imei;;IMEI
+settings.informations.kdsn;;KDSN
+settings.informations.lcn;;LCN
+settings.informations.netflixEsn;;Netflix ESN
+settings.informations.nid;;ID sítě
+settings.informations.onid;;Původní ID sítě
+settings.informations.otaUpdateProgress;;Stav aktualizace OTA
+settings.informations.ott;;OTT
+settings.informations.packetLoss;;Ztráta paketů
+settings.informations.sdkVersion;;Verze sdk
+settings.informations.sid;;ID služby
+settings.informations.signalQuality;;Kvalita
+settings.informations.smartTvVersion;;Verze Smart TV
+settings.informations.snr;;SNR
+settings.informations.tsid;;ID transportního streamu
+settings.informations.updateStatus.failed;;%1: Aktualizace selhala
+settings.informations.updateStatus.success;;Úspěch
+settings.informations.uri;;URI
+settings.informations.wireless.quality;;nastaveni.informace.bezdratove.kvalita
+settings.language.audioLanguage;;Jazyk
+settings.language.systemLanguage;;Jazyk menu
+settings.language.systemLanguage.info;;Pokud je nastavená volba Automaticky, set-top box bude využívat jazyk Smart TV jako svůj jazyk systému, pokud je tento jazyk set-top boxem podporován.
+settings.languageAndAccessibility;;Jazyk a titulky
+settings.languageAndAccessibility.audioLanguage;;Zvuk
+settings.languageAndAccessibility.subtitlesPreference;;Preference titulků
+settings.localRecordings;;Lokální nahrávky
+settings.localRecordings.error;;Při získávání informací z disku nastal problém
+settings.localRecordings.reformatDisk.notification.helpMessage;;Berte prosím na vědomí, že lokální nahrávky budou ztraceny. Daná akce je nevratná.
+settings.localRecordings.reformatDisk.notification.offlineSubtitle;;Nelze formátovat disk, pokud jste offline
+settings.localRecordings.reformatDisk.notification.offlineTitle;;Nelze formátovat disk, pokud jste offline
+settings.localRecordings.reformatDisk.notification.title;;Pro formátování zadejte PIN.
+settings.logger;;
+settings.logger.loggerIp;;Koncový bod loggeru
+settings.logger.loggerModule;;Modul loggeru
+settings.logger.loggerType;;Typ Loggeru
+settings.loggerIp.description;;Logy budou odeslány na následující IP s následujícími pravidly na port 8080
+settings.loggerIp.subtitle;;Zadejte své IP
+settings.loggerIp.title;;Logger IP
+settings.loggerModule.description;;Aktivováním modulu vám bude umožněno mít více informací ohledně specifického modulu.<br/> Upozorňujeme, že vedlejší účinek může být například zpomalené ovládání.
+settings.loggerModule.subtitle;;Aktivujte log, který potřebujete
+settings.loggerModule.title;;Log modul aktivován
+settings.loggerType.description;;Existují tři možnosti: - Prohlížeč: Přesměrování v ladicím programu prohlížeče <br/> Sagemcom MW: Odesílání všech protokolů do MW (funguje pouze na STB), <br/> - WebSocket: Přesměrování protokolu prostřednictvím WebSocket na IP adresu, kterou můžete nakonfigurovat. <br/>Upozorňujeme, že to může mít vedlejší účinky, jako je zpomalení navigace.
+settings.loggerType.subtitle;;Vyberte odkud chcete svůj log získat
+settings.loggerType.title;;Aktivace logu
+settings.network.channelScan.pleaseWait;;Skenování kanálů, počkejte, prosím...
+settings.parentalControls.managePin;;Správa kódu PIN
+settings.parentalControls.options;;Přístupnost programu podle věku
+settings.parentalControls.purchasePin;;Nákupy
+settings.powerSaving.autoStandbyTime.2h;;2 hodiny
+settings.powerSaving.autoStandbyTime.4h;;4 hodiny
+settings.powerSaving.autoStandbyTime.8h;;8 hodin
+settings.powerSaving.quickBoot.description;;Pokud chcete používat Hlasové ovládání nebo přehrávat hudbu přes Bluetooth v pohotovostním režimu, tato volba musí být VYPNUTA. <br><br> Jinak bude tato funkcionalita dostupná pouze chvilku po vypnutí zařízení.
+settings.powerSaving.remoteBooking.description;;Pokud chcete v pohotovostním režimu spotřebovávat méně energie, vyberte jako výchozí možnost Úspora energie. Nebudete moci používat funkce, jako je rezervace na dálku (rezervace nahrávek z mobilního telefonu), a zároveň bude zajištěn pomalejší start.
+settings.powerSaving.smartStandby.active;;Aktivní
+settings.powerSaving.smartStandby.active.description;;Když je váš box a TV vypnutá, můžete přes Bluetooth spárovat a přehrávat hudbu, používat Spotify Connect a Hlasové ovládání.
+settings.powerSaving.smartStandby.energySaving;;Úspora energie
+settings.powerSaving.smartStandby.energySaving.description;;Chcete-li v pohotovostním režimu využívat méně energie, nastavte si Úsporný režim. Nebudete moci využívat Aktivní/Chytré pohotovostní funkce a spuštění boxu bude pomalejší.
+settings.powerSaving.smartStandby.smartStandby;;Inteligentní pohotovostní režim
+settings.powerSaving.smartStandby.smartStandby.description;;Když je váš box a TV vypnutá, můžete přes Bluetooth spárovat a přehrávat hudbu, používat Spotify Connect a Hlasové ovládání.<br/> Tato pohotovostní možnost umožňuje všechny hlavní funkce, když je nejvíce potřebujete a šetří energii mezi 1-6 hodin ráno.
+settings.privacy;;Soukromí a Doporučení
+settings.privacy.consent;;Souhlas s doporučeními
+settings.privacy.notice;;Informace ke zpracování osobních údajů
+settings.privacyDisclaimer;;Vyloučení odpovědnosti v oblasti ochrany osobních údajů Vodafone TV
+settings.privacyDisclaimer.privacy;;Doporučení
+settings.privacyDisclaimerPageTitle;;Doporučení
+settings.purchase.errorTurnOn;;Chcete-li aktivovat PIN pro objednávání, musíte nejprve aktivovat rodičovský PIN
+settings.purchase.turnOff;;Vypnout PIN pro nákupy
+settings.purchase.turnOn;;Zapnout PIN pro nákupy
+settings.purchase.turnedOff;;Ochrana kódem PIN vypnuta
+settings.purchase.turnedOn;;Ochrana kódem PIN zapnuta
+settings.purchasePin;;PIN kód pro nákupy
+settings.recommendations;;Doporučení
+settings.recommendations.off;;VYPNOUT
+settings.recommendations.on;;ZAPNOUT
+settings.recording.padding.fifteen;;+15 min
+settings.recording.padding.five;;+5 min
+settings.recording.padding.ten;;+10 min
+settings.recording.setPaddings.noPadding;;Bez obalu
+settings.recordings.automaticRecordings;;Automatické nahrávky
+settings.recordings.boxSpaceLow;;Kapacita je téměř vyčerpaná
+settings.recordings.buyMoreStorage;;Úložiště Vodafone TV
+settings.recordings.buyStorage;;Úložiště Vodafone TV
+settings.recordings.ejectDisk;;Vysunout disk
+settings.recordings.filterContent;;Filtrování obsahu
+settings.recordings.manage;;Spravování nahrávek
+settings.recordings.padding.none;;Žádné bloky
+settings.recordings.recommendationsOptOut;;Odmítnutí doporučení
+settings.recordings.reformatDisk;;Zformátovat disk
+settings.recordings.remoteBooking;;Rezervace na dálku
+settings.recordings.setPadding;;Nastavte časový přesah
+settings.recordings.setPadding.description;;Nastavte si časový přesah u nahrávek, abyste nepřišli o začátek ani konec své nahrávky.
+settings.recordings.setPadding.title;;Nastavte časový přesah
+settings.recordings.subscribedChannels;;Zobrazení kanálů
+settings.remote.buttons.back;;Zpět
+settings.remote.buttons.green;;Zelené
+settings.remote.buttons.info;;Informace o dálkovém ovladači
+settings.remote.buttons.paired;;Spárováno
+settings.remote.buttons.tv;;TV ovladače
+settings.remote.buttons.unpaired;;Nespárováno
+settings.remote.buttons.voice;;Informace o hlasovém ovládání
+settings.remote.connectionType.BLE;;Bluetooth low energy
+settings.remote.info.IRCodesTableDBVersion;;?
+settings.remote.info.batteryLevelGood;;Dobrý
+settings.remote.info.batteryLevelLow;;Nízké
+settings.remote.info.batteryStatus.button;;Stav baterie
+settings.remote.info.batteryStatus.subtitle;;Stav baterie
+settings.remote.info.bleConnection.button;;Spojení bluetooth
+settings.remote.info.bluetooth;;Dálkové ovládání používá od %1 pro ovládání set-top boxu Bluetooth, a umožňuje hlasové ovládání.<br><br>Chcete-li párování zrušit, podržte současně žluté tlačítko a tlačítko 3.
+settings.remote.info.buttons.firmware.button;;Firmware
+settings.remote.info.connectivityStatus.button;;Stav konektivity
+settings.remote.info.connectivityStatus.subtitle;;Stav konektivity
+settings.remote.info.done.button;;Hotovo
+settings.remote.info.firmware.button;;Firmware
+settings.remote.info.firmware.subtitle;;Firmware
+settings.remote.info.hardwareVersion;;Verze hardwaru
+settings.remote.info.infrared;;Dálkové ovládání používá k ovládání set-top boxu infračervené záření. 
+settings.remote.info.lastDownloadDateFirmware;;Poslední datum stažení firmwaru
+settings.remote.info.macAddress;;MAC adresa ovladače:
+settings.remote.info.manufacturingDate;;Datum výroby
+settings.remote.info.productNumber;;Číslo produktu
+settings.remote.info.radioFrequency;;Dálkové ovládání používá od %1 pro ovládání set-top boxu rádiovou frekvenci. Chcete-li párování zrušit, podržte současně žluté tlačítko a tlačítko 3.
+settings.remote.info.remoteSerialNumber;;Sériové číslo ovladače
+settings.remote.info.remoteVersion.button;;Verze dálkového ovladače
+settings.remote.info.remoteVersion.subtitle;;Verze dálkového ovladače
+settings.remote.info.serialNumber.button;;Sériové číslo ovladače
+settings.remote.info.serialNumber.subtitle;;Sériové číslo
+settings.remote.info.softwareVersion;;Verze softwaru
+settings.remote.info.title;;Informace o dálkovém ovladači
+settings.remote.info.version;;Verze
+settings.remote.paired.descriptionBle;;Hlasové ovládání lze použít při stisknutí hlasového tlačítka na dálkovém ovladači. Stejně tak nemusíte směrovat dálkový ovladač na set-top box a můžete ovládat i televizi (vyberte položku TV ovladač).
+settings.remote.paired.descriptionIrRf;;Dálkové ovládání je nyní pro lepší výkon spárováno pomocí rádiové frekvence. Není třeba dálkovým ovladačem mířit na set-top box.
+settings.remote.paired.subtitle;;Spárovaný dálkový ovládač
+settings.remote.remoteStatus;;Stav dálkového ovladače
+settings.remote.retry.descriptionBle;;Párování se bohužel nezdařilo. Stiskněte ještě jednou současně žluté tlačítko a tlačítko 3 na dálkovém ovladači po dobu 5 sekund.
+settings.remote.retry.descriptionIrRf;;Párování se bohužel nezdařilo. Stiskněte ještě jednou současně žluté tlačítko a tlačítko 3 na dálkovém ovladači po dobu 5 sekund.
+settings.remote.retry.subtitle;;Párování dálkového ovladače
+settings.remote.title;;Stav dálkového ovladače
+settings.remote.tvControls;;TV ovladače
+settings.remote.unpaired.descriptionBle;;Chcete-li využívat hlasové ovládání, spárujte dálkový ovladač pomocí technologie Bluetooth. Ovladač nemusí být nasměrován směrem k vašemu set-top boxu a můžete s ním ovládat i televizi. <br> <br>Pro párování stiskněte současně žluté tlačítko a tlačítko 3 a podržte je po dobu 5 sekund.
+settings.remote.unpaired.descriptionIrRf;;Pro lepší výkon spárujte dálkový ovladač pomocí radiové frekvence. Navíc nebudete muset mířit na set-top box.<br><br>Pro párování stiskněte současně žluté tlačítko a tlačítko 3 a podržte je po dobu 5 sekund.
+settings.remote.unpaired.subtitle;;Párování dálkového ovladače
+settings.remoteBooking.button.standbyOptions;;Možnosti pohotovostního režimu
+settings.remoteBooking.screen.text;;"Chcete-li rezervovat nahrávky na dálku (např. z mobilního zařízení), musí být pohotovostní režim vašeho boxu nastaven na ""Aktivní"".<br><br>Pohotovostní režim můžete nastavit v Nastavení TV boxu - Pohotovostní režim - Možnosti pohotovostního režimu."
+settings.remoteBooking.screen.title;;Rezervace na dálku
+settings.remoteControl;;Nastavení dálkového ovládání
+settings.selfDiagnostics.button.internetConnection;;Připojení k internetu
+settings.selfDiagnostics.button.localStorage;;Lokální úložiště
+settings.selfDiagnostics.button.networkConnection;;Kanály nenalezeny
+settings.selfDiagnostics.button.remote;;Dálkový ovladač
+settings.selfDiagnostics.button.softwareUpdates;;Aktualizace softwaru
+settings.selfDiagnostics.button.tvChannels;;TV kanály
+settings.selfDiagnostics.issuesTable.message.sdi01.01;;Vaše zařízení není připojeno přes ethernetový kabel. Zkontrolujte prosím kabelové připojení a ověřte nastavení připojení k síti. 
+settings.selfDiagnostics.issuesTable.message.sdi01.02;;Vodafone TV nemůže získat platnou adresu IP. Zvažte kontrolu nastavení IP a resetování routeru a set-top boxu. 
+settings.selfDiagnostics.issuesTable.message.sdi01.03;;Signál WiFi je slabý. Zvažte možnost připojení pomocí kabelu LAN nebo přemístění bezdrátového routeru blíže k Vodafone TV Boxu. 
+settings.selfDiagnostics.issuesTable.message.sdi02.01;;Vodafone TV se momentálně nemůže připojit k internetu. Jestliže se setkáte s podobnými problémy na jiných zařízeních připojených k vaší domácí síti, obraťte se na svého poskytovatele internetu, může se jednat o všeobecný výpadek internetu. <br />Pokud se setkáte pouze s problémy s produktem Vodafone TV, zkuste Vodafone TV odpojit a znovu zapojit do elektřiny, aby se znovu připojil na internet. Pokud problémy přetrvávají, navštivte www.vodafone.cz/vypadky.
+settings.selfDiagnostics.issuesTable.message.sdi02.02;;V současné době se Vodafone TV nemůže připojit ke službě Vodafone kvůli možnému přerušení služby. Zkontrolujte prosím naši webovou stránku, abyste zjistili stav případného přerušení služby. 
+settings.selfDiagnostics.issuesTable.message.sdi03.01;;Aktuálně není k set-top boxu připojen žádný koaxiální kabel. Zkontrolujte, zda je připojen koaxiální kabel. 
+settings.selfDiagnostics.issuesTable.message.sdi03.02;;Služba Vodafone TV zjistila, že máte špatnou kvalitu videa kvůli nízké kvalitě signálu. Zkontrolujte koaxiální připojení a upravte nastavení antény. 
+settings.selfDiagnostics.issuesTable.message.sdi03.03;;Služba Vodafone TV zjistila, že máte špatnou kvalitu videa kvůli problémům s šířkou pásma internetu nebo s připojením. Pokud si všimnete problémů s kvalitou videa, mohlo by to být způsobeno tím, že v současné době máte vysokou zátěž na internetové připojení (sledování více než jednoho video streamu nebo stahování velkých souborů), což může kazit váš zážitek ze sledování televize a celkovou šířku internetového připojení. <br/>Pokud tomu tak je, zkuste při sledování Vodafone TV snížit zátěž nebo zvážit zakoupení vyššího internetového balíčku. 
+settings.selfDiagnostics.issuesTable.message.sdi04.01;;Baterie na dálkovém ovladači Vodafone TV jsou téměř vybité. Vyměňte je prosím brzy. 
+settings.selfDiagnostics.issuesTable.message.sdi04.02;;"Když spárujete vaše dálkové ovládání Vodafone TV a televizní přijímač Vodafone TV Box"" nebudete už muset mířit dálkovým ovladačem přímo na Vodafone TV Box. Budete také moci schovat set-top box do skříně. <br />Chcete-li této možnosti využít"", spárujte dálkový ovladač Vodafone TV pomocí možnosti Nastavení> Další nastavení> Dálkové ovládání> Spárovat dálkový ovladač."
+settings.selfDiagnostics.issuesTable.message.sdi05.01;;K vašemu zařízení jsou k dispozici aktualizace softwaru. Aktualizací získáte přístup k nejnovějším funkcím. 
+settings.selfDiagnostics.issuesTable.message.sdi06.01;;V lokálním úložišti je problém, který vypíná funkci Pauza. <br/>Restartujte set-top box nebo navštivte www.vodafone.cz/vypadky.
+settings.selfDiagnostics.issuesTable.title.sdi01.01;;Žádné síťové připojení
+settings.selfDiagnostics.issuesTable.title.sdi01.02;;Žádná IP adresa
+settings.selfDiagnostics.issuesTable.title.sdi01.03;;Špatná síla Wifi signálu
+settings.selfDiagnostics.issuesTable.title.sdi02.01;;Nelze se připojit k Internetu
+settings.selfDiagnostics.issuesTable.title.sdi02.02;;Nelze se připojit ke službě Vodafone
+settings.selfDiagnostics.issuesTable.title.sdi03.01;;Není připojen žádný koaxiální kabel
+settings.selfDiagnostics.issuesTable.title.sdi03.02;;Špatná kvalita TV signálu
+settings.selfDiagnostics.issuesTable.title.sdi03.03;;Špatná kvalita streamingu přes internet
+settings.selfDiagnostics.issuesTable.title.sdi04.01;;Dálkovému ovladači dochází baterie
+settings.selfDiagnostics.issuesTable.title.sdi04.02;;Párování dálkového ovladače s Vodafone TV
+settings.selfDiagnostics.issuesTable.title.sdi05.01;;Aktualizace jsou k dispozici
+settings.selfDiagnostics.issuesTable.title.sdi06.01;;Nelze získat přístup k lokálnímu úložišti
+settings.selfDiagnostics.noErrors;;Ve Vodafone TV nebyly zjištěny žádné problémy
+settings.serviceSettings;;Nastavení služby
+settings.showBackgroundProcess.hide;;Skrýt
+settings.showBackgroundProcess.show;;Ukázat
+settings.soundAndVideo;;Zvuk & Video
+settings.subscriptionFiltering.allAppsHidden;;Všechny aplikace jsou skryté
+settings.subscriptionFiltering.appsHidden;;%1 skrytých aplikací
+settings.subscriptionFiltering.description;;Můžete vybrat, které aplikace chcete skrýt nebo vidět tak, že je vyberete z listu poskytovatelů aplikací.
+settings.subscriptionFiltering.title;;Flitrovat aplikace
+settings.systemConfigurations.bluetooth.deviceList.title;;Dostupná zařízení
+settings.systemConfigurations.bluetooth.devicePairedList.title;;Spárovaná zařízení
+settings.systemConfigurations.developerMode;;Vývojářský mód
+settings.systemConfigurations.epgStbCacheStatus;;Stav EPG STB mezipaměti
+settings.systemConfigurations.epgUiCacheStatus;;Stav EPG UI mezipaměti
+settings.systemConfigurations.lastActiveStandby;;Poslední aktivní pohotovostní režim
+settings.systemConfigurations.lastBoots;;Poslední restart
+settings.systemConfigurations.lastFullMaintenance;;Poslední celková údržba
+settings.systemConfigurations.lastLoginDate;;Datum posledního přihlášení
+settings.systemConfigurations.lastMaintenance;;Poslední údržba
+settings.systemConfigurations.lastMaintenanceReboot;;Poslední restartování za účelem údržby
+settings.systemConfigurations.lastTechnicalDiagUpdate;;Poslední aktualizace technické diagnostiky
+settings.systemConfigurations.maintenanceTimeoutEvents;;Maintenance timeout MW events
+settings.systemConfigurations.mobilePairing;;Párování s mobilním zařízení
+settings.systemConfigurations.mobilePairing.concurrentPairingDenied;;Nelze spárovat více než jedno zařízení současně.
+settings.systemConfigurations.mobilePairing.description;;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+settings.systemConfigurations.mobilePairing.deviceList.title;;Dostupná zařízení
+settings.systemConfigurations.mobilePairing.failed;;Selhalo
+settings.systemConfigurations.mobilePairing.failure;;Během automatického párování s vaším mobilním telefonem došlo k chybě.
+settings.systemConfigurations.mobilePairing.paired;;Spárováno
+settings.systemConfigurations.mobilePairing.pairingError;;Chyba párování
+settings.systemConfigurations.mobilePairing.pairingFailed;;Nepodařilo se spárovat zařízení
+settings.systemConfigurations.mobilePairing.pairingInProgress;;Párování probíhá
+settings.systemConfigurations.mobilePairing.pairingSuccessful;;Úspěšně jste se přihlásili v zařízení
+settings.systemConfigurations.mobilePairing.pinEntryHelpMessage;;Zadejte svůj hlavní kód PIN a ověřte jej
+settings.systemConfigurations.mobilePairing.qrCodeMode.description;;Naskenujte tento QR kód prostřednictvím mobilního zařízení, abyste jej spárovali.
+settings.systemConfigurations.mobilePairing.qrCodeMode.subtitle;;Naskenovat QR kód
+settings.systemConfigurations.mobilePairing.readyToPair;;Lze spárovat
+settings.systemConfigurations.mobilePairing.showQrCode;;Zobrazit QR kód
+settings.systemConfigurations.mobilePairing.subtitle;;Síťová zařízení
+settings.systemConfigurations.mobilePairing.title;;Párování s mobilním zařízení
+settings.systemConfigurations.networkAndPlayerLogs;;Protokoly sítě a přehrávače
+settings.systemConfigurations.networkLogsTitle;;Záznamy sítě
+settings.systemConfigurations.noMaintenanceDone;;Nebyla provedena žádná údržba
+settings.systemConfigurations.noMaintenanceTimeout;;No maintenance timeout
+settings.systemConfigurations.playerLogsTitle;;Protokoly přehrávače
+settings.systemConfigurations.refreshCacheStatus;;Aktualizovat stav mezipaměti
+settings.systemConfigurations.selfDiagnostics;;Vlastní diagnostika
+settings.systemConfigurations.soundBox;;Hlasoví asistenti
+settings.systemConfigurations.soundBox.description;;Toto zařízení můžete odpojit od televizoru, pokud již nechcete používat extra hlasové ovládání.
+settings.systemConfigurations.soundBox.deviceList.title;;Dostupná zařízení
+settings.systemConfigurations.soundBox.disconnectDevice;;Odpojit
+settings.systemConfigurations.soundBox.hideAlexaCards;;Skrýt ovládací prvky Alexa
+settings.systemConfigurations.soundBox.showAlexaCards;;Zobrazit ovládací prvky Alexa
+settings.systemConfigurations.soundBox.title;;Hlasoví asistenti
+settings.systemConfigurations.soundbox.audioOutput;;Audio výstup
+settings.systemConfigurations.soundbox.audioOutput.checkOptical;;Zkontrolujte, zda je v mobilní aplikaci vybrán optický zdroj.
+settings.systemConfigurations.soundbox.audioOutput.off;;VYP.
+settings.systemConfigurations.soundbox.audioOutput.off.selected;;Zmáčkněte OK pro vypnutí
+settings.systemConfigurations.soundbox.audioOutput.spdifstb;;Set Top Box
+settings.systemConfigurations.soundbox.audioOutput.spdifstb.selected;;Stisknutím tlačítka OK připojte své zvukové zařízení jako externí výstup pro váš Set Top Box.
+settings.systemConfigurations.soundbox.audioOutput.spdiftv;;TV
+settings.systemConfigurations.soundbox.audioOutput.spdiftv.selected;;Stisknutím tlačítka OK připojte svůj Soundbox jako externí výstup pro váš TV přijímač.
+settings.systemConfigurations.soundbox.audioOutput.turnedOff;;VYPNUTO
+settings.systemConfigurations.soundbox.audioOutput.turnedOn;;ZAPNUTO
+settings.systemConfigurations.status.downloading;;Stahování ...
+settings.systemConfigurations.status.failed;;Failed
+settings.systemConfigurations.status.finished;;Dokončeno
+settings.systemConfigurations.status.ok;;OK
+settings.systemConfigurations.status.ongoing;;Probíhá ...
+settings.systemConfigurations.subscriptionFiltering;;Filtrování předplatného
+settings.systemConfigurations.technicalDiagnostics;;Technická diagnostika
+settings.systemConfigurations.technicalDiagnostics.auth;;Ověřování
+settings.systemConfigurations.technicalDiagnostics.authNrefresh;;Obnovení tokenu AuthN
+settings.systemConfigurations.technicalDiagnostics.checkUpdate;;Zkontrolovat aktualizace
+settings.systemConfigurations.technicalDiagnostics.epg;;Aktualizovat EPG
+settings.systemConfigurations.technicalDiagnostics.licencesRefresh;;Obnovení licence
+settings.systemConfigurations.technicalDiagnostics.localMaintenance;;Lokální údržba
+settings.systemConfigurations.technicalDiagnostics.nagraCheckMaintenance;;Kontrola údržby Nagra
+settings.systemConfigurations.technicalDiagnostics.nagraSSPCheckMaintenance;;Kontrolní údržba Nagra SSP
+settings.systemConfigurations.technicalDiagnostics.newMaintenance;;Nový režim údržby
+settings.systemConfigurations.technicalDiagnostics.no_save_home_mcast_stats;;Neukládat domácí statistiky MCast
+settings.systemConfigurations.technicalDiagnostics.noscan;;Není potřeba vyhledávat
+settings.systemConfigurations.technicalDiagnostics.noupdate;;Není potřeba aktualizovat
+settings.systemConfigurations.technicalDiagnostics.oldMaintenance;;Starý režim údržby
+settings.systemConfigurations.technicalDiagnostics.restart;;Restart set-top boxu
+settings.systemConfigurations.technicalDiagnostics.save_home_mcast_stats;;Uložit domácí statistiky MCast
+settings.systemConfigurations.technicalDiagnostics.scan;;Vyhledávat
+settings.systemConfigurations.technicalDiagnostics.scanStart;;Scan start
+settings.systemConfigurations.technicalDiagnostics.sendTechnical;;Odeslat technické údaje
+settings.systemConfigurations.technicalDiagnostics.subtitle;;Poslední flow údržby
+settings.systemConfigurations.technicalDiagnostics.update;;Aktualizovat set-top box
+settings.systemConfigurations.technicalOverlay;;Technický překryv
+settings.technicalOverlay;;Technický překryv
+settings.technicalOverlay.disable;;Zakázat
+settings.technicalOverlay.enable;;Zapnout
+settings.tvBoxSettings;;Nastavení zařízení
+settings.tvChannels.currentlyFound.cable;;Nalezené kanály:<div class='halfSummary'>Cable<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyFound.ftth;;Nalezené kanály:<div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyHave.cable;;Aktuální kanály:<div class='halfSummary'>Cable<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyHave.ftth;;Aktuální kanály:<div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.showDttChannels;;Zobrazit kanály pozemního vysílání
+settings.tvChannels.weFound.cable;;Nalezené kanály:<div class='halfSummary'>Cable<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.weFound.ftth;;Nalezené kanály:<div class='halfSummary'>Volně dostupné<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvInput.auto;;Automaticky
+settings.tvInput.auto.description;;Zvolte tuto možnost, chcete-li automaticky nastavit dálkové ovládání televizoru Vodafone tak, aby ovládalo hlasitost vašeho televizoru, a umožňilo vám zapínat a vypínat televizor a Vodafone TV společně pomocí tlačítka napájení.
+settings.tvInput.config.power;;Napájení
+settings.tvInput.config.power.description;;Výběr funkce
+settings.tvInput.config.volume;;Hlasitost
+settings.tvInput.config.volume.description;;Zvolte tuto možnost, abyste mohli ovládat hlasitost vašeho televizoru pomocí dálkového ovladače Vodafone TV Boxu.
+settings.tvInput.deviceList;;Seznam zařízení
+settings.tvInput.deviceList.availableDeviceList.description;;Budete moci ovládat všechna zařízení svým Vodafone TV ovladačem, která podporují a jsou připojená přes HDMI
+settings.tvInput.deviceList.availableDeviceList.title;;Seznam zařízení CEC
+settings.tvInput.deviceList.description;;Abyste se mohli podívat na zařízení připojená přes HDMI a přepínat mezi nimi použitím ovladače Vodafone TV, musíte mít zapnuté nastavení HDMI CEC
+settings.tvInput.deviceList.unavailableDeviceList.description;;Abyste se mohli podívat na zařízení připojená přes HDMI a přepínat mezi nimi použitím ovladače Vodafone TV, musíte mít zapnuté nastavení HDMI CEC
+settings.tvInput.deviceList.vodafoneDevice;;Vodafone TV
+settings.tvInput.manual;;Ručně
+settings.tvInput.manual.cecSettings;;Nastavení CEC
+settings.tvInput.manual.description;;Zvolte tuto možnost, abyste mohli pomocí dálkového ovladače Vodafone TV, ovládat hlasitost nebo zapínání jak pro televizor tak i pro Vodafone TV. Některé televizory neumožnují ovládat některé funkce.
+settings.tvInput.off;;Vypnuto
+settings.tvInput.off.description;;Tuto možnost vyberte, chcete-li vypnout funkce televizoru připojeného přes HDMI a funkce Vodafone TV Boxu.
+settings.tvInput.userOff;;Vypnout
+settings.uiVersionOverlay;;Překrytí verze uživatelského rozhraní
+settings.uiVersionOverlay.hide;;Skrýt
+settings.uiVersionOverlay.show;;Ukázat
+settings.visualScrubberStatus;;Visual Scrubber
+settings.visualScrubberStatus.disable;;Disable
+settings.visualScrubberStatus.enable;;Enable
+settings.voice.channel_change.default.answer;;Odpověď změny programu
+settings.voice.channel_change.default.question;;Změna kanálu
+settings.voice.navigate.default.answer;;Výsledek hledání
+settings.voice.navigate.default.question;;Navigovat
+settings.voice.search.default.answer;;Svou televizi můžete ovládat hlasem. Aktivujte ovládání hlasem stisknutím tlačítka Hlas na svém ovladači.
+settings.voice.search.default.question;;Hledat
+settings.voice.title;;Hlas
+settings.voice.voiceTopics;;Ovládání hlasem
+settings.voiceAssistants;;Hlasoví asistenti
+settings.warning.popup.recommendationsOptOut;;Nebudete-li s předchozími nastaveními obsahu souhlasit, přijdete bohužel o některé ze speciálních funkcí vaší služby a nemůžeme vám zaručit nejlepší možný zážitek z Vodafone TV. Opravdu chcete pokračovat v nastavení, nebo chcete jít zpět a svou volbu změnit?
+shopInShop.disclaimer.title;;Prohlášení
+smartTV.firstInstall.buttons.clear;;Vymazat
+smartTV.firstInstall.buttons.signin;;Přihlásit se
+smartTV.firstInstall.buttons.whatsnew;;Co je Vodafone TV
+smartTV.firstInstall.incompatibleDeviceErrorScreen.title;;Tento typ zařízení není podporován
+smartTV.firstInstall.login.error.description;;Zkuste to prosím znovu <br/> nebo navštivte www.vodafone.cz/vypadky
+smartTV.firstInstall.login.error.title;;Problém s vaším účtem
+smartTV.firstInstall.login.error.tooManyDevices.description;;SmartTV chyba, příliš mnoho zařízení.
+smartTV.firstInstall.login.error.tvAlreadyPaired.description;;Chyba prvotní instalace smartTV, TV již připojeno.
+smartTV.firstInstall.login.fail.description;;Nemůžeme najít váš účet
+smartTV.firstInstall.login.fail.title;;Jejda
+smartTV.firstInstall.login.nativeInput.placeholder;;Stiskněte OK pro zadání
+smartTV.firstInstall.login.nativePassword.title;;Zadejte své heslo
+smartTV.firstInstall.login.nativeUsername.title;;Zadejte své uživatelské jméno
+smartTV.firstInstall.login.password.description;;Pokud již máte účet, přihlaste se. Pokud se chcete dozvědět více o naší službě, vyberte Co je Vodafone TV.
+smartTV.firstInstall.login.password.title;;Heslo
+smartTV.firstInstall.login.success.description;;Už to skoro máte...
+smartTV.firstInstall.login.success.title;;Jupí, úspěch!
+smartTV.firstInstall.login.udid;;UDID: %1
+smartTV.firstInstall.login.username.description;;Pokud již máte účet, přihlaste se.
+smartTV.firstInstall.login.username.placeholder;;Vložte své uživatelské jméno
+smartTV.firstInstall.login.username.title;;Uživatelské jméno
+smartTV.firstInstall.login.welcome.description;;Přihlaste se, prosím, svým uživatelským jménem a heslem.
+smartTV.firstInstall.login.welcome.title;;Vítejte ve Vodafone TV
+smartTV.mainMenu.watchTV;;Sledovat televizi
+smartTV.popups.exit.message;;Opravdu chcete odejít?
+smartTV.popups.exit.title;;Chystáte se ukončit službu Vodafone TV
+smartTV.settings.account.logout;;Odhlásit se
+smartTV.settings.account.logout.popup;;Opravdu se chcete odhlásit?
+smarttv.offlineMode.buttonText;;Znovu načíst
+smarttv.offlineMode.descriptionText;;Zkontrolujte nastavení sítě v nastavení televizoru Smart TV a obnovte připojení.
+smarttv.offlineMode.loadingText;;Načítání...
+smarttv.offlineMode.title;;Ztráta spojení
+somethingDifferent;;Něco jiného
+somethingSimilar;;Něco podobného
+sr.notification.error.authenticationError;;%1: Omlouváme se, nemohli jsme vás přihlásit. Zkuste to prosím znovu později.
+sr.notification.error.device.existsInOther.households;;%1: Litujeme, toto zařízení se nepodařilo zaregistrovat. Zařízení je přidruženo k jinému účtu.
+sr.notification.error.exceeded.limit;;%1: Je nám líto, ale dosáhli jste maximálního počtu zařízení, která mohou být zaregistrována k vašemu účtu. Odeberte zařízení ze svého účtu.
+sr.notification.error.kaltura.service.expired;;%1 KS Module returned error KS expired
+sr.notification.error.kaltura.service.invalid;;%1 KS Module returned error invalid KS
+sr.notification.error.kaltura.service.revocation;;%1 KS is invalid (Kaltura returned error when calling the backend API, possibly due to KS revocation)
+sr.notification.error.notAllowed.type.device;;%1: Je nám líto, toto zařízení není kompatibilní s naší službou. Zkuste to prosím znovu s jiným zařízením.
+sr.notification.error.secretCode.problem;;%1: Omlouváme se, nemohli jsme vás přihlásit. Zkuste to prosím znovu později. To má v dokumentu vtip dva klíče.
+technicalOverlay.widget.label.audioBuffer;;Audio buffer
+technicalOverlay.widget.label.audioPid;;Audio PID
+technicalOverlay.widget.label.bandwidthManagement;;Řízení šířky pásma
+technicalOverlay.widget.label.ber;;BER
+technicalOverlay.widget.label.blackout;;Výpadek
+technicalOverlay.widget.label.bufferingTime;;Buffering time
+technicalOverlay.widget.label.currentTime;;Current time
+technicalOverlay.widget.label.droppedFrames;;Dropped frames
+technicalOverlay.widget.label.errorManagement;;Řešení chyb
+technicalOverlay.widget.label.estimatedBandwidth;;Estimate bandwidth
+technicalOverlay.widget.label.frequency;;Frekvence
+technicalOverlay.widget.label.licenseTime;;License time
+technicalOverlay.widget.label.liveLatency;;Zpoždění v reálném čase
+technicalOverlay.widget.label.loadLatency;;Zpoždění při načítání
+technicalOverlay.widget.label.multiaudio;;Multiaudio
+technicalOverlay.widget.label.multicastGroup;;Multicast skupina
+technicalOverlay.widget.label.packetLoss;;Ztráta paketů
+technicalOverlay.widget.label.progressBar;;Ukazatel průběhu
+technicalOverlay.widget.label.sid;;SID
+technicalOverlay.widget.label.snr;;SNR
+technicalOverlay.widget.label.streamBandwidth;;Stream bandwidth
+technicalOverlay.widget.label.streamType;;Typ streamu
+technicalOverlay.widget.label.textBuffer;;Text buffer
+technicalOverlay.widget.label.videoBuffer;;Video buffer
+technicalOverlay.widget.label.videoPid;;Video PID
+technicalOverlay.widget.title;;Technický překryv
+upnext.footer.back;;Zpět
+upnext.footer.moreEpisodes;;Další díly
+upnext.header.nextEpisode;;Další díl
+upnext.header.startingCounter;;Začne za %1
+upnextRecommendations1;;Něco podobného
+upnextRecommendations2;;Něco jiného
+voice.app.changeChannel.text;;<p>Ukončete %1 a sledujte %2 na Vodafone TV</p><p>nebo vyhledejte %3 na %4</p>
+voice.app.searchNotAllowed.text;;Vyhledávání uvnitř není možné
+voice.interface.searchScreenAccessMessage;;Povězte mi, co hledáte
+voice.interface.startMessage;;S čím vám mohu pomoci?
+voiceChrome.interface.listening;;Poslouchám...
+voiceChrome.interface.speaking;;""
+voiceChrome.interface.thinking;;Přemýšlím...
+volume.hintHotkeyProfiles;;dlouhé podržení tlačítka Ztlumit/Mute<br>pro audio-profily 
+watchNext.purchase;;Koupit
+watchNext.recording;;Nahrávky
+watchNext.rental;;Výpůjčka
+wifi.bandwidthStatePopup.description;;"K vyřešení tohoto problému, prosím, stiskněte ""zkusit znovu"" a zkontrolujte router, přemístěte jej blíže k set-top boxu nebo z jeho okolí odstraňte cokoli, co by jej mohlo blokovat, pokud chyba přetrvává, navštivte https://www.vodafone.cz/vypadky nebo zavolejte na (800 77 00 77)"
+wifi.bandwidthStatePopup.title;;Omlouváme se, nastal problém se šířkou pásma vaší WiFi.
+wifi.buttons.tryAgain;;Zkusit znovu

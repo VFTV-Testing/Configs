@@ -1,0 +1,2156 @@
+key;en-GROUP;el-GR-x-GR text
+popups.reboot.footerText;SG002: Error number %1;SG002: Σφάλμα %1
+popups.upgrade.footerText;SG001: Error number %1;SG001: Σφάλμα %1
+popups.wifi.footerText;SC120: Error number %1;SC120: Σφάλμα %1
+firstInstall.wifiNetworkErrorScreen.title;Network;Wi-Fi
+notification.recording.notForPast;Sorry, you can’t record programmes shown in the past.;Η εγγραφή απέτυχε. Το πρόγραμμα που επιλέξατε έχει τελειώσει.
+notification.recording.fullprotection;SR004: Maximum number of recordings already protected. Please unprotect other recordings and try again.;Η προσθήκη προστασίας της εγγραφής απέτυχε, φτάσατε στο ανώτατο όριο. Αφαιρεστε μια προστατευμένη εγγραφή και δοκιμάστε ξανά.
+firstInstall.remotePairingFailedScreen.title;Remote pairing;Προσπαθήστε ξανά
+firstInstall.remotePairingFailedScreen.description;To reset your TV remote, hold the 3 and yellow buttons together for 5 seconds (or until the power light on the remote stops flashing).;Η σύνδεση του τηλεχειριστηρίου απέτυχε<br/>.  Πιέστε ταυτόχρονα τα πλήκτρα <br/> 3 και το κίτρινο για 5 δευτερόλεπτα.
+notification.program.noInformation;SM002: No info available;SM002: Αδυναμία φόρτωσης των προγραμμάτων.
+serieInfo.episode.notavailable;SM001: Sorry, title unavailable.;SM001: Οι πληροφορίες του επεισοδίου δεν είναι διαθέσιμες.
+settings.network.lan.waiting;Connect your Ethernet cable to set up your network;Συνδέστε το καλώδιο δικτύου
+notification.channel.offline;SV003: Sorry, this channel is unavailable;Το συγκεκριμένο κανάλι είναι προσωρινά μη διαθέσιμο. Παρακαλώ προσπαθήστε αργότερα.
+notification.player.videoUnavailable;SV002: Programme unavailable.;SV002: Το πρόγραμμα δεν είναι διαθέσιμο.
+notification.player.error;SV001: Error;SV001: Παρουσιάστηκε σφάλμα στην αναπαραγωγή.
+notification.recording.failed;SR007: Recording failed;SR007: Η εγγραφή δεν είναι εφικτή. Παρακαλώ δοκιμάστε αργότερα.
+notification.recording.notPossible;SR005: You can't record this.;Το πρόγραμμα δεν είναι διαθέσιμο για εγγραφή
+notification.recording.notOnBarker;SR003: Sorry, you can't record this channel;Το κανάλι δεν είναι διαθέσιμο για εγγραφή
+notification.seriesRecording.failed;SR002: Recording failed, try again.;SR002: Η εγγραφή δεν είναι εφικτή. Παρακαλώ δοκιμάστε αργότερα.
+popups.storage.title;SR001: Sorry, your storage is full;Η εγγραφή δεν είναι εφικτή. Παρακαλώ διαγράψτε παλαιότερες εγγραφές.
+notification.player.noAntenna;SD001: No aerial signal found.;Δεν υπάρχει σύνδεση με την κεραία
+popups.playbackError.message;SC219: Please check your Wi-Fi or see vodafone.co.uk/tv;SC218: Σφάλμα αναπαραγωγής.<br/>Παρακαλώ ελέγξτε τη σύνδεση με το ρούτερ και δοκιμάστε ξανά.
+popups.playbackError.title;SC218: Sorry, we can't find a connection;Δεν υπάρχει σύνδεση με το ασύρματο δίκτυο. Παρακαλώ ελέγξτε το ρούτερ σας και δοκιμάστε ξανά.
+firstInstall.wifiNetworkErrorScreen.noIP;SC123: Please reboot your router and try again.;SC123: Δεν υπάρχει σύνδεση με το διαδίκτυο. Παρακαλώ ελέγξτε το ρούτερ σας και δοκιμάστε ξανά.
+firstInstall.wifiNetworkErrorScreen.wirelessKeyError;SC116: Your Wi-Fi password is wrong, please try again.;Λάθος κωδικός Wi-Fi. Παρακαλώ δοκιμάστε ξανά.
+firstInstall.wiredNetworkScreen.noIP;SC013: You’re not connected to the internet – please try again.;SC013: Δεν υπάρχει σύνδεση με το διαδίκτυο. <br/>Παρακαλώ ελέγξτε την σύνδεση σας και δοκιμάστε ξανά.
+notification.epg.date.invalid;SC007: Invalid date;SC007: Μη έγκυρη ημερομηνία
+notification.network.offline;SC005: Connnection lost.;SC005: Παρουσιάστηκε σφάλμα με τη σύνδεση στην υπηρεσία. Παρακαλώ ελέγξτε τη σύνδεση σας με το διαδίκτυο.
+settings.network.lan.noIP;SC002: You’re not connected to the internet – please try again.;SC002: SC022: Δε βρέθηκε σύνδεση δικτύου μέσω καλωδίου. <br/>Παρακαλώ ελέγξτε το ρούτερ σας και δοκιμάστε ξανά.
+firstInstall.wiredNetworkScreen.connectionLost.description;SC001: Your internet connection was lost.;SC001: Παρουσιάστηκε σφάλμα με τη σύνδεση στην υπηρεσία. <br/>Παρακαλώ ελέγξτε τη σύνδεση σας με το διαδίκτυο.
+firstInstall.getHelpScreen.wired.title;Network;Σύνδεση με διαδίκτυο
+notification.channel.notSubscribed;SB003: You’re not subscribed.;SB003: Προσπαθείτε να δείτε σε περισσότερες από το επιτρεπόμενο όριο συσκευές ή δεν έχετε συνδρομή στο συγκεκριμένο κανάλι
+notification.purchase.failed;SB001: Purchase failed;SB001: Η ενοικίαση απέτυχε. Παρακαλώ δοκιμάστε ξανά
+settings.masterPin.doNotMatch;SA010: They don't match, please try again.;SA010: Οι κωδικοί PIN διαφέρουν. Παρακαλώ δοκιμάστε ξανά.
+popups.pinEntry.failed;SA007: Sorry, that was the wrong PIN. Please try again.;Λάθος κωδικός PIN. Παρακαλώ δοκιμάστε ξανά.
+continueWatching.noUsername;SA006: Unknown;Άγνωστο
+firstInstall.operatorPairingScreen.description.noPin;SA005: Please call us on 08080 034 515 to complete setup.;SA005: Η ενεργοποίηση της υπηρεσίας Vodafone TV είναι σε εξέλιξη. Παρακαλώ αποσυνδέστε τον αποκωδικοποιητή από το ρεύμα και δοκιμάστε ξανά αργότερα. Αν το πρόβλημα παραμένει καλέστε στο 13830
+notification.login.error;SA002: Sorry, login failed.;SA002: Δεν υπάρχει σύνδεση με την υπηρεσία. Παρακαλώ επικοινωνήστε με το 13830.
+pinEntry.unSuccessful;SA001: Wrong PIN;Λάθος PIN. Παρακαλώ δοκιμάστε ξανά.
+firstInstall.pairingPinInputScreen.title;Welcome;Γεια σας
+firstInstall.remoteUnPairingScreen.description;To pair your TV box and remote, hold the 3 and yellow buttons together for 5 seconds, then repeat with the 1 and yellow buttons.;Για να συνδέσετε το τηλεχειριστήριο, πιέστε ταυτόχρονα τα πλήκτρα 3 και κίτρινο για 5 δευτερόλεπτα
+firstInstall.remotePairingScreen.description;To pair your TV box and remote, hold the 1 and yellow buttons together for 5 seconds. ;Για να συνδέσετε το τηλεχειριστήριο σας, πατήστε ταυτόχρονα <br/> τα πλήκτρα 3 και το κίτρινο για 5 δευτερόλεπτα.
+settings.remote.pairing;Remote pairing;Σύνδεση τηλεχειριστηρίου
+settings.remote.remotePairNewDevice.step0.description;To unpair your remote, hold the 3 and yellow buttons together for 5 seconds.;Πατήστε τα πλήκτρο 3 και το κίτρινο ταυτόχρονα για 5 δευτερόλεπτα.
+firstInstall.wiredNetworkScreen.description;Connect your Ethernet cable to set up your network.;Παρακαλώ συνδέστε το καλώδιο δικτύου από τον αποκωδικοποιητή στο ρούτερ σας.
+settings.remote.batteryStatus.low;Your battery status is low.;Επίπεδο Μπαταρίας
+settings.network.wifi;WiFi;Wi-Fi
+firstInstall.wiredNetworkFoundScreen.description;You're now connected.;Επιτυχής σύνδεση
+settings.remote.remotePairNewDevice.step1.description;To pair your TV box and remote, hold the 1 and yellow buttons together for 5 seconds.;Πατήστε τα πλήκτρα 3 και κίτρινο ταυτόχρονα για 5 δευτερόλεπτα.
+firstInstall.pairingPinInputScreen.description;Something went wrong, sorry – please call us on 08080 034 515;Παρακαλώ καλέστε το 13830 για να ολοκληρωθεί η εγκατάσταση
+popups.reboot.title;Sorry, your box needs to reboot.;Ο αποκωδικοποιητής σας χρειάζεται επανεκκίνηση
+settings.powerSaving.autoStandbyTime.hint;Remember, increasing auto standby time will use more power.;Προσοχή: Η αύξηση του χρόνου συνεπάγεται περισσότερη κατανάλωση ρεύματος
+popups.upgrade.misc;Your box will reboot;Επανεκκίνηση του αποκωδικοποιητή σε %1
+firstInstall.wiredNetworkScreen.title;Network;Σύνδεση με το διαδίκτυο
+settings.parentalPin.on;On;Ανοιχτό
+settings.parentalPin.off;Off;Κλειστό
+firstInstall.wiredNetworkSearchScreen.title;Network;Δίκτυο
+firstInstall.scanSummaryScreen.title;Channels scanned;Διαθέσιμα κανάλια:
+settings.termsAndConditions.view;Read our Ts&Cs;Όροι χρήσης
+settings.parentalPinInit;Your default PIN is 1234. We recommend you choose a new one now.;Το αρχικό PIN είναι 1234
+settings.network.lan.connected;Connected;Συνδεδεμένο
+firstInstall.remotePairingScreen.title;Remote pairing;Σύνδεση τηλεχειριστηρίου
+firstInstall.wifiNetworkConnectingScreen.title;Network;Wi-Fi
+firstInstall.wifiNetworkSelectScreen.title;Network;Wi-Fi
+firstInstall.wifiKeyboardScreen.title;Network;Wi-Fi
+firstInstall.getHelpScreen.wifi.title;Network;Wi-Fi
+firstInstall.finishSetupScreen.title;Your devices;Οι συσκευές σας
+notification.recording.notAllow;Sorry, you can't record this programme;Αδυναμία εγγραφής. Για να πραγματοποιήσετε την εγγραφή θα πρέπει να εγγραφείτε.
+settings.parentalAndPaiment;Payment & controls;Χρεώσεις & Έλεγχος
+settings.audioAndVisual.screenResolution;Screen resolution;Ανάλυση οθόνης
+pinEntry.more;See more on PINs in Settings.;Δείτε περισσότερα στο www.vodafone.gr/tv
+firstInstall.wifiNetworkFoundScreen.description;Your TV box is now connected to Wi-Fi.;Ο αποκωδικοποιητής σας είναι <br/> συνδεδεμένος στην υπηρεσία
+settings.remote.remotePair;Pair;Σύνδεση
+settings.remote.remoteUnpair;Unpair;Αποσύνδεση
+firstInstall.getHelpScreen.channels.title;Channels;Κανάλια
+settings.parentalControls.ageRating.info;Choosing PIN protection for age-rated programmes will also protect any recordings after 9pm.;Η ενεργοποίηση του γονικού ελέγχου θα εφαρμοστεί και σε όλες τις εγγραφές.
+rails.morefrom;More from;Περισσότερα από %1
+firstInstall.startChannelsScanScreen.title;Channels;Κανάλια
+settings.parentalAndPaiment.parentalPin;PIN;PIN
+settings.parentalPin;PIN;PIN
+firstInstall.wiredNetworkFoundScreen.title;You're connected;Έχετε συνδεθεί
+firstInstall.wifiNetworkFoundScreen.title;You're connected;Συνδεθήκατε στο Wi-Fi
+keyboard.parentalPin.enter.placeholder;Please enter your new 4-digit PIN;Πληκτρολογήστε το 4-ψήφιο PIN
+keyboard.parentalPin.reEnter.placeholder;Please re-enter your new 4-digit PIN;Πληκτρολογήστε ξανά το 4-ψήφιο PIN
+settings.network.wps;WPS;WPS
+programInfo.actionButtons.moreRecordSeriesOptions;Record series;Εγγραφή όλων των επεισοδίων
+firstInstall.manualNetworkConfigurationScreen.title;Network;Δίκτυο
+common.help;Help;Υποστήριξη
+keyboard.wifi.password.placeholder;Enter WiFi password;Εισάγετε τον κωδικό του Wi-Fi
+settings.masterPin.changed;Your PIN's changed;Το PIN άλλαξε
+settings.systemConfigurations.ledBrightness;Brightness;Φωτεινότητα
+settings.network.lan;LAN;Σύνδεση με καλώδιο ethernet
+settings.ledBrightness;Brightness;Φωτεινότητα
+settings.adjustBrightness;Adjust brightness;Ρυθμίσεις Φωτεινότητας
+change volume;Press +/- to change volume;Πιέστε +/- για να ρυθμίσετε τον ήχο
+firstInstall.helloScreen.title.foundAccount;Hi;Γεια!
+firstInstall.startChannelsScanScreen.description;To set up your TV and radio channels, first make sure your TV aerial is connected.;Για την αναζήτηση τηλεοπτικών και ραδιοφωνικών σταθμών<br/> συνδέστε την κεραία της τηλεόρασης στον αποκωδικοποιητή.
+settings.audioDescription.off;Off;Απενεργοποίηση
+settings.subtitles.off;Off;Απενεργοποίηση
+settings.powerSaving.quickBoot.on;On;Υψηλή εξοικονόμηση
+settings.powerSaving.quickBoot.off;Off;Χαμηλή εξοικονόμηση
+common.done;Done;ΟΚ
+firstInstall.remotePairingSuccessScreen.description;Your TV box is now paired with your remote.;Το τηλεκοντρόλ συνδέθηκε με τον<br/> αποκωδικοποιητή
+settings.recordings.boxSpace;Storage;Αποθηκευτικός χώρος
+settings.remote.batteryStatus.view;View status;Κατάσταση μπαταριών
+programInfo.catchup.watch;Watch;Δείτε στο Replay TV
+programInfo.watch;Watch;Παρακολούθηση
+badging.parentalLock.on;Parental lock on;Γονικός έλεγχος ενεργοποιημένος
+firstInstall.operatorPairingScreen.title;Please call us;Επικοινωνία
+firmwareUpdate.description.countdown;Update starts in:;Επανεκκίνηση του αποκωδικοποιητή σε %1
+settings.masterPin.turnOff;PIN off;Απενεργοποίηση
+settings.masterPin.turnOn;PIN on;PIN ενεργοποιημένο
+settings.masterPin.changePin;Change your PIN;Αλλαγή PIN
+settings.systemConfigurations.updates.upToDate;You already have the latest updates.;Δεν υπάρχει διαθέσιμη αναβάθμιση.
+settings.lockedChannels;Locked channels;Κλειδωμένα κανάλια
+mytv.recordings;Recordings;Εγγραφές
+mytv.purchasesAndRentals;Purchases & rentals;Ενοικιάσεις
+programInfo.actionButtons.moreRecordOptions;Record episode;Εγγραφή επεισοδίου
+programInfo.actionButtons.buyLabel;Buy;Αγορά %1
+programInfo.actionButtons.rentLabel;Rent;Ενοικίαση %1
+programInfo.actionButtons.bought;Purchased;Η αγορά ολοκληρώθηκε
+programInfo.actionButtons.rented;Rented;Νοικιασμένο
+badging.parentalLock.off;Parental lock off;Γονικός έλεγχος απενεργοποιημένος
+badging.recordable;Available to record;Διαθέσιμο για εγγραφή
+firstInstall.wifiNetworkSelector.joinOtherNetwork;Join other network;Συνδεθείτε σε άλλο δίκτυο
+firstInstall.buttons.getHelp;Get help;Υποστήριξη
+firmwareUpdate.description.inProgress;Updating now, please wait.;Αναβάθμιση αποκωδικοποιητή, παρακαλώ περιμένετε.
+settings.masterPin.turnedOff;PIN off;Aπενεργοποιημένο
+settings.masterPin.turnedOn;PIN on;PIN ενεργοποιημένο
+settings.parentalControls.lockedChannels;Lock channels;Κλείδωμα καναλιών
+settings.network.joinOtherNetwork;Join other network;Συνδεθείτε σε άλλο δίκτυο
+popups.wifi.buttons.getHelp;Get help;Υποστήριξη
+common.tryAgain;Try again;Προσπαθήστε ξανά
+firstInstall.remotePairingSuccessScreen.title;Now paired;Σύνδεση επιτυχής
+firstInstall.buttons.wifi;WiFi;Wi-Fi
+firstInstall.buttons.backToWifiList;Back to WiFi list;Επιστροφή
+firstInstall.buttons.abort;Stop;Διακοπή
+keyboard.wifi.ssid.placeholder;Enter network name:;Εισάγετε το όνομα του δικτύου:
+settings.masterPin.whats;See your PIN;Πληροφορίες PIN
+settings.informations.OUI;OUI;OUI
+settings.informations.updateStatus;Last system software update:;Τελευταία αναβάθμιση λογισμικού
+settings.informations.chipID;ID;ID
+settings.parentalControls.ageRating;Age rating;Διαχείριση καταλληλότητας
+settings.parentalControls.whats;See your PIN;Πληροφορίες PIN
+settings.parentalControls.okay;Okay;ΟΚ
+settings.lockedChannels.permitted;Allowed;Διαθέσιμο
+settings.boxSpaceProgression;You're using %1% of your available space;Χρησιμοποιείτε το %1% των διαθέσιμων ωρών
+settings.remote.itsPaired;Now paired;Συγχρονισμένο
+popups.storage.buttons.buyMore;Buy more storage;Αγορά αποθηκευτικού χώρου
+popups.settings.audioAndVisual.screenResolution;Save resolution?;"Αποθήκευση ρυθμίσεων;"
+rails.notitle;No title;Χωρίς τίτλο
+badging.recording;Recording;Γίνεται εγγραφή
+notification.seriesRecording.start;Schedule series recording;Τα επεισόδιά προστέθηκαν για εγγραφή
+watch;Watch;Παρακολούθηση σε %1
+volume;Volume:;Ήχος: %1
+Today;Today;Σήμερα
+Tomorrow;Tomorrow;Αύριο
+Yesterday;Yesterday;Χθές
+locked;Locked;Κλειδωμένο
+mainMenu.myTV.title;MY TV;My Home
+mainMenu.browse.title;ON DEMAND;On Demand
+mainMenu.myTVCoverflow.title;Watch next;Συνεχίστε την παρακολούθηση
+mainMenu.appsCoverflow.title;MY apps;Περισσότερα
+mainMenu.tvGuide.title;TV GUIDE;ΟΔΗΓΟΣ ΠΡΟΓΡΑΜΜΑΤΟΣ
+mainMenu.apps.title;APPS;Εφαρμογές
+mainMenu.search;Search;Αναζήτηση
+mainMenu.settings;Settings;Ρυθμίσεις
+mainMenu.allChannelsTvGuide.title;All channels;Όλα τα κανάλια
+common.noData;No information;Δεν υπάρχουν πληροφορίες
+common.noItem;No item;'Αδειο
+common.onNow;On now;Δείτε τώρα
+common.launchApp;Launch app;Έναρξη εφαρμογής
+common.launch;Launch;Έναρξη
+common.onNext;On next;Επόμενο
+common.onLater;On later;Αργότερα
+common.onTomorrow;On tomorrow;Αύριο
+common.today;Today;Σήμερα
+common.tomorrow;Tomorrow;Αύριο
+common.yesterday;Yesterday;Χθες
+common.continue;Continue;Συνέχεια
+common.popular;Popular;Δημοφιλέστερες
+common.cancel;Cancel;Ακύρωση
+common.yes;Yes;Ναι
+common.no;No;Όχι
+common.skip;Skip;Παράβλεψη
+common.notAvailable;Not available;Μη διαθέσιμο
+common.okay;Okay;ΟΚ
+common.noSynopsis;Synopsis unavailable;Περίληψη μη διαθέσιμη
+common.channel;channel;Κανάλι
+common.channels;channels;Κανάλια
+language.eng;English;Αγγλικά
+language.fra;Français;Γαλλικά
+language.ita;Italiano;Ιταλικά
+language.deu;Deutsch;Γερμανικά
+language.spa;Español;Ισπανικά
+language.swe;Svenska;Σλοβένικα
+language.tur;Türk;Τούρκικα
+liveScreen.noChannel;Channel unavailable;Το κανάλι δεν είναι διαθέσιμο
+date.format.smallday0;Sun;Κυ
+date.format.smallday1;Mon;Δε
+date.format.smallday2;Tue;Τρ
+date.format.smallday3;Wed;Τε
+date.format.smallday4;Thu;Πέ
+date.format.smallday5;Fri;Πα
+date.format.smallday6;Sat;Σα
+date.format.day0;Sunday;Κυριακή
+date.format.day1;Monday;Δευτέρα
+date.format.day2;Tuesday;Τρίτη
+date.format.day3;Wednesday;Τετάρτη
+date.format.day4;Thursday;Πέμπτη
+date.format.day6;Saturday;Σάββατο
+date.format.smallmonth0;Jan;Ιαν
+date.format.smallmonth1;Feb;Φεβ
+date.format.smallmonth2;Mar;Μαρ
+date.format.smallmonth3;Apr;Απρ
+date.format.smallmonth4;May;Μάι
+date.format.smallmonth5;Jun;Ιουν
+date.format.smallmonth6;Jul;Ιουλ
+date.format.smallmonth7;Aug;Αυγ
+date.format.smallmonth8;Sep;Σεπ
+date.format.smallmonth9;Oct;Οκτ
+date.format.smallmonth10;Nov;Νοε
+date.format.smallmonth11;Dec;Δεκ
+date.format.month0;January;Ιανουαρίου
+date.format.month1;February;Φεβρουαρίου
+date.format.month2;March;Μαρτίου
+date.format.month3;April;Απριλίου
+date.format.month4;May;Μαΐου
+date.format.month5;June;Ιουνίου
+date.format.month6;July;Ιουλίου
+date.format.month7;August;Αυγούστου
+date.format.month8;September;Σεπτεμβρίου
+date.format.month9;October;Οκτωβρίου
+date.format.month10;November;Νοεμβρίου
+date.format.month11;December;Δεκεμβρίου
+network.error.ssid.tooShort;Network name too short, please enter another one and try again.;Το όνομα δικτύου είναι πολύ μικρό. Παρακαλώ δοκιμάστε ξανά.
+network.error.password.tooShort;Password is too short, please enter another one with more digits and try again.;Ο κωδικός που εισάγατε είναι πολύ μικρός. Παρακαλώ δοκιμάστε ξανά.
+firstInstall.languageScreen.title;Language;Γλώσσα
+firstInstall.remoteUnPairingScreen.title;Remote pairing;Σύνδεση τηλεχειριστηρίου
+firstInstall.helpBar.toSelect;Choose;Επιλογή
+firstInstall.helpBar.toGoBack;Back;Προηγούμενο
+firstInstall.wifiNetworkSelectScreen.description;Press the WPS button on your TV box until the connection confirmation screen appears, or enter your Wi-Fi details:;Εισάγετε τα στοιχεία του Wi-Fi:
+firstInstall.wifiKeyboardScreen.ssid.description;Enter network name:;Εισάγετε το όνομα δικτύου:
+firstInstall.wifiKeyboardScreen.password.description;Enter Wi-Fi password:;Εισάγετε τον κωδικό του Wi-Fi:
+firstInstall.wifiNetworkSelector.searchAgain;Search again;Αναζητήστε ξανά
+firstInstall.helloScreen.title.searchingAccount;One moment;Σύνδεση στην υπηρεσία
+firstInstall.conflictedChannelsFoundScreen.title;Channels;Κανάλια
+firstInstall.conflictedChannelsFoundScreen.description;Your aerial is picking up multiple regions for %1 %2. Please choose:;Βρέθηκαν πολλαπλά κανάλια <br/> %1 %2. Επιλέξτε:
+firstInstall.resolveChannelConflictScreen.title;Channel %1;Κανάλι %1
+firstInstall.resolveChannelConflictScreen.description;Please choose one of the following options:;Επιλέξτε ένα από τα παρακάτω:
+firstInstall.conflictResolutionConfirmScreen.title;Confirm channels;Επαλήθευση καναλιών
+firstInstall.conflictResolutionConfirmScreen.description;Please confirm your chosen channels:;Επιβεβαιώστε τα κανάλια που έχετε επιλέξει:
+firstInstall.buttons.pairLater;Pair later;Συγχρονισμός αργότερα
+firstInstall.buttons.connect;Connect;Σύνδεση
+firstInstall.buttons.ethernet;Ethernet;Σύνδεση με καλώδιο ethernet
+firstInstall.buttons.tryAgain;Try again;Επανάληψη
+firstInstall.buttons.tryAgainDHCP;Try again with DHCP;Δοκιμάστε ξανά (DHCP)
+firstInstall.buttons.connectWifi;Connect with WiFi;Σύνδεση με Wi-Fi
+firstInstall.buttons.advanced;Advanced;Προχωρημένες ρυθμίσεις
+firstInstall.buttons.continue;Continue;Συνέχεια
+firstInstall.buttons.next;Next;Επόμενο
+firstInstall.buttons.confirm;Confirm;Επιβεβαίωση
+firstInstall.buttons.startScanning;Start scanning;Έναρξη αναζήτησης
+firstInstall.buttons.finishSetup;Finish setup;Δείτε TV
+firstInstall.buttons.skip;Skip;Μετάβαση
+firstInstall.buttons.startWatching;Start watching;Συνέχεια
+firstInstall.buttons.autoSelect;Auto select;Αυτόματη επιλογή
+firstInstall.buttons.customSelect;Custom select;Χειροκίνητη επιλογή
+firstInstall.helpBar.help;Help;Υποστήριξη
+keyboard.masterPin.enter.placeholder;Please enter your new 4-digit PIN;Παρακαλώ πληκτρολογήστε το νέο 4ψήφιο PIN
+keyboard.masterPin.reEnter.placeholder;Please re-enter your new 4-digit PIN;Παρακαλώ πληκτρολογήστε ξανά το PIN
+keyboard.lockedChannels.placeholder;Channel number;Αριθμός καναλιού
+firmwareUpdate.title;Please wait while your box updates.;Ο αποκωδικοποιητής είναι σε διαδικασία αναβάθμισης, παρακαλώ περιμέτε
+firmwareUpdate.buttonsBar.updateNow;Update now;Αναβαθμίστε τώρα
+settings.masterPin;PIN;PIN
+settings.masterPin.okay;Okay;OK
+settings.masterPin.changeMyPin;Change your PIN;Αλλαγή PIN
+settings.masterPin.whats.popup;Your default PIN is 1234;To αρχικό PIN του Vodafone TV είναι 1234
+settings.parentalAndPaiment.paymentPin;PIN;PIN
+settings.recordings;Recordings;Εγγραφές
+settings.recordings.deleteAll;Delete all;Διαγραφή όλων
+settings.recordings.delete.dont;Don't delete all;Ακύρωση διαγραφής
+settings.recordings.activate.dont;Don't activate;Μην ενεργοποιείτε
+settings.recordings.autoDelete;Auto delete;Αυτόματη διαγραφή
+settings.recordings.buySpace;Buy space;Αγόρασε ώρες
+settings.language;Language;Ρυθμίσεις γλώσσας
+settings.accessibility;Accessibility;Προσβασιμότητα
+settings.accessibility.audioDescription;Audio description;Ηχητική περιγραφή
+settings.accessibility.subtitles;Subtitles;Υπότιτλοι
+settings.termsAndConditions;Terms & conditions;Όροι χρήσης
+settings.termsAndConditionsPageTitle;Terms & conditions;Όροι χρήσης
+settings.systemConfigurations.network;Network;Δίκτυο
+settings.systemConfigurations.remote;Remote;Τηλεχειριστήριο
+settings.systemConfigurations.tvChannels;TV channels;Κανάλια
+settings.systemConfigurations.audioAndVisual;Audio & visual;Ήχος & Εικόνα
+settings.systemConfigurations.clockSettings;Clock settings;Ρυθμίσεις ώρας
+settings.clockSettings.hourFormats.12;am / pm;πμ / μμ
+settings.clockSettings.hourFormats.24;24 hour;24
+settings.systemConfigurations.updates;Updates;Αναβαθμίσεις
+settings.systemConfigurations.updates.updateAvailable;Software update available. Please wait a few minutes while your TV box restarts and installs the update.;Διαθέσιμη αναβάθμιση.
+settings.systemConfigurations.information;Information;Πληροφορίες
+settings.informations.buttons.general;General;Αποκωδικοποιητής
+settings.informations.buttons.audioAndVideo;Audio & video;Ήχος και Εικόνα
+settings.informations.buttons.tvQuality;TV quality;Ποιότητα εικόνας
+settings.informations.title;Box information;Πληροφορίες αποκωδικοποιητή
+settings.informations.brandName;Brand name;Κατασκευαστής
+settings.informations.modelName;Model name;Μοντέλο
+settings.informations.hardwareVersion;Hardware version;Έκδοση υλικού
+settings.informations.softwareVersion;Software version;Λογισμικό
+settings.informations.uiVersion;UI version;Έκδοση UI
+settings.informations.updateDate;Last system software update:;Τελευταία αναβάθμιση λογισμικού
+settings.informations.epgData;EPG data;Πληροφορίες προγράμματος
+settings.informations.householdID;Household ID;Αναγνωριστικό κατοικίας.
+settings.informations.usedCapacityEMMC;Used/capacity eMMC;Used/Capacity eMMC
+settings.informations.usbBack;USB back;USB
+settings.informations.activeConnection;Active connection;Ενεργή Σύνδεση
+settings.informations.ip;Current IP address;Διεύθυνση IP
+settings.informations.wired.mac;Ethernet MAC address;Διεύθυνση MAC τοπικού δικτύου
+settings.informations.wireless.mac;Wireless MAC address;Διεύθυνση MAC ασύρματου δικτύου
+settings.informations.serialNumber;Serial number;Σειριακός αριθμός
+settings.informations.router;Router;Ρούτερ
+settings.informations.speedtest;Speed test;Έλεγχος ταχύτητας
+settings.informations.operationalMode;Operational mode;Κατάσταση λειτουργίας
+settings.informations.videoConnectionMode;Video connection mode;Λειτουργία Βίντεο
+settings.informations.tvModel;TV model;Μοντέλο TV
+settings.informations.audioConnectionMode;Audio connection mode;Σύνδεση ήχου
+settings.informations.audioOutput;Audio output;Ήχος
+settings.informations.remoteControlMode;Remote control mode;Σύνδεση τηλεκοντρόλ
+settings.informations.channelNameDVBT;Channel name (DVB-T);Όνομα επίγειου καναλιού
+settings.informations.frequency;Frequency;Συχνότητα
+settings.informations.signalStrength;Signal strength;Ισχύς σήματος
+settings.informations.ber;BER;BER
+settings.informations.channelNameOTT;Channel name (over the top);Ονομασία καναλιού
+settings.informations.abr;ABR;ABR
+settings.informations.environment;Environment;Περιβάλλον
+settings.parentalControls;Parental controls;Γονικός έλεγχος
+settings.parentalControls.whats.popup;Your default PIN is 1234. When it’s turned on, you’ll be asked to enter it when you make payments and some settings changes like turning parental controls on/off.;Το  PIN είναι %1, σας προτείνουμε να το αλλάξετε. Είναι απαραίτητο για να μπορείτε να κάνετε ενοικιάσεις και για να δείτε περιεχόμενο με ενεργοποιημένο τον γονικό έλεγχο
+settings.lockedChannels.customise;Customise;Προσαρμογή
+settings.lockedChannels.unlockAll;Unlock all;Ξεκλείδωμα όλων
+settings.lockedChannels.locked;Locked;Κλειδωμένο
+settings.tvChannels.premiumChannels;Premium channels;Συνδρομητικά κανάλια
+settings.enterNewPin;Enter new PIN;Πληκτρολογήστε το νέο PIN
+settings.reEnterNewPin;Re-enter new PIN;Πληκτρολογήστε ξανά το νέο PIN
+settings.pinConfirmed;PIN confirmed;PIN OK
+settings.ageRatings.universal;Universal;Κατάλληλο για όλους
+settings.ageRatings.u;U;Κατάλληλο για όλους
+settings.ageRatings.pg;PG;Κατάλληλο, απαραίτητη η γονική συναίνεση
+settings.ageRatings.12;12;Κατάλληλο, επιθυμητή η γονική συναίνεση
+settings.ageRatings.15;15;Κατάλληλο για ανηλίκους άνω των 15 ετών
+settings.ageRatings.18;18;Κατάλληλο μόνο για ενηλίκους
+settings.ageRatings.off;Off;Ανενεργό
+settings.network.searchAgain;Search again;Αναζητήστε ξανά
+settings.network.wps.popup;Press the WPS button on your TV box, then on your router to automatically start pairing.;Πατήστε το WPS πλήκτρο στον αποκωδικοποιητή σας και μετά το ίδιο στο ρούτερ σας
+settings.network.lan.connect;Connect;Σύνδεση
+settings.network.advanced;Advanced;Προχωρημένες ρυθμίσεις
+settings.network.advanced.ipAddress;IP address;Διεύθυνση IP
+settings.remote;Remote;Τηλεχειριστήριο
+settings.remotePairing;Remote pairing;Σύνδεση τηλεχειριστηρίου
+settings.remote.batteryStatus;Battery status;Επίπεδα Μπαταρίας
+settings.remote.batteryStatus.fine;Your battery status is OK;Επίπεδο Μπαταρίας ΟΚ
+settings.remote.batteryStatus.sheetTitleview;View status;Κατάσταση μπαταρίας
+settings.remote.batteryStatus.sheetSubtitleview;Battery status;Επίπεδο Μπαταρίας
+settings.remote.connectionType;Connection type;Τύπος σύνδεσης
+settings.remote.connectionType.IR;IR;IR
+settings.remote.connectionType.infrared;Infrared;Υπέρυθρες
+settings.remote.connectionType.RF;RF;RF
+settings.remote.connectionType.radioFrequency;Radio frequency;Ραδιοσυχνότητα
+settings.tvChannels.autoScan;Auto scan;Αυτόματη αναζήτηση
+settings.tvChannels.startAutoScan;Start auto scan;Έναρξη
+settings.tvChannels.stopAutoScan;Stop auto scan;Ακύρωση
+settings.tvChannels.channelScan;Channel scan;Αναζήτηση καναλιών
+settings.tvChannels.currentlyHave;You currently have:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Τρέχοντα κανάλια:<div class='halfSummary'>Επίγεια<div class='channelsSummary'><div>%1 Κανάλια</div><div>%2 Ρ/Φ σταθμοί</div></div></div><div class='halfSummary'>Vodafone TV<div class='channelsSummary'>%3 Κανάλια</div></div></div>
+settings.tvChannels.currentlyFound;We've found:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Βρέθηκαν τα κανάλια:<div class='halfSummary'>Επίγεια<div class='channelsSummary'><div>%1 Κανάλια</div><div>%2 Ρ/Φ σταθμοί</div></div></div><div class='halfSummary'>Vodafone TV<div class='channelsSummary'>%3 Κανάλια</div></div></div>
+settings.tvChannels.weFound;We found:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Βρέθηκαν τα κανάλια:<div class='halfSummary'>Επίγεια<div class='channelsSummary'><div>%1 Κανάλια</div><div>%2 Ρ/Φ σταθμοί</div></div></div><div class='halfSummary'>Διαδίκτυο<div class='channelsSummary'>%3 Κανάλια</div></div></div>
+settings.tvChannels.autoSelect;Auto select;Αυτόματη επιλογή
+settings.tvChannels.customSelect;Custom select;Χειροκίνητη επιλογή
+settings.tvChannels.resolveConflict.description;Please confirm your chosen channel:;"Ποιο κανάλι προτιμάτε;:"
+settings.tvChannels.confirmConflictResolution.description;Please confirm your chosen channels:;Παρακαλώ επαληθεύστε την επιλογή:
+mytv.watchnext;Watch next;Δείτε μετά
+mytv.allRecordings;All recordings;Όλες οι εγγραφές
+mytv.scheduledRecordings;Scheduled recordings;Προγραμματισμένες εγγραφές
+mytv.allScheduledRecordings;All scheduled recordings;Όλες οι προγραμματισμένες εγγραφές
+mytv.allPurchasesAndRentals;All rentals & purchases;Όλες οι ενοικιάσεις
+mytv.wishlist;Record;Αγαπημένα
+mytv.allWishlist;Recordings;Όλα τα αγαπημένα
+mytv.other;Others;Διάφορα
+apps.apps;Apps;Εφαρμογές
+apps.myApps;My apps;Οι εφαρμογές μου
+apps.new;New;Νέες
+apps.popular;Popular;Δημοφιλέστερες
+apps.education;Education;Εκπαιδευτικά
+search.searchResults;Search results;Αποτελέσματα αναζήτησης
+search.noResults;No results;Δεν βρέθηκαν αποτελέσματα
+programInfo.airedOn;Aired on;Προβλήθηκε
+programInfo.related;Related;Σχετικά
+programInfo.recording.record;Record;Εγγραφή
+programInfo.actionButtons.watch;Watch;Παρακολούθηση σε %1
+programInfo.actionButtons.watchRecording;Watch your recording;Παρακολούθηση
+programInfo.actionButtons.watchLive;Watch;Παρακολούθηση ζωντανά
+programInfo.actionButtons.recordOn;Record episode;Εγγραφή
+programInfo.actionButtons.watchCatchup;Watch;Παρακολούθηση σε Replay TV
+programInfo.actionButtons.startOver;Restart;Επανεκκίνηση
+programInfo.actionButtons.recordSeries;Record series;Εγγραφή όλων των επεισοδίων
+programInfo.actionButtons.cancelRecording;Cancel recording;Ακύρωση εγγραφής επεισοδίου
+programInfo.actionButtons.deleteRecording;Delete recording;Διαγραφή επεισοδίου
+programInfo.actionButtons.cancelRecordSeriesOn;Cancel series recording;Ακύρωση εγγραφής της σειράς
+programInfo.actionButtons.deleteRecordSeriesOn;Delete series recording;Διαγραφή της σειράς
+programInfo.actionButtons.protect;Protect recording;Προστατευμένη εγγραφή
+programInfo.actionButtons.unprotect;Unprotect recording;Μη προστατευμένη εγγραφή
+programInfo.actionButtons.trailer;Watch trailer;Τρέιλερ
+programInfo.actionButtons.thirdPartyApp;0,01;%1
+programInfo.actionButtons.wishlist.remove;Remove;Αφαίρεση από τα αγαπημένα
+programInfo.actionButtons.wishlist.add;Schedule record;Προσθήκη στα αγαπημένα
+programInfo.actionButtons.watchContent;Watch %1;Παρακολούθηση σε %1
+programInfo.actionButtons.buy;Buy;Αγορά
+programInfo.actionButtons.rent;Rent;Ενοικίαση
+programInfo.actionButtons.confirm4K;Your current resolution is not 4K. To watch 4K content your TV must be 4K-ready. Are you sure you want to continue?;"Η τηλεόραση σας δεν υποστηρίζει Ultra HD (4Κ). Θέλετε να συνεχίσετε;"
+minutes.acronym;mins;λ
+minute.acronym;min;Λεπτό
+settings.audioAndVisual.audioOutput;Audio output;Ήχος
+settings.audioAndVisual.audioOutput.stereo;Stereo;Stereo
+settings.audioAndVisual.audioOutput.dolbyAudio;Dolby Audio;Dolby Audio
+settings.audioAndVisual.hdmiAudioOutput;HDMI audio output;HDMI Audio Output
+settings.audioAndVisual.on;On;Ενεργοποιημένο
+settings.audioAndVisual.off;Off;Απενεργοποιημένο
+settings.audioAndVisual.screenResolution.576p;576p;Χαμηλή
+settings.audioAndVisual.screenResolution.720p;720p;Μέτρια
+settings.audioAndVisual.screenResolution.1080p;1080p;Υψηλή
+settings.audioAndVisual.screenResolution.4k;4K;4Κ
+settings.systemConfigurations.powerSaving;Power;Κατανάλωση
+settings.powerSaving.quickBoot;Power saving mode;Εξοικονόμηση ενέργειας
+settings.powerSaving.autoStandbyTime;Auto standby time;Χρόνος αναμονής
+settings.powerSaving.autoStandbyTime.3h;3 hours;3 ώρες
+settings.powerSaving.autoStandbyTime.6h;6 hours;6 ώρες
+settings.powerSaving.autoStandbyTime.12h;12 hours;12 ώρες
+settings.powerSaving.autoStandbyTime.off;Off;Απενεργοποιημένο
+settings.conflictedChannelsFoundScreen.description;Your aerial is picking up multiple regions for <insert>. Please choose an option:;"Βρέθηκαν πολλαπλά κανάλια με την ίδια περιγραφή <strong>%1 %2</strong>. Ποιο κανάλι προτιμάτε;:"
+popups.powerSaving.buttons.cancel;Cancel standby;Ακύρωση αναμονής
+popups.powerSaving.buttons.adjust;Change auto standby;Αλλαγή χρόνου αναμονής
+network.ipAddress;IP address;Διεύθυνση IP
+network.subnetMask;Subnet mask;Μάσκα υποδικτύου
+network.defaultGateway;Default gateway;Προεπιλεγμένη Πύλη
+network.primaryDNS;Primary DNS;Πρωτεύων DNS
+network.secondaryDNS;Secondary DNS;Δευτερεύων DNS
+serieInfo.recordEpisode;Record episode;Εγγραφή επεισοδίου
+serieInfo.recordSeries;Record series;Εγγραφή σειράς
+serieInfo.season;Season;ΚΥΚΛΟΙ
+popups.upgrade.buttons.updateNow;Update now;Αναβαθμίστε τώρα
+popups.reboot.buttons.rebootNow;Reboot now;Επανεκκίνηση τώρα
+popups.wifi.buttons.tryAgain;Try again;Προσπαθήστε ξανά
+popups.storage.misc;0;0
+popups.storage.buttons.manage;Manage my recordings;Διαχείριση των εγγραφών
+popups.storage.buttons.enableAutoDelete;Enable auto delete;Ενεργοποίηση αυτόματης διαγραφής
+popups.continueWatching.buttons.next;Next episode;Επόμενο επεισόδιο
+popups.continueWatching.buttons.startOver;Restart;Επανεκκίνηση
+popups.maintenance.message;An update is scheduled for your TV box;Έχει προγραμματιστεί αναβάθμιση για τον αποκωδικοποιητή σας.
+maintenance.wait;Update in progress, please wait.;Παρακαλώ περιμένετε...
+rails.more;More;Περισσότερα
+rails.moretitle;More %1;Περισσότερα %1
+rails.bucketMore;See more;Δείτε περισσότερα
+badging.expires;Expires from %1 in %2 days;Λήγει από %1 σε %2 μέρες
+badging.recorded;Recorded;Εγγεγραμένος
+badging.protected;Protected recording;Προστατευμένη εγγραφή
+badging.subtitles;Subtitles available;Υπότιτλοι διαθέσιμοι
+badging.audioDescription;Audio description available;Ηχητική περιγραφή διαθέσιμη
+badging.wishList;Scheduled record;Προστέθηκε στα αγαπημένα
+badging.catchUp;Catch up;Δείτε τώρα
+badging.airsOn;Airs on %1;Ξεκινά στις
+notification.recording.delete;Recording deleted;Η εγγραφή διαγράφηκε
+notification.recording.cancel;Recording cancelled;Η εγγραφή ακυρώθηκε
+notification.recording.scheduled;Recording scheduled;Η εγγραφή προγραμματίστηκε
+notification.seriesRecording.cancel;Series record cancelled;Η εγγραφή της σειράς ακυρώθηκε
+notification.seriesRecording.delete;Series record deleted;Οι σειρές διαγράφηκαν
+notification.recording.protect;Recording protected;Προστατευμένη εγγραφή
+notification.network.online;You're connected;Ο αποκωδικοποιητής είναι συνδεδεμένος
+notification.purchase.success;Purchase made;Η αγορά ήταν επιτυχής
+notification.login.emptyToken;Empty token;Χωρίς στοιχεία
+notification.battery.low;Your TV remote batteries are low, please replace them.;Παρακαλώ αντικαταστήστε τις μπαταρίες στο τηλεκοντρόλ
+settings.warning.popup.parentalControlEnable;Turning on parental controls will enable your TV PIN. Are you happy to continue?;Παρακαλώ επιβεβαιώστε. Αυτό ενεργοποιεί το PIN της τηλεόρασης (περισσότερα στο  www.vodafone.gr/tv).
+settings.ledBrightness.medium;Medium;Μέτρια
+programInfo.actionButtons.moreWatchOptions;More options;Επιλογές
+notification.recording.unprotect;Unlocked - you can now record;Μη προστατευμένη εγγραφή
+common.confirm;Okay?;Επιβεβαίωση
+keyboard.search.placeholder;Start searching;Αναζήτηση για ταινίες, σειρές, ηθοποιούς...
+settings.warning.popup.masterPinDisable;Turning off your PIN will also turn off parental controls. Are you happy to continue?;"Η απενεργοποίηση του PIN θα απενεργοποιήσει και τον γονικό έλεγχο. Θέλετε να προχωρήσετε;"
+settings.network.wifi.waiting;Connecting to your Wi-Fi network;Σύνδεση στο ασύρματο δίκτυο (...)
+settings.tvChannels.abortingAutoScan;Stopping;Διακοπή
+settings.audioDescription.on;Turn on;Ενεργοποίηση
+settings.subtitles.on;Turn on;Ενεργοποίηση
+popups.powerSaving.message;Vodafone TV will go into standby mode in %1s;Το Vodafone TV θα μπει σε λειτουργία αναμονής σε λίγα δευτερόλεπτα.
+firstInstall.languageScreen.description;Choose your language;Επιλογή γλώσσας
+settings.parentalControls.changeMyPin;Change PIN;Αλλαγή PIN
+settings.parentalControls.changedPin;Your PIN has changed;Η αλλαγή PIN ολοκληρώθηκε
+settings.ledBrightness.high;High;Υψηλή
+settings.informations.buttons.connectivity;Internet;Διαδίκτυο
+settings.ledBrightness.low;Low;Χαμηλή
+settings.remote.remotePairNewDevice;Pair remote;Σύνδεση τηλεχειριστηρίου
+settings.channelScan.auto;Scan;Σάρωση
+settings.powerSaving.quickBoot.hint;Turn power saving mode off for faster setup;Με την επιλογή, χαμηλή εξοικονόμηση ενέργειας, ο αποκωδικοποιητής θα εκκινεί ταχύτερα.
+firstInstall.helloScreen.description.searchingAccount;Logging in to your Vodafone TV account;Σύνδεση στον Vodafone TV λογαριασμό σας
+settings.systemConfigurations.subtitle;System info;Πληροφορίες συστήματος
+settings.network.advanced.configureIpAddress;Manual setup;Χειροκίνητη εγκατάσταση
+popups.continueWatching.misc;Continue watching: starting in %1;Το επόμενο βίντεο ξεκινά σε %1
+firstInstall.buttons.manualIPConfig;Manual IP setup;Χειροκίνητη ρύθμιση διεύθυνσης δικτύου
+settings.systemConfigurations;More settings;Περισσότερες ρυθμίσεις
+settings.systemConfigurations.factoryReset;Reset;Επαναφορά
+settings.informations.buttons.remoteControl;Remote;Τηλεχειριστήριο
+settings.network.advanced.waiting;Connecting your IP address to your TV box;To Vodafone TV συνδέεται.
+popups.reboot.misc;Reboot in %1;Επανεκκίνηση σε %1
+notification.recording.start;Recording;Εγγραφή
+date.format.day5;Friday;Παρασκευή
+firstInstall.helloScreen.description.foundAccount;Nearly done;Σχεδόν έτοιμο
+firstInstall.wifiNetworkConnectingScreen.description;Connecting to your Wi-Fi network;Σύνδεση με Wi-Fi
+settings.network.advanced.dhcp;Auto setup;Αυτόματη εγκατάσταση
+settings.remote.remotePairNewDevice.step0.failed.description;Sorry, you pressed the wrong buttons: press and hold the 3 and yellow buttons together for 5 seconds.;Παρακαλώ δοκιμάστε ξανά. Πιέστε τα πλήκτρα 3 και κίτρινο ταυτόχρονα για 5 δευτερόλεπτα
+change language;Change language;Αλλαγή γλώσσας
+firstInstall.manualNetworkConfigurationScreen.description;Please enter your network details using the number keys.;Εισάγετε τα στοιχεία του δικτύου
+settings.premiumChannels.hide;Hide;Απόκρυψη
+settings.premiumChannels.show;Show;Προβολή
+pinEntry.parentalPinCode;Enter your PIN;Εισάγετε PIN
+settings.remote.remotePairNewDevice.step2.description;Great, your remote is now paired;Το τηλεχειριστήριο συνδέθηκε επιτυχώς
+pinEntry.masterPinCode;Enter your PIN;Εισάγετε PIN
+settings.recordings.deleteAllQuestion;Are you sure you want to delete all recordings?;"Επαλήθευση διαγραφής όλων των εγγραφών;"
+settings.recordings.autoDeleteQuestion;Are you sure you want to activate the auto delete feature?;"Επαλήθευση αυτόματης διαγραφής των εγγραφών;"
+pinEntry.successful;PIN confirmed;Επιβεβαίωση PIN
+popups.upgrade.title;Software upgrade about to start;Η ενημέρωση του αποκωδικοποιητή πρόκειται να αρχίσει
+firstInstall.getHelpScreen.channels.description;Once your TV aerial is connected, start scanning for channels.;Ελέγξτε ότι η κεραία είναι συνδεδεμένη και ξεκινήστε<br/>την αναζήτηση καναλιών.
+settings.systemConfigurations.factoryReset.popup;<p>Are you sure you want to restore to factory settings? This will delete any customised settings.<br/>Don't worry, your recordings won't be deleted.</p>;Θα επαναφέρετε τον αποκωδικοποιητή στις εργοστασιακές ρυθμίσεις. Θα χρειαστεί εκ νέου εγκατάσταση. Οι εγγραφές σας δεν θα διαγραφούν
+firstInstall.wiredNetworkSearchScreen.manual.description;Trying to connect;Προσπάθεια σύνδεσης
+firstInstall.wiredNetworkSearchScreen.description;Please make sure your Ethernet cable is plugged in.;Επαληθεύστε ότι το καλώδιο τοπικού δικτύου είναι συνδεδεμένο
+firstInstall.getHelpScreen.wifi.description;You'll find the answers to lots of questions at vodafone.co.uk/tv;Περισσότερα στο <br/> www.vodafone.gr/tv
+firstInstall.getHelpScreen.wired.description;You'll find the answers to lots of questions at vodafone.co.uk/tv;Περισσότερα στο <br/> www.vodafone.gr/tv
+firstInstall.remotePairLaterScreen.description;If you can't pair your remote now, don't worry – you can always pair it later and it'll still work in the meantime when you point it at the box.;Ο συγχρονισμός του τηλεχειριστηρίου μπορεί να γίνει <br/> αργότερα στις ρυθμίσεις <br/>, ώστε να μην χρειάζεται <br/> να στοχεύετε τον αποκωδικοποιητή.
+settings.network.noInternet;;Δεν υπάρχει σύνδεση με το διαδίκτυο. Παρακαλώ ελέγξτε το ρούτερ σας και δοκιμάστε ξανά.
+firstInstall.wifiNetworkErrorScreen.noLink;;SC106: Η σύνδεση με το Wi-Fi χάθηκε. Παρακαλώ ελέγξτε το ρούτερ σας και δοκιμάστε ξανά.
+settings.network.lan.noLink;;SC022: Δεν βρέθηκε σύνδεση δικτύου μέσω καλωδίου. Παρακαλώ ελέγξτε το καλώδιο και δοκιμάστε ξανά.
+firstInstall.wiredNetworkScreen.noLink;;SC021: Δεν υπάρχει σύνδεση με το τοπικό δίκτυο. Παρακαλώ ελέγξτε το καλώδιο και δοκιμάστε ξανά ή συνδεθείτε μέσω Wi-Fi.
+notification.network.error;;SC014: Παρουσιάστηκε σφάλμα με τη σύνδεση στην υπηρεσία. Παρακαλώ ελέγξτε τη σύνδεση σας με το διαδίκτυο.
+programInfo.rentalExpiresOn;;Η ενοικίαση λήγει σε %1
+Available to Purchase;;Διαθέσιμο για αγορά
+Smart TV FTU UDID;;UDID : %1
+adult.hidden.description;;Κλειδωμένο περιεχόμενο για ενηλίκους
+adult.hidden.title;;Κλειδωμένο περιεχόμενο
+adult.visible.title;;Αισθησιακές ταινίες
+advertising.notification.description;;Το βίντεο θα συνεχίσει να αναπαράγεται αυτόματα μετά τη διαφήμιση
+advertising.notification.personalizedAds.cannotWatch.description;;Για να παρακολουθήσετε αυτό το περιεχόμενο πρέπει να συμφωνήσετε να έχετε εξατομικευμένες διαφημίσεις.
+advertising.notification.personalizedAds.cannotWatch.title;;Εξατομικευμένες διαφημίσεις
+advertising.notification.personalizedAds.optIn;;Για να μην έχετε εξατομικευμένες διαφημίσεις, μεταβείτε στις Ρυθμίσεις / Προστασία προσωπικών δεδομένων / Συγκατάθεση απορρήτου
+advertising.notification.personalizedAds.optOut;;Για να έχετε εξατομικευμένες διαφημίσεις, μεταβείτε στις Ρυθμίσεις / Προστασία προσωπικών δεδομένων / Συγκατάθεση απορρήτου
+advertising.notification.title;;Διάλειμμα για διαφημίσεις
+advertising.overlay.count;;Προσθήκη %1  από %2
+alexa.EnablewithoutSetup.text;;"Χωρίς σύνδεση, η Alexa θα εξακολουθεί να αναζητά τηλεοπτικές εκπομπές και ταινίες, να ελέγχει την αναπαραγωγή, να ρυθμίζει την ένταση και να λέει αστεία. Για να ολοκληρώσετε τη ρύθμιση ανά πάσα στιγμή, μεταβείτε στις Ρυθμίσεις Alexa και συνδέστε τον λογαριασμό σας στο Amazon. <br> <br> <span class = ""subtext""> Η Amazon επεξεργάζεται τις αλληλεπιδράσεις Alexa στο cloud. Επιλέγοντας ""Ενεργοποίηση Alexa"", αποδέχεστε όλους τους όρους και προϋποθέσεις. Μπορείτε να μάθετε περισσότερα σχετικά με τους όρους και το απόρρητο της Alexa χρησιμοποιώντας τους παρακάτω συνδέσμους. </span>"
+alexa.EnablewithoutSetup.title;;"Ενεργοποίηση Alexa χωρίς σύνδεση;"
+alexa.alexaDisableScreen.cancelButton;;Ακύρωση
+alexa.alexaDisableScreen.confirmButton;;Επιβεβαίωση
+alexa.alexaDisableScreen.text;;Δεν θα μπορείτε να κάνετε χρήση της Alexa σε αυτή την συσκευή
+alexa.alexaDisableScreen.title;;Απενεργοποίηση Amazon Alexa
+alexa.alexaSettignDefaultScreen.buttonSetUp;;Ρύθμιση Alexa
+alexa.alexaSettingDefaultScreen.buttonLanguage;;Επιλογή γλώσσας
+alexa.alexaSettingDefaultScreen.buttonSignout;;Αποσύνδεση
+alexa.alexaSettingDefaultScreen.buttonTermsAndConditions;;Terms & Conditions
+alexa.alexaSetupScreen.description;;Αν αντιμετωπίζεται κάποιο πρόβλημα κάντε ανανέωση του κωδικού κα ιδοκιμάτε πάλι
+alexa.alexareadyscreen.ia.information;;Για να ενεργοποιήσετε πρόσθετες λειτουργίες όπως μουσική, καιρός και έξυπνο οικιακό έλεγχο, μεταβείτε στις <span> Ρυθμίσεις> Βοηθοί φωνής> Amazon Alexa </span> ανά πάσα στιγμή για να συνδέσετε τον λογαριασμό σας στο Amazon.
+alexa.alexareadyscreen.ia.term1;;"""Alexa, turn up the volume"""
+alexa.alexareadyscreen.ia.term2;;"""Alexa, show me action movies"""
+alexa.alexareadyscreen.ia.term3;;"""Alexa, what's on TV tonight?"""
+alexa.alexareadyscreen.information;;Για να μάθετε περισσότερα σχετικά με το τι μπορεί να κάνει η Alexa, κατεβάστε την εφαρμογή Amazon Alexa από το Google Play ή το App Store.
+alexa.alexareadyscreen.subtitle;;Κρατήστε πατημένο το κουμπί του μικροφώνου και πείτε:
+alexa.alexareadyscreen.term1;;"”Alexa, show me the weekend forecast"""
+alexa.alexareadyscreen.term2;;"“Alexa, what's my sports update?"""
+alexa.alexareadyscreen.term3;;“Alexa, what's my sports update?”
+alexa.alexareadyscreen.term4;;“Alexa, search for Action movies”
+alexa.alexareadyscreen.term5;;“Alexa, play pop music videos”
+alexa.alexareadyscreen.vsb.information;;alexa.alexareadyscreen.vsb.information
+alexa.alexareadyscreen.vsb.subtitle;;Δοκιμάστε τις πιο κάτω φράσεις:
+alexa.alexareadyscreen.vsb.term1;;"""Alexa, δείξε μου τον καιρό του Σαββατοκύριακου"""
+alexa.alexareadyscreen.vsb.term2;;"""Alexa, ποια είναι τα νέα της ομάδας μου;"""
+alexa.alexareadyscreen.vsb.term3;;"""Alexa, πρόσθεσε γάλα στη λίστα αγορών μου"""
+alexa.alexareadyscreen.vsb.term4;;"""Alexa, παίξε ποπ τραγούδια της δεκαετίας του '90"""
+alexa.alexareadyscreen.vsb.term5;;"""Alexa, ποιος είναι ο Brad Pitt;"""
+alexa.alexareadyscreen.vsb.term6;;"""Alexa, θέλω να ακούσω χαλαρωτική μουσική"""
+alexa.authError;;Σφάλμα, παρακαλώ δοκιμάστε και πάλι
+alexa.card.canDoMore;;Η Alexa μπορεί να κάνει περισσότερα
+alexa.card.connect;;Σύνδεση
+alexa.card.connectAmazonAccount;;Συνδέστε τον λογαριασμό σας στο Amazon για να ενεργοποιήσετε λειτουργίες, όπως ο καιρός, ο έξυπνος έλεγχος σπιτιού και πολλά άλλα
+alexa.defaultScreen.description;;Η Alexa σάς επιτρέπει να χρησιμοποιείτε τη φωνή σας για να βρίσκετε και να παίζετε ταινίες και τηλεοπτικές εκπομπές, να κάνετε ερωτήσεις, να ελέγχετε τον καιρό, να παρακολουθείτε μουσική, να ελέγχετε το έξυπνο σπίτι σας και πολλά άλλα.
+alexa.defaultScreen.subDescription;;"Η Amazon επεξεργάζεται τις αλληλεπιδράσεις της Alexa στο cloud. Επιλέγοντας ""Ενεργοποίηση Alexa"", αποδέχεστε όλους τους όρους και τις προϋποθέσεις. Μπορείτε να μάθετε περισσότερα σχετικά με τους όρους και το απόρρητο της Alexa χρησιμοποιώντας τους παρακάτω συνδέσμους"
+alexa.defaultscreen.buttonDisable;;Απενεργοποίηση
+alexa.defaultscreen.buttonSigneIn;;Εγγραφή στην Alexa
+alexa.defaultscreen.buttonTermOfUse;;Όροι χρήσης
+alexa.defaultscreen.devicename;;Όνομα συσκευής
+alexa.defaultscreen.signedInAs;;Συνδεση με τον λογαρισμό σας
+alexa.enablePopup.title;;"Θέλετε να ενεργοποιήσετε το φωνητικό έλεγχο;"
+alexa.enableWithoutSetup.ok;;Δοκιμάστε την Alexa
+alexa.enablevoicesubMsg;;Ο φωνητικός έλεγχος δεν έχει ενεργοποιηθεί.
+alexa.errorScreen.button.retry;;Προσπαθησε ξανα
+alexa.isReadyTitle;;Η Alexa είναι έτοιμη
+alexa.notification.signout.body;;μπορείτε να την ενεργοποιήσετε από τις ρυθμίσεις αργότερα
+alexa.notification.signout.header;;Η Αλέξα απενεργοποιήθηκε
+alexa.popup.tryAlexa.title;;Δοκιμάστε την Αλέξα χωρίς λογαριασμό
+alexa.setUpScreen.Goto;;Μετάβαση σε
+alexa.setUpScreen.description;; στο κινητό ή τον υπολογιστή σας με βάλτε αυτό τον κωδικό
+alexa.setUpScreen.later;;Όχι τώρα
+alexa.setUpScreen.refreshCode;;Ανανέωση κωδικού
+alexa.setUpScreen.title;;Συνδεση με τον Amazon λογαριασμό σας
+alexa.termandConditionScreen.title;;Όροι και προϋποθέσεις
+alexa.termsOfUseScreen.title;;Όροι
+apps.myApps.add.added;;Προστέθηκε
+apps.myApps.add.titleAppAdd;;Οι εφαρμογές μου
+apps.myApps.add.titleAppAddDescription;;%1 εφαρμογές προστέθηκαν
+apps.myApps.add.titleAppRemove;;Οι εφαρμογές μου
+apps.myApps.add.titleAppRemoveDescription;;%1 εφαρμογές διαγράφηκαν
+apps.myApps.add.titleMaxDescription;;Πρέπει αν αφαιρέσετε μια εφαρμογή για να προσθέσετε μια νέα στα αγαπημένα σας
+apps.myApps.add.titleMaxLimit;;Οι εφαρμογές μου
+apps.myApps.delete.remove;;Αφαίρεση
+apps.myApps.reorder.moved;;Μετακίνηση
+apps.rail.recentApps;;Πρόσφατες εφαρμογές
+badging.acronym.audioDescription;;AD
+badging.acronym.closedCaption;;CC
+badging.acronym.signLanguage;;SL
+badging.acronym.subtitles;;S
+badging.airsNow;;Παίζει τώρα
+badging.airsOnDateAndTime;;Παίζει
+badging.availableToPurchase;;Διαθέσιμο για αγορά
+badging.availableToPurchaseAndExpiration;;Μένουν %1 μέρα(ες) από %2
+badging.availableToSubscribe;;Διαθέσιμο για συνδρομή
+badging.failedOn;;Αποτυχία
+badging.partiallyRecordedOn;;Εγγράφηκε μερικώς την
+badging.purchased;;Αγοράστηκε
+badging.recordableEpisode;;Εγγραφή επεισοδίου
+badging.recordableSeries;;Εγγραφή όλων των επεισοδίων
+badging.recordedOn;;Εγγράφηκε στις
+badging.recordingNow;;Εγγραφή σε εξέλιξη
+badging.recordingScheduled;;Προγραμματισμένο
+badging.scheduled;;Προγραμματισμένο
+badging.subscribed;;Διαθέσιμο για παρακολούθηση
+badging.subscribedTo;;Περιλαμβάνεται στο %1
+badging.upcomingCatchUp;;Σύντομα διαθέσιμο στο Replay TV
+bluetooth.fullplayer.audioprofile;;Προφίλ ήχου
+bluetooth.fullplayer.collapse;;Απόκρυψη
+bluetooth.fullplayer.connected;;Συνδεδεμένο
+bluetooth.fullplayer.exit;;Έξοδος
+bluetooth.fullplayer.unknownTrackAlbum;;Άγνωστο άλμπουμ
+bluetooth.fullplayer.unknownTrackArtist;;Άγνωστος καλλιτέχνης
+bluetooth.fullplayer.unknownTrackTitle;;Άγνωστος τίτλος
+bluetooth.popup.buttons.connect;;Σύνδεση
+bluetooth.subtitle;;"Επικύρωση;"
+bluetoothConnect.subtitle;;"Επικύρωση;"
+bluetoothConnect.title;;"Θέλετε να ενεργοποιήσετε την φωνή;"
+bluetoothConnection.title;;Θα συνδεθείτε σε αυτήν τη συσκευή
+bluetoothDisconnect.title;;Επιλέξτε τι θέλετε να κάνετε
+buttons.filesFormat.3d;;3D
+buttons.filesFormat.4K;;UHD
+buttons.filesFormat.HD;;HD
+buttons.filesFormat.SD;;SD
+cableRegio.scanSummary.description.success;;Βρέθηκαν %1 κανάλια:<br/>%2 Internet %3 Επίγεια %4 Ραδιόφωνο
+cableRegio.scanSummary.title;;Αποτελέσματα σάρωσης καναλιών
+cancelMultipleSeries.popup.subtitle;;Δεν μπορείτε να αναιρέσετε αυτό το βήμα.
+cancelMultipleSeries.popup.title;;"Είστε βέβαιοι ότι θέλετε να ακυρώσετε το %1 των εγγραφών σας;"
+cancelSeries.subtitle;;"Είστε σίγουροι;"
+cancelSeries.title;;"Ακύρωση εγγραφής σειράς;"
+channelScan.completed;;Η αναζήτηση καναλιών ολοκληρώθηκε
+channelScan.error;;Παρουσιάστηκε ένα σφάλμα κατα την αναζήτηση των καναλιών
+clashManagementScreen.availableAsCatchup;;Διαθέσιμο σε Replay TV
+clashManagementScreen.recording;;Εγγραφή %1
+clashManagementScreen.repeatsOn;;Επαναλαμβάνεται σε %1
+clashManagementScreen.reschedule;;Επαναπρογραμματίστε
+clashManagementScreen.subtitle;;Για να κάνετε μια εγγραφή %1, επιλέξτε μία από τις παρακάτω επιλογές.
+clashManagementScreen.title;;Έχετε πολλές εγγραφές στον δίσκο σας
+common.back;;Ακύρωση
+common.blockedContent;;Κλειδωμένο περιεχόμενο
+common.browseAll;;Περιήγηση
+common.buyStorage;;Αγορά αποθηκευτικού χώρου
+common.deselectAll;;Αποεπιλογή όλων
+common.disconnect;;Αποσύνδεση
+common.hideAll;;Απόκρυψη όλων
+common.min;;%1 λεπτά.
+common.noThanks;;Όχι, ευχαριστώ
+common.other;;Άλλα
+common.reorder;;αναδιάταξη
+common.searchOn;;Αναζήτηση σε
+common.selectAll;;Επιλογή όλων
+common.showAll;;Εμφάνιση όλων
+common.subscribe;;Συνδρομή
+common.tvGuide;;ΟΔΗΓΟΣ ΠΡΟΓΡΑΜΜΑΤΟΣ
+common.unpair;;Κατάργηση σύνδεσης
+common.welcomeTo;;Καλωσήρθατε στο Vodafone TV
+continueWatching.household;;Ο αποκωδικοποιητής μου
+date.format.duration.day;;ημέρα
+date.format.duration.days;;ημέρες
+date.format.duration.hour;;ώρα
+date.format.duration.hours;;ώρες
+date.format.duration.minute;;λεπτό
+date.format.duration.minutes;;λεπτά
+date.format.duration.month;;μήνας
+date.format.duration.months;;μήνες
+date.format.duration.second;;Δευτερόλεπτο
+date.format.duration.seconds;;Δευτερόλεπτα
+date.format.duration.short.hours;;ώρες
+date.format.duration.short.minutes;;λεπτά
+date.format.duration.short.seconds;;δευτ
+date.format.duration.year;;έτος
+date.format.duration.years;;έτη
+deleteMultipleSeries.popup.protectedSubtitle;;"Υπάρχουν %1 προστατευμένες εγγραφές στην επιλογή σας. Διαγραφή ούτως ή άλλως;"
+deleteMultipleSeries.popup.subtitle;;Δεν μπορείτε να αναιρέσετε αυτό το βήμα.
+deleteMultipleSeries.popup.title;;"Είστε βέβαιοι ότι θέλετε να διαγράψετε %1 των εγγραφών σας;"
+deleteSeries.delete;;Διαγραφή σειράς
+deleteSeries.subtitle;;"Είστε σίγουρος;"
+deleteSeries.title;;Διαγραφή σειράς
+deleteSingleSeries.popup.subtitle;;"Θέλετε να επιλέξετε ολόκληρη τη σειρά ή μεμονωμένα επεισόδια;"
+deleteSingleSeries.popup.title;;Επιλέξατε μια σειρά
+detailsConfirmPurchaseScreen.audioTitle;;Ήχος
+detailsConfirmPurchaseScreen.detailsTitle;;Περισσότερα
+detailsConfirmPurchaseScreen.subtitlesTitle;;Υπότιτλοι
+epg.adultProgram.hidden.description;;Ο γονικός έλεγχος δεν επιτρέπει την εμφάνιση αυτού του προγράμματος χωρίς την εισαγωγή του PIN σας. Για να το αλλάξετε, μεταβείτε στις ρυθμίσεις.
+epg.adultProgram.hidden.name;;Κλειδωμένο περιεχόμενο
+epg.adultProgram.hidden.subtitle;;Αλλάξτε τις γονικές ρυθμίσεις για παρακολούθηση
+epg.adultProgram.locked.description;;Ο γονικός έλεγχος δεν επιτρέπει την εμφάνιση αυτού του προγράμματος χωρίς την εισαγωγή του PIN σας. Για να το αλλάξετε, μεταβείτε στις ρυθμίσεις.
+epg.adultProgram.locked.name;;Κλειδωμένο
+epg.allChannels;;Όλα τα κανάλια
+epg.channel.locked.name;;Γονικός έλεγχος ενεργοποιημένος
+epg.filters.all;;Όλα
+epg.filters.allChannels;;Όλα τα κανάλια
+epg.filters.hdchannels;;Κανάλια HD
+epg.filters.juststarted;;Μόλις ξεκίνησαν
+epg.filters.mostWatched;;Δημοφιλή
+epg.filters.subscribedChannels;;Συνδρομητικά κανάλια
+epg.filters.title;;Επιλέξτε φίλτρα καναλιών
+epg.program.locked.description;;Ο γονικός έλεγχος δεν επιτρέπει την εμφάνιση αυτού του προγράμματος χωρίς την εισαγωγή του PIN σας. Για να το αλλάξετε, μεταβείτε στις ρυθμίσεις.
+epg.summary.duration;;Διάρκεια
+epg.summary.origin;;Προέλευση
+epg.summary.releaseDate;;Τελευταία ενημέρωση
+error.actionNotAllowed;;Αδυναμία ολοκλήρωσης
+error.default;;Κάτι πήγε στραβά
+error.mdw.network.configurationGetFailed;;Σφάλμα δικτύου.
+error.mdw.network.configurationSetFailed;;Σφάλμα στη διαμόρφωση δικτύου.
+error.netflix.esn;;Μη έγκυρο Netflix ESN
+error.player.broadcast.cannotResolve;;Δεν είναι εφιτκή η μετάδοση
+error.player.broadcast.cannotTune;;Δεν είναι δυνατός ο συντονισμός στο υπάρχον δίκτυο.
+error.player.broadcast.channelChangeInterrupted;;Αδύνατη η αλλαγή καναλιού.
+error.player.broadcast.channelNotFound;;Το συγκεκριμένο κανάλι δεν βρέθηκε.
+error.player.broadcast.channelNotSupported;;Το κανάλι δεν υποστηρίζεται από τον δέκτη.
+error.player.broadcast.channelParentalLock;;Γονικός έλεγχος ενεργός στο κανάλι.
+error.player.broadcast.channelRecordingOngoing;;Δεν μπορείτε να αλλάξετε κανάλι, επειδή αυτή την στιγμή καταγράφετε.
+error.player.broadcast.encryptedChannel;;Χωρίς στοιχεία ασφάλειας
+error.player.broadcast.insufficientBandwidth;;Η ταχύτητα της σύνδεσης δεν επαρκεί.
+error.player.broadcast.insufficientResources;;Ανεπαρκείς πόροι για την παρουσίαση του συγκεκριμένου καναλιού.
+error.player.broadcast.tunerLocked;;Ο δέκτης είναι κλειδωμένος.
+error.player.broadcast.unknownChannel;;Άγνωστο κανάλι.
+error.player.broadcast.unrealized;;Δεν μπορείτε να αλλάξετε κανάλι.
+error.player.oipf.connectionLost;;Αδυναμία σύνδεσης.
+error.player.oipf.corrupt;;Το περιεχόμενο δεν είναι έγκυρο.
+error.player.oipf.format;;Δεν υποστηρίζεται αυτό το είδος βίντεο
+error.player.oipf.insufficientResources;;Ανεπαρκείς πόροι.
+error.player.oipf.positionUnavailable;;Το περιεχόμενο δεν είναι διαθέσιμο.
+error.player.oipf.unavailable;;Το περιεχόμενο δεν είναι διαθέσιμο.
+error.player.unidentified;;SB501 μη έγκυρη συνδρομή στο κανάλι
+error.purchase.er.PPVPurchased;;Η αγορά PPV ολοκληρώθηκε.
+error.purchase.er.accountNotValid;;Μη έγκυρος λογαριασμός.
+error.purchase.er.collectionPurchased;;Η συλλογή αγοράστηκε.
+error.purchase.er.configNotFound;;Δεν βρέθηκαν ρυθμίσεις.
+error.purchase.er.couponNotValid;;Το κουπόνι δεν είναι έγκυρο.
+error.purchase.er.free;;Δωρεάν.
+error.purchase.er.incorrectPrice;;Λανθασμένη τιμή.
+error.purchase.er.insufficientFunds;;Ανεπαρκείς πόροι.
+error.purchase.er.invalidUser;;Μη έγκυρος χρήστης.
+error.purchase.er.notInDomain;;Ο χρήστης δεν είναι καταχωρημένος.
+error.purchase.er.notPurchasable;;Δεν είναι διαθέσιμο για αγορά.
+error.purchase.er.pgChargeIDRequired;;Payment gateway charge ID required.
+error.purchase.er.pgNoResponse;;No response from payment gateway.
+error.purchase.er.pgNotExist;;Payment gateway does not exist.
+error.purchase.er.pgNotSet;;Payment gateway not set for household.
+error.purchase.er.pgUnknownResponse;;Unknown payment gateway response.
+error.purchase.er.retryLimitExceeded;;Υπέρβαση ορίου επανάληψης.
+error.purchase.er.signatureMismatch;;Αναντιστοιχία υπογραφής.
+error.purchase.er.subscriptionOnly;;Διαθέσιμο μόνο μέσω συνδρομής
+error.purchase.er.subscriptionPurchased;;Επιτυχής αγορά συνδρομής.
+error.purchase.er.unknownPPV;;Άγνωστο
+error.purchase.er.unknownReason;;Άγνωστη αιτία.
+error.purchase.er.unknownTransactionState;;Unknown transaction state.
+error.purchase.er.unknownUser;;Άγνωστος χρήστης.
+error.purchase.er.userNotExist;;Δεν υπάρχει ο χρήστης.
+error.purchase.er.userSuspended;;Ο χρήστης έχει τεθεί σε περιορισμό.
+error.purchase.unidentified;;Σφάλμα κατά την αγορά.
+error.token.store.failed;;Failed to store Auth Tokens
+error.userAccountSuspended;;Ο λογαριασμός σας έχει φραγή. 
+error.userActionSuspended;;Ο λογαριασμός σας έχει φραγή.
+explanatoryCard.localQuotaLimit.info;;Ο τοπικός αποθηκευτικός χώρος για εγγραφές είναι χαμηλός. <br/>Μένει %1 τοπικού αποθηκευτικού χώρου.
+explanatoryCard.localQuotaLimit.statusContent;;Διαχείριση τοπικών εγγραφών
+explanatoryCard.localQuotaLimit.title;;Τοπικός δίσκος γεμάτος
+explanatoryCard.mytv.external.myTVRecommendations;;Εδώ θα δείτε εξατομικευμένες προτάσεις για On Demand περιεχόμενο και κανάλια με βάση προγράμματα που έχετε παρακολουθήσει ή εγγράψει στο παρελθόν
+explanatoryCard.mytv.purchasesAndRentals;;Ενοικιάστε ταινίες και παρακολουθήστε τις εδώ.
+explanatoryCard.mytv.recommendations;;Πολύ σύντομα εδώ θα εμφανιστούν οι προτάσεις μας για εσάς!
+explanatoryCard.mytv.recommendations.recommendationsOptIn;;Δείτε εξατομικευμένες προτάσεις με βάση αυτά που παρακολουθείτε, εγγράφετε ή ενοικιάζετε. Πατήστε OK για ενεργοποίηση.
+explanatoryCard.mytv.recommendations.title;;Ταινίες και τηλεοπτικές εκπομπές που σας ταιριάζουν
+explanatoryCard.mytv.recordings;;Δείτε και διαχειριστείτε τις εγγραφές σας.
+explanatoryCard.mytv.rentals;;Εδώ εμφανίζονται ταινίες με ενεργές ενοικιάσεις για να συνεχίσετε την προβολή τους!
+explanatoryCard.mytv.scheduledRecordings;;Τα προγράμματα που έχετε επιλέξει για εγγραφή θα εμφανίζονται εδώ
+explanatoryCard.mytv.title;;My Home
+explanatoryCard.mytv.watchnext;;Συνεχίστε την παρακολούθηση προγραμμάτων που έχετε ξεκινήσει να βλέπετε.
+explanatoryCard.mytv.watchnext.recommendationsOptIn;;Μην χάσετε προγράμματα προσαρμοσμένα για εσάς με βάση αυτό που παρακολουθείτε, εγγράφετε ή νοικιάζετε. Κάντε κλικ στο κουμπί OK και ενεργοποιήστε τις Προτάσεις.
+explanatoryCard.mytv.watchnext.title;;Τα σημαντικότερα προγράμματα για να παρακολουθήσετε
+explanatoryCard.mytv.welcomeTo;;Καλωσήρθατε στο Vodafone TV
+explanatoryCard.mytv.welcomeToMyTV;;Καλωσήρθατε στο Vodafone TV
+explanatoryCard.mytv.wishlist;;Προσθήκη ταινιών και προγραμμάτων στα αγαπημένα.
+explanatoryCard.ondemand.recommendationsOptIn;;Δείτε εξατομικευμένες προτάσεις περιεχομένου για εσάς σύμφωνα με αυτά που παρακολουθείτε, εγγράφετε ή νοικιάζετε. Πατήστε OK για ενεργοποίηση.
+explanatoryCard.ondemand.title;;OnDemand προτάσεις περιεχομένου
+explanatoryCard.quota.autoDelete;;Έχετε χαμηλή χωρητικότητα αποθηκευτικού χώρου. Η αυτόματη διαγραφή θα αρχίσει με τις επόμενες προγραμματισμένες εγγραφές.
+explanatoryCard.quota.title;;Αγορά περισσότερου αποθηκευτικού χώρου
+explanatoryCard.railTitle.mytv.external.myTVRecommendations;;Ταινίες και τηλεοπτικές εκπομπές για εσάς
+explanatoryCard.railTitle.mytv.purchasesAndRentals;;Ενοικιάσεις
+explanatoryCard.railTitle.mytv.recommendations;;Ταινίες και τηλεοπτικές εκπομπές που μπορεί να σας αρέσουν
+explanatoryCard.railTitle.mytv.recordings;;Εγγραφές
+explanatoryCard.railTitle.mytv.rentals;;Ενοικιάσεις
+explanatoryCard.railTitle.mytv.scheduledRecordings;;Προγραμματισμένες εγγραφές
+explanatoryCard.railTitle.mytv.watchnext;;Συνεχίστε την παρακολούθηση
+explanatoryCard.railTitle.mytv.wishlist;;Αγαπημένα
+explanatoryCard.related.recommendationsOptIn;;Δείτε εξατομικευμένες προτάσεις περιεχομένου για εσάς σύμφωνα με αυτά που παρακολουθείτε, εγγράφετε ή νοικιάζετε. Πατήστε OK για ενεργοποίηση.
+explanatoryCard.related.title;;Παρόμοια προγράμματα
+explanatoryCard.search.recommendationsOptIn;;Δείτε εξατομικευμένες προτάσεις με βάση αυτά που παρακολουθείτε, εγγράφετε ή ενοικιάζετε. Πατήστε OK για ενεργοποίηση.
+explanatoryCard.search.title;;Αποτελέσματα με βάση τις προτιμήσεις σας
+explanatoryCard.switchOn;;Ενεργοποίηση
+fastZap.barker.countdown;;Η εφαρμογή εκκινεί σε <br/><div>%1 δευτερόλεπτα</div>
+fastZap.upNext;;Επόμενο
+firstInstall.automaticRecordingsMoreInfoScreen.description;;Το Vodafone TV προσφέρει την παρακολούθηση προγραμμάτων των τελευταίων 7 ημερών. Μπορείτε να παρακολουθήσετε αυτά τα προγράμματα απευθείας χρησιμοποιώντας τον οδηγό προγράμματος ή πατώντας τα πλήκτρα πάνω ˄ και κάτω ˅ στο τηλεχειριστήριο σας ενώ παρακολουθείτε τηλεόραση.<br/><br/>
+firstInstall.automaticRecordingsMoreInfoScreen.title;;Αυτόματες εγγραφές
+firstInstall.bleRemotePairLaterScreen.description;;Για να συνδέσετε το τηλεχειριστήριο με την τηλεόραση, πατήστε τα πλήκτρα 3 και κίτρινο ταυτόχρονα για 5 δευτερόλεπτα. <br/><br/>Εάν δεν καταφέρατε να το συνδέσετε, μπορείτε να το κάνετε αργότερα απο τις ρυμθμίσεις. Στο μεταξύ το τηλεχειριστήριο θα λειτουργεί με λιγότερες δυνατότητες.
+firstInstall.bleRemotePairingScreen.description;;Για να συγχρονίσετε το τηλεχειριστήριο σας με τη Vodafone TV, πατήστε ταυτόχρονα το πλήκτρο 3 και το κίτρινο πλήκτρο για 5 δευτερόλεπτα.<br/>
+firstInstall.bleRemotePairingScreen.title;;Σύνδεση τηλεχειριστηρίου
+firstInstall.bleRemotePairingSuccessScreen.description;;Ο αποκωδικοποιητής έχει συγχρονίσει με το τηλεχειριστήριο.
+firstInstall.bleRemotePairingSuccessScreen.title;;Επιτυχής σύνδεση
+firstInstall.buttons.ATP;;ATP
+firstInstall.buttons.I&D;;I&D
+firstInstall.buttons.agree;;Συμφωνώ
+firstInstall.buttons.back;;Προηγούμενο
+firstInstall.buttons.deepMode;;Υψηλή κατανάλωση
+firstInstall.buttons.developerMode;;Developer Mode
+firstInstall.buttons.disagree;;Διαφωνώ
+firstInstall.buttons.instantMode;;Χαμηλή κατανάλωση
+firstInstall.buttons.manual;;Χειροκίνητα
+firstInstall.buttons.moreInfo;;Περισσότερες πληροφορίες
+firstInstall.buttons.reset;;Επαναφορά
+firstInstall.buttons.skipScanning;;Παράβλεψη
+firstInstall.buttons.tryAgainWithEthernet;;Προσπαθήστε ξανά
+firstInstall.buttons.updateAndReboot;;Αναβάθμιση & Επανεκκίνηση
+firstInstall.buttons.validate;;Επιβεβαίωση
+firstInstall.cheatMenuScreen.desc;;Τοπικές ρυθμίσεις
+firstInstall.cheatMenuScreen.title;;Μενού
+firstInstall.consent.description;;Για να έχετε εξατομικευμένες προτάσεις μπορείτε να συμφωνήσετε ή να διαφωνήσετε με τους όρους.
+firstInstall.contentSettingsScreen.automaticRecordingsAgreement.title;;Αυτόματη εγγραφή όλων των καναλιών για παρακολούθηση παλαιότερων προγραμμάτων.
+firstInstall.contentSettingsScreen.recommendationsAgreement.title;;Εμφάνιση προτάσεων για ταινίες και τηλεοπτικές εκπομπές
+firstInstall.contentSettingsScreen.title;;Ρυθμίσεις περιεχομένου
+firstInstall.firmwareUpdateScreen.desc;;Παρακαλώ εγκαταστήστε τις διαθέσιμες ενημερώσεις. Η συσκευή σας θα κάνει επανεκκίνηση μόλις ολοκληρωθούν οι ενημερώσεις.
+firstInstall.firmwareUpdateScreen.title;;Ενημερώσεις
+firstInstall.irRfRemotePairLaterScreen.description;;Για σύνδεση, πατήστε τα πλήκτρα 3 και το κίτρινο ταυτόχρονα για 5 δευτερόλεπτα.<br/>Για αποσύνδεση, πατήστε τα πλήκτρα 3 και το κίτρινο ταυτόχρονα για 5 δευτερόλεπτα.<br/>Εάν δεν τα καταφέρατε, μπορείτε να δοκιμάσετε αργότερα. Το χειριστήριο θα λειτουργεί με λιγότερες δυνατότητες.
+firstInstall.irRfRemotePairingScreen.description;;Για να συγχρονίσετε το τηλεχειριστήριο σας με τη Vodafone TV, πατήστε ταυτόχρονα το πλήκτρο 3 και το κίτρινο πλήκτρο για 5 δευτερόλεπτα.
+firstInstall.irRfRemotePairingScreen.title;;Σύνδεση τηλεχειριστηρίου
+firstInstall.irRfRemotePairingSuccessScreen.description;;Ο αποκωδικοποιητής και το τηλεχειριστήριο έχουν συγχρονίσει
+firstInstall.irRfRemotePairingSuccessScreen.title;;Επιτυχής σύνδεση
+firstInstall.powerSaving.description;;Εάν θέλετε να χρησιμοποιήσετε το Φωνητικό έλεγχο ή να παίξετε μουσική από Bluetooth ή το Spotify όταν ο αποκωδικοποιητής είναι σε αναμονή, αυτή η επιλογή πρέπει να είναι ΑΝΕΝΕΡΓΗ. <br><br><br><br>Μπορείτε να αλλάξετε αυτή την επιλογή από της ρυθμίσεις του αποκωδικοποιητή αργότερα
+firstInstall.powerSaving.title;;Energy Saving
+firstInstall.powerSaving.turnOff;;Απενεργοποίηση
+firstInstall.powerSaving.turnOn;;Ενεργοποίηση
+firstInstall.progressbar.complete.label;;Η σάρωση των καναλιών ολοκληρώθηκε
+firstInstall.progressbar.label;;Αναζήτηση καναλιών σε εξέλιξη %1%
+firstInstall.recommendationsMoreInfoScreen.description;;Ταινίες και τηλεοπτικές εκπομπές για εσάς<br/><br/>Μην χάσετε τις εξατομικευμένες προτάσεις περιεχομένου για εσάς σύμφωνα με αυτά που παρακολουθείτε, εγγράφετε ή νοικιάζετε. Πατήστε OK ή ενεργοποιήστε την επιλογή για προτάσεις από το μενού των ρυθμίσεων.<br/><br/>
+firstInstall.recommendationsMoreInfoScreen.title;;Προτεινόμενα
+firstInstall.recoverPwdScreen.description;;Σαρώστε αυτό το QR με την κάμερα ενός Smart κινητού. Μέσα από το περιβάλλον του κινητού σας θα μεταφερθείτε στην σελίδα https://www.vodafone.gr/login/. Εκεί πατήστε στην επιλογή ξέχασα τον κωδικό μου, για να ανακτήσετε τον κωδικό του VTV λογαριασμού σας.
+firstInstall.recoverPwdScreen.subtitle;;Σαρώστε τον QR κωδικό
+firstInstall.recoverPwdScreen.title;;Ανάκτηση του κωδικού πρόσβασης
+firstInstall.scanSummaryScreen.description.fail;;Δεν βρέθηκαν κανάλια. <br/>Παρακαλώ δοκιμάστε ξανά ή επισκεφτείτε την σελίδα μας www.vodafone.gr/tv/.
+firstInstall.scanSummaryScreen.description.fail.OTTOnly;;Δεν βρέθηκαν κανάλια. Ελέγξτε ότι το δίκτυο σας λειτουργεί και δοκιμάστε ξανά.
+firstInstall.scanSummaryScreen.description.fail.cable;;Δεν βρέθηκαν κανάλια. Ελέγξτε ότι το καλώδιο είναι σωστά συνδεδεμένο και δοκιμάστε ξανά.
+firstInstall.scanSummaryScreen.description.fail.ftth;;Δεν βρέθηκαν κανάλια. Ελέγξτε ότι το καλώδιο είναι σωστά συνδεδεμένο και δοκιμάστε ξανά.
+firstInstall.scanSummaryScreen.description.partial;;<div class='halfSummary'>Επίγεια<div class='channelsSummary'><div>%1 Κανάλια</div><div>%2 Ρ/Φ σταθμοί</div></div></div><div class='halfSummary'>Vodafone TV<div class='channelsSummary'>%3 Κανάλια</div></div></div>Η αναζήτηση καναλιών ολοκληρώθηκε. 
+firstInstall.scanSummaryScreen.description.partial.cable;;firstInstall.scanSummaryScreen.description.partial.cable
+firstInstall.scanSummaryScreen.description.partial.ftth;;firstInstall.scanSummaryScreen.description.partial.ftth
+firstInstall.scanSummaryScreen.description.success;;Η αναζήτηση ολοκληρώθηκε.<br/>Βρέθηκαν τα ακόλουθα κανάλια<br/><div class='halfSummary'>Ελέυθερα <div class='channelsSummary'><div>%1 Κανάλια</div><div>%2 Ρ/Φ σταθμοί</div></div></div><div class='halfSummary'>Vodafone TV<div class='channelsSummary'>%3 Κανάλια</div></div></div>
+firstInstall.scanSummaryScreen.description.success.OTTOnly;;Η σάρωση καναλιών ολοκληρώθηκε.<br/> Βρέθηκαν τα ακόλουθα κανάλια:<br/><div class='halfSummary'>Vodafone TV<div class='channelsSummary'>%1 Κανάλια</div></div></div>
+firstInstall.scanSummaryScreen.description.success.cable;;Η αναζήτηση των καναλίων ολοκληρώθηκε.<br/>Βρέθηκαν: <br/><div class='halfSummary'>Καλωδιακά κανάλια<div class='channelsSummary'><div>%1 TV</div><div>%2 Ραδιοφωνικοί σταθμοί</div></div></div><div class='halfSummary'>IP Κανάλια<div class='channelsSummary'>%3 Μεσω Κεραίας</div></div></div>
+firstInstall.scanSummaryScreen.description.success.ftth;;Channel Search Finished.<br/>Βρέθηκαν:<br/><div class='halfSummary'>IP κανάλια<div class='channelsSummary'><div>%1 TV</div><div>%2 Ραδιοφωνικοί σταθμοί</div></div></div><div class='halfSummary'>Internet κανάλια <div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.standbyModeSelectionScreen.desc;;Παρακαλώ επιλέξτε λειτουργία εξοικονόμησης ενέργειας<br><br>Η χαμηλή εξοικονόμηση συνεπάγεται ότι το Vodafone TV θα εκκινεί πιο γρήγορα (αλλά εξοικονομεί λιγότερη ενέργεια)<br><br>Η υψηλή εξοικονόμηση συνεπάγεται ότι το Vodafone TV θα εκκινεί πιο αργά (αλλά θα εξοικονομεί περισσότερη ενέργεια)
+firstInstall.standbyModeSelectionScreen.title;;Λειτουργία αναμονής
+firstInstall.startChannelsScanScreen.description.cable;;Έναρξη σάρωσης καναλιών
+firstInstall.startChannelsScanScreen.description.ftth;;Η αναζήτηση έχει βρει διαθέσιμος τηλεοπτικούς και ραδιοφωνικούς<br/> σταθμούς.
+firstInstall.unpairRfRemoteScreen.description;;Πιέστε και κρατήστε το κίτρινο κουμπί και το 3 για να συγχρονίσετε το τηλεχειριστήριο σας.
+firstInstall.wifiBandwidthStateScreen.buttons.retry;;Δοκιμάστε πάλι
+firstInstall.wifiNetworkErrorScreen.wirelessConnectionError;;Η σύνδεση μέσω wi-fi δεν ήταν επιτυχής, Παρακαλώ δοκιμάστε ξανά.
+firstInstall.wifiNetworkSelector.wps;;WPS
+firstInstall.wiredNetworkScreen.noInternet;;SC115 Αδυναμία σύνδεσης.<br/>Παρακαλώ προσπαθήστε αργότερα ή επικοινωνήστε με τον ToBi στο www.vodafone.gr για βοήθεια.
+folder.bundle.includes;;Περιεχόμενα
+folder.button.confirm;;Επιβεβαίωση
+folder.button.selfcare.subscribe;;Συνδρομή
+folder.button.subscribe;;Συνδρομή %1/ μήνα
+folder.button.subscribed;;Συνδρομή
+folder.channelGrid.title;;Κανάλια από %1
+folder.subscriptionType.app;;Συνδρομή εφαρμογής
+folder.subscriptionType.individualLinearChannel;;Συνδρομητικό κανάλι
+folder.subscriptionType.pack;;Συνδρομητικό πακέτο
+ftu.welcome.scanQR.button.description;;Εάν έχετε την εφαρμογή Vodafone TV στο κινητό σας, συνδεθείτε πιο γρήγορα με αυτή την επιλογή χρησιμοποιόντας την κάμερα του κινητού.
+ftu.welcome.signUp.buttonText;;Σύνδεση
+gdpr.consent;;Συγκατάθεση
+gdpr.notice;;Όροι
+gdpr.privacy;;Πολιτική απορρήτου
+gdpr.privacy.consent.ads.description;;Για να λάβετε εξατομικευμένες διαφημίσεις πρέπει να δώσετε τη συγκατάθεση σας.
+gdpr.privacy.consent.confirmation;;"Μη συμφωνώντας δεν θα λαμβάνετε προτάσεις για ταινίες και σειρές καθώς και άλλες πρόσθετες λειτουργίες που δίνουν καλύτερη εμπειρία στο Vodafone TV. <br/>Είστε βέβαιοι ότι θέλετε να προχωρήσετε με αυτή την επιλογή;"
+gdpr.privacy.consent.description;;Για να χρησιμοποιήσετε τις προτάσεις, πρέπει να συμφωνήσετε με αυτήν τη δήλωση.
+gdpr.privacy.consent.kids.description;;Για να έχετε την πλήρη εμπειρία της εφαρμογής για παιδιά, πρέπει να συμφωνήσετε με αυτή τη δήλωση.
+gdpr.privacy.consent.title;;Συγκατάθεση απορρήτου
+gdpr.privacy.default.notice;;"Vodafone TV - Δήλωση σχετικά με την επεξεργασία των προσωπικών δεδομένων<br/><br/>Ο σκοπός της παρούσας δήλωσης είναι να δώσει πρόσθετες πληροφορίες στους συνδρομητές σχετικά με την επεξεργασία των δεδομένων τους που γίνεται από την Εταιρεία στο πλαίσιο παροχής της Υπηρεσίας Ψηφιακής Τηλεόρασης «Vodafone TV» είτε μέσω του ψηφιακού εξοπλισμού  είτε μέσω της εφαρμογής Vodafone TV App. Για γενικές πληροφορίες σχετικά με την επεξεργασία των προσωπικών σας δεδομένων, συμπεριλαμβανομένων των δεδομένων που επεξεργαζόμαστε όταν σας παρέχουμε την Υπηρεσία Vodafone TV ως μέρος των τηλεπικοινωνιακών μας υπηρεσιών, μπορείτε να μπείτε εδώ για να διαβάσετε την «Πολιτική μας για την προστασία της Ιδιωτικότητας και των Προσωπικών Δεδομένων».<br/><br/>Ποιοι είμαστε: Η Vodafone -Πάναφον Α.Ε.Ε.Τ. είναι μέλος του Ομίλου Vodafone και ο υπεύθυνος επεξεργασίας των προσωπικών σας δεδομένων. Η έδρα μας είναι στην οδό Τζαβέλλα 1-3, Χαλάνδρι Αττικής, T.K. 152 31. Για περισσότερες λεπτομέρειες σχετικά με τον τρόπο με τον οποίο μπορείτε να επικοινωνήσετε μαζί μας δείτε παρακάτω την παράγραφο της παρούσας δήλωσης με τίτλο Πως να επικοινωνήσετε μαζί μας.Στην παρούσα δήλωση : ""Εμείς / εμάς"" αναφέρεται στην Vodafone -Πάναφον Α.Ε.Ε.Τ. ,""Τρίτο μέρος"" αναφέρεται σε οποιονδήποτε εκτός από εσάς,  την Vodafone -Πάναφον Α.Ε.Ε.Τ. ή οποιοδήποτε μέλος του Ομίλου Vodafone και ""Vodafone"" ή ""Όμιλος Vodafone""  νοείται η Vodafone Group Plc και κάθε εταιρεία ή άλλος οργανισμός στον οποίο η Vodafone Group Plc κατέχει ποσοστό 50% ή μεγαλύτερο του μετοχικού κεφαλαίου.Προσωπικά δεδομένα που συλλέγουμε για εσάς.<br/><br/>Οι κατηγορίες των δεδομένων που συλλέγουμε και επεξεργαζόμαστε όταν παρακολουθείτε Vodafone TV είτε μέσω της του ψηφιακού εξοπλισμού (set-top box) είτε μέσω της εφαρμογής Vodafone TV App, είναι οι ακόλουθες:<br/><br/>Προσωπικά στοιχεία, όπως όνομα, ημερομηνία γέννησης, διεύθυνση κατοικίας, Α.Φ.Μ., διεύθυνση ηλεκτρονικού ταχυδρομείου,Τα διαπιστευτήρια σας, όπως όνομα χρήστη, κωδικό και συναφή στοιχεία που απαιτούνται για την ταυτοποίησή σας και την πρόσβασή σας στο λογαριασμό και την Υπηρεσία,Πληροφορίες σχετικά με το λογαριασμό σας, όπως το πρόγραμμα ή πακέτο που έχετε επιλέξει και τις επιλογές που έχετε ρυθμίσει κατά τη χρήση της Υπηρεσίας, Το ιστορικό των επιλογών σας και τις προτάσεις που σας έχουμε κάνει, Τις προτιμήσεις και συνήθειες σας κατά τη χρήση της Υπηρεσίας ,Τη μεταξύ μας επικοινωνία - όπως η καταγραφή ή μαγνητοφώνηση μίας κλήσης που πραγματοποιείτε προς κάποιο τηλεφωνικό μας κέντρο, όποτε τούτο σύμφωνα με την νομοθεσία επιτρέπεται, ενός e-mail, μίας επιστολής ή οποιασδήποτε άλλης μορφής επικοινωνίας επιχειρήσετε Πληροφορίες σχετικά με τις πληρωμές σας, όπως για παράδειγμα αγορά ταινιών μέσω της υπηρεσίας Video on demand, Πληροφορίες σχετικά με τον εξοπλισμό, τη συσκευή ή το set top box σας.<br/><br/>Για παράδειγμα συλλέγουμε στοιχεία για την κατηγορία της συσκευής κινητού που χρησιμοποιείτε και τον μοναδικό αριθμό ταυτοποίησης αυτής ή το σειριακό αριθμό εξοπλισμού set top box ή τη διεύθυνση ελέγχου πρόσβασης στο set top box κτλ.Τα δεδομένα θέσης σας, εφόσον έχετε ενεργοποιήσει το σύστημα εντοπισμού όταν παρακολουθείτε Vodafone TV μέσω του κινητού σας ή όταν η τοποθεσία σας προκύπτει από την IP address σας ή τη διεύθυνση κατοικίας σας ή τη διεύθυνση αποστολής του λογαριασμού σας. Επίσης, συλλέγουμε πληροφορίες σχετικά με τη χρήση της Υπηρεσίας Vodafone TV από τους συνδρομητές,  όπως: Στοιχεία σχετικά με το επίπεδο και την ποιότητα της υπηρεσίας που λαμβάνετε, όπως για παράδειγμα βλάβες ή τεχνικά προβλήματα που ενδέχεται να αντιμετωπίζετε και να επηρεάζουν τη χρήση της Υπηρεσίας. Λεπτομέρειες σχετικά με το περιεχόμενο της Υπηρεσίας, όπως για παράδειγμα εάν κάποιο περιεχόμενο είναι ιδιαίτερα δημοφιλές ή έχει μεγαλύτερη ζήτηση και Ανώνυμα αναλυτικά στοιχεία για τη χρήση της εφαρμογής Vodafone TV App με σκοπό τη βελτίωση της εμπειρίας πελάτη και την αντιμετώπιση τυχόν τεχνικών προβλημάτων. Πότε συλλέγουμε τα δεδομένα σας Η συλλογή των δεδομένων σας πραγματοποιείται όταν:Αγοράζετε για πρώτη φορά την Υπηρεσία Vodafone TV ή όταν προσθέτετε νέες υπηρεσίες/πακέτα,Παρακολουθείτε ή αγοράζετε περιεχόμενο από την Υπηρεσία Vodafone TV ή όταν κάνετε χρήση της εφαρμογής Vodafone TV App, ήΕπικοινωνείτε με τις ομάδες εξυπηρέτησης πελατών μας για την υποβολή ενός αιτήματος ή παραπόνου. Η Vodafone επεξεργάζεται τα προσωπικά σας δεδομένα με βάση τα ακόλουθα:Την εξυπηρέτηση  της σύμβασής σας με τη Vodafone τόσο μετά τη σύναψη όσο και κατά το προσυμβατικό στάδιο αυτής και την επεξεργασία τυχόν αιτημάτων σας, συμπεριλαμβανομένων, παραδείγματος χάρη, των στοιχείων για την έκδοση του μηνιαίου λογαριασμού σας για την πληρωμή της Υπηρεσίας ή Τα έννομα επιχειρηματικά συμφέροντα της Vodafone, συμπεριλαμβανομένης, παραδείγματος χάριν, της πρόληψης απάτης, της διατήρησης ασφάλειας των συστημάτων μας, της επίτευξης των στόχων μας για προωθητικές ενέργειες, καθώς και της βελτίωσης των υπηρεσιών και των προϊόντων μας. Όποτε βασιζόμαστε σε αυτή τη νoμιμοποιητική βάση για να επεξεργαστούμε τα δεδομένα σας, αξιολογούμε πάντοτε τα επιχειρηματικά μας συμφέροντα για να βεβαιωθούμε ότι δεν υπερισχύουν των δικαιωμάτων σας. Επιπλέον, σε ορισμένες περιπτώσεις έχετε το δικαίωμα να αντιταχθείτε στην επεξεργασία αυτή. Για περισσότερες πληροφορίες, επισκεφθείτε την ενότητα ""Τα δικαιώματά σας"" της παρούσας δήλωσης. Τη συμμόρφωση με μια νομική ή κανονιστική υποχρέωση, συμπεριλαμβανομένων, για παράδειγμα, λογιστικών και φορολογικών απαιτήσεων, οι οποίες υλοποιούνται βάσει των εσωτερικών πολιτικών και διαδικασιών της. Τη συγκατάθεση που παρέχετε, όταν η Vodafone δεν βασίζεται σε άλλη νομική βάση. Η συγκατάθεσή σας αυτή μπορεί να ανακληθεί ανά πάσα στιγμή. Χρήση των δεδομένων σας. Η επεξεργασία των δεδομένων σας πραγματοποιείται για τους ακόλουθους σκοπούς: Για να ενεργοποιήσουμε την Υπηρεσία Vodafone TV βάσει της μεταξύ μας σύμβασης. Για να διαχειριζόμαστε το περιεχόμενο και να βελτιώνουμε την εμπειρία της Υπηρεσίας Vodafone TV. Για να διενεργούμε ελέγχους πιστοληπτικής ικανότητας, στις περιπτώσεις που υποβάλετε αίτηση για σύμβαση παροχής υπηρεσιών και να αξιολογούμε τη σχετική αίτηση. Για να σας τιμολογούμε για τη χρήση της Υπηρεσίας ή/και για πρόσθετο περιεχόμενο και να ολοκληρώνουμε την εξόφληση των λογαριασμών σας. Για να απαντάμε στα ερωτήματα ή τους προβληματισμούς σας αναφορικά με τη χρήση του δικτύου, των προϊόντων ή της Υπηρεσίας μας. Για να σας πληροφορούμε γενικά για νέα προϊόντα και υπηρεσίες,εκτός αν έχετε επιλέξει να μη λαμβάνετε προωθητικά μηνύματα. Για να κατανοούμε τον τρόπο που χρησιμοποιείτε το δίκτυο, τα προϊόντα και την Υπηρεσία μας. Με αυτό τον τρόπο, μπορούμε να αναπτύξουμε πιο ενδιαφέροντα προϊόντα και υπηρεσίες, προσαρμοσμένες στις ανάγκες σας, καθώς και να σας προτείνουμε προϊόντα και υπηρεσίες προσαρμοσμένες στις ανάγκες και τις προτιμήσεις σας. Παραδείγματος χάριν, τέτοιου είδους επεξεργασία πραγματοποιείται μέσω της Μηχανής Προτάσεων της Υπηρεσίας Vodafone TV,Recommendation Engine, η οποία, με τη χρήση αυτοματοποιημένων μέσων, συλλέγει και επεξεργάζεται τις επιλογές περιεχομένου του συνδρομητή με σκοπό να προτείνει, μέσω της σχετικής προβολής στον κατάλογο περιεχομένου, αντίστοιχα προϊόντα ή προγράμματα προσαρμοσμένα στις προτιμήσεις του συγκεκριμένου συνδρομητή. Για να προβαίνουμε σε ελέγχους και στις απαιτούμενες ενέργειες για την προστασία του δικτύου μας, της Υπηρεσίας και του περιεχόμενου αυτής από παράνομη ή μη ορθή χρήση ή άλλες εγκληματικές ενέργειες καθώς και για την επαλήθευση του κράτους -μέλους διαμονής του Συνδρομητή, με βάση τα προβλεπόμενα στην ισχύουσα νομοθεσία για τη διασυνοριακή φορητότητα. Να παρέχουμε σε τρίτα μέρη στατιστικές πληροφορίες που αφορούν τους συνδρομητές . Διαβίβαση των προσωπικών σας δεδομένων. Ενδέχεται να μοιραστούμε δεδομένα που σας αφορούν με: Εταιρίες του Vodafone Group. Προμηθευτές και συνεργάτες, οι οποίοι μετέχουν στη διαδικασία παροχής των προϊόντων και υπηρεσιών που έχετε παραγγείλει ή χρησιμοποιείτε. Εταιρίες που έχουν αναλάβει να παρέχουν υπηρεσίες στο ή για λογαριασμό του Vodafone Group. Φορείς και οργανισμούς καταπολέμησης της απάτης, καταλόγους επιχειρήσεων και υπηρεσίες πληροφοριών πιστοληπτικής ικανότητας. Δικηγορικές εταιρίες/δικηγόρους, ή εταιρίες ενημέρωσης οφειλετών,  ή οργανισμούς με συναφή δραστηριότητα. Αστυνομικές και εποπτικές αρχές, διοικητικούς φορείς, δικαστικές ή άλλες δημόσιες αρχές στις οποίες είτε οφείλουμε να παρέχουμε πληροφορίες είτε αυτές εξουσιοδοτούνται από το νόμο να τις ζητούν. Eνδέχεται να χρειαστεί να διαβιβάσουμε προσωπικά σας δεδομένα σε άλλες εταιρείες του Ομίλου Vodafone ή σε τρίτους που βρίσκονται σε χώρες εκτός της χώρας όπου εργάζεστε, συμπεριλαμβανομένων χωρών εκτός του Ευρωπαϊκού Οικονομικού Χώρου. Αν στείλουμε προσωπικά δεδομένα σχετικά με εσάς σε χώρα που δεν ανήκει στον ΕΟΧ, θα διασφαλίσουμε ότι υπάρχει νομική βάση για μια τέτοια μεταφορά και ότι τα προσωπικά σας δεδομένα προστατεύονται επαρκώς, όπως απαιτείται από την ισχύουσα νομοθεσία, για παράδειγμα μέσω τυποποιημένων συμφωνιών που έχουν εγκριθεί από τις αρμόδιες αρχές και απαιτούν τη χρήση άλλων κατάλληλων τεχνικών και οργανωτικών μέτρων για την προστασία των προσωπικών σας δεδομένων. Πόσο καιρό διατηρούμε τα προσωπικά σας δεδομένα. Διατηρούμε τα δεδομένα σας, είτε σε έντυπη, είτε σε ηλεκτρονική μορφή, για όσο χρονικό διάστημα είναι σε ισχύ η σύμβασή σας και προβλέπεται κατά περίπτωση από την ισχύουσα νομοθεσία. Εφόσον δεν έχουμε υποχρέωση τήρησης από το νόμο, θα διαγράψουμε τα δεδομένα σας αμέσως μόλις σταματήσουμε να τα χρειαζόμαστε για κάποιον από τους ανωτέρω σκοπούς. Ωστόσο, θα τηρήσουμε ορισμένα προσωπικά δεδομένα σας για ένα εύλογο χρονικό διάστημα μετά την καθ’ οιονδήποτε τρόπο λήξη ή λύση της σύμβασή σας. Σε κάθε περίπτωση, υπό την προϋπόθεση ότι μετά την καθ’ οιονδήποτε τρόπο λήξη ή λύση της σύμβασης βρίσκεται σε εκκρεμότητα οφειλή, ή αίτημα επίλυσης διαφοράς, ή καταγγελία του συνδρομητή ενώπιον αρμόδιας διοικητικής, δημόσιας ή Δικαστικής Αρχής, τα εν λόγω δεδομένα διατηρούνται μέχρι την οριστική επίλυση της διαφοράς. Η Εταιρία μας, ή κάποιος από τους συνεργάτες μας, ενδέχεται να επικοινωνήσει μαζί σας μέσα σε αυτό το εύλογο χρονικό διάστημα, προκειμένου να σας ενημερώσουμε για τις υπηρεσίες της Vodafone, εκτός εάν έχετε απεγγραφεί από τις λίστες των προωθητικών ενεργειών. Ασφάλεια και προστασία προσωπικών δεδομένων . Έχουμε δημιουργήσει εξειδικευμένες ομάδες που ελέγχουν και βελτιώνουν διαρκώς τα μέτρα προστασίας των προσωπικών σας δεδομένων από μη εξουσιοδοτημένη χρήση, τυχαία απώλεια, διάδοση ή καταστροφή. . Στις περιπτώσεις που ένα φυσικό ή νομικό πρόσωπο παρέχει σε εμάς ή για λογαριασμό μας υπηρεσίες που περιλαμβάνουν την επεξεργασία προσωπικών δεδομένων, διασφαλίζουμε ότι το συγκεκριμένο πρόσωπο εφαρμόζει τα κατάλληλα μέτρα προστασίας και επεξεργάζεται τα δεδομένα σύμφωνα με τον καθορισμένο τρόπο. Τα εν λόγω πρόσωπα δεν έχουν το δικαίωμα να επεξεργάζονται τα δεδομένα σας για δικούς τους σκοπούς. Οι ομάδες ασφαλείας μας πραγματοποιούν τακτικούς ελέγχους, ώστε να διασφαλίζουν τη συμμόρφωση των παραπάνω προσώπων προς τα κριτήρια που έχουμε θέσει. Η επικοινωνία μέσω διαδικτύου, όπως τα e-mails, δεν είναι ασφαλής χωρίς εφαρμογή κρυπτογράφησης. Οι επικοινωνίες που επιχειρείτε ενδέχεται να περιλαμβάνουν μεταφορά δεδομένων μέσω διαφόρων χωρών, λόγω της φύσης του διαδικτύου. Η Vodafone δεν αναλαμβάνει ευθύνη για οποιαδήποτε μη εξουσιοδοτημένη πρόσβαση ή απώλεια δεδομένων προσωπικού χαρακτήρα που δεν υπόκεινται στον άμεσο έλεγχό της. Τα δικαιώματά σας.Μπορείτε να επικοινωνήσετε μαζί μας, για να σας εξηγήσουμε ποια δεδομένα τηρούμε για εσάς, καθώς και τον ακριβή τρόπο με τον οποίο τα επεξεργαζόμαστε. Επιπλέον, μπορείτε ανά πάσα στιγμή να μας ζητήσετε αντίγραφο των προσωπικών δεδομένων που τηρούμε για εσάς. Εάν πιστεύετε ότι τα δεδομένα σας δεν είναι ακριβή, παρακαλούμε επικοινωνήστε μαζί μας,  ώστε να προβούμε στις απαιτούμενες  διορθώσεις. Σε περίπτωση που θεωρείτε ότι τα δεδομένα σας δεν υπόκεινται σε επεξεργασία για κάποιο συγκεκριμένο και νόμιμο σκοπό, μπορείτε να μας ζητήσετε να προχωρήσουμε σε διαγραφή τους. Μπορείτε να μας ζητήσετε να αναστείλουμε την επεξεργασία των προσωπικών δεδομένων σας ή να εναντιωθείτε σε αυτή για λόγους που σας αφορούν. Ειδικά στις περιπτώσεις που λαμβάνουμε αυτοματοποιημένες αποφάσεις, παρακαλούμε απευθυνθείτε σε εμάς, ώστε να σας επιτρέψουμε να παρέμβετε. Μπορείτε να ζητήσετε την εξαίρεσή σας από όλες τις προωθητικές ενέργειες ή να επιλέξετε να εξαιρεθείτε από ορισμένες μόνο μορφές εμπορικής επικοινωνίας,όπως το e-mail, τα γραπτά μηνύματα, το τηλέφωνο, κ.λ.π. Στην περίπτωση που δεν επιθυμείτε πλέον να λαμβάνετε προωθητικά μηνύματα μέσω e-mail, μπορείτε να απεγγραφείτε από τη λίστα μας. Μπορείτε να ζητήσετε την απευθείας διαβίβαση των δεδομένων προσωπικού χαρακτήρα, που σας αφορούν, στον οργανισμό που θα της υποδείξετε σύμφωνα με τη σχετική νομοθεσία. Αν δεν  είμαστε σε θέση να ικανοποιήσουμε οποιοδήποτε από τα παραπάνω αιτήματα, θα σας ενημερώνουμε εγκαίρως και αιτιολογημένα. H πολιτική cookies. Η Εταιρεία δύναται να χρησιμοποιεί στοιχεία «cookies» από τη χρήση της Υπηρεσίας για την διευκόλυνση πρόσβασης του Συνδρομητή σε ορισμένες υπηρεσίες, για στατιστικούς λόγους ή εν γένει για λόγους εμπορικής ανάπτυξης της Υπηρεσίας. Πώς να επικοινωνήσετε μαζί μας . Αν έχετε περαιτέρω απορίες σχετικά με την παρούσα δήλωση για την επεξεργασία των προσωπικών δεδομένων σας, μπορείτε να επικοινωνήσετε μαζί μας στην κάτωθι ηλεκτρονική  διεύθυνση data.privacy.gr@vodafone.com, ή τηλεφωνικώς με την Εξυπηρέτηση Πελατών στο τηλέφωνο 13830 Για οποιαδήποτε αλλαγή ή επικαιροποίηση της παρούσας δήλωσης θα σας ενημερώνουμε εγκαίρως."
+gdpr.privacy.notice.description;;Για να χρησιμοποιήσετε αυτήν την εφαρμογή, πρέπει να συμφωνήσετε με την δήλωση.
+gdpr.privacy.notice.title;;Πολιτική απορρήτου
+gdpr.privacy.settings.agree;;Συμφωνώ
+gdpr.privacy.settings.agreed;;Συμφωνώ
+gdpr.privacy.settings.agreedAll;;Συμφωνώ με όλα
+gdpr.privacy.settings.consent.description;;Για να χρησιμοποιήσετε τις προτάσεις, πρέπει να συμφωνήσετε με αυτήν τη δήλωση.
+gdpr.privacy.settings.description;;Δεν μπορείτε να αλλάξετε την επιλογή σας επιλέγοντας
+gdpr.privacy.settings.disagree;;Διαφωνώ
+gdpr.privacy.settings.disagreedAll;;Διαφωνώ με όλα
+gdpr.privacy.settings.notAgreed;;Δεν συμφωνώ
+gdpr.privacy.settings.notice.description;;Για να χρησιμοποιήσετε αυτήν την εφαρμογή, πρέπει να συμφωνήσετε με αυτή την δήλωση.
+gdpr.privacy.thirdPartyConsent.description;;
+gdpr.privacy.thirdPartyConsent.title;;Συγκατάθεση απορρήτου τρίτου μέρους
+hpvr.countdown.shortSeconds;;%1 δευτερόλεπτα
+hpvr.dismiss;;ΟΚ
+hpvr.formatDisk;;Διαμόρφωση δίσκου
+hpvr.hdd.connected;;Η τοπική μονάδα δίσκου είναι συνδεδεμένη
+hpvr.hdd.eject.popup.title;;Μόλις αποσυνδέσετε την τοπική σας μονάδα δίσκου, θα χάσετε τις τοπικές σας εγγραφέ(ς)
+hpvr.hdd.ongoing.eject.popup.title;;Μόλις αποσυνδέσετε την τοπική σας μονάδα δίσκου, θα χάσετε τις τοπικές σας εγγραφέ(ς)
+hpvr.hdd.recognized;;Η τοπική μονάδα δίσκου έχει αναγνωριστεί
+hpvr.hddFormat.popup.subtitle;;Μπορεί να χρειαστεί να διαμορφώσετε αυτή τη μονάδα δίσκου, αν το κάνετε, όλα τα αποθηκευμένα σε αυτήν θα διαγραφούν
+hpvr.hddFormat.popup.title;;Δεν είναι δυνατή η σύνδεση αυτής της τοπικής μονάδας δίσκου
+hpvr.hddFormatFailed.popup.subtitle;;Μπορείτε να δοκιμάσετε να μορφοποιήσετε ξανά την τοπική μονάδα δίσκου. Εάν το σφάλμα παραμένει, επικοινωνήστε με την Υποστήριξη Πελατών της Vodafone.
+hpvr.hddFormatFailed.popup.title;;Παρουσιάστηκε σφάλμα κατά τη μορφοποίηση της τοπικής μονάδας δίσκου.
+hpvr.hddFormatting.popup.subtitle;;hpvr.hddFormatting.popup.subtitle
+hpvr.hddFormatting.popup.title;;Ο τοπικός σας δίσκος διαμορφώνεται
+hpvr.hddFormattingDone.popup.subtitle;;Για να χρησιμοποιήσετε την τοπική μονάδα δίσκου για εγγραφές, θα χρειαστεί να κάνετε επανεκκίνηση του αποκωδικοποιητή.
+hpvr.hddFormattingDone.popup.title;;Η τοπική μονάδα δίσκου διαμορφώθηκε με επιτυχία.
+hpvr.hddNotRecognize.popup.subtitle;;Βεβαιωθείτε ότι έχετε συνδέσει την τοπική μονάδα δίσκου Vodafone TV
+hpvr.hddNotRecognize.popup.title;;Η τοπική μονάδα δίσκου δεν αναγνωρίζεται
+hpvr.hddPlugged.popup.subtitle;;Για να χρησιμοποιήσετε την τοπική μονάδα δίσκου για εγγραφή, θα χρειαστεί να κάνετε επανεκκίνηση του αποκωδικοποιητή. /n/n Ο αποκωδικοποιητής θα επανεκκινηθεί αυτόματα σε
+hpvr.hddPlugged.popup.title;;Συνδεδεμένη τοπική μονάδα δίσκου
+hpvr.newHddPlug;;Η τοπική μονάδα δίσκου είναι συνδεδεμένη
+hpvr.recording.cancelled;;Η εγγραφή ακυρώθηκε
+hpvr.recording.channelNotFound;;Δεν ήταν δυνατή η εκκίνηση της εγγραφής, επειδή το κανάλι δεν βρέθηκε
+hpvr.recording.completed;;Η εγγραφή ολοκληρώθηκε με επιτυχία
+hpvr.recording.deleted;;Η εγγραφή διαγράφηκε
+hpvr.recording.hddBufferOverflow;;Δεν ήταν δυνατή η ολοκλήρωση της εγγραφής λόγω υπερχείλισης σκληρού δίσκου
+hpvr.recording.noCASSessionAvailable;;Δεν ήταν δυνατή η ολοκλήρωση της εγγραφής λόγω έλλειψης διαθέσιμων περιόδων σύνδεσης CAS
+hpvr.recording.noEntitlement;;Δεν ήταν δυνατή η ολοκλήρωση της εγγραφής λόγω έλλειψης δικαιωμάτων στο περιεχόμενο
+hpvr.recording.noHDD;;Δεν ήταν δυνατή η ολοκλήρωση της εγγραφής λόγω αφαίρεσης του σκληρού δίσκου
+hpvr.recording.noHDDSpace;;Δεν ήταν δυνατή η ολοκλήρωση της εγγραφής λόγω μη ύπαρξης χώρου στο σκληρό δίσκο
+hpvr.recording.noHDDWritable;;Δεν ήταν δυνατή η ολοκλήρωση της εγγραφής λόγω αδιευκρίνιστου σφάλματος κατά την εγγραφή στο σκληρό δίσκο
+hpvr.recording.noSignal;;Δεν ήταν δυνατή η ολοκλήρωση της εγγραφής λόγω απώλειας σήματος
+hpvr.recording.noTunersAvailable;;Δεν ήταν δυνατή η ολοκλήρωση της εγγραφής λόγω έλλειψης διαθέσιμων δεκτών
+hpvr.recording.ongoing;;Η εγγραφή έχει ήδη ξεκινήσει
+hpvr.recording.partiallyCompleted;;Η εγγραφή ξεκίνησε αλλά διακόπηκε από το σύστημα
+hpvr.recording.scheduled;;Η εγγραφή προγραμματίστηκε με επιτυχία
+hpvr.restartLater;;Επανεκκίνηση αργότερα
+hpvr.restartNow;;Επανεκκίνηση τώρα
+hpvr.subtitle.hddDisconnectedInformations;;Πρέπει να επανασυνδέσετε την τοπική μονάδα δίσκου για να παρακολουθήσετε τοπικές εγγραφές
+hpvr.subtitle.localQuotaLimitReached;;Τοπικό όριο επετεύχθει
+hpvr.title.formattingStorage;;Ο σκληρός δίσκος έχει διαμορφωθεί.
+hpvr.title.hddDisconnected;;Ο τοπικός σας δίσκος αποσυνδέθηκε
+hpvr.title.localQuotaLimitReached;;Τοπικό όριο επετεύχθει
+hybridPvrNotification.lowStorageForRecord;;Μεταβείτε στο My Home / Εγγραφές και διαγράψτε ορισμένες εγγραφές για να ελευθερώσετε χώρο αποθήκευσης
+hybridPvrNotification.rescheduledRecording;;Επαναπρογραμματισμός εγγραφής
+hybridPvrNotification.rescheduledTo;;%1 <br>ως %2
+improvedRec.cancelEpisodes.selectEpisodes;;Επιλέξτε επεισόδια για ακύρωση
+improvedRec.deleteEpisodes.selectEpisodes;;Επιλέξτε επεισόδια προς διαγραφή
+improvedRec.deleteProtectedRecording.subtitle;;"Αυτή είναι μια προστατευμένη εγγραφή. Επιθυμείτε να την διαγράψετε;"
+improvedRec.deleteProtectedRecording.title;;"Διαγραφή προστατευμένης εγγραφής;"
+improvedRec.deleteProtectedRecordings.subtitle;;"Υπάρχουν προστατευμένες εγγραφές στην επιλογή σας. Είστε σίγουροι πως θέλετε να τις διαγράψετε;"
+improvedRec.deleteProtectedRecordings.title;;"Διαγραφή προστατευμένων εγγραφών;"
+improvedRec.episodeCancelledAndChooseOption.subtitle;;"Θέλετε να ακυρώσετε περισσότερα επεισόδια ή ολόκληρη τη σειρά;"
+improvedRec.episodeCancelledAndChooseOption.title;;Το επεισόδιο ακυρώθηκε με επιτυχία.
+improvedRec.episodeDeletedAndChooseOption.subtitle;;"Επιθυμείτε να διαγράψετε περισσότερα επεισόδια ή όλη την σειρά;"
+improvedRec.episodeDeletedAndChooseOption.title;;Το επεισόδιο διαγράφηκε επιτυχώς. 
+improvedRec.filters.all;;Όλες οι εγγραφές
+improvedRec.filters.genre.othersInfos;;"Οι προηγούμενες εγγραφές χωρίς κατηγορία θα παρουσιαστούν στην ενότητα ""Άλλα"""
+improvedRec.filters.genre.rail.allMovies;;Όλες οι ταινίες
+improvedRec.filters.genre.rail.allTvShows;;Όλα τα TV Show
+improvedRec.filters.scheduledRecordings;;Προγραμματισμένες εγγραφές
+improvedRec.infos.cloudPercentage;;%1% απέμεινε στο χώρο αποθήκευσης στο cloud
+improvedRec.infos.localPercentage;;%1% απέμεινε στον χώρο αποθήκευσης
+improvedRec.infos.recordings;;%1 Εγγραφές
+improvedRec.infos.selectedOf;;%1 από %2 επιλεγμένα
+improvedRec.infos.simplePercentage;;%1% του αποθηκευτικού χώρου έμεινε
+improvedRec.infos.updated.recordings;;%1 ενημερωμένες εγγραφές...
+improvedRec.manage.noItemSelected.cancelDescription;;Πρέπει να επιλέξετε τουλάχιστον ένα στοιχείο για να εκτελέσετε αυτήν την ενέργεια ακύρωσης.
+improvedRec.manage.noItemSelected.description;;Πρέπει να επιλέξετε τουλάχιστον μια εγγραφή για να διαγράψετε
+improvedRec.manage.noItemSelected.title;;Δεν έχετε επιλέξει κάποια εγγραφή
+improvedRec.manage.protectedDescription;;Έχετε προστατέψει επιτυχώς %1 των εγγραφών σας
+improvedRec.manage.protectedTitle;;Προστατευμένη εγγραφή
+improvedRec.manage.unprotectedDescription;;Προστατεύτηκαν επιτυχώς %1 εγγραφές
+improvedRec.manage.unprotectedTitle;;Μη προστατευμένη εγγραφή
+improvedRec.manageProtect.chooseBothRecordings;;Για να συνεχίσετε, πρέπει να αφαιρέσετε την προστασία από %1 τοπικές και %2 cloud εγγραφές.
+improvedRec.manageProtect.chooseCloudRecordings;;Για να συνεχίσετε πρέπει να επιλέξετε να μην προστατεύονται %1 εγγραφές.
+improvedRec.manageProtect.chooseLocalRecordings;;Για να συνεχίσετε, πρέπει να επιλέξετε να αφαιρέσετε την προστασία από %1 τοπικές εγγραφές.
+improvedRec.manageProtect.chooseUnprotect;;Όριο προστατευμένων εγγραφών. Έχετε επιλέξει %1 εγγραφές. Μπορείτε να προστατεύσετε έως και %2 εγγραφές
+improvedRec.manageProtect.exceedProtected;;Πολλές προστατευμένες
+improvedRec.manageProtect.maxAndLeftRecordings;;Προσπαθείτε να προστατέψετε το %1 εγγραφών ενώ μπορείτε να προστατεύσετε μόνο το %2
+improvedRec.manageProtect.maxAndLeftRecordingsBoth;;Προσπαθείτε να προστατεύσετε το %1 των εγγραφών στο cloud και το %2 των τοπικών εγγραφών ενώ μπορείτε να προστατεύσετε μόνο το %3 έκαστων.
+improvedRec.manageProtect.maxAndLeftRecordingsCloud;;Προσπαθείτε να προστατεύσετε το %1 των εγγραφών στο cloud ενώ μπορείτε να προστατεύσετε μόνο το %2
+improvedRec.manageProtect.maxAndLeftRecordingsLocal;;Προσπαθείτε να προστατεύσετε το %1 των τοπικών εγγραφών ενώ μπορείτε να προστατεύσετε μόνο το %2
+improvedRec.manageProtect.maximumBothProtected;;Μπορείτε να προστατεύσετε μόνο το %1 των Cloud και τοπικών σας εγγραφών
+improvedRec.manageProtect.maximumCloudProtected;;Μπορείτε να προστατεύσετε μόνο το %1 των Cloud εγγραφών σας
+improvedRec.manageProtect.maximumLocalProtected;;Μπορείτε να προστατεύσετε μόνο το %1 των τοπικών σας εγγραφών
+improvedRec.manageProtect.maximumProtected;;Μπορείτε να προστατέψετε έως <b>%1 εγγραφές</b>.
+improvedRec.manageProtect.selectUnprotect;;Επιλέξτε Μη προστασία για να επιβεβαιώσετε την επιλογή.
+improvedRec.manageProtect.title;;Διαχείριση προστατευμένων εγγραφών
+improvedRec.notification.cancelRecordings.description;;Ακυρώθηκαν με επιτυχία %1 επεισόδια
+improvedRec.notification.cancelRecordings.title;;Ακυρωμένες εγγραφές
+improvedRec.notification.deleteRecordings.description;;Διαγράφηκαν επιτυχώς %1 επεισόδια
+improvedRec.notification.deleteRecordings.title;;Διαγραφή εγγραφών
+improvedRec.option.cancel;;Άκυρο
+improvedRec.option.cancelAll;;Ακύρωση όλων
+improvedRec.option.cancelSeries;;Ακύρωση εγγραφής σειράς
+improvedRec.option.delete;;Διαγραφή
+improvedRec.option.deleteAll;;Διαγραφή όλων
+improvedRec.option.deleteSeries;;Διαγραφή σειράς
+improvedRec.option.deleteUnprotect;;Διαγραφή μη προστατευόμενων
+improvedRec.option.deselectSeason;;Αποεπιλογή  σεζόν %1
+improvedRec.option.manage;;Διαχείριση
+improvedRec.option.protect;;Προστατευμένη εγγραφή
+improvedRec.option.selectSeason;;Επιλογή Σεζόν %1
+improvedRec.option.selectSingleEpisodes;;Επιλογή επεισοδίων
+improvedRec.option.showProtected;;Εμφάνιση όλων των προστατευμένων
+improvedRec.option.unprotect;;Μη προστατευμένη εγγραφή
+improvedRec.seriesSelected.subtitle;;"Θέλετε να επιλέξετε ολόκληρη τη σειρά ή μεμονωμένα επεισόδια;"
+improvedRec.seriesSelected.title;;Επιλέξατε μια σειρά
+improvedRec.userAgreement.subtitle;;"Είστε σίγουροι;"
+improvedRec.userAgreementForSeries.title;;"Διαγραφή σειράς;"
+improvedRec.userAgreementForUnprotected.title;;"Διαγραφή μη προστατευμένων επεισοδίων;"
+improvedRecordings.cloud.leftSpace;;Έχετε μόνο το <b> %1% των εγγραφών στο cloud</b>.
+improvedRecordings.local.leftSpace;;Έχετε μόνο το <b> %1% των τοπικών εγγραφών</b>.
+improvedRecordings.scheduled.recordingClashes;;Εγγραφές συμπίπτουν
+improvedRecordings.scheduled.seriesRecordings;;Εγγραφές σειρών
+improvedRecordings.scheduled.singleRecordings;;Μονές εγγραφές
+jpn;;jpn
+keyboard.search.otherPlaceholderText;;Πιέστε <div class='microIcon'></div> για να ενεργοποιήσετε τον φωνητικό έλεγχο
+kids.PIN.turnOff;;ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ
+kids.PIN.turnOn;;ΕΝΕΡΓΟΠΟΙΗΣΗ
+kids.accept.consent;;Για αποδοχή της δήλωσης
+kids.accept.notice;;Για αποδοχή ειδοποίησης
+kids.actors;;ΗΘΟΠΟΙΟΙ
+kids.agreed;;Συμφωνώ
+kids.back;;ΠΡΟΗΓΟΥΜΕΝΟ
+kids.bedtime.turnedOnFrom;;Ενεργοποίηση από %1 έως %2
+kids.cancel;;Ακύρωση
+kids.characters;;Χαρακτήρες
+kids.common.continue;;ΣΥΝΕΧΙΣΤΕ
+kids.countdown.cancel;;Άκυρο
+kids.countdown.change;;Άλλαξε
+kids.countdown.changeTimerSettings;;ΓΙΑ ΝΑ ΟΡΙΣΕΤΕ ΤΟ ΧΡΟΝΙΚΟ ΠΕΡΙΘΩΡΙΟ
+kids.countdown.clearCountdown;;ΜΗΔΕΝΙΣΜΟΣ ΧΡΟΝΙΚΟΥ ΠΕΡΙΘΩΡΙΟΥ
+kids.countdown.overrideBedtime;;"ΘΕΛΕΤΕ ΝΑ ΑΛΛΑΞΕΤΕ ΤΗΝ ΩΡΑ ΥΠΝΟΥ;<br/>Η ΩΡΑ ΥΠΝΟΥ ΕΙΝΑΙ ΣΕ %3 ΩΡΕΣ ΚΑΙ %4 ΛΕΠΤΑ."
+kids.countdown.shortSeconds;;%1 ΔΕΥΤΕΡΟΛΕΠΤΟ
+kids.countdown.startCountdown;;ΞΕΚΙΝΗΣΤΕ ΤΟ ΧΡΟΝΙΚΟ ΠΕΡΙΘΩΡΙΟ
+kids.countdown.updateCountdown;;Αλλαγή χρονικού περιθωρίου
+kids.countdown.useBedtimeLimit;;ΕΝΕΡΓΟΠΟΙΗΣΗ ΤΟΥ ΚΛΕΙΔΩΜΑΤΟΣ ΩΡΑΣ ΥΠΝΟΥ
+kids.disagreed;;Διαφωνώ
+kids.exit;;ΕΞΟΔΟΣ
+kids.explanatoryCard.subtitle.text;;Δεν υπάρχει περιεχόμενο
+kids.explanatoryCard.title.text;;Ουπς πρόβλημα. Φώναξε έναν μεγάλο!
+kids.ftusettings.ageSelection.setBirthday;;ΕΙΣΑΓΕΤΕ ΗΜΕΡΟΜΗΝΙΑ ΓΕΝΝΗΣΗΣ
+kids.ftusettings.ageSelection.title;;Επιλέξτε την ηλικία σας
+kids.ftusettings.birthdaySelection.description;;ΡΥΘΜΙΣΤΕ ΤΗΝ ΗΜΕΡΟΜΗΝΙΑ ΓΕΝΕΘΛΙΩΝ ΣΑΣ ΓΙΑ ΝΑ ΕΝΗΜΕΡΩΝΕΤΑΙ ΑΥΤΟΜΑΤΑ <br/>ΤΟ ΠΡΟΦΙΛ ΣΑΣ ΣΤΗ ΣΩΣΤΗ ΗΛΙΚΙΑ.
+kids.ftusettings.birthdaySelection.set;;ΕΙΣΑΓΩΓΗ
+kids.ftusettings.birthdaySelection.title;;ΕΙΣΑΓΕΤΕ ΗΜΕΡΟΜΗΜΙΑ ΓΕΝΝΗΣΗΣ
+kids.ftusettings.buttons.agree;;Συμφωνώ
+kids.ftusettings.buttons.disagree;;Διαφωνώ
+kids.ftusettings.buttons.getStarted;;Ξεκινήστε από εδώ
+kids.ftusettings.buttons.watchAgain;;ΠΑΡΑΚΟΛΟΥΘΗΣΗ ΞΑΝΑ
+kids.ftusettings.changeBirthday.title;;ΑΛΛΑΓΗ ΓΕΝΕΘΛΙΩΝ
+kids.ftusettings.changeCharacter.title;;ΑΛΛΑΓΗ ΧΑΡΑΚΤΗΡΑ
+kids.ftusettings.changeNickname.title;;ΑΛΛΑΓΗ ΨΕΥΔΩΝΥΜΟΥ
+kids.ftusettings.characterSelection.title;;Επιλέξτε έναν χαρακτήρα
+kids.ftusettings.nicknameEntry.emptyName;;ΠΡΕΠΕΙ ΝΑ ΕΙΣΑΓΕΤΕ ΤΟΥΛΑΧΙΣΤΟΝ ΕΝΑ ΓΡΑΜΜΑ
+kids.ftusettings.nicknameEntry.maximumReached;;ΕΠΙΤΡΕΠΟΝΤΑΙ ΜΟΝΟ 10 ΓΡΑΜΜΑΤΑ
+kids.ftusettings.nicknameEntry.title;;Εισάγετε το ψευδώνυμο σας
+kids.gdpr.privacy.consent.confirmation;;"Μη συμφωνώντας δεν θα λαμβάνετε προτάσεις για ταινίες και σειρές καθώς και άλλες πρόσθετες λειτουργίες που δίνουν καλύτερη εμπειρία στο Vodafone TV. <br/>Είστε βέβαιοι ότι θέλετε να προχωρήσετε με αυτή την επιλογή;"
+kids.gdpr.privacy.consent.subtitle;;Για να σας λαμβάνετε προτάσεις πρέπει να συμφωνήσετε με την πολιτική απορρήτου
+kids.gdpr.privacy.consent.subtitle.part2;;Αυτή η επιλογή επηρεάζει όλα τα προφίλ
+kids.gdpr.privacy.consent.title;;Συγκατάθεση απορρήτου
+kids.gdpr.privacy.default.consent;;
+kids.gdpr.privacy.default.notice;;
+kids.gdpr.privacy.notice.title;;ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ
+kids.languages.turnedOff;;ΑΠΕΝΕΡΓΟΠΟΙΗΜΕΝΟ
+kids.languages.turnedOn;;ΕΝΕΡΓΟΠΟΙΗΜΕΝΟ
+kids.menu;;Μενού
+kids.menu.episode;;ΕΠΕΙΣΟΔΙΟ
+kids.menu.season;;ΚΥΚΛΟΣ
+kids.notForKids.changeChannel;;ΑΛΛΑΞΤΕ ΚΑΝΑΛΙ ΓΙΑ ΠΕΡΙΣΣΟΤΕΡΟ ΠΑΙΔΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ
+kids.notForKids.showNotForKids;;Αυτό το περιεχόμενο δεν είναι για παιδία
+kids.notification.incorrect.configuration.description;;Η εφαρμογή δεν είναι διαθέσιμη
+kids.notification.network.offline.subtitle;;Παρουσιάστηκε ένα σφάλμα δικτύου κατα την αναπαραγωγή
+kids.notification.network.offline.title;;Σφάλμα δικτύου
+kids.notification.noContent.message;;Δεν υπάρχει διαθέσιμο περιεχόμενο
+kids.notification.noContent.subtitle;;Δεν υπάρχει περιεχόμενο για παιδιά
+kids.notification.noContent.title;;Δεν υπάρχει περιεχόμενο
+kids.notification.player.error.subtitle;;Παρουσιάστηκε ένα σφάλμα κατα την αναπαραγωγή
+kids.notification.player.error.title;;Σφάλμα αναπαραγωγής
+kids.pinEntry.accessProfile;;ΓΙΑ ΠΡΟΣΒΑΣΗ ΣΤΟ ΠΡΟΦΙΛ
+kids.pinEntry.approveProfile;;ΓΙΑ ΝΑ ΕΓΚΡΙΝΕΤΕ ΤΟ ΠΡΟΦΙΛ
+kids.pinEntry.deleteProfile;;Για να διαγράψετε το %1 προφίλ
+kids.pinEntry.enterSettings;;ΓΙΑ ΝΑ ΜΠΕΙΤΕ ΣΤΙΣ ΡΥΘΜΙΣΕΙΣ
+kids.pinEntry.exit;;ΓΙΑ ΕΞΟΔΟ ΑΠΟ ΤΗΝ ΠΑΙΔΙΚΗ ΛΕΙΤΟΥΡΓΙΑ
+kids.pinEntry.help.defaultPin;;Το αρχικό προεπιλεγμένο PIN είναι 1234.
+kids.pinEntry.help.details;;Όταν ενεργοποιηθεί, το PIN θα χρησιμοποιείται για την επαλήθευση αγορών <br/>, για τις πληρωμές, για αλλαγές στις ρυθμίσεις <br/> και για αλλαγή του γονικού ελέγχου (αν επιλέξετε να τις ενεργοποιήσετε).  <br/><br/><br/> <br/><br/><br/>  Εάν ξεχάσετε τον κωδικό PIN σας, καλέστε 13830 για επαναφορά
+kids.pinEntry.help.whats;;"Τι είναι το PIN;"
+kids.pinEntry.title;;ΕΙΣΑΓΕΤΕ ΤΟ PIN
+kids.player.back;;ΠΡΟΗΓΟΥΜΕΝΟ
+kids.player.info;;ΠΛΗΡΟΦΟΡΙΕΣ
+kids.player.retry;;Δοκιμάστε ξανά
+kids.player.setCountdown;;ΟΡΙΣΤΕ ΧΡΟΝΙΚΟ ΠΕΡΙΘΩΡΙΟ
+kids.playerError;;Παρουσιάστηκε ένα σφάλμα κατα την αναπαραγωγή
+kids.profileSelection.addProfile;;ΠΡΟΣΘΗΚΗ ΠΡΟΦΙΛ
+kids.profileSelection.aged;;ΗΛΙΚΙΑ %1
+kids.profileSelection.bedtimeStartedSince;;Η ώρα ύπνου ξεκίνησε %1 πριν
+kids.profileSelection.bedtimeStartedSince.atLeastTwoHours;;Η ώρα ύπνου ξεκίνησε %1 ώρες πριν
+kids.profileSelection.bedtimeStartedSince.betweenOneHourAndTwoHours;;Η ώρα ύπνου ξεκίνησε πριν από %1 ώρες και %2 λεπτό(ά)
+kids.profileSelection.bedtimeStartedSince.lessThanOneHour;;Η ώρα ύπνου ξεκίνησε πριν από %1 λεπτό(ά)
+kids.profileSelection.countdownFinishedSince;;Το χρονικό περιθώριο τελείωσε πριν από %1
+kids.profileSelection.settings;;ΡΥΘΜΙΣΕΙΣ
+kids.profileSelection.unconfirmed;;Μη επιβεβαιωμένος
+kids.profiles;;ΠΡΟΦΙΛ
+kids.programInfo.audioDescription;;ΠΕΡΙΓΡΑΦΙΚΟΣ ΗΧΟΣ
+kids.programInfo.language;;ΓΛΩΣΣΑ
+kids.programInfo.subtitles;;ΥΠΟΤΙΤΛΟΙ
+kids.settings;;ΓΟΝΙΚΟΣ ΕΛΕΓΧΟΣ
+kids.settings.bedtime;;ΩΡΑ ΥΠΝΟΥ
+kids.settings.bedtime.from;;ΑΠΟ
+kids.settings.bedtime.setBedtime;;ΟΡΙΣΜΟΣ ΩΡΑΣ ΥΠΝΟΥ
+kids.settings.bedtime.setTime;;ΟΡΙΣΜΟΣ ΩΡΑΣ
+kids.settings.bedtime.to;;ΕΩΣ
+kids.settings.changeAge;;ΑΛΛΑΓΗ ΗΛΙΚΙΑΣ
+kids.settings.changeAvatar;;ΑΛΛΑΓΗ ΕΙΚΟΝΑΣ
+kids.settings.changeName;;ΑΛΛΑΓΗ ΟΝΟΜΑΤΟΣ
+kids.settings.content.preferredLanguage;;ΓΛΩΣΣΑ
+kids.settings.contentSettings;;ΡΥΘΜΙΣΕΙΣ ΠΕΡΙΕΧΟΜΕΝΟΥ
+kids.settings.delete;;ΔΙΑΓΡΑΦΗ
+kids.settings.deleteProfile;;ΔΙΑΓΡΑΦΗ ΠΡΟΦΙΛ
+kids.settings.editProfile;;ΑΛΛΑΓΗ ΠΡΟΦΙΛ
+kids.settings.help;;ΒΟΗΘΕΙΑ
+kids.settings.pinRequest;;ΑΠΑΙΤΕΙΤΑΙ PIN
+kids.settings.privacy;;ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ
+kids.settings.showVideos;;ΠΡΟΒΟΛΗ ΤΟΥ ΒΙΝΤΕΟ ΕΙΣΑΓΩΓΗΣ
+kids.settings.subtitle.askForPin;;ΑΠΑΙΤΕΤΑΙ PIN
+kids.settings.subtitle.deleteProfile.part1;;ΕΙΣΤΕ ΣΙΓΟΥΡΟΙ ΓΙΑ
+kids.settings.subtitle.deleteProfile.part2;;"ΔΙΑΓΡΑΦΗ ΠΡΟΦΙΛ %1 ;"
+kids.settings.timeManagement;;ΔΙΑΧΕΙΡΙΣΗ ΧΡΟΝΟΥ
+kids.tick.dontShowAgain;;Να μην εμφανιστεί ξανά.
+kids.timeOver.addMoreTime;;ΠΡΟΣΘΕΣΤΕ ΠΕΡΙΣΣΟΤΕΡΟ ΧΡΟΝΟ
+kids.timeOver.exit;;ΕΞΟΔΟΣ ΑΠΟ ΤΑ ΠΑΙΔΙΚΑ
+kids.timeOver.takeABreak;;ΩΡΑ ΝΑ ΚΑΝΕΤΕ ΕΝΑ ΔΙΑΛΕΙΜΜΑ
+kids.timeOver.wakeup;;Αφύπνιση
+kids.turnOff;;ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ
+kids.turnOn;;ΕΝΕΡΓΟΠΟΙΗΣΗ
+kids.turnedOff;;ΑΠΕΝΕΡΓΟΠΟΙΗΜΕΝΟ
+kids.turnedOn;;ΕΝΕΡΓΟΠΟΙΗΜΕΝΟ
+kids.update.gdpr.privacy.consent.subtitle;;Για να σας λαμβάνετε προτάσεις πρέπει να συμφωνήσετε με την πολιτική απορρήτου
+kids.update.gdpr.privacy.consent.subtitle.part2;;Αυτή η επιλογή επηρεάζει όλα τα προφίλ
+kids.update.gdpr.privacy.consent.title;;Ενημέρωση συγκατάθεσης της πολιτικής απορρήτου
+kids.update.gdpr.privacy.notice.subtitle;;Για να συνεχίσετε διαβάστε και αποδεχτείτε τους όρους
+kids.update.gdpr.privacy.notice.title;;ΕΝΗΜΕΡΩΣΗ ΤΗΣ ΠΟΛΙΤΙΚΗΣ ΑΠΟΡΡΗΤΟΥ
+language.afr;;Αφρικανικά
+language.ang;;Αγγλικά, Παλία (ca. 450–1100)
+language.ara;;Αραβικά
+language.auto;;Αυτόματη
+language.ces;;Τσέχικα
+language.chi;;Κινέζικα
+language.dan;;Danish
+language.de-DE;;Deutsch (DE)
+language.dut;;Ολλανδικά
+language.ell;;Ελληνικά
+language.en-GB;;English (GB)
+language.en-US;;English (US)
+language.es-ES;;Español (ES)
+language.fas;;Περσικά
+language.fin;;Φινλανδικά
+language.grc;;Ελληνικά
+language.gsw;;Γερμανικά
+language.heb;;Εβραϊκά
+language.hin;;Ινδικά
+language.hun;;Ουγγρικά
+language.isl;;Ισλανδικά
+language.it-IT;;Ιταλικά (IT)
+language.jap;;Ιαπωνικά
+language.jpn;;Ιαπωνικά
+language.kaz;;Καζακστάν
+language.kor;;Κορεάτικα
+language.lav;;Λετονικά
+language.mao;;Μαορί
+language.mri;;Μαορί
+language.mul;;Πολύγλωσσο
+language.nld;;Ολλανδικά
+language.nor;;Νορβηγικά
+language.per;;Περσικά
+language.pol;;Πολωνικά
+language.por;;Πορτογαλικά
+language.prt;;Πορτογαλικά
+language.pt-BR;;Português (PT)
+language.pt-PT;;Português (PT)
+language.qaa;;Πρωτότυπη γλώσσα
+language.ron;;Ρουμάνικα
+language.rus;;Ρώσικα
+language.slk;;Σλοβάκικα
+language.slv;;Σλοβένικα
+language.sqi;;Αλβανικά
+language.ukr;;Ουκρανικά
+language.zho;;Κινέζικα
+mainMenu.kids;;Παιδικά
+mainMenu.mediaLibrary;;Video Club
+mainMenu.onTv.title;;Κανάλια
+mainMenu.recordings;;Εγγραφές
+mainMenu.topBar.search;;Αναζήτηση για ταινίες, σειρές, ηθοποιούς...
+mainMenu.tvGuide.subscribeNow;;Εγγραφείτε τώρα
+mainMenu.tvGuide.watch;;Παρακολούθηση
+maintenance.description;;Το αποκωδικοποιητής βελτιστοποιεί την εμπειρία σας. Αυτό μπορεί να διαρκέσει μερικά λεπτά. Μην απενεργοποιείτε ή αποσυνδέετε μέχρι να ολοκληρωθεί.
+maintenance.title;;Ενημέρωση λογισμικού σε εξέλιξη
+miniProgramInfo.showMore;;ΠΕΡΙΣΣΟΤΕΡΕΣ ΠΛΗΡΟΦΟΡΙΕΣ
+myApps.Shortcut.Add;;Προσθήκη στις εφαρμογές μου
+myApps.Shortcut.Manage;;Διαχείριση
+myApps.add.info;;Επιλέξτε τις εφαρμογές που θέλετε να προσθέσετε
+myApps.add.title;;Προσθήκη στις εφαρμογές μου
+myApps.delete.info;;Επιλέξτε τις εφαρμογές που θέλετε να αφαιρέσετε
+myApps.delete.title;;Αφαίρεση από τις εφαρμογές μου
+myApps.manage.favorite;;Οι εφαρμογές μου - Αγαπημένα
+myApps.manage.info.favorite;;Δείτε και επεξεργαστείτε τις αγαπημένες σας εφαρμογές
+myApps.manage.info.favorite.number;;%1 εφαρμογές
+myApps.manage.info.recent;;Προβολή των 20 πιο πρόσφατων εφαρμογών
+myApps.manage.info.recent.number;;Δεν έχετε χρησιμοποιήσει κάποια εφαρμογή
+myApps.manage.recent;;Οι εφαρμογές μου - Πρόσφατες
+myApps.manage.title;;Οι εφαρμογές μου
+myApps.reorder.info.default;;Επιλέξτε την εφαρμογή που θέλετε να μετακινήσετε
+myApps.reorder.info.reorderMode;;Πιέστε δεξιά ή αριστερά για να μετακινήσετε την εφαρμογή. Επιβεβαιώστε με το ΟΚ
+myApps.reorder.title;;Ταξινόμηση των εφαρμογών μου
+mytv.external.myTVRecommendations;;Προτεινόμενα για εσένα
+mytv.kaltura.Adults;;Περιεχόμενο για ενηλίκους
+mytv.recommendations;;Προτεινόμενα για εσένα
+mytv.recommended;;Προτεινόμενα
+mytv.recordings.all.lastMonth;;Περασμένο μήνα
+mytv.recordings.all.lastWeek;;Περασμένη εβδομάδα
+mytv.recordings.all.month;;Αυτό τον μήνα
+mytv.recordings.all.older;;Παλαιότερα
+mytv.recordings.all.week;;Αυτή την εβδομάδα
+mytv.recordings.cloud.future;;Λήγει αργότερα
+mytv.recordings.cloud.month;;Λήγει αυτό τον μήνα
+mytv.recordings.cloud.never;;Δεν έχει ημερομηνία λήξης
+mytv.recordings.cloud.nextMonth;;Λήγει τον άλλο μήνα
+mytv.recordings.cloud.nextWeek;;Λήγει την άλλη εβδομάδα
+mytv.recordings.cloud.week;;Λήγει αυτή την εβδομάδα
+mytv.recordings.cloud.year;;Λήγει αυτόν τον χρόνο
+mytv.recordings.failed.lastMonth;;Περασμένο μήνα
+mytv.recordings.failed.lastWeek;;Περασμένη εβδομάδα
+mytv.recordings.failed.month;;Αυτό το μήνα
+mytv.recordings.failed.week;;Αυτή την εβδομάδα
+mytv.recordings.local.hd;;HD
+mytv.recordings.local.lastMonth;;Περασμένο μήνα
+mytv.recordings.local.lastWeek;;Περασμένη εβδομάδα
+mytv.recordings.local.month;;Αυτό το μήνα
+mytv.recordings.local.older;;Παλαιότερα
+mytv.recordings.local.other;;Άλλο
+mytv.recordings.local.sd;;SD
+mytv.recordings.local.uhd;;4K
+mytv.recordings.local.week;;Αυτή την εβδομάδα
+mytv.recordings.month;;Αυτό το μήνα
+mytv.recordings.nextWeek;;Επόμενη εβδομάδα
+mytv.recordings.older;;Παλαιότερες εγγραφές
+mytv.recordings.scheduledRecordings.clashes;;Εγγραφές συμπίπτουν
+mytv.recordings.scheduledRecordings.series;;Εγγραφές σειρών
+mytv.recordings.scheduledRecordings.single;;Μοναδικές εγγραφές
+mytv.recordings.soon;;Λήγουν σύντομα
+mytv.recordings.unwatched.lastMonth;;Περασμένο μήνα
+mytv.recordings.unwatched.lastWeek;;Περασμένη εβδομάδα
+mytv.recordings.unwatched.month;;Αυτό το μήνα
+mytv.recordings.unwatched.week;;Αυτή την εβδομάδα
+mytv.recordings.week;;Αυτή την εβδομάδα
+mytvRecommendations1;;Συνεχίστε την παρακολούθηση
+mytvRecommendations2;;Προτεινόμενα για εσένα
+nagra.information.authNToken;;Token πιστοποίησης
+nagra.information.cakVersion;;CAK Version
+nagra.information.chipset.revision;;Chipset Revision
+nagra.information.chipset.type;;Chipset Type
+nagra.information.dasSDKVersion;;Έκδοση DAS SDK
+nagra.information.irdsn;;IRDSN
+nagra.information.lastAuthNTokenDate;;Last AuthN token refresh
+nagra.information.lastConnectionsToOTT;;Last connections to OTT
+nagra.information.lastEntitlement;;Last Entitlement Date
+nagra.information.lastLicenceUpdate;;Τελευταία ανανέωση αδειών
+nagra.information.lastProvision;;Last Provision Date
+nagra.information.nc.OpVaultTimestamp;;Op Vault Timestamp
+nagra.information.nc.deviceUniqueId;;Αναγνωριστικό συσκευής
+nagra.information.nc.initStatus;;Init Status
+nagra.information.nc.integrationContextCertificateName;;Όνομα πιστοποιητικού
+nagra.information.nc.integrationContextCertificateOperatorId;;Certificate Operator Id
+nagra.information.nc.integrationContextCertificatePlatform;;Πιστοποιητικό πλατφόρμας
+nagra.information.nc.integrationContextCertificateSecurityLevel;;Επίπεδο ασφαλείας
+nagra.information.nc.integrationContextCertificateType;;Τύπος πιστοποιητικού
+nagra.information.nc.nuid;;NUID
+nagra.information.nc.prmaVersion;;PRMA έκδοση
+nagra.information.nc.prmcVersion;;PRMC έκδοση
+nagra.information.nuid;;NUID
+nagra.information.projectInfo;;Πληροφορίες έργου
+nagra.popups.connectionLost;;Πρόβλημα σύνδεσης
+nagra.popups.defaultError;;Το κανάλι δεν ανήκει στις συνδρομές σας.
+nagra.popups.suspended;;Ο αποκωδικοποιητής είναι προσωρινά απενεργοποιημένος.
+nagra.popups.uninitialized;;Ο αποκωδικοποιητής δεν έχει ενεργοποιηθεί
+nagra.popups.unsubscribed;;Δεν έχετε συνδρομή για αυτό το κανάλι. Επικοινωνήστε με το 13830 για εγγραφή.
+network.wifi.band.unit;;GHz
+network.wifi.quality.good;;Πολύ καλή σύνδεση
+network.wifi.quality.incompatible;;Κακή σύνδεση
+network.wifi.quality.sufficient;;Eπαρκής σύνδεση
+networkAccessValidation.defaultErrorMessage;;Μη έγκυρη πρόσβαση στο δίκτυο. Συνδέστε τον αποκωδικοποιητή σας στο δίκτυο Vodafone και δοκιμάστε ξανά
+notification.HDCPError.description;;Αν το πρόβλημα παραμένει επικοινωνήστε με τον ΤΟΒi στο www.vodafone.gr.
+notification.HDCPError.title;;Σφάλμα HDCP
+notification.adultProgram.hidden.description;;Αλλάξτε τις γονικές ρυθμίσεις για παρακολούθηση
+notification.adultProgram.hidden.title;;Κλειδωμένο περιεχόμενο
+notification.alexa.alert.description;;"Απλώς πείτε ""Alexa σταμάτα"" για απενεργοποίηση."
+notification.alexa.alert.title;;Ειδοποίηση Alexa
+notification.alexa.alexaNumberOfNotification.title;;Έχετε %1 Ειδοποίηση Alexa 
+notification.alexa.apps.notAvailable;;O έλεγχος πολυμέσων δεν είναι διαθέσιμός μέσα στις εφαρμογές
+notification.alexa.apps.wrongContext;;O έλεγχος πολυμέσων δεν είναι διαθέσιμCurrent ABR Profileός μέσα στις εφαρμογές
+notification.alexa.listenToNotification.description;;"Απλώς πείτε ""Ακούστε ειδοποιήσεις"" για να ακούσετε περισσότερα"
+notification.alexa.pressingVoiceButton.description;;"Πατήστε το κουμπί φωνής και πείτε ""Ακούστε ειδοποιήσεις"" για να ακούσετε περισσότερα"
+notification.alexaAction.disabledInsideApps;;Ο φωνητικός έλεγχος δεν είναι διαθέσιμος όταν βρίσκεστε εντός εφαρμογών.
+notification.app.cts.token.error;;Παρουσιάστηκε κάποιο σφάλμα. Η εφαρμογή θα εκκινήσει αλλά ίσως να μην λειτουργεί σωστά.
+notification.app.gdpr.disagree;;Μπορείτε να αλλάξει την συγκατάθεση απορρήτου από τις ρυθμίσεις
+notification.app.notSubscribed;;Δεν έχετε συνδρομή για αυτή την υπηρεσία.
+notification.automaticRecordings.channelDisabled;;Παρακαλώ ενεργοποιήστε την αυτόματη εγγραφή για αυτό το κανάλι.
+notification.backend.error;;SC402: Σφάλμα σύνδεσης. Παρακαλώ δοκιμάστε αργότερα.
+notification.bleRemotePairing.failed;;Δεν ήταν δυνατός ο συγχρονισμός του τηλεχειριστηρίου.
+notification.bleRemotePairing.info;;Για να χρησιμοποιήσετε τον έλεγχο φωνής πατήστε τα κουμπιά κίτρινο και 1 και κρατήστε τα για 5 δευτερόλεπτα για να συγχρονίσετε το τηλεχειριστήριο.
+notification.bleRemotePairing.success;;Το τηλεχειριστήριο έχει τώρα συγχρονίσει μέσω bluetooth
+notification.bluetooth.connected;;Bluetooth συνδεδεμένο
+notification.bluetooth.disconnected;;Bluetooth αποσυνδεδεμένο
+notification.bluetooth.fail;;Αποτυχία σύνδεσης
+notification.bluetooth.multiple.remove.subtitle;;Αφερέθηκαν 1% συσκευές
+notification.bluetooth.noDevice;;Δεν βρέθηκε νέα συσκευή
+notification.bluetooth.rcu.connected;;Το τηλεχειριστήριο είναι πλέον συνδεδεμένο μέσω Bluetooth
+notification.bluetooth.remove;;Αφαίρεση των bluetooth συσκευών
+notification.bluetooth.remove.subtitle;; Διαγράφηκαν %1 συσκευές
+notification.bluetooth.success;;Επιτυχής σύνδεση
+notification.bluetooth.unsupportedRcu.description;;Το τηλεκοντρόλ δεν έχει την σωστή έκδοση λογισμικού
+notification.bluetooth.unsupportedRcu.title;;Μη υποστιριζόμενο τηλεκοντρόλ
+notification.buy.notPossible;;Αυτή η αγορά δεν μπορεί να γίνει από αυτή την συσκευή.
+notification.channel.liveApp;;Πιέστε το πλήκτρο πάνω ή κάτω για να συνδεθείτε στην %1 εφαρμογή.
+notification.channel.liveApp.redButton;;Πιέστε το κόκκινο κουμπί για έναρξη της εφαρμογής %1.
+notification.drmUnavailable.description;;Αδυναμία σύνδεσης με Nagra
+notification.drmUnavailable.title;;DRM μη διαθέσιμο
+notification.episode.past;;Το επεισόδιο είναι τώρα διαθέσιμο στις εγγραφές
+notification.episode.scheduled;;Η εγγραφή προγραμματίστηκε
+notification.episode.scheduledNew;;H εγγραφή της σειράς %1 προγραμματίστηκε
+notification.episode.start;;Εγγραφή
+notification.folder.confirm;;ΟΚ
+notification.frequentlyAskedQuestions.fetch.error;;Δεν είναι δυνατή η εμφάνιση των συχνών ερωτήσεων
+notification.mcast.insufficient.bandwidth;;Η ταχύτητα της σύνδεσης δεν επαρκεί.
+notification.network.fallback;;Οι νέες ρυθμίσεις δεν είναι έγκυρες. Δοκιμάστε ξανά ή πατήστε BACK για αναίρεση και διατήρηση των υφιστάμενων ρυθμίσεων.
+notification.network.fallback.Id;;ID %1
+notification.network.noMuMimoEnabled;;Η ταχύτητα της WiFi σύνδεσης δεν επαρκεί για την σωστή λειτουργία του Vodafone TV. Δοκιμάστε να φέρετε το ρούτερ πιο κοντά στον αποκωδικοποιητή. Αν το πρόβλημα παραμένει επικοινωνήστε με τον TOBi στο www.vodafone.gr
+notification.network.notEnoughBandwidth;;Λόγω χαμηλής ταχύτητας του WiFi σας, η ποιότητα της υπηρεσίας ενδέχεται να υποβαθμιστεί, για να επιλύσετε αυτό το πρόβλημα, μεταβείτε στις Ρυθμίσεις> Περισσότερες ρυθμίσεις> Δίκτυο και επιλέξτε ένα άλλο δίκτυο
+notification.offline.error;;Το Vodafone TV είναι εκτός σύνδεσης
+notification.player.blackout.message1;;Το πρόγραμμα που επιλέξατε δεν είναι διαθέσιμο για προβολή. Παρακαλώ δοκιμάστε αργότερα
+notification.player.blackout.message2;;Το πρόγραμμα που επιλέξατε δεν είναι διαθέσιμο για προβολή. Παρακαλώ δοκιμάστε αργότερα
+notification.player.concurrent;;Έχετε φτάσει τον μέγιστο αριθμό συσκευών που μπορούν να αναπαράγουν περιεχόμενο ταυτόχρονα. Για να δείτε σε αυτή την οθόνη πρέπει να διακόψετε την προβολή σε μία τις άλλες συσκευές σας.
+notification.player.noRights;;SB003: Προσπαθείτε να δείτε σε περισσότερες από το επιτρεπόμενο όριο συσκευές ή δεν έχετε συνδρομή στο συγκεκριμένο κανάλι
+notification.ppv.success;;Επιτυχής αγορά
+notification.privacy.fail.description;;Δοκιμάστε αργότερα
+notification.privacy.fail.title;;Σφάλμα Πολιτικής απορρήτου 
+notification.programInfo.failure;;SM010: Παρουσιάστηκε σφάλμα στην παρουσίαση πληροφοριών.
+notification.programInfo.purchase.disclaimer;;Μόλις βάλετε το PIN θα ολοκληρωθεί η αγορά σας και θα είναι αδύνατο να την ακυρώσετε.
+notification.programInfo.recording.noChannel;;Η εγγραφή δεν ανήκει σε κάποιο κανάλι.
+notification.programInfo.rental.days.disclaimer;;Η ενοικίαση σας για %1 ήμερές ξεκινάει με την επιβεβαίωση.
+notification.programInfo.rental.hour.disclaimer;;Η %1h ενοικίαση σας ξεκινάει με την επιβεβαίωση
+notification.programInfo.rental.hours.disclaimer;;Η %1h ενοικίαση σας ξεκινάει με την επιβεβαίωση
+notification.programInfo.rental.month.disclaimer;;Η ενοικίαση σας για %1 μήνα ξεκινάει με την επιβεβαίωση
+notification.programInfo.rental.months.disclaimer;;Η ενοικίαση σας για %1 μήνες ξεκινάει με την επιβεβαίωση
+notification.programInfo.subscribe.disclaimer;;Η συνδρομή σας ξεκινάει μετά την εισαγωγή του PIN
+notification.recommendations.disabled;;Οι προτάσεις περιεχομένου έχουν απενεργοποιηθεί
+notification.recommendations.enabled;;Οι προτάσεις περιεχομένου έχουν ενεργοποιηθεί
+notification.recommendationsOptIn;;Εάν θέλετε να απενεργοποιήσετε τις προτάσεις πηγαίνετε στις Ρυθμίσεις> Προστασία προσωπικών δεδομένων.
+notification.recommendationsOptOut;;Εάν θέλετε να ενεργοποιήσετε τις προτάσεις πηγαίνετε στις Ρυθμίσεις> Προστασία προσωπικών δεδομένων.
+notification.recording.cancel.failed;;Η ακύρωσης της εγγραφής δεν ήταν εφικτή. Παρακαλώ δοκιμάστε αργότερα.
+notification.recording.clash.multiple;;Εντοπίστηκαν πρόβληματα κατά την εγγραφή
+notification.recording.clash.multiple.description;;Για επίλυση πιέστε %1 στο τηλεχειριστήριο σας για να μεταβείτε στο My Home / Προγραμματισμένες εγγραφές
+notification.recording.clash.resolve;;Το πρόβλημα επιλύθηκε
+notification.recording.clash.resolve.description;;Περιγραφή επίλυσης του προβλήματος
+notification.recording.clash.single;;Εντοπίστηκε πρόβλημα κατά την εγγραφή
+notification.recording.clash.single.description;;Για επίλυση πιέστε %1 στο τηλεχειριστήριο σας για να μεταβείτε στο My Home / Προγραμματισμένες εγγραφές
+notification.recording.delete.failed;;Η διαγραφή δεν ήταν εφικτή. Παρακαλώ δοκιμάστε αργότερα.
+notification.recording.description.deleteRecordings;;Διαγράφηκαν επιτυχώς %1 εγγραφές.
+notification.recording.fullCloudProtection;;Πάρα πολλές προστατευμένες εγγραφές στο cloud
+notification.recording.fullLocalProtection;;Πάρα πολλές τοπικά προστατευμένες εγγραφές
+notification.recording.fullProtectionTitle;;Η εγγραφή δεν είναι δυνατό να προστατευτεί
+notification.recording.localNotPossible;;Πρέπει να συνδέσετε ένα σκληρό δίσκο με USB για να πραγματοποιηθεί η εγγραφή
+notification.recording.past;;Προστέθηκε για εγγραφή
+notification.recording.scheduledNew;;H εγγραφή %1 προγραμματίστηκε
+notification.recording.title.delete;;Διαγραφή εγγραφών 
+notification.recordings.update;;Ενημέρωση της τηλεόρασης Vodafone
+notification.remoteBooking.hddConnected.title;;Για απομακρυσμένες εγγραφές, πιέστε το πράσινο κουμπί και αλλάξτε τις ρυθμίσεις αναμονής.
+notification.remoteDiagnostics.speedTest.ongoing;;Speedtest σε εξέλιξη, παρακαλώ περιμένετε.
+notification.remotePairing.timeout;;Αποτυχία σύνδεσης παρακαλώ δοκιμάστε ξανά
+notification.rent.notPossible;;Η συνδρομή σας δεν περιλαμβάνει την δυνατότητα ενοικίασης ταινιών.
+notification.rollingBuffer.description;;ή πιέστε το BACK για παραμονή στο restart TV
+notification.rollingBuffer.title;;Επιστοφή στην ζωντανή ροή σε 
+notification.search.characterLimit.description;;Έχετε φτάσει τον μέγιστο επιτρεπόμενο αριθμό χαρακτήρων
+notification.search.characterLimit.title;;Φτάσατε το μέγιστο όριο χαρακτήρων
+notification.search.fail.description;;Παρουσιάστηκε ένα σφάλμα παρακαλώ δοκιμάστε ξανά
+notification.search.fail.title;;Σφάλμα παρακαλώ δοκιμάστε σε λίγο
+notification.seriesInfo.fetchDataFailed;;Αδυναμία εμφάνισης διαθέσιμων επεισοδίων. Ελέγξτε τη σύνδεση στο διαδίκτυο.
+notification.seriesInfo.missingMetadata;;Η πληροφορία προγράμματος δεν είναι διαθέσιμη.
+notification.seriesRecording.alreadyScheduled;;Αυτό το περιεχόμενο είναι ήδη προγραμματισμένο για εγγραφή. Για περισσότερες επιλογές, πιέστε OK
+notification.seriesRecording.past;;Όλα τα προηγούμενα επεισόδια θα είναι διαθέσιμα στις Εγγραφές σας σύντομα
+notification.seriesRecording.pastNew;;Τα προηγούμενα επεισόδια θα είναι σύντομα διαθέσιμα στις εγγραφές σας.
+notification.soundbox.audio.off;;Ηχητική έξοδος απενεργοποιημένη
+notification.soundbox.audio.stb;;Ηχητική έξοδος ρυθμίστηκε σε αποκωδικοποιητή
+notification.soundbox.audio.tv;;Ηχητική έξοδος ρυθμίστηκε σε TV
+notification.soundbox.connected;;%1 συνδεδεμένο
+notification.soundbox.description;;Μεταβείτε στις Ρυθμίσεις / Συνδεδεμένες συσκευές / Βοηθοί φωνής για ρύθμιση.
+notification.soundbox.disconnected;;Το ηχείο αποσυνδέθηκε
+notification.subscribe.notPossible;;Η προσθήκη της συνδρομής δεν μπορεί να γίνει από αυτή την συσκευή.
+notification.subscription.success;;Επιτυχής συνδρομή.
+notification.timeout.error;;SC401: Αποσύνδεση από το διαδίκτυο. Ελέγξτε τη σύνδεση στο διαδίκτυο.
+notification.trickMode.notAllowed;;Δεν επιτρέπεται η λειτουργία FFW, pause, rewind.
+notification.vodafoneNetworkLost.description;;Πρέπει να είστε στο Vodafone δίκτυό σας για να χρησιμοποιείτε όλες τις λειτουργίες της Vodafone TV
+notification.vodafoneNetworkLost.title;;Δεν υπάρχει δίκτυο
+notification.voiceAction.appNonExistent;;Η φωνητική εντολή δεν υποστηρίζεται
+notification.voiceAction.appNotAvailable;;Η εφαρμογή δεν είναι διαθέσιμη
+notification.voiceAction.areaNonExistent;;Δεν υπάρχει τέτοιο περιεχόμενο
+notification.voiceAction.genericError;;Παρουσιάστηκε κάποιο σφάλμα παρακαλώ δοκιμάστε ξανά
+notification.voiceAction.keyPressedTooShort;;Δεν το καταλάβαμε, πατήστε το πλήκτρο φωνής για μεγαλύτερο χρονικό διάστημα και μιλήστε
+notification.voiceAction.kids.profileNotSelected;;Πρέπει να επιλέξετε ένα προφίλ πριν χρησιμοποιήσετε την είσοδο φωνής
+notification.voiceAction.kids.screenNotAllowed;;Πρέπει να μεταβείτε στο μενού για να χρησιμοποιήσετε την είσοδο φωνής
+notification.voiceAction.misunderstanding;;Sorry, we didn't get that please speak again
+notification.voiceAction.noChannel;;Το κανάλι %1 δεν υπάρχει
+notification.voiceAction.noChannelError;;That channel does not exist
+notification.voiceAction.noChannelNumber;;That channel number does not exist
+notification.voiceAction.noResults;;Δεν βρεθηκαν αποτελέσματα. Παρακαλώ επαναλάβατε
+notification.voiceAction.notAllowedContent;;Λυπούμαστε, δεν επιτρέπεται να παρακολουθήσετε αυτόν τον τύπο περιεχομένου
+notification.voiceAction.notAllowedInApp;;Αυτή η επιλογή δεν είναι διαθέσιμη σε αυτή την συσκευή
+notification.voiceAction.notPossible;;Δεν είναι δυνατή η εκτέλεση αυτού του αιτήματος
+notification.voiceAction.notSupportedInKids;;Λυπούμαστε, δεν μπορείτε να το κάνετε αυτό χρησιμοποιώντας το Vodafone Kids.
+notification.voiceAction.voiceASRFailure;;Παρακαλώ δοκιμάστε ξανά
+notification.voiceAction.voiceToSearch;;Κάντε φωνητική αναζήτηση
+notifications.privacy.fail.title;;Αδυναμία πρόσβασης στην πολιτική απορρήτου
+optIn;;Ενεργοποίηση τώρα
+pin.consecutiveDigitsError.popup.text;;Δεν επιτρέπονται τέσσερις ίδιοι αριθμοί στη σειρά (π.χ. 2222)<br>Επιλέξτε έναν διαφορετικό συνδυασμό.
+pin.consecutiveDigitsError.popup.title;;Αυτός ο συνδυασμός δεν επιτρέπεται<br><br>
+pin.lockedPin.notification.description;;Δοκιμάστε ξανά σε %1
+pin.lockedPin.notification.title;;Η καταχώριση PIN είναι κλειδωμένη
+pin.lockedPin.popup.text;;Το PIN που εισαγάγατε ήταν λανθασμένο τρεις φορές στη σειρά<br>Μπορείτε να δοκιμάσετε ξανά σε %1
+pin.lockedPin.popup.title;;Η καταχώριση PIN είναι κλειδωμένη για τα επόμενα %1<br><br>
+pinEntry.adultPin;;Εισάγετε PIN
+pinEntry.purchasePinCode;;Εισάγετε PIN
+player.endOfBuffer.description;;Έχετε φθάσει στην έναρξη της Αυτόματης Εγγραφής
+player.endOfBuffer.title;;Αυτόματη εγγραφή υπερέβηκε
+player.feedback.remaining;;Μένουν
+player.notification.cantRecoverMedia.description;;Δεν μπορέσαμε να ανακτήσουμε τo βίντεο
+player.notification.cantRecoverMedia.title;;Πρόβλημα player
+popup.gdpr.app.disagree;;Παρακαλώ κάντε επανεκκίνηση της συσκευής για να εφαρμοστούν οι ρυθμίσεις σας
+popups.buttons.continueWithoutRebooting;;Συνέχεια χωρίς κανάλια
+popups.buttons.rebootStb;;Επανεκκίνηση
+popups.cecStandBy.message;;Ο αποκωδικοποιητής πρόκειται να απενεργοποιηθεί για εξοικονόμηση ενέργειας
+popups.deepLinkError.button;;ΟΚ
+popups.deepLinkError.message;;Λυπούμαστε, υπήρξε πρόβλημα κατά την εκτέλεση αυτής της λειτουργίας. Παρακαλώ προσπαθήστε ξανά αργότερα.
+popups.deepLinkError.title;;Κάτι πήγε λάθος
+popups.emptyChannelList.description;;"Πατήστε OK για να επανεκκινήσετε τον αποκωδικοποιητή σας και να λύσετε το πρόβλημα. <br> Εάν θέλετε να συνεχίσετε χωρίς κανάλια, πατήστε OK στο ""Συνέχεια χωρίς κανάλια"". Για να λύσετε το πρόβλημα αργότερα, απενεργοποιήστε και ενεργοποιήστε ξανά τον αποκωδικοποιητή από την πηγή τροφοδοσίας. """
+popups.emptyChannelList.title;;Δεν μπορέσαμε να ανακτήσουμε την πλήρη λίστα των καναλιών σας
+popups.error.folderWithIncorrectApp;;Αποτυχία έναρξης της εφαρμογής από τον φάκελο
+popups.howToSubscribe;;Για να γίνετε συνδρομητής επικοινωνήστε με την εξυπηρέτηση πελατών στο 13830
+popups.networkValidation.buttons.retry;;Επανάληψη
+popups.networkValidation.misc;;Παρουσιάστηκε σφάλμα (σφάλμα: % 1).
+popups.networkValidation.title;;Πρόβλημα επικύρωσης
+popups.noInternetConnection.button;;Ρυθμίσεις
+popups.noInternetConnection.message;;Παρακαλώ ελέγξτε το καλώδιο και τις ρυθμίσεις δικτύου. Εάν το πρόβλημα επιμένει, επικοινωνήστε με την εξυπηρέτηση πελατών.
+popups.noInternetConnection.title;;Δεν βρέθηκε σύνδεση στο διαδίκτυο
+popups.notEnoughBandwidth.buttons.retry;;Προσπαθησε ξανα
+popups.notEnoughBandwidth.message;;Η ταχύτητα της WiFi σύνδεσης δεν επαρκεί για την σωστή λειτουργία του Vodafone TV. Δοκιμάστε να φέρετε το ρούτερ πιο κοντά στον αποκωδικοποιητή. Αν το πρόβλημα παραμένει επικοινωνήστε με τον TOBi στο www.vodafone.gr ή με το τηλεφωνικό κέντρο (13830)
+popups.notEnoughBandwidth.title;;Λυπούμαστε, υπήρχε ένα πρόβλημα με την σύνδεση του WiFi σας
+popups.powerSaving.buttons.closeThirdAppsAndAdjust;;Κλείστε και αλλάξτε το standby
+popups.speedTest.misc;;"Το Speedtest βρίσκεται σε εξέλιξη. Θέλετε να σταματήσετε το τεστ;"
+popups.subscriptionFiltering.buttons.cancel;;Όχι
+popups.subscriptionFiltering.buttons.showApp;;Εμφάνισε %1
+popups.subscriptionFiltering.message;;"Εμφάνιση %1 περιεχομένου στην περιοχή του On Demand και στα αποτελέσματα αναζήτησης;"
+popups.subscriptionFiltering.title;;Ελπίζουμε να απολύσατε αυτή την εφαρμογή.
+popups.update.failed;;Σφάλμα %1: Η αναβάθμιση δεν ολοκληρώθηκε
+popups.update.success;;Η αναβάθμιση ολοκληρώθηκε
+programInfo.actionButtons.confirm;;Επιβεβαίωση
+programInfo.actionButtons.from;;από
+programInfo.actionButtons.listen;;Άκου
+programInfo.actionButtons.noFolderSubscribe;;Συνδρομή
+programInfo.actionButtons.own;;Αγορά
+programInfo.actionButtons.ownAsPPVLabel;;Αγορά %1
+programInfo.actionButtons.ownLabel;;Αγορά %1
+programInfo.actionButtons.rentAsPPVLabel;;Ενοικίαση %1
+programInfo.actionButtons.restartLiveOn;;Επανεκκινήστε το Live
+programInfo.actionButtons.resume;;Συνέχεια
+programInfo.actionButtons.subscribeLabel;;Συνδρομή στο
+programInfo.actionButtons.subscribePrice;;Συνδρομή %1
+programInfo.actionButtons.subscribeSelfcare;;Συνδρομή
+programInfo.actionButtons.subscribedLabel;;Συνδρομή στο
+programInfo.actionButtons.trailers;;Τρέιλερ
+programInfo.actionButtons.watchBundle;;Παρακολούθηση όλων
+programInfo.actionButtons.watchBundleIn;;Παρακολούθηση όλων σε %1
+programInfo.actionButtons.watchCatchupOn;;Δείτε στο Replay TV
+programInfo.actionButtons.watchLiveOn;;Δείτε
+programInfo.actionButtons.watchOn;;Παρακολουθήστε 
+programInfo.actionButtons.watchSubscriptionOn;;Παρακολούθηση %1 από
+programInfo.actors.label;;Ηθοποιοί
+programInfo.badging.availableToRent;;Διαθέσιμο για ενοικίαση 
+programInfo.badging.availableToRentAndExpiration;;Μένουν %1 μέρα(ες) ενοικίασης από %2
+programInfo.bundle.partOf;;Μέρος του %1
+programInfo.catchupExpiresOn;;Replay TV λήγει σε %1
+programInfo.director.label;;Σκηνοθεσία
+programInfo.newPI.catchupAiredOn;;Προβλήθηκε %1
+programInfo.newPI.catchupExpiresOn;;Λήγει σε %1 ώρες and %2 λεπτά
+programInfo.newPI.recordedOn;;Εγγράφηκε %1
+programInfo.newPi.recordingServiceName;;Παίζει στο %1
+programInfo.partialRecordingExpiresOn;;Μερική εγγραφή λήγει σε %1
+programInfo.purchase.disclaimer;;Δεν υπάρχει δυνατότητα ακύρωσης, ξεκινά 48ωρη ενοικίαση.
+programInfo.recordingExpiresOn;;Η εγγραφή λήγει σε %1
+programInfo.series.special;;SPECIAL
+rails.availableToOwn;;Διαθέσιμο για αγορά
+rails.defaultGenreLabel;;Προς καθορισμό
+rails.relatedfrom;;Περισσότερα από %1
+rails.relatedto;;Παρόμοια με %1
+rails.rollingBuffer.title.dayOfTheMonthDateFormat;;Ημέρα Ημερομηνία Μήνας
+rails.rollingBuffer.title.today;;Περισσότερα από %1
+rails.rollingBuffer.title.today-1;;Εχθές
+rails.rollingBuffer.title.today-2;;2 ημέρες πριν
+rails.rollingBuffer.title.today-3;;3 ημέρες πριν
+rails.rollingBuffer.title.today-4;;4 ημέρες πριν
+rails.rollingBuffer.title.today-5;;5 ημέρες πριν
+rails.rollingBuffer.title.today-6;;6 ημέρες πριν
+rails.rollingBuffer.title.today-7;;7 ημέρες πριν
+rails.subscription;;Συνδρομή
+rails.title.morefrom;;%1
+recordingCancel.cancelSeries;;Ακύρωση εγγραφής σειράς
+recordingCancel.subtitle;;"Επιθυμείτε να ακυρώσετε την εγγραφή όλης της σειράς;"
+recordingCancel.title;;Η εγγραφή ακυρώθηκε
+recordings.update.please.wait;;Παρακαλώ περιμένετε
+relatedbyactor;;Περισσότερα από %1
+relatedbydirector;;Περισσότερα από %1
+relatedbygenre;;Περισσότερες προτάσεις
+relatedto;;Σχετικά με %1
+sdk7.browse.myHome.aboutMyHome;;Σχετικά με το My Home
+sdk7.browse.myHome.breadcrumbTitle;;My Home
+sdk7.browse.myHome.button.browseOnDemand;;On Demand
+sdk7.browse.myHome.button.openTvGuide;;Οδηγός προγράμματος
+sdk7.browse.myHome.contentInfo;;Εδώ θα βρείτε τις εγγραφές και τις ενοικιάσεις σας καθώς και το περιεχόμενο που έχετε προσθέσει στα αγαπημένα σας. Πλοηγηθείτε στον On Demand κατάλογο ή στον οδηγό προγράμματος για νέο περιεχόμενο!
+sdk7.countrySelection.text;;Με αυτή την επιλογή θα ρυθμίσετε την γλώσσα της εφαρμογής.
+sdk7.countrySelection.title;;Παρακαλώ επιλέξτε χώρα.
+sdk7.epg.focusedTile.remaining;;%1 μένουν
+sdk7.lockedPin.modal.subtitle;;Εισαγάγετε το PIN για ξεκλείδωμα %1
+sdk7.lockedPin.modal.title;;Κλειδωμένο με PIN
+sdk7.menu.tab.onTv;;TV
+sdk7.miniProgramInfo.remaining;;μένουν
+sdk7.miniProgramInfo.showMore;;Περισσότερες πληροφορίες
+sdk7.moreBucket.all;;Περισσότερα
+sdk7.pinEntry.helpLabel;;"Πρόβήμα με το PIN;"
+sdk7.pinEntry.success;;Επιτυχής σύνδεση!
+sdk7.pinEntry.success.subtitle;;%1 ξεκλειδώθηκε
+sdk7.pinEntry.unSuccessful;;Λάθος PIN
+sdk7.pinEntry.unSuccessful.subtitle;;Δοκιμάστε ξανά για ξεκλείδωμα %1
+sdk7.pinEntry.verifying;;Επαλήθευση
+sdk7.programInfo.actionButtons.wishlist.add;;Αγαπημένα
+sdk7.programInfo.actionButtons.wishlist.remove;;Αφαίρεση από τα αγαπημένα
+sdk7.programInfo.showInfo;;Περιγραφή
+sdk7.search.noResults;;Δεν βρέθηκαν αποτελέσματα
+sdk7.search.searchResults;;Αποτελέσματα αναζήτησης
+sdk7.serieInfo.episodePrefix;;Επεισόδιο %1
+sdk7.serieInfo.episodeShortPrefix;;Ε
+sdk7.serieInfo.seasonShortPrefix;;K
+sdk7.settings;;Ρυθμίσεις
+sdk7.settings.changePin.confirm;;Επιβεβαίωση
+sdk7.settings.changePin.confirmNewPin;;Επιβεβαιώστε το νέο σας PIN
+sdk7.settings.changePin.enterNewPin;;Εισαγάγετε το νέο PIN
+sdk7.settings.changePin.hideNewPin;;Απόκρυψη του νέου PIN
+sdk7.settings.changePin.masterPin;;Κύριο PIN
+sdk7.settings.changePin.pinChanged.failed;;Η αλλαγή του PIN απέτυχε
+sdk7.settings.changePin.pinChanged.successfully;;Το PIN άλλαξε
+sdk7.settings.changePin.pinChanged.tryAgain;;Πιέστε ΟΚ και δοκιμάστε ξανά
+sdk7.settings.changePin.secondaryString;;Το PIN δεν μπορεί να περιέχει μόνο τον ίδιο αριθμό. Παρακαλώ επιλέγετε ένα συνδυασμό αριθμών και δοκιμάστε ξανά.
+sdk7.settings.changePin.showNewPin;;Προβολή του νέου PIN
+sdk7.settings.changePin.title;;Αλλάξτε το PIN σας
+sdk7.settings.hiddenChannels;;Κλειδωμένα κανάλια
+sdk7.settings.parentalControls.adultContent;;Περιεχόμενο Ενηλίκων
+sdk7.settings.parentalControls.ageRating.pinModal.event;;Διαχείριση καταλληλότητας
+sdk7.settings.parentalControls.ageRating.screen.description;;Δεν θα απαιτείται PIN για την παρακολούθηση του περιεχομένου που έχει χαρακτηριστεί με το βαθμό ακαταλληλότητας που έχετε επιλέξει. Θα απαιτείται PIN για την προβολή περιεχομένου χαρακτηρισμένο με μεγαλύτερο βαθμό.
+sdk7.settings.parentalControls.ageRating.screen.secondary.description;;Το αρχικό PIN της υπηρεσίας είναι 1234. Για καλύτερο έλεγχο σας προτείνουμε να το αλλάξετε σε έναν δικό σας συνδυασμό.
+sdk7.settings.parentalPurchases.locked;;Το PIN για τις αγορές έχει ενεργοποιηθεί. Για απενεργοποίηση πατήστε ΟΚ.
+sdk7.settings.parentalPurchases.locked.desc;;Θα χρειαστείτε το PIN για να ενοικιάσετε περιεχόμενο. Αν το απενεργοποιήσετε οι συναλλαγές θα γίνονται χωρίς να απαιτείται PIN.
+sdk7.settings.parentalPurchases.purchasePinState;;Κατάσταση PIN αγορών
+sdk7.settings.parentalPurchases.unlocked;;Το PIN για τις αγορές έχει απενεργοποιηθεί. Για ενεργοποίηση πατήστε ΟΚ.
+sdk7.settings.parentalPurchases.unlocked.desc;;Οι συναλλαγές θα γίνονται χωρίς να απαιτείται PIN. Αν το ενεργοποιήσετε θα πρέπει να εισαγάγετε το PIN για ενοικιάσεις.
+sdk7.settings.pinProtection.desc;;Όταν η προστασία με PIN είναι ενεργοποιημένη για να παρακολουθήσετε το αντίστοιχο περιεχόμενο θα πρέπει να εισαγάγετε το PIN σας. Όταν η προστασία με PIN είναι απενεργοποιημένη όλο το περιεχόμενο, on demand και κανάλια (συμπεριλαμβανομένου και του περιεχομένου για ενήλικες) θα αναπαράγεται χωρίς την εισαγωγή PIN.
+sdk7.settings.pinProtection.isActivated;;H προστασία με PIN και ο γονικός έλεγχος έχουν ενεργοποιηθεί. Για απενεργοποίηση πατήστε ΟΚ.
+sdk7.settings.pinProtection.isDeactivated;;Η προστασία με PIN και ο γονικός έλεγχος έχουν απενεργοποιηθεί. Πατήστε ΟΚ για ενεργοποίηση.
+sdk7.settings.pinProtection.pinConfirmationModal.message.activatePin;;"Θέλετε σίγουρα να ενεργοποιήσετε το PIN;"
+sdk7.settings.pinProtection.pinConfirmationModal.message.deactivatePin;;"Θέλετε σίγουρα να απενεργοποιήσετε το PIN;"
+sdk7.settings.pinProtection.pinConfirmationModal.title.activatePin;;Ενεργοποίηση του PIN
+sdk7.settings.pinProtection.pinConfirmationModal.title.deactivatePin;;Απενεργοποίηση του PIN
+sdk7.settings.pinProtection.pinProtection;;Προστασία με PIN
+sdk7.settings.premiumChannels.hidden;;Αυτά τα κανάλια δεν εμφανίζονται στο μενού. Πατήστε ΟΚ για να εμφανίστούν και αυτά στο μενού.
+sdk7.settings.premiumChannels.intro;;Αν επιθυμείτε μπορείτε να κρύψετε από το μενού του Vodafone TV κάποια κανάλια.
+sdk7.settings.premiumChannels.visible;;Αυτά τα κανάλια είναι ορατά στο μενού. Πατήστε ΟΚ για να κρύψετε από το μενού τα κανάλια στα οποία δεν έχετε συνδρομή.
+sdk7.settings.privacy.and.terms;;Προστασία προσωπικών δεδομένων & Όροι
+sdk7.settings.privacy.consent.disagree.text;;Αν δεν συμφωνήσετε δεν θα λαμβάνετε εξατομικευμένες προτάσεις ή και άλλες δυνατότητες του Vodafone TV.
+sdk7.settings.privacy.consent.disagree.title;;"Είστε σίγουρος;"
+sdk7.settings.vodafoneTV;;Vodafone TV
+sdk7.smartTV.firstInstall.login.error.title;;"Πρόβλημα με τον λογαριασμό;"
+sdk7.watch.timestamp.live;;Παίζει τώρα
+search.recentSearches;;Πρόσφατες αναζητήσεις
+search.recommendations;;Προτεινόμενα
+searchRecommendations1;;Όλα
+searchRecommendations2;;Zωντανά τώρα
+searchRecommendations3;;Πρόσφατα Replay TV
+serieInfo.episodeShort;;Ε
+serieInfo.seasonPrefix;;Kύκλος %1
+serieInfo.seasonShort;;Κ
+settings.accessibility.audioLanguage.description;;Μετακινηθείτε πάνω/κάτω για να επιλέξετε μια γλώσσα και πατήστε OK για επιβεβαίωση.
+settings.accessibility.audioLanguage.description.selected;;Η γλώσσα ήχου έχει οριστεί σε %1.
+settings.accessibility.help;;Βοήθεια
+settings.accessibility.help.description;;Για περισσότερες πληροφορίες πλοηγηθείτε στο www.vodafone.gr/tv/ <br/><br/><br/>
+settings.alexa;;Alexa
+settings.alexa.deviceName;;Όνομα συσκευής: 
+settings.alexa.status.finished;;Ολοκλήρωση!
+settings.ast.astDisableVisualScrubber;;Visual Scrubber
+settings.ast.astOverrideShakaSettings;;Ρυθμίσεις αναπαραγωγής
+settings.ast.astSettings;;Υποστήριξη αναπαραγωγής για προχωρημένους
+settings.ast.astShowBackgroundProcess;;Λειτουργίες που τρέχουν στο παρασκήνιο
+settings.ast.overrideShakaSettings.items.bufferingGoal;;Buffering goal
+settings.ast.overrideShakaSettings.items.defaultBandwidthEstimate;;Εκτίμηση αρχικής ταχύτητας
+settings.ast.overrideShakaSettings.items.defaultPresentationDelay;;Default presentation delay
+settings.ast.overrideShakaSettings.items.rebufferingGoal;;Rebuffering goal
+settings.ast.overrideShakaSettings.resetButton;;Επαναφορά
+settings.ast.overrideShakaSettings.title;;Ρυθμίσεις αναπαραγωγής
+settings.audioAndVisual.audioOutput.auto;;Auto
+settings.audioAndVisual.audioOutput.resetVolume;;Επαναφορά της έντασης του ήχου
+settings.audioAndVisual.audioOutput.resetVolumeInfo;;Η επαναφορά της έντασης του ήχου θα ρυθμίσει την ένταση ήχου του Vodafone TV στο μέγιστο επίπεδο.<br/>
+settings.audioAndVisual.audioSettings;;Ρυθμίσεις ήχου και εικόνας
+settings.audioAndVisual.audioSettings.hdmi;;HDMI
+settings.audioAndVisual.audioSettings.localSpeaker;;Τοπικό ηχείο
+settings.audioAndVisual.soundMode;;Λειτουργία ήχου
+settings.audioAndVisual.soundMode.automatic;;Αυτόματο
+settings.audioAndVisual.soundMode.game;;Παιχνίδι
+settings.audioAndVisual.soundMode.movie;;Ταινία
+settings.audioAndVisual.soundMode.music;;Μουσική
+settings.audioAndVisual.soundMode.music.fidelity;;Μουσική πιστότητα
+settings.audioAndVisual.soundMode.music.loud;;Ενίσχυση ήχου
+settings.audioAndVisual.soundMode.music.surround;;Πολυκάναλος ήχος
+settings.audioAndVisual.soundMode.night;;Βράδυ
+settings.audioAndVisual.soundMode.off;;Απενεργοποίηση
+settings.audioAndVisual.soundMode.sport;;Αθλητικά
+settings.audioAndVisual.soundMode.voice;;Ομιλία
+settings.audioAndVisual.widescreen;;Ρυθμίσεις 4:3
+settings.audioAndVisual.widescreen.fullmode;;Πλήρης οθόνη
+settings.audioAndVisual.widescreen.original;;Πηγή
+settings.audioAndVisual.widescreen.zoom;;Zoom
+settings.audioProfile.description;;Το προφίλ του ήχου είναι σε ισχύ όταν γίνεται χρήση των ηχείων του αποκωδικοποιητή.
+settings.autoDelete;;Η αυτόματη διαγραφή θα αρχίσει με τις επόμενες προγραμματισμένες εγγραφές. Αυξήστε τον αποθηκευτικό χώρο για να αποφύγετε τη διαγραφή
+settings.automaticRecordings.description;;Το Vodafone TV προσφέρει την παρακολούθηση προγραμμάτων των τελευταίων 7 ημερών. Μπορείτε να παρακολουθήσετε αυτά τα προγράμματα απευθείας χρησιμοποιώντας τον οδηγό προγράμματος ή πατώντας τα πλήκτρα πάνω ˄ και κάτω ˅ στο τηλεχειριστήριο σας ενώ παρακολουθείτε τηλεόραση.
+settings.automaticRecordings.title;;Αυτόματες εγγραφές
+settings.bluetooth;;Bluetooth
+settings.bluetooth.addDevice;;Προσθήκη συσκευής
+settings.bluetooth.autoConnect;;Αυτόματη σύνδεση
+settings.bluetooth.connect;;Συνδέστε μια συσκευή
+settings.bluetooth.connected;;Συνδεδεμένο
+settings.bluetooth.connected.description;;"Πλοηγηθείτε επάνω ή κάτω για να επιλέξετε μια συσκευή. Πατήστε OK για να συνδέσετε ή να αποσυνδέσετε την επιλεγμένη συσκευή. Δεν μπορείτε να βρείτε τη συσκευή σας; Μεταβείτε στην επιλογή ""Προσθήκη συσκευής"" για αναζήτηση άλλων συσκευών."
+settings.bluetooth.connecting;;Σύνδεση...
+settings.bluetooth.description;;Δεν έχει συνδεθεί καμία συσκευή με Bluetooth. <br> Παρακαλώ προσθέστε μία νέα συσκευή
+settings.bluetooth.devices;;Οι συσκευές μου
+settings.bluetooth.disconnecting;;Διαγραφή...
+settings.bluetooth.otherDevices;;Άλλες συσκευές
+settings.bluetooth.pairing;;Ενεργοποίηση Bluetooth
+settings.bluetooth.pairingPopup.description;;"Ελέγξτε τη συσκευή σας για επιβεβαίωση. Στη συνέχεια, θα γίνει διαθέσιμη στο μενού ""Οι συσκευές μου"""
+settings.bluetooth.pairingPopup.title;;Προσθήκη 
+settings.bluetooth.pairingScreen.description;;Πλοηγηθείτε επάνω ή κάτω για να επιλέξετε μια συσκευή. Πατήστε OK για να συνδέσετε την επιλεγμένη συσκευή.
+settings.bluetooth.refreshButton.text;;Ανανέωση
+settings.bluetooth.removeDevice;;Αφαίρεση συσκευής
+settings.bluetooth.removeScreen.description;;"Επιλέξτε μία ή περισσότερες συσκευές πατώντας ""OK"" στο τηλεχειριστήριό σας. <br/> Επιβεβαιώστε την επιλογή σας για να αφαιρεθούν οι συσκευές."
+settings.bluetooth.screen.description;;Μπορείτε να συνδέσετε τη συσκευή σας μέσω Bluetooth για να ακούσετε τη μουσική σας
+settings.bluetooth.screen.title;;Σύνδεση Bluetooth
+settings.bluetooth.searching;;Αναζήτηση συσκευών
+settings.boxSpace;;Εγγραφές
+settings.cec.buttons.paired;;Συγχρονισμένο
+settings.cec.buttons.unpaired;;Συγχρονισμός τώρα
+settings.cec.paired.description;;Το τηλεχειριστήριο του Vodafone TV είναι συγχρονισμένο με την τηλεόραση.<br>Εάν δεν θέλετε να ελέγχετε την τηλεόραση σας με το τηλεχειριστήριο του Vodafone TV, αποσυνδέστε το τηλεχειριστήριο εδώ
+settings.cec.paired.subtitle;;Αποσύνδεση του τηλεχειριστηρίου.
+settings.cec.title;;Ρυθμίσεις τηλεόρασης
+settings.cec.unpaired.description;;Συγχρονίστε το τηλεχειριστήριο του Vodafone TV για να ελέγχετε την ενεργοποίηση, την ένταση φωνής και την πηγή εισόδου της τηλεόρασης.
+settings.cec.unpaired.subtitle;;Συγχρονισμός με την τηλεόραση
+settings.channelReordering.apply;;Εφαρμογή
+settings.channelReordering.confirm;;Επιβεβαίωση
+settings.channelReordering.multiSelection;;Πολλαπλή επιλογή
+settings.channelReordering.notification.channelAllSubHidden.description;;Πρέπει να έχεε τουλάχιστον ένα κανάλι ανοιχτό
+settings.channelReordering.notification.channelAllSubHidden.title;;Δεν μπορείτε να κρύψετε όλα τα κανάλια
+settings.channelReordering.notification.channelHidden.description;;Για να δείτε το κανάλι αλλάξτε τις επιλογές του μενού Απόκρυψη καναλιών  στις ρυθμίσεις
+settings.channelReordering.notification.channelHidden.title;;%1 (%2) είναι κρυμμένα
+settings.channelReordering.notification.channelHidden.titleForAll;;Όλα τα κανάλια είναι κρυφά
+settings.channelReordering.notification.channelUnsubHidden.description;;Η επιλογή εμφάνισης/απόκρυψης καναλιών χωρίς συνδρομή ενημερώθηκε
+settings.channelReordering.notification.channelUnsubHidden.title;;Κάντε κλικ στην εμφάνιση/απόκρυψη καναλιών που δεν έχετε συνδρομή.
+settings.channelReordering.notification.notSortable.description;;Αυτή η επιλογή υπάρχει κα ιστην θέση %1
+settings.channelReordering.notification.notSortable.title;;Η θέση του καναλιού %1 είναι κλειδωμένη
+settings.channelReordering.reset;;Επαναφορά
+settings.channelReordering.reset.popup.description;;"Θέλετε να γίνει επαναφορά της σειράς των καναλιών στην αρχική τους θέση;"
+settings.channelReordering.reset.popup.title;;Επαναφορά των καναλιών στην αρχική τους θέση
+settings.channelSorting.allChannels.selected;;Όλα τα κανάλια (%1 Selected)
+settings.channelSorting.allChannels.unselected;;Όλα τα κανάλια
+settings.channelSorting.description;;Για να μετακινήστε ένα κανάλι σε νέα θέση, πλοηγηθείτε πάνω/κάτω στην λίστα ή πληκτρολογήστε τον αριθμό του.<br><br>Πατήστε ΟΚ για επιλογή.
+settings.channelSorting.description.batchSelection;;Μετακινήστε την επιλογή Πάνω / Κάτω στη νέα της θέση ή χρησιμοποιήστε τα αριθμητικά πλήκτρα στο τηλεχειριστήριο σας. <br> <br> Πατήστε OK για εφαρμογή.
+settings.channelSorting.description.editMode;;Μετακινήστε το κανάλι πάνω / κάτω στη νέα του θέση ή χρησιμοποιήστε τα αριθμητικά πλήκτρα στο τηλεχειριστήριο σας. <br> <br> Πατήστε OK για εφαρμογή.
+settings.channelSorting.description.multiSelectionMode;;Μετακινηθείτε πάνω / κάτω ή εισαγάγετε τον αριθμό καναλιού για να βρείτε ένα κανάλι. Πατήστε OK για να επιλέξετε και να αποεπιλέξετε. <br> <br> Αφού εφαρμόσετε την επιλογή σας, μπορείτε να τη μετακινήσετε στη νέα θέση.
+settings.channelSorting.subtitle.customisation;;Ρυθμίσεις
+settings.channelSorting.title;;Ταξινόμηση καναλιών
+settings.channelVisibility.allChannels.visible;;Όλα τα κανάλια
+settings.channelVisibility.confirm;;Επιβεβαίωση
+settings.channelVisibility.description;;Μπορείτε αν επιθυμείτε να κρύψετε κανάλια από τον οδηγό προγράμματος.<br><br>Πλοηγηθείτε πάνω/κάτω ή εισάγετε τον αριθμό ενός καναλιού και πατήστε ΟΚ.<br>
+settings.channelVisibility.hideAllChannels;;Τουλάχιστον ένα κανάλι πρέπει να παραμείνει ορατό.
+settings.channelVisibility.hideUnsubscribedChannels;;Απόκρυψη των καναλιών που δεν έχω συνδρομή
+settings.channelVisibility.showUnsubscribedChannels;;Εμφάνιση των καναλιών που δεν έχω συνδρομή
+settings.channelVisibility.subtitle;;Απόκρυψη καναλιών
+settings.channelVisibility.subtitle.customisation;;Προσαρμογή
+settings.channelVisibility.title;;Απόκρυψη καναλιών
+settings.cloudRecordings;;Εγγραφές
+settings.cloudsRecordings;;Εγγραφές στο cloud
+settings.connectedDevices;;Συνδεδεμένες συσκευές
+settings.connectedDevices.mobilePairing;;Σύνδεση μέσω εφαρμογής
+settings.connectedDevices.remote;;Τηλεχειριστήριο
+settings.connectedDevices.tvInput;;Είσοδος TV
+settings.connectedDevices.voiceAssistants;;Φωνητική βοήθεια
+settings.contentSettings;;Ρυθμίσεις περιεχομένου
+settings.developerMode;;Developer Mode
+settings.fallbackDeepLink;;Μετάβαση στο Dynamic DeepLink
+settings.frequentlyAskedQuestions;;Συχνές ερωτήσεις
+settings.frequentlyAskedQuestions.faqBrowser;;Υποστήριξη
+settings.informations.abrProfile;;ABR προφίλ
+settings.informations.button.pvr;;Τοπικές εγγραφές
+settings.informations.buttons.nagra;;Nagra
+settings.informations.buttons.nagraStv;;Nagra
+settings.informations.buttons.pvr;;PVR
+settings.informations.casingSerialNumber;;Σειριακός αριθμός
+settings.informations.casingSerialNumber.unavailable;;Μη διαθέσιμο
+settings.informations.channelNameDVBC;;Όνομα καναλιού
+settings.informations.channelNameDVBIP;;Όνομα καναλιού
+settings.informations.channelNameFTTH;;Όνομα καναλιού
+settings.informations.diskConnectState;;Κατάσταση σύνδεσης δίσκου
+settings.informations.diskConnectState.connected;;Συνδεδεμένος
+settings.informations.diskConnectState.disconnected;;Μη συνδεδεμένος
+settings.informations.diskStatus;;Κατάσταση δίσκου
+settings.informations.diskStatus.notReady;;Δεν είναι έτοιμο
+settings.informations.diskStatus.ready;;Έτοιμο
+settings.informations.freq;;Συχνότητα
+settings.informations.hdcpVersion;;HDCP έκδοση
+settings.informations.imei;;IMEI
+settings.informations.kdsn;;KDSN
+settings.informations.lcn;;LCN
+settings.informations.netflixEsn;;Netflix ESN
+settings.informations.nid;;Αναγνωριστικό δικτύου
+settings.informations.onid;;Αναγνωριστικό δικτύου
+settings.informations.otaUpdateProgress;;OTA ενημέρωση προόδου.
+settings.informations.ott;;OTT
+settings.informations.packetLoss;;Απώλεια πακέτων
+settings.informations.sdkVersion;;Έκδοση SDK
+settings.informations.sid;;Αναγνωριστικό υπηρεσίας
+settings.informations.signalQuality;;Ποιότητα
+settings.informations.smartTvVersion;;Έκδοση αποκωδικοποιητή
+settings.informations.snr;;SNR
+settings.informations.tsid;;Transport Stream ID
+settings.informations.updateStatus.failed;;%1: Η ενημέρωση απέτυχε
+settings.informations.updateStatus.success;;Επιτυχία
+settings.informations.uri;;URI
+settings.informations.wireless.quality;;settings.informations.wireless.quality
+settings.language.audioLanguage;;Γλώσσα ήχου
+settings.language.systemLanguage;;Γλώσσα συστήματος
+settings.language.systemLanguage.info;;Με την Αυτόματη επιλογή, ο αποκωδικοποιητής θα χρησιμοποιήσει τη γλώσσα της Smart TV ως Γλώσσα Συστήματος, εφόσον αυτή η γλώσσα υποστηρίζεται από τον αποκωδικοποιητή.
+settings.languageAndAccessibility;;Γλώσσα & Πρόσβαση
+settings.languageAndAccessibility.audioLanguage;;Ήχος
+settings.languageAndAccessibility.subtitlesPreference;;Υπότιτλοι
+settings.localRecordings;;Εγγραφές αποθηκευμένες τοπικά
+settings.localRecordings.error;;Παρουσιάστηκε πρόβλημα κατά την ανάκτηση πληροφοριών από το δίσκο
+settings.localRecordings.reformatDisk.notification.helpMessage;;Λάβετε υπόψη ότι όλες οι τοπικές εγγραφές θα χαθούν. <br/> Δεν μπορείτε να το αναιρέσετε!
+settings.localRecordings.reformatDisk.notification.offlineSubtitle;;Για να γίνει φορμάτ στον δίσκο απαιτείται σύνδεση με το internet
+settings.localRecordings.reformatDisk.notification.offlineTitle;;Φορμάτ δίσκου
+settings.localRecordings.reformatDisk.notification.title;;Για επαναδιαμόρφωση εισάγετε το PIN σας.
+settings.logger;;Logger
+settings.logger.loggerIp;;Logger endpoint
+settings.logger.loggerModule;;Logger Module
+settings.logger.loggerType;;Logger Type
+settings.loggerIp.description;;Θα σταλούν αρχεία καταγραφής για ανάλυση στην πιο κάτω IP στην πόρτα 8080
+settings.loggerIp.subtitle;;Εισάγετε την IP σας
+settings.loggerIp.title;;IP
+settings.loggerModule.description;;Η ενεργοποίηση της λειτουργία καταγραφής θα επιτρέψει την καταγραφή πιθανόν σφαλμάτων.<br/>Υπάρχει περίπτωση η απόκρισή του αποκωδικοποιητή να γίνει πιο αργή όσο είναι ανοιχτή αυτή η λειτουργεία.
+settings.loggerModule.subtitle;;Ενεργοποιήστε την λειτουργία καταγραφής που χρειάζεστε
+settings.loggerModule.title;;Ενεργοποίηση αρχείου καταγραφής
+settings.loggerType.description;;Υπάρχουν τρεις επιλογές:- Browser: Μεταφορά στο debugger του browser<br/>- Sagemcom: Αποστολή των αρχείων καταγραφής στον κατασκευαστή (Μόνο για τον αποκωδικοποιητή)<br/>- Websocket: Αποστολή των αρχείων καταγραφής μέσω websocket σε μια ip που θα ορίσετε<br/>H απόκριση του αποκωδικοποιητή ενδέχεται να γίνει πιο αργή κατά την διάρκεια της λειτουργείας
+settings.loggerType.subtitle;;Επιλέξτε που να αποθηκευτεί το αρχείο
+settings.loggerType.title;;Ενεργοποίηση της λειτουργείας καταγραφής
+settings.network.channelScan.pleaseWait;;Αναζήτηση καναλιών , παρακαλώ περιμένετε
+settings.parentalControls.managePin;;Διαχείριση PIN
+settings.parentalControls.options;;Διαχείριση καταλληλότητας
+settings.parentalControls.purchasePin;;Αγορές
+settings.powerSaving.autoStandbyTime.2h;;2 ώρες
+settings.powerSaving.autoStandbyTime.4h;;4 ώρες
+settings.powerSaving.autoStandbyTime.8h;;8 ώρες
+settings.powerSaving.quickBoot.description;;Εάν θέλετε να χρησιμοποιήσετε το Φωνητικό έλεγχο ή να παίξετε μουσική από Bluetooth ή το Spotify όταν ο αποκωδικοποιητής είναι σε αναμονή, αυτή η επιλογή πρέπει να είναι ΑΝΕΝΕΡΓΗ. <br><br> Διαφορετικά, θα μπορείτε να το κάνετε μόνο για μικρό χρονικό διάστημα μετά την απενεργοποίηση της συσκευής.
+settings.powerSaving.remoteBooking.description;;Για λιγότερη κατανάλωση ενέργειας κατά την αναμονή της συσκευής, επιλέξτε εξοικονόμηση ενέργειας. Όμως με αυτή την επιλογή ο αποκωδικοποιητής θα χρειάζεται περισσότερο χρόνο για να εκκινήσει και δεν θα λειτουργεί η απομακρυσμένη εγγραφή (από κινητό)
+settings.powerSaving.smartStandby.active;;Ενεργός
+settings.powerSaving.smartStandby.active.description;;Όταν ο αποκωδικοποιητής και η τηλεόρασή σας είναι απενεργοποιημένα, μπορείτε να παίξετε μουσική μέσω Bluetooth, να χρησιμοποιήστε το Spotify Connect και το φωνητικό έλεγχο.
+settings.powerSaving.smartStandby.energySaving;;Εξοικονόμησης ενέργειας
+settings.powerSaving.smartStandby.energySaving.description;;Επιλέξτε εξοικονόμηση ενέργειας για μικρότερη κατανάλωση. Η εκκίνηση του αποκωδικοποιητή θα είναι πιο αργή και δεν θα μπορείτε να χρησιμοποιήσετε τις λειτουργίες Active / Smart Standby.
+settings.powerSaving.smartStandby.smartStandby;;Έξυπνη αναμονή
+settings.powerSaving.smartStandby.smartStandby.description;;Όταν ο αποκωδικοποιητής και η τηλεόρασή σας είναι απενεργοποιημένα, μπορείτε να κάνετε ζεύξη παίξετε μουσική μέσω Bluetooth, να χρησιμοποιήστε το Spotify Connect και το φωνητικό έλεγχο. <br/>Αυτή η επιλογή επιτρέπει όλες οι λειτουργίες να είναι διαθέσιμες όταν τις χρειάζεστε περισσότερο και να εξοικονομεί ενέργεια μεταξύ 1-6 π.μ.
+settings.privacy;;Προστασία προσωπικών δεδομένων
+settings.privacy.consent;;Συγκατάθεση απορρήτου
+settings.privacy.notice;;Πολιτική Απορρήτου
+settings.privacyDisclaimer;;Πολιτική απορρήτου
+settings.privacyDisclaimer.privacy;;Πολιτική απορρήτου Vodafone TV
+settings.privacyDisclaimerPageTitle;;Πολιτική απορρήτου Vodafone TV
+settings.purchase.errorTurnOn;;Για να ενεργοποιήσετε το PIN αγορών, πρέπει πρώτα να ενεργοποιηθεί το PIN γονικού ελέγχου.
+settings.purchase.turnOff;;Απενεργοποίηση
+settings.purchase.turnOn;;PIN ενεργοποιημένο
+settings.purchase.turnedOff;;Aπενεργοποιημένο
+settings.purchase.turnedOn;;PIN ενεργοποιημένο
+settings.purchasePin;;PIN ενοικιάσεων
+settings.recommendations;;Προτεινόμενα
+settings.recommendations.off;;Απενεργοποίηση
+settings.recommendations.on;;Ενεργοποίηση
+settings.recording.padding.fifteen;;+15 λεπτά
+settings.recording.padding.five;;+5 λεπτά
+settings.recording.padding.ten;;+10 λεπτά
+settings.recording.setPaddings.noPadding;;Πραγματοποίηση εγγραφής σύμφωνα με στην έναρξη στο πρόγραμμα
+settings.recordings.automaticRecordings;;Αυτόματες εγγραφές
+settings.recordings.boxSpaceLow;;Έχετε χαμηλή χωρητικότητα αποθηκευτικού χώρου
+settings.recordings.buyMoreStorage;;Αγορά περισσότερου αποθηκευτικού χώρου
+settings.recordings.buyStorage;;Αγορά αποθηκευτικού χώρου
+settings.recordings.ejectDisk;;Εξαγωγή δίσκου
+settings.recordings.filterContent;;Φιλτράρισμα περιεχομένου
+settings.recordings.manage;;Διαχείριση εγγραφών
+settings.recordings.padding.none;;Δεν υπάρχει επένδυση
+settings.recordings.recommendationsOptOut;;Δεν θέλω να λαμβάνω προτάσεις
+settings.recordings.reformatDisk;;Αναδιάρθρωση δίσκου
+settings.recordings.remoteBooking;;Απομακρυσμένες εγγραφές
+settings.recordings.setPadding;;Ρυθμίστε την επένδυση
+settings.recordings.setPadding.description;;Προσθέστε επένδυση στην αρχή και στο τέλος των εγγραφών σας
+settings.recordings.setPadding.title;;Ρυθμίστε την επένδυση
+settings.recordings.subscribedChannels;;Εμφάνιση των συνδρομητικών καναλιών
+settings.remote.buttons.back;;Ακύρωση
+settings.remote.buttons.green;;Πράσινο
+settings.remote.buttons.info;;Πληροφορίες
+settings.remote.buttons.paired;;Συγχρονισμένο
+settings.remote.buttons.tv;;Τηλεχειριστήριο
+settings.remote.buttons.unpaired;;Δεν είναι συγχρονισμένο
+settings.remote.buttons.voice;;Μάθετε για την λειτουργία φωνής.
+settings.remote.connectionType.BLE;;Bluetooth
+settings.remote.info.IRCodesTableDBVersion;;";"
+settings.remote.info.batteryLevelGood;;ΚΑΛΗ
+settings.remote.info.batteryLevelLow;;ΧΑΜΗΛΗ
+settings.remote.info.batteryStatus.button;;Επίπεδο Μπαταρίας
+settings.remote.info.batteryStatus.subtitle;;Επίπεδο Μπαταρίας
+settings.remote.info.bleConnection.button;;Σύνδεση Bluetooth
+settings.remote.info.bluetooth;;Bluetooth<br><br>
+settings.remote.info.buttons.firmware.button;;Λογισμικό
+settings.remote.info.connectivityStatus.button;;Κατάσταση σύνδεσης
+settings.remote.info.connectivityStatus.subtitle;;Κατάσταση σύνδεσης
+settings.remote.info.done.button;;Ολοκληρώθηκε
+settings.remote.info.firmware.button;;Έκδοση
+settings.remote.info.firmware.subtitle;;Λογισμικό
+settings.remote.info.hardwareVersion;;Έκδοση υλικού
+settings.remote.info.infrared;;Το τηλεχειριστήριο χρησιμοποιεί υπέρυθρες για τον έλεγχο του αποκωδικοποιητή. 
+settings.remote.info.lastDownloadDateFirmware;;Ημερομηνία τελευταίας λήψης λογισμικού.
+settings.remote.info.macAddress;;RCU MAC Address:
+settings.remote.info.manufacturingDate;;Ημερομηνία κατασκευής
+settings.remote.info.productNumber;;Αριθμός προϊόντος
+settings.remote.info.radioFrequency;;Το τηλεχειριστήριο χρησιμοποιεί υπέρυθρες %1.<br><br>Για αλλαγή σύνδεσης σε bluetooth, πιέστε το κίτρινο κουμπί και το 3.
+settings.remote.info.remoteSerialNumber;;Remote serial number
+settings.remote.info.remoteVersion.button;;Λογισμικό
+settings.remote.info.remoteVersion.subtitle;;Έκδοση
+settings.remote.info.serialNumber.button;;Σειριακός αριθμός
+settings.remote.info.serialNumber.subtitle;;Σειριακός αριθμός
+settings.remote.info.softwareVersion;;Λογισμικό
+settings.remote.info.title;;Πληροφορίες
+settings.remote.info.version;;Έκδοση
+settings.remote.paired.descriptionBle;;Το τηλεχειριστήριο σας έχει συγχρονίσει
+settings.remote.paired.descriptionIrRf;;Το τηλεχειριστήριο σας έχει τώρα συγχρονιστεί για καλύτερη απόδοση
+settings.remote.paired.subtitle;;Σύνδεση τηλεχειριστηρίου
+settings.remote.remoteStatus;;Κατάσταση τηλεχειριστηρίου
+settings.remote.retry.descriptionBle;;Ο συγχρονισμός απέτυχε. Παρακαλώ πατήστε το κίτρινο πλήκτρο και το 3 στο τηλεχειριστήριο σας για πέντε δευτερόλεπτα.
+settings.remote.retry.descriptionIrRf;;Ο συγχρονισμός απέτυχε. Παρακαλώ πατήστε το κίτρινο πλήκτρο και το 3 στο τηλεχειριστήριο σας για πέντε δευτερόλεπτα.
+settings.remote.retry.subtitle;;Συγχρονισμός τηλεχειριστηρίου
+settings.remote.title;;Κατάσταση σύνδεσης
+settings.remote.tvControls;;Ρυθμίσεις τηλεόρασης
+settings.remote.unpaired.descriptionBle;;Το remote μπορεί να συνδεθεί με Bluetooth για επικοινωνία με τον αποκωδικοποιητή.<br><br>Για την λειτουργία Bluetooth πιέσετε ταυτόχρονα και για λίγα δευτερόλεπτα το κίτρινο κουμπί σε συνδυασμό με το πλήκτρο 3.
+settings.remote.unpaired.descriptionIrRf;;Συγχρονίστε το τηλεχειριστήριο σας με RF για καλύτερη απόδοση.<br><br>Για να το συγχρονίσετε πιέστε το κίτρινο πλήκτρο και το 3 για πέντε δευτερόλεπτα.
+settings.remote.unpaired.subtitle;;Συγχρονισμός τηλεχειριστηρίου
+settings.remoteBooking.button.standbyOptions;;Επιλογές αναμονής
+settings.remoteBooking.screen.text;;"Για να προγραματιστεί μια απομακρυσμένη εγγραφή (από το κινητό) η επιλογή της αναμονής της συσκευής πρέπει να είναι ""Ενεργός"".<br><br>Για αλλαγή πλοηγηθείτε στις ρυθμίσεις-Αναμονή-Επιλογές Αναμονής"
+settings.remoteBooking.screen.title;;Απομακρυσμένες εγγραφές
+settings.remoteControl;;Ρυθμίσεις τηλεχειριστηρίου
+settings.selfDiagnostics.button.internetConnection;;Δίκτυο
+settings.selfDiagnostics.button.localStorage;;Αποθηκευτικός χώρος
+settings.selfDiagnostics.button.networkConnection;;Σύνδεση δικτύου
+settings.selfDiagnostics.button.remote;;Τηλεχειριστήριο
+settings.selfDiagnostics.button.softwareUpdates;;Αναβαθμίσεις λογισμικού
+settings.selfDiagnostics.button.tvChannels;;Κανάλια τηλεόρασης
+settings.selfDiagnostics.issuesTable.message.sdi01.01;;Δεν υπάρχει σύνδεση μέσω LAN ή Wi-Fi. Παρακαλώ ελέγξτε το καλώδιο και τις ρυθμίσεις δικτύου. 
+settings.selfDiagnostics.issuesTable.message.sdi01.02;;Το Vodafone TV δεν μπορεί να πάρει διεύθυνση IP. Παρακαλώ ελέγξτε τις ρυθμίσεις δικτύου και κάντε επανεκκίνηση στο ρούτερ και το Vodafone TV. 
+settings.selfDiagnostics.issuesTable.message.sdi01.03;;Η ισχύς του σήματος Wifi είναι χαμηλή. Παρακαλώ συνδεθείτε μέσω καλωδίου ή μεταφέρετε τον ρούτερ πιο κοντά στο Vodafone TV. 
+settings.selfDiagnostics.issuesTable.message.sdi02.01;;Αδυναμία σύνδεσης στο διαδίκτυο. Εάν αντιμετωπίζετε το ίδιο πρόβλημα και με άλλες συσκευές που είναι συνδεδεμένες στο ίδιο δίκτυο, τότε υπάρχει γενικό πρόβλημα με το internet. <br />Αν αντιμετωπίζετε πρόβλημα μόνο με το Vodafone TV, δοκιμάστε να επανεκκινήσετε τη συσκευή Vodafone TV. Εάν αντιμετωπίζετε ακόμη πρόβλημα, επικοινωνήστε με τον ToBi στο vodafone.gr
+settings.selfDiagnostics.issuesTable.message.sdi02.02;;Το Vodafone TV είναι προσωρινά μη διαθέσιμο. Παρακαλώ επισκεφθείτε την ιστοσελίδα μας για περισσότερες πληροφορίες. 
+settings.selfDiagnostics.issuesTable.message.sdi03.01;;Δεν έχει συνδεθεί καλώδιο κεραίας. Παρακαλώ ελέγξτε αν έχει συνδεθεί καλώδιο κεραίας. 
+settings.selfDiagnostics.issuesTable.message.sdi03.02;;Η στάθμη σήματος είναι χαμηλή. Παρακαλώ ελέγξτε τη σύνδεση με την κεραία και δοκιμάστε ξανά. 
+settings.selfDiagnostics.issuesTable.message.sdi03.03;;Η ταχύτητα της σύνδεσης δεν επαρκεί για την σωστή λειτουργία του Vodafone TV. Στην περίπτωση που αντιμετωπίζετε πρόβλημα με την ποιότητα των βίντεο βεβαιωθείτε ότι δεν χρησιμοποιείτε την σύνδεση σας για άλλη χρήση (π.χ. παρακολουθείτε περισσότερα από ένα βίντεο ή κατεβάζετε μεγάλα αρχεία).<br/> 
+settings.selfDiagnostics.issuesTable.message.sdi04.01;;Η μπαταρία του τηλεχειριστηρίου εξαντλείται. Παρακαλώ αντικαταστήστε τις μπαταρίες. 
+settings.selfDiagnostics.issuesTable.message.sdi04.02;;Όταν συγχρονίσετε το τηλεχειριστήριο σας με το Vodafone TV, δεν θα χρειάζεται να στοχεύετε το Vodafone TV.<br />Για να επωφεληθείτε από αυτό, συγχρονίστε το τηλεχειριστήριο σας πηγαίνοντας στις ρυθμίσεις> περισσότερες ρυθμίσεις> τηλεχειριστήριο> συγχρονισμός τηλεχειριστηρίου.
+settings.selfDiagnostics.issuesTable.message.sdi05.01;;Υπάρχουν διαθέσιμες ενημερώσεις για την συσκευή σας. 
+settings.selfDiagnostics.issuesTable.message.sdi06.01;;Υπάρχει πρόβλημα στον αποθηκευτικό χώρο. <br/>Παρακαλώ κάντε επανεκκίνηση στο Vodafone TV ή επικοινωνήστε με τον ToBi στο www.vodafone.gr
+settings.selfDiagnostics.issuesTable.title.sdi01.01;;Δεν υπάρχει σύνδεση δικτύου
+settings.selfDiagnostics.issuesTable.title.sdi01.02;;Δεν υπάρχει διεύθυνση IP
+settings.selfDiagnostics.issuesTable.title.sdi01.03;;Ασθενές σήμα Wifi
+settings.selfDiagnostics.issuesTable.title.sdi02.01;;Αδυναμία σύνδεσης στο διαδίκτυο
+settings.selfDiagnostics.issuesTable.title.sdi02.02;;Αδυναμία σύνδεσης με την Vodafone
+settings.selfDiagnostics.issuesTable.title.sdi03.01;;Δεν έχετε συνδέσει το καλώδιο της κεραίας
+settings.selfDiagnostics.issuesTable.title.sdi03.02;;Η στάθμη σήματος DTT είναι χαμηλή
+settings.selfDiagnostics.issuesTable.title.sdi03.03;;Η σύνδεση με το διαδίκτυο δεν επαρκεί
+settings.selfDiagnostics.issuesTable.title.sdi04.01;;Η μπαταρία του τηλεχειριστηρίου εξαντλείται
+settings.selfDiagnostics.issuesTable.title.sdi04.02;;Συνδέστε το τηλεχειριστήριο με το Vodafone TV.
+settings.selfDiagnostics.issuesTable.title.sdi05.01;;Διαθέσιμες ενημερώσεις
+settings.selfDiagnostics.issuesTable.title.sdi06.01;;Δεν είναι δυνατή η πρόσβαση στον αποθηκευτικό χώρο.
+settings.selfDiagnostics.noErrors;;Δεν βρέθηκε πρόβλημα στην υπηρεσία Vodafone TV
+settings.serviceSettings;;Ρυθμίσεις υπηρεσίας
+settings.showBackgroundProcess.hide;;Απόκρυψη
+settings.showBackgroundProcess.show;;Εμφάνιση
+settings.soundAndVideo;;Ήχος & Βίντεο
+settings.subscriptionFiltering.allAppsHidden;;Όλες οι εφαρμογές είναι κρυμμένες
+settings.subscriptionFiltering.appsHidden;;%1 Εφαρμογές κρυμμένες
+settings.subscriptionFiltering.description;;Επιλέξτε ποιες εφαρμογές θα είναι διαθέσιμες για προβολή
+settings.subscriptionFiltering.title;;Φίλτρο
+settings.systemConfigurations.bluetooth.deviceList.title;;Διαθέσιμες συσκευές
+settings.systemConfigurations.bluetooth.devicePairedList.title;;Συνδεδεμένες συσκευές
+settings.systemConfigurations.developerMode;;Developer Mode
+settings.systemConfigurations.epgStbCacheStatus;;'Ελεγχος οδηγού προγράμματος
+settings.systemConfigurations.epgUiCacheStatus;;Έλεγχος EPG
+settings.systemConfigurations.lastActiveStandby;;Τελευταίο Standby
+settings.systemConfigurations.lastBoots;;Τελευταίες εκκινήσεις
+settings.systemConfigurations.lastFullMaintenance;;Τελευταία πλήρης συντήρηση
+settings.systemConfigurations.lastLoginDate;;Τελευταία σύνδεση
+settings.systemConfigurations.lastMaintenance;;Τελευταία συντήρηση
+settings.systemConfigurations.lastMaintenanceReboot;;Τελευταία επανεκκίνηση
+settings.systemConfigurations.lastTechnicalDiagUpdate;;Τελευταία ενημέρωση τεχνικού διαγνωστικού ελέγχου
+settings.systemConfigurations.maintenanceTimeoutEvents;;Maintenance timeout MW events
+settings.systemConfigurations.mobilePairing;;Σύνδεση με τον αποκωδικοποιητή
+settings.systemConfigurations.mobilePairing.concurrentPairingDenied;;Δεν μπορείτε να προσθέσετε περισσότερες από μία συσκευές ταυτόχρονα.
+settings.systemConfigurations.mobilePairing.description;;Συνδέστε εύκολα το κινητό ή το tablet σας με τον λογαριασμό σας χωρίς να βάλετε username και password! Επιλέξτε προβολή QR στον αποκωδικοποιητή. Στην συνέχεια, ανοίξτε την TV εφαρμογή στο κινητό ή το tablet και επιλέξτε STB για είσοδο στον λογαριασμό. Στην επόμενη οθόνη της εφαρμογής επιλέξτε ανάγνωση κωδικού και στρέψτε την κάμερα της συσκευής στο κωδικό που έχει εμφανιστεί στην τηλεόραση μέχρι να λάβετε μήνυμα επιβεβαίωσης!
+settings.systemConfigurations.mobilePairing.deviceList.title;;Διαθέσιμες συσκευές
+settings.systemConfigurations.mobilePairing.failed;;Αποτυχία
+settings.systemConfigurations.mobilePairing.failure;;Σφάλμα σύνδεσης
+settings.systemConfigurations.mobilePairing.paired;;Συγχρονισμένο
+settings.systemConfigurations.mobilePairing.pairingError;;Αποτυχία σύνδεσης
+settings.systemConfigurations.mobilePairing.pairingFailed;;Αποτυχία σύνδεσης
+settings.systemConfigurations.mobilePairing.pairingInProgress;;Σύνδεση σε εξέλιξη
+settings.systemConfigurations.mobilePairing.pairingSuccessful;;Επιτυχής σύνδεση
+settings.systemConfigurations.mobilePairing.pinEntryHelpMessage;;Ειγάγετε το PIN για επιβεβαίωση της συσκευής
+settings.systemConfigurations.mobilePairing.qrCodeMode.description;;Σκανάρετε αυτό το QR με την TV εφαρμογή από το κινητό ή το tablet σας για σύνδεση.
+settings.systemConfigurations.mobilePairing.qrCodeMode.subtitle;;Ανάγνωση QR
+settings.systemConfigurations.mobilePairing.readyToPair;;Διαθέσιμο για σύνδεση
+settings.systemConfigurations.mobilePairing.showQrCode;;Εμφάνιση QR Code
+settings.systemConfigurations.mobilePairing.subtitle;;Σύνδεση συσκευής με τον αποκωδικοποιητή
+settings.systemConfigurations.mobilePairing.title;;Σύνδεση με τον αποκωδικοποιητή
+settings.systemConfigurations.networkAndPlayerLogs;;Συμβάντα δικτύου και αποκωδικοποιητή
+settings.systemConfigurations.networkLogsTitle;;Συμβάντα δικτύου
+settings.systemConfigurations.noMaintenanceDone;;Δεν έχει γίνει συντήρηση
+settings.systemConfigurations.noMaintenanceTimeout;;No maintenance timeout
+settings.systemConfigurations.playerLogsTitle;;Συμβάντα αποκωδικοποιητή
+settings.systemConfigurations.refreshCacheStatus;;Ανανέωση κατάστασης κρυφής μνήμης
+settings.systemConfigurations.selfDiagnostics;;Διαγνωστικός έλεγχος
+settings.systemConfigurations.soundBox;;Φωνητική βοήθεια
+settings.systemConfigurations.soundBox.description;;Μπορείτε να αποσυνδέσετε τη συσκευή από τον αποκωδικοποιητή, εάν δεν θέλετε πλέον να χρησιμοποιείτε τον επιπλέον φωνητικό έλεγχο.
+settings.systemConfigurations.soundBox.deviceList.title;;Διαθέσιμες συσκευές
+settings.systemConfigurations.soundBox.disconnectDevice;;Αποσύνδεση
+settings.systemConfigurations.soundBox.hideAlexaCards;;Απόκρυψη καρτών Alexa
+settings.systemConfigurations.soundBox.showAlexaCards;;Εμφάνιση καρτών Alexa
+settings.systemConfigurations.soundBox.title;;Φωνητική βοήθεια
+settings.systemConfigurations.soundbox.audioOutput;;Ηχητική έξοδος
+settings.systemConfigurations.soundbox.audioOutput.checkOptical;;Βεβαιωθείτε ότι η οπτική πηγή έχει επιλεγεί στην εφαρμογή του κινητού.
+settings.systemConfigurations.soundbox.audioOutput.off;;Κλειστό
+settings.systemConfigurations.soundbox.audioOutput.off.selected;;Πιέστε ΟΚ για απενεργοποίηση.
+settings.systemConfigurations.soundbox.audioOutput.spdifstb;;Αποκωδικοποιητής
+settings.systemConfigurations.soundbox.audioOutput.spdifstb.selected;;Πατήστε OK για να συνδέσετε το Soundbox ως εξωτερική έξοδο για τον αποκωδικοποιητή.
+settings.systemConfigurations.soundbox.audioOutput.spdiftv;;TV
+settings.systemConfigurations.soundbox.audioOutput.spdiftv.selected;;Πατήστε OK για να συνδέσετε το Soundbox ως εξωτερική έξοδο για την τηλεόραση σας.
+settings.systemConfigurations.soundbox.audioOutput.turnedOff;;Απνεργοποιημένο
+settings.systemConfigurations.soundbox.audioOutput.turnedOn;;Ενεργοποιημένο
+settings.systemConfigurations.status.downloading;;Λήψη...
+settings.systemConfigurations.status.failed;;Απέτυχε
+settings.systemConfigurations.status.finished;;Ολοκλήρωση
+settings.systemConfigurations.status.ok;;ΟΚ
+settings.systemConfigurations.status.ongoing;;Σε εξέλιξη ...
+settings.systemConfigurations.subscriptionFiltering;;Φιλτράρισμα συνδρομών
+settings.systemConfigurations.technicalDiagnostics;;Διαγνωστικός έλεγχος
+settings.systemConfigurations.technicalDiagnostics.auth;;Πιστοποίηση
+settings.systemConfigurations.technicalDiagnostics.authNrefresh;;AuthN token refresh
+settings.systemConfigurations.technicalDiagnostics.checkUpdate;;Έλεγχος για ενημερώσεις
+settings.systemConfigurations.technicalDiagnostics.epg;;Ενημέρωση ηλεκτρονικού προγράμματος
+settings.systemConfigurations.technicalDiagnostics.licencesRefresh;;Ανανέωση αδειών
+settings.systemConfigurations.technicalDiagnostics.localMaintenance;;Τοπική συντήρηση
+settings.systemConfigurations.technicalDiagnostics.nagraCheckMaintenance;;Nagra check maintenance
+settings.systemConfigurations.technicalDiagnostics.nagraSSPCheckMaintenance;;Nagra SSP check maintenance
+settings.systemConfigurations.technicalDiagnostics.newMaintenance;;New maintenance mode
+settings.systemConfigurations.technicalDiagnostics.no_save_home_mcast_stats;;Μη αποθήκευση MCast στατιστικών
+settings.systemConfigurations.technicalDiagnostics.noscan;;Δεν απαιτείται σάρωση
+settings.systemConfigurations.technicalDiagnostics.noupdate;;Δεν απαιτείται αναβάθμιση
+settings.systemConfigurations.technicalDiagnostics.oldMaintenance;;Old maintenance mode
+settings.systemConfigurations.technicalDiagnostics.restart;;Επανεκκίνηση αποκωδικοποιητή
+settings.systemConfigurations.technicalDiagnostics.save_home_mcast_stats;;Αποθήκευση MCast στατιστικών
+settings.systemConfigurations.technicalDiagnostics.scan;;Σάρωση
+settings.systemConfigurations.technicalDiagnostics.scanStart;;Scan start
+settings.systemConfigurations.technicalDiagnostics.sendTechnical;;Αποστολή τεχνικών δεδομένων
+settings.systemConfigurations.technicalDiagnostics.subtitle;;Last maintenance flow
+settings.systemConfigurations.technicalDiagnostics.update;;Ενημέρωση αποκωδικοποιητή
+settings.systemConfigurations.technicalOverlay;;Technical Overlay
+settings.technicalOverlay;;Technical Overlay
+settings.technicalOverlay.disable;;Απενεργοποίηση
+settings.technicalOverlay.enable;;Ενεργοποίηση
+settings.tvBoxSettings;;Ρυθμίσεις αποκωδικοποιητή
+settings.tvChannels.currentlyFound.cable;;Channels Found:<div class='halfSummary'>Cable<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyFound.ftth;;Βρέθηκαν τα κανάλια:<div class='halfSummary'>IP<div class='channelsSummary'><div>%1TV</div><div>%2Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3TV</div></div></div>
+settings.tvChannels.currentlyHave.cable;;settings.tvChannels.currentlyHave.cable
+settings.tvChannels.currentlyHave.ftth;;Τρέχοντα κανάλια:<div class='halfSummary'>IP<div class='channelsSummary'><div>%1TV</div><div>%2Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3TV</div></div></div>
+settings.tvChannels.showDttChannels;;Εμφάνιση επίγειων καναλιών
+settings.tvChannels.weFound.cable;;settings.tvChannels.weFound.cable
+settings.tvChannels.weFound.ftth;;Βρέθηκαν τα κανάλια:<div class='halfSummary'>IP<div class='channelsSummary'><div>%1TV</div><div>%2Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3TV</div></div></div>
+settings.tvInput.auto;;Αυτόματο
+settings.tvInput.auto.description;;Με αυτή την επιλογή το τηλεκοντρόλ του Vodafone TV θα ρυθμιστεί ώστε να μπορείτε να ελέγξετε τον ήχο στην τηλεόραση σας καθώς και να ανοίγει η τηλεόραση μαζί με τον αποκωδικοποιητή.
+settings.tvInput.config.power;;Κατανάλωση
+settings.tvInput.config.power.description;;Ενέργεια
+settings.tvInput.config.volume;;Ένταση ήχου
+settings.tvInput.config.volume.description;;Με αυτή την επιλογή θα ελέγχετε τον ήχο της τηλεόρασης σας με το τηλεχειριστήριο του Vodafone TV
+settings.tvInput.deviceList;;Λίστα συσκευών
+settings.tvInput.deviceList.availableDeviceList.description;;Θα μπορείτε να ελέγχετε οποιαδήποτε συσκευή υποστηρίζεται και συνδέεται μέσω HDMI χρησιμοποιώντας το τηλεχειριστήριο του Vodafone TV.
+settings.tvInput.deviceList.availableDeviceList.title;;CEC λίστα συσκευών
+settings.tvInput.deviceList.description;;Για να δείτε τις συνδεδεμένες συσκευές HDMI και να κάνετε εναλλαγή μεταξύ τους χρησιμοποιώντας το τηλεχειριστήριο Vodafone TV, πρέπει να έχετε ενεργοποιημένες τις ρυθμίσεις HDMI CEC
+settings.tvInput.deviceList.unavailableDeviceList.description;;Για να δείτε τις συνδεδεμένες συσκευές HDMI και να κάνετε εναλλαγή μεταξύ τους χρησιμοποιώντας το τηλεχειριστήριο Vodafone TV, πρέπει να έχετε ενεργοποιημένες τις ρυθμίσεις HDMI CEC
+settings.tvInput.deviceList.vodafoneDevice;;Vodafone TV
+settings.tvInput.manual;;Επιλογή από τον χρήστη
+settings.tvInput.manual.cecSettings;;Ρυθμίσεις CEC
+settings.tvInput.manual.description;;Μερικές τηλεοράσεις δεν μπορούν να υποστηρίξουν όλες τις λειτουργίες. Με αυτή την επιλογή το τηλεκοντρόλ του Vodafone TV θα ρυθμιστεί ώστε να μπορείτε να ελέγξετε τον ήχο στην τηλεόραση σας καθώς και να ανοίγει η τηλεόραση μαζί με τον αποκωδικοποιητή.
+settings.tvInput.off;;Απενεργοποίηση
+settings.tvInput.off.description;;Επιλέξτε εδώ για να απενεργοποιήσετε τις λειτουργίες της συνδεδεμένης με τον αποκωδικοποιητή τηλεόρασης.
+settings.tvInput.userOff;;Κλειστό
+settings.uiVersionOverlay;;Έκδοση UI
+settings.uiVersionOverlay.hide;;Απόκρυψη
+settings.uiVersionOverlay.show;;Εμφάνιση
+settings.visualScrubberStatus;;Visual Scrubber
+settings.visualScrubberStatus.disable;;Απενεργοποίηση
+settings.visualScrubberStatus.enable;;Ενεργοποίηση
+settings.voice.channel_change.default.answer;;Απάντηση αλλαγής καναλιού
+settings.voice.channel_change.default.question;;Αλλαγή καναλιού
+settings.voice.navigate.default.answer;;Απάντηση πλοήγησης
+settings.voice.navigate.default.question;;Πλοήγηση 
+settings.voice.search.default.answer;;Μπορείτε να χρησιμοποιήσετε τη λειτουργία φωνητικού ελέγχου για να ελέγξετε το Vodafone TV. Ενεργοποιήστε τη λειτουργία φωνητικού ελέγχου πιέζοντας το πλήκτρο Voice στο τηλεχειριστήριο
+settings.voice.search.default.question;;Αναζήτηση
+settings.voice.title;;Φωνή
+settings.voice.voiceTopics;;Voice Topics
+settings.voiceAssistants;;Voice Assistants
+settings.warning.popup.recommendationsOptOut;;"Μη συμφωνώντας δεν θα λαμβάνετε προτάσεις για ταινίες και σειρές καθώς και άλλες πρόσθετες λειτουργίες που δίνουν καλύτερη εμπειρία στο Vodafone TV. Είστε βέβαιοι ότι θέλετε να προχωρήσετε με αυτή την επιλογή;"
+shopInShop.disclaimer.title;;Αποποίηση ευθυνών
+smartTV.firstInstall.buttons.clear;;Εκκαθάριση
+smartTV.firstInstall.buttons.signin;;Σύνδεση
+smartTV.firstInstall.buttons.whatsnew;;Ξέχασα τον κωδικό μου
+smartTV.firstInstall.incompatibleDeviceErrorScreen.title;;smartTV.firstInstall.incompatibleDeviceErrorScreen.title
+smartTV.firstInstall.login.error.description;;Δοκιμάστε ξανά <br/> ή επικοινωνήστε με τον ToBi στο vodafone.gr
+smartTV.firstInstall.login.error.title;;Αδυναμία σύνδεσης
+smartTV.firstInstall.login.error.tooManyDevices.description;;Δεν επιτρέπεται η προσθήκη άλλων συσκευών στον λογαριασμό σας. Για διαχείριση των συνδεδεμένων συσκευών, επισκεφθείτε το vodafone.gr, συνδεθείτε με το username, password της Vodafone TV εφαρμογής και αφαιρέστε μία υφιστάμενη συσκευή.
+smartTV.firstInstall.login.error.tvAlreadyPaired.description;;Η συσκευή υπάρχει ήδη σε έναν άλλο λογαριασμό και δεν μπορεί να προστεθεί στον λογαριασμό σας.
+smartTV.firstInstall.login.fail.description;;Δεν μπορούμε να εντοπίσουμε τον λογαριασμό σας
+smartTV.firstInstall.login.fail.title;;Ούπς
+smartTV.firstInstall.login.nativeInput.placeholder;;Πατήστε εδώ για εισαγωγή
+smartTV.firstInstall.login.nativePassword.title;;Κωδικός χρήστη
+smartTV.firstInstall.login.nativeUsername.title;;Όνομα χρήστη
+smartTV.firstInstall.login.password.description;;Για να χρησιμοποιήσετε την εφαρμογή συνδεθείτε, με τους κωδικούς του Vodafone TV σας.
+smartTV.firstInstall.login.password.title;;Κωδικός πρόσβασης
+smartTV.firstInstall.login.success.description;;Τελευταίες λεπτομέρειες…
+smartTV.firstInstall.login.success.title;;Επιτυχής σύνδεση!
+smartTV.firstInstall.login.udid;;UDID: %1
+smartTV.firstInstall.login.username.description;;Για να χρησιμοποιήσετε την εφαρμογή συνδεθείτε, με τους κωδικούς του Vodafone TV σας.
+smartTV.firstInstall.login.username.placeholder;;Όνομα χρήστη
+smartTV.firstInstall.login.username.title;;Όνομα χρήστη
+smartTV.firstInstall.login.welcome.description;;Συνδεθείτε με το όνομα και κωδικό χρήστη του Vodafone TV λογαριασμού σας.
+smartTV.firstInstall.login.welcome.title;;Καλωσορίσατε στο Vodafone TV
+smartTV.mainMenu.watchTV;;Κανάλια
+smartTV.popups.exit.message;;Πρόκειται να τερματίσετε την εφαρμογή
+smartTV.popups.exit.title;;θα τερματίσετε το Vodafone TV
+smartTV.settings.account.logout;;Αποσύνδεση
+smartTV.settings.account.logout.popup;;"Είστε βέβαιοι ότι θέλετε να αποσυνδεθείτε;"
+smarttv.offlineMode.buttonText;;Ανανέωση
+smarttv.offlineMode.descriptionText;;Ελέγξτε τις ρυθμίσεις δικτύου στις Ρυθμίσεις της Smart TV σας για να αποκαταστήσετε τη σύνδεση.
+smarttv.offlineMode.loadingText;;Φόρτωση...
+smarttv.offlineMode.title;;Απώλεια σύνδεσης
+somethingDifferent;;Άλλα Προγράμματα
+somethingSimilar;;Παρόμοια Προγράμματα
+sr.notification.error.authenticationError;;%1: Δυστυχώς, δεν ήταν δυνατή η σύνδεσή σας. Δοκιμάστε ξανά αργότερα.
+sr.notification.error.device.existsInOther.households;;%1: Δυστυχώς, δεν ήταν δυνατή η εγγραφή αυτής της συσκευής. Η συσκευή συσχετίζεται με άλλο λογαριασμό.
+sr.notification.error.exceeded.limit;;%1: Δυστυχώς, έχετε φτάσει τον μέγιστο αριθμό συσκευών που επιτρέπεται να εγγραφούν στον λογαριασμό σας. Καταργήστε μια συσκευή από τον λογαριασμό σας.
+sr.notification.error.kaltura.service.expired;;%1 KS Module σφάλμα το KS έληξε
+sr.notification.error.kaltura.service.invalid;;%1 KS Module σφάλμα, άκυρο KS
+sr.notification.error.kaltura.service.revocation;;%1 KS είναι άκυρο (Η πλατφόρμα επέστρεψε ένα σφάλμα από τα backend API, πιθανόν λόγο ανάκλησης του KS)
+sr.notification.error.notAllowed.type.device;;%1: Δυστυχώς, αυτή η συσκευή δεν είναι συμβατή με την υπηρεσία μας. Δοκιμάστε ξανά με διαφορετική συσκευή.
+sr.notification.error.secretCode.problem;;%1: Δυστυχώς, δεν ήταν δυνατή η σύνδεσή σας. Δοκιμάστε ξανά αργότερα. Αυτό έχει δύο κλειδιά στο εξυπνάδα έγγραφο.
+technicalOverlay.widget.label.audioBuffer;;Audio buffer
+technicalOverlay.widget.label.audioPid;;Audio PID
+technicalOverlay.widget.label.bandwidthManagement;;Bandwidth management
+technicalOverlay.widget.label.ber;;BER
+technicalOverlay.widget.label.blackout;;Blackout
+technicalOverlay.widget.label.bufferingTime;;Buffering time
+technicalOverlay.widget.label.currentTime;;Ώρα
+technicalOverlay.widget.label.droppedFrames;;Χαμένα frames
+technicalOverlay.widget.label.errorManagement;;Error management
+technicalOverlay.widget.label.estimatedBandwidth;;Εκτίμηση ταχύτητας
+technicalOverlay.widget.label.frequency;;Frequency
+technicalOverlay.widget.label.licenseTime;;License time
+technicalOverlay.widget.label.liveLatency;;Live latency
+technicalOverlay.widget.label.loadLatency;;Load latency
+technicalOverlay.widget.label.multiaudio;;Multiaudio
+technicalOverlay.widget.label.multicastGroup;;Multicast Group
+technicalOverlay.widget.label.packetLoss;;Packet loss
+technicalOverlay.widget.label.progressBar;;Progress Bar
+technicalOverlay.widget.label.sid;;SID
+technicalOverlay.widget.label.snr;;SNR
+technicalOverlay.widget.label.streamBandwidth;;Ταχύτητα ροής
+technicalOverlay.widget.label.streamType;;Stream Type
+technicalOverlay.widget.label.textBuffer;;Text buffer
+technicalOverlay.widget.label.videoBuffer;;Video buffer
+technicalOverlay.widget.label.videoPid;;Video PID
+technicalOverlay.widget.title;;Technical Overlay
+upnext.footer.back;;Προηγούμενο
+upnext.footer.moreEpisodes;;Περισσότερα επεισόδια
+upnext.header.nextEpisode;;Επόμενο επεισόδιο
+upnext.header.startingCounter;;Ξεκινά σε %1
+upnextRecommendations1;;Παρόμοια Προγράμματα
+upnextRecommendations2;;Άλλα Προγράμματα
+voice.app.changeChannel.text;;<p>Έξοδος από %1 και παρακολούθηση %2 στο Vodafone TV</p><p>ή αναζήτηση για %3 στο %4</p>
+voice.app.searchNotAllowed.text;;Η αναζήτηση δεν είναι διαθέσιμη
+voice.interface.searchScreenAccessMessage;;Πείτε μου τι ψάχνετε
+voice.interface.startMessage;;Με τι μπορώ να σας βοηθήσω?
+voiceChrome.interface.listening;;Ακούει...
+voiceChrome.interface.speaking;;Μιλήστε…
+voiceChrome.interface.thinking;;Επεξεργάζεται...
+volume.hintHotkeyProfiles;;πατήστε παρατεταμένα το κουμπί σίγασης<br>για τα προφίλ ήχου 
+watchNext.purchase;;Αγορά
+watchNext.recording;;Εγγραφή
+watchNext.rental;;Ενοικίαση
+wifi.bandwidthStatePopup.description;;Η ταχύτητα της WiFi σύνδεσης δεν επαρκεί για την σωστή λειτουργία του Vodafone TV. Δοκιμάστε να φέρετε το ρούτερ πιο κοντά στον αποκωδικοποιητή. Αν το πρόβλημα παραμένει επικοινωνήστε με τον TOBi στο www.vodafone.gr ή με το τηλεφωνικό κέντρο (13830)
+wifi.bandwidthStatePopup.title;;Δυστυχώς, παρουσιάστηκε πρόβλημα την ταχύτητα του WiFi
+wifi.buttons.tryAgain;;Επανάληψη

@@ -1,0 +1,2156 @@
+key;en-GROUP;de-DE-x-DE text
+popups.reboot.footerText;SG002: Error number %1;SG002: Fehlermeldung %1
+popups.upgrade.footerText;SG001: Error number %1;SG001: Fehlermeldung %1
+popups.wifi.footerText;SC120: Error number %1;SC120: Fehlermeldung %1
+firstInstall.wifiNetworkErrorScreen.title;Network;WLAN
+notification.recording.notForPast;Sorry, you can’t record programmes shown in the past.;Die Aufnahme ist nicht möglich, die Sendung ist zu Ende
+notification.recording.fullprotection;SR004: Maximum number of recordings already protected. Please unprotect other recordings and try again.;Die Aufnahme konnte nicht geschützt werden. Hebe den Schutz für andere Aufnahmen auf und versuche es erneut
+firstInstall.remotePairingFailedScreen.title;Remote pairing;Bitte versuche es nochmals
+firstInstall.remotePairingFailedScreen.description;To reset your TV remote, hold the 3 and yellow buttons together for 5 seconds (or until the power light on the remote stops flashing).;Leider konnte die GigaTV Fernbedienung nicht verbunden werden. Um es nochmals zu versuchen, halte gleichzeitig den gelben Knopf und die Nummerntaste [3] für fünf Sekunden gedrückt<br/><br/>
+notification.program.noInformation;SM002: No info available;SM002: Fortsetzen nicht möglich. Diese Aktion konnte nicht geladen werden
+serieInfo.episode.notavailable;SM001: Sorry, title unavailable.;
+settings.network.lan.waiting;Connect your Ethernet cable to set up your network;Bitte stelle eine Verbindung über WLAN oder per LAN-Kabel her
+notification.channel.offline;SV003: Sorry, this channel is unavailable;Dieser Sender steht derzeit nicht zur Verfügung. Bitte versuche es später erneut
+notification.player.videoUnavailable;SV002: Programme unavailable.;SV002: Dieser Inhalt kann nicht wiedergegeben werden
+notification.player.error;SV001: Error;SV002: Wiedergabefehler
+notification.recording.failed;SR007: Recording failed;SR007: Aufnahme fehlgeschlagen. Bitte versuche es später erneut
+notification.recording.notPossible;SR005: You can't record this.;Die Aufnahme ist nicht möglich. Bitte beachte im TV Guide die Aufnahme-Kennzeichnung
+notification.recording.notOnBarker;SR003: Sorry, you can't record this channel;Auf diesem Sender sind keine Aufnahmen möglich
+notification.seriesRecording.failed;SR002: Recording failed, try again.;SR002: Die Aufnahme ist fehlgeschlagen. Bitte versuche es später erneut
+popups.storage.title;SR001: Sorry, your storage is full;Die Aufnahme ist nicht möglich. Bitte lösche Aufnahmen, um Speicherplatz freizugeben
+notification.player.noAntenna;SD001: No aerial signal found.;SD001: Es wurde kein Antennensignal gefunden. Bitte überprüfe das Kabel und versuche es erneut.
+popups.playbackError.message;SC219: Please check your Wi-Fi or see vodafone.co.uk/tv;SC218: Die Wiedergabe wurde unterbrochen.<br/>Überprüfe bitte Deinen Router und versuche es erneut
+popups.playbackError.title;SC218: Sorry, we can't find a connection;Die WLAN-Verbindung wurde unterbrochen. Überprüfe bitte Deinen Router und versuche es erneut
+firstInstall.wifiNetworkErrorScreen.noIP;SC123: Please reboot your router and try again.;SC123: Dein WLAN ist nicht mit dem Internet verbunden. Überprüfe bitte Deinen Router und versuche es erneut
+firstInstall.wifiNetworkErrorScreen.wirelessKeyError;SC116: Your Wi-Fi password is wrong, please try again.;Falsches WLAN-Passwort. Bitte versuche es erneut!
+firstInstall.wiredNetworkScreen.noIP;SC013: You’re not connected to the internet – please try again.;SC013: Es konnte keine Verbindung zum Internet hergestellt werden.<br/>Überprüfe bitte Deinen Internet-Kabelanschluss und Router und versuche es erneut
+notification.epg.date.invalid;SC007: Invalid date;SC007: Ungültiges Datum
+notification.network.offline;SC005: Connnection lost.;SC005: Verbindung wurde unterbrochen. Überprüfe bitte Deine Internetverbindung und versuche es erneut
+settings.network.lan.noIP;SC002: You’re not connected to the internet – please try again.;SC002: Deine LAN-Verbindung ist nicht mit dem Internet verbunden.<br/>Überprüfe bitte Deinen Router und versuche es erneut
+firstInstall.wiredNetworkScreen.connectionLost.description;SC001: Your internet connection was lost.;SC001: Die Verbindung wurde unterbrochen.<br/>Überprüfe bitte Deinen Router und versuche es erneut
+firstInstall.getHelpScreen.wired.title;Network;Internetverbindung
+notification.channel.notSubscribed;SB003: You’re not subscribed.;SB003: Entweder versuchst Du auf mehr als zwei Geräten zuzugreifen oder Du hast kein Abo
+notification.purchase.failed;SB001: Purchase failed;SB001: Kauf fehlgeschlagen. Bitte versuche es erneut.
+settings.masterPin.doNotMatch;SA010: They don't match, please try again.;SA010: Die PINs stimmen nicht überein. Bitte versuche es erneut.
+popups.pinEntry.failed;SA007: Sorry, that was the wrong PIN. Please try again.;Die eingegebene PIN ist nicht korrekt. Bitte versuche es erneut.
+continueWatching.noUsername;SA006: Unknown;Unbekannt
+firstInstall.operatorPairingScreen.description.noPin;SA005: Please call us on 08080 034 515 to complete setup.;SA005: Setup konnte nicht durchgeführt werden. Rufe bitte beim technischen Kundendienst an
+notification.login.error;SA002: Sorry, login failed.;SA002: Du konntest nicht mit dem Dienst verbunden werden. Rufe bitte beim technischen Kundendienst an
+pinEntry.unSuccessful;SA001: Wrong PIN;Die eingegebene PIN ist nicht korrekt. Bitte versuche es erneut!
+firstInstall.pairingPinInputScreen.title;Welcome;Hallo
+firstInstall.remoteUnPairingScreen.description;To pair your TV box and remote, hold the 3 and yellow buttons together for 5 seconds, then repeat with the 1 and yellow buttons.;Um Deine Fernbedienung mit der GigaTV Box zu verbinden, halte gleichzeitig die Nummerntaste [3] und den gelben Knopf für fünf Sekunden gedrückt. Wiederhole danach den Vorgang mit der Nummerntaste [1] und dem gelben Knopf.
+firstInstall.remotePairingScreen.description;To pair your TV box and remote, hold the 1 and yellow buttons together for 5 seconds. ;Um Deine Fernbedienung mit der GigaTV Box zu verbinden,<br/>halte gleichzeitig die Nummerntaste [3] und den gelben Knopf für fünf Sekunden gedrückt.
+settings.remote.pairing;Remote pairing;Fernbedienung verbinden
+settings.remote.remotePairNewDevice.step0.description;To unpair your remote, hold the 3 and yellow buttons together for 5 seconds.;Halte im ersten Schritt die Nummerntaste [3] und den gelben Knopf gemeinsam fünf Sekunden lang gedrückt.
+firstInstall.wiredNetworkScreen.description;Connect your Ethernet cable to set up your network.;Bitte verbinde das LAN-Kabel mit der GigaTV Box und dem Router.
+settings.remote.batteryStatus.low;Your battery status is low.;Batterien wechseln
+settings.network.wifi;WiFi;WLAN
+firstInstall.wiredNetworkFoundScreen.description;You're now connected.;Deine Verbindung wurde erfolgreich hergestellt
+settings.remote.remotePairNewDevice.step1.description;To pair your TV box and remote, hold the 1 and yellow buttons together for 5 seconds.;Halte nun die Nummerntaste [1] und den gelben Knopf gemeinsam fünf Sekunden lang gedrückt.
+firstInstall.pairingPinInputScreen.description;Something went wrong, sorry – please call us on 08080 034 515;Um die Installation zu vervollständigen, rufe bitte beim technischen Kundendienst an!
+popups.reboot.title;Sorry, your box needs to reboot.;Deine GigaTV Box muss neu gestartet werden.
+settings.powerSaving.autoStandbyTime.hint;Remember, increasing auto standby time will use more power.;Hinweis: Die Erhöhung der Auto-Standby-Zeit führt zu einem höheren Stromverbrauch.
+popups.upgrade.misc;Your box will reboot;Deine GigaTV Box wird in %1 neu starten.
+firstInstall.wiredNetworkScreen.title;Network;Internetverbindung
+settings.parentalPin.on;On;Aktiviert
+settings.parentalPin.off;Off;Aus
+firstInstall.wiredNetworkSearchScreen.title;Network;Netzwerk
+firstInstall.scanSummaryScreen.title;Channels scanned;Sender gefunden
+settings.termsAndConditions.view;Read our Ts&Cs;AGB, Transparenz & Impressum
+settings.parentalPinInit;Your default PIN is 1234. We recommend you choose a new one now.;Für weitere Informationen zu PINs besuche uns auf www.vodafone.de
+settings.network.lan.connected;Connected;Verbunden
+firstInstall.remotePairingScreen.title;Remote pairing;Fernbedienung verbinden
+firstInstall.wifiNetworkConnectingScreen.title;Network;WLAN
+firstInstall.wifiNetworkSelectScreen.title;Network;WLAN
+firstInstall.wifiKeyboardScreen.title;Network;WLAN
+firstInstall.getHelpScreen.wifi.title;Network;WLAN
+firstInstall.finishSetupScreen.title;Your devices;Deine Geräte
+notification.recording.notAllow;Sorry, you can't record this programme;Die Aufnahme ist nicht möglich, du hast kein Abo.
+settings.parentalAndPaiment;Payment & controls;Zahlungen & Steuerungen
+settings.audioAndVisual.screenResolution;Screen resolution;Bildschirmauflösung
+pinEntry.more;See more on PINs in Settings.;Mehr Informationen auf vodafone.de
+firstInstall.wifiNetworkFoundScreen.description;Your TV box is now connected to Wi-Fi.;Deine GigaTV Box ist nun verbunden<br/>
+settings.remote.remotePair;Pair;Verbinden
+settings.remote.remoteUnpair;Unpair;Verbindung trennen
+firstInstall.getHelpScreen.channels.title;Channels;Sender
+settings.parentalControls.ageRating.info;Choosing PIN protection for age-rated programmes will also protect any recordings after 9pm.; 
+rails.morefrom;More from;%1
+firstInstall.startChannelsScanScreen.title;Channels;Sender
+settings.parentalAndPaiment.parentalPin;PIN;PIN
+settings.parentalPin;PIN;PIN
+firstInstall.wiredNetworkFoundScreen.title;You're connected;Verbindung erfolgreich
+firstInstall.wifiNetworkFoundScreen.title;You're connected;Das WLAN ist verbunden.
+keyboard.parentalPin.enter.placeholder;Please enter your new 4-digit PIN;Gib Deine neue 4-stellige PIN ein
+keyboard.parentalPin.reEnter.placeholder;Please re-enter your new 4-digit PIN;Gib Deine 4-stellige PIN ein
+settings.network.wps;WPS;WPS
+programInfo.actionButtons.moreRecordSeriesOptions;Record series;Serie aufnehmen
+firstInstall.manualNetworkConfigurationScreen.title;Network;Netzwerk
+common.help;Help;Hilfe
+keyboard.wifi.password.placeholder;Enter WiFi password;Gib Dein WLAN-Passwort ein
+settings.masterPin.changed;Your PIN's changed;PIN geändert
+settings.systemConfigurations.ledBrightness;Brightness;Helligkeit
+settings.network.lan;LAN;LAN
+settings.ledBrightness;Brightness;Helligkeit
+settings.adjustBrightness;Adjust brightness;Helligkeit anpassen
+change volume;Press +/- to change volume;Um die Lautstärke zu regulieren, drücke +/-
+firstInstall.helloScreen.title.foundAccount;Hi;Hallo
+firstInstall.startChannelsScanScreen.description;To set up your TV and radio channels, first make sure your TV aerial is connected.;Der Sendersuchlauf findet lokale Fernseh- und Radiosender
+settings.audioDescription.off;Off;Aus
+settings.subtitles.off;Off;Aus
+settings.powerSaving.quickBoot.on;On;Energiespar-Modus
+settings.powerSaving.quickBoot.off;Off;Schnellstart-Modus
+common.done;Done;Erledigt
+firstInstall.remotePairingSuccessScreen.description;Your TV box is now paired with your remote.;Die Fernbedienung wurde mit Deiner GigaTV Box verbunden.<br/>
+settings.recordings.boxSpace;Storage;Speicher
+settings.remote.batteryStatus.view;View status;Batteriestatus einsehen
+programInfo.catchup.watch;Watch;Ansehen
+programInfo.watch;Watch;Ansehen
+badging.parentalLock.on;Parental lock on;Gesperrt
+firstInstall.operatorPairingScreen.title;Please call us;Kontakt
+firmwareUpdate.description.countdown;Update starts in:;Deine GigaTV Box wird in %1 neu gestartet
+settings.masterPin.turnOff;PIN off;PIN deaktivieren
+settings.masterPin.turnOn;PIN on;PIN aktivieren
+settings.masterPin.changePin;Change your PIN;PIN ändern
+settings.systemConfigurations.updates.upToDate;You already have the latest updates.;Keine Updates verfügbar
+settings.lockedChannels;Locked channels;Sender sperren
+mytv.recordings;Recordings;Aufnahmen
+mytv.purchasesAndRentals;Purchases & rentals;Ausgeliehene Inhalte
+programInfo.actionButtons.moreRecordOptions;Record episode;Folge aufnehmen
+programInfo.actionButtons.buyLabel;Buy;%1 kaufen
+programInfo.actionButtons.rentLabel;Rent;Ausleihen für 2 Tage: %1
+programInfo.actionButtons.bought;Purchased;Gekauft
+programInfo.actionButtons.rented;Rented;Ausgeliehen
+badging.parentalLock.off;Parental lock off;Entsperrt
+badging.recordable;Available to record;Zur Aufnahme verfügbar
+firstInstall.wifiNetworkSelector.joinOtherNetwork;Join other network;Mit anderem Netzwerk verbinden
+firstInstall.buttons.getHelp;Get help;Hilfe
+firmwareUpdate.description.inProgress;Updating now, please wait.;Deine GigaTV Box wird aktualisiert. Bitte warten...
+settings.masterPin.turnedOff;PIN off;PIN deaktiviert
+settings.masterPin.turnedOn;PIN on;PIN aktiviert
+settings.parentalControls.lockedChannels;Lock channels;Sender sperren
+settings.network.joinOtherNetwork;Join other network;Mit einem anderen Netzwerk verbinden.
+popups.wifi.buttons.getHelp;Get help;Hilfe
+common.tryAgain;Try again;Erneut versuchen
+firstInstall.remotePairingSuccessScreen.title;Now paired;Verbunden
+firstInstall.buttons.wifi;WiFi;WLAN
+firstInstall.buttons.backToWifiList;Back to WiFi list;Zurück
+firstInstall.buttons.abort;Stop;Abbrechen
+keyboard.wifi.ssid.placeholder;Enter network name:;Netzwerkname eingeben:
+settings.masterPin.whats;See your PIN;PIN-Info
+settings.informations.OUI;OUI;OUI
+settings.informations.updateStatus;Last system software update:;Status der letzten Systemaktualisierung
+settings.informations.chipID;ID;Kennung
+settings.parentalControls.ageRating;Age rating;Altersbeschränkung
+settings.parentalControls.whats;See your PIN;Informationen zur PIN
+settings.parentalControls.okay;Okay;OK
+settings.lockedChannels.permitted;Allowed;Erlaubt
+settings.boxSpaceProgression;You're using %1% of your available space;%1% des verfügbaren Speichers sind belegt
+settings.remote.itsPaired;Now paired;Verbunden
+popups.storage.buttons.buyMore;Buy more storage;Speicherplatz kaufen
+popups.settings.audioAndVisual.screenResolution;Save resolution?;Einstellungen speichern?
+rails.notitle;No title;Kein Titel
+badging.recording;Recording;Aufnahme läuft
+notification.seriesRecording.start;Schedule series recording;Serie aufnehmen
+watch;Watch;%1 ansehen
+volume;Volume:;Lautstärke
+Today;Today;Heute
+Tomorrow;Tomorrow;Morgen
+Yesterday;Yesterday;Gestern
+locked;Locked;Gesperrt
+mainMenu.myTV.title;MY TV;Mein TV
+mainMenu.browse.title;ON DEMAND;Videothek
+mainMenu.myTVCoverflow.title;Watch next;Wiedergabe fortsetzen
+mainMenu.appsCoverflow.title;MY apps;Mehr sehen
+mainMenu.tvGuide.title;TV GUIDE;TV Guide
+mainMenu.apps.title;APPS;Apps
+mainMenu.search;Search;Suche
+mainMenu.settings;Settings;Einstellungen
+mainMenu.allChannelsTvGuide.title;All channels;Alle Sender
+common.noData;No information;Keine Informationen vorhanden
+common.noItem;No item;Kein Inhalt
+common.onNow;On now;Läuft jetzt
+common.launchApp;Launch app;Öffnen
+common.launch;Launch;Öffnen
+common.onNext;On next;Danach
+common.onLater;On later;Später
+common.onTomorrow;On tomorrow;Morgen im Programm
+common.today;Today;Heute
+common.tomorrow;Tomorrow;Morgen
+common.yesterday;Yesterday;Gestern
+common.continue;Continue;Fortsetzen
+common.popular;Popular;Beliebt
+common.cancel;Cancel;Abbrechen
+common.yes;Yes;Ja
+common.no;No;Nein
+common.skip;Skip;Überspringen
+common.notAvailable;Not available;Nicht verfügbar
+common.okay;Okay;OK
+common.noSynopsis;Synopsis unavailable;Keine Inhaltsangabe verfügbar
+common.channel;channel;Sender
+common.channels;channels;Sender
+language.eng;English;Englisch
+language.fra;Français;Französisch
+language.ita;Italiano;Italienisch
+language.deu;Deutsch;Deutsch
+language.spa;Español;Spanisch
+language.swe;Svenska;Schwedisch
+language.tur;Türk;Türkisch
+liveScreen.noChannel;Channel unavailable;Sender nicht verfügbar
+date.format.smallday0;Sun;So.
+date.format.smallday1;Mon;Mo.
+date.format.smallday2;Tue;Di.
+date.format.smallday3;Wed;Mi.
+date.format.smallday4;Thu;Do.
+date.format.smallday5;Fri;Fr.
+date.format.smallday6;Sat;Sa.
+date.format.day0;Sunday;Sonntag
+date.format.day1;Monday;Montag
+date.format.day2;Tuesday;Dienstag
+date.format.day3;Wednesday;Mittwoch
+date.format.day4;Thursday;Donnerstag
+date.format.day6;Saturday;Samstag
+date.format.smallmonth0;Jan;Jan.
+date.format.smallmonth1;Feb;Feb.
+date.format.smallmonth2;Mar;Mrz.
+date.format.smallmonth3;Apr;Apr.
+date.format.smallmonth4;May;Mai
+date.format.smallmonth5;Jun;Jun.
+date.format.smallmonth6;Jul;Jul.
+date.format.smallmonth7;Aug;Aug.
+date.format.smallmonth8;Sep;Sep.
+date.format.smallmonth9;Oct;Okt.
+date.format.smallmonth10;Nov;Nov.
+date.format.smallmonth11;Dec;Dez.
+date.format.month0;January;Januar
+date.format.month1;February;Februar
+date.format.month2;March;März
+date.format.month3;April;April
+date.format.month4;May;Mai
+date.format.month5;June;Juni
+date.format.month6;July;Juli
+date.format.month7;August;August
+date.format.month8;September;September
+date.format.month9;October;Oktober
+date.format.month10;November;November
+date.format.month11;December;Dezember
+network.error.ssid.tooShort;Network name too short, please enter another one and try again.;Der eingegebene Netzwerkname ist zu kurz. Bitte versuche es erneut
+network.error.password.tooShort;Password is too short, please enter another one with more digits and try again.;Das eingegebene Passwort ist zu kurz. Bitte versuche es erneut
+firstInstall.languageScreen.title;Language;Sprache
+firstInstall.remoteUnPairingScreen.title;Remote pairing;Fernbedienung verbinden
+firstInstall.helpBar.toSelect;Choose;Auswählen
+firstInstall.helpBar.toGoBack;Back;Zurück
+firstInstall.wifiNetworkSelectScreen.description;Press the WPS button on your TV box until the connection confirmation screen appears, or enter your Wi-Fi details:;WLAN-Informationen eingeben:
+firstInstall.wifiKeyboardScreen.ssid.description;Enter network name:;Netzwerkname eingeben:
+firstInstall.wifiKeyboardScreen.password.description;Enter Wi-Fi password:;Passwort eingeben:
+firstInstall.wifiNetworkSelector.searchAgain;Search again;Erneut suchen
+firstInstall.helloScreen.title.searchingAccount;One moment;Verbindung wird hergestellt
+firstInstall.conflictedChannelsFoundScreen.title;Channels;Sender
+firstInstall.conflictedChannelsFoundScreen.description;Your aerial is picking up multiple regions for %1 %2. Please choose:;Es wurden mehrere Regionen für %1 %2 gefunden. Bitte wähle:
+firstInstall.resolveChannelConflictScreen.title;Channel %1;Sender %1
+firstInstall.resolveChannelConflictScreen.description;Please choose one of the following options:;Wähle einen aus den Folgenden:
+firstInstall.conflictResolutionConfirmScreen.title;Confirm channels;Sender bestätigen
+firstInstall.conflictResolutionConfirmScreen.description;Please confirm your chosen channels:;Bitte bestätige die ausgewählten Sender:
+firstInstall.buttons.pairLater;Pair later;Später verbinden
+firstInstall.buttons.connect;Connect;Verbinden
+firstInstall.buttons.ethernet;Ethernet;LAN
+firstInstall.buttons.tryAgain;Try again;Erneut versuchen
+firstInstall.buttons.tryAgainDHCP;Try again with DHCP;Erneut versuchen (DHCP)
+firstInstall.buttons.connectWifi;Connect with WiFi;Mit WLAN verbinden
+firstInstall.buttons.advanced;Advanced;Erweitert
+firstInstall.buttons.continue;Continue;Fortfahren
+firstInstall.buttons.next;Next;Weiter
+firstInstall.buttons.confirm;Confirm;Bestätigen
+firstInstall.buttons.startScanning;Start scanning;Sendersuchlauf starten
+firstInstall.buttons.finishSetup;Finish setup;Fernsehen
+firstInstall.buttons.skip;Skip;Überspringen
+firstInstall.buttons.startWatching;Start watching;Ansehen
+firstInstall.buttons.autoSelect;Auto select;Automatische Auswahl
+firstInstall.buttons.customSelect;Custom select;Manuelle Auswahl
+firstInstall.helpBar.help;Help;Hilfe
+keyboard.masterPin.enter.placeholder;Please enter your new 4-digit PIN;Gib Deine neue 4-stellige PIN ein
+keyboard.masterPin.reEnter.placeholder;Please re-enter your new 4-digit PIN;PIN erneut eingeben
+keyboard.lockedChannels.placeholder;Channel number;Sender
+firmwareUpdate.title;Please wait while your box updates.;Deine GigaTV Box wird aktualisiert. Bitte warten...
+firmwareUpdate.buttonsBar.updateNow;Update now;Aktualisieren Sie jetzt!
+settings.masterPin;PIN;PIN
+settings.masterPin.okay;Okay;OK
+settings.masterPin.changeMyPin;Change your PIN;Meine PIN ändern
+settings.masterPin.whats.popup;Your default PIN is 1234;Deine Jugendschutz-PIN findest Du auf der Auftragsbestätigung. Weitere Infos auf www.vodafone.de/tv
+settings.parentalAndPaiment.paymentPin;PIN;PIN
+settings.recordings;Recordings;Aufnahmen
+settings.recordings.deleteAll;Delete all;Alle löschen
+settings.recordings.delete.dont;Don't delete all;Abbrechen
+settings.recordings.activate.dont;Don't activate;Nicht aktivieren
+settings.recordings.autoDelete;Auto delete;Automatisch löschen
+settings.recordings.buySpace;Buy space;Stundenkontingent erweitern
+settings.language;Language;Sprache
+settings.accessibility;Accessibility;Bedienungshilfen
+settings.accessibility.audioDescription;Audio description;Audio-Deskription
+settings.accessibility.subtitles;Subtitles;Untertitel
+settings.termsAndConditions;Terms & conditions;AGB, Transparenz & Impressum
+settings.termsAndConditionsPageTitle;Terms & conditions;AGB, Transparenz & Impressum
+settings.systemConfigurations.network;Network;Netzwerk
+settings.systemConfigurations.remote;Remote;Fernbedienung
+settings.systemConfigurations.tvChannels;TV channels;TV-Sender
+settings.systemConfigurations.audioAndVisual;Audio & visual;Bild- & Toneinstellungen
+settings.systemConfigurations.clockSettings;Clock settings;Uhrzeit-Einstellungen
+settings.clockSettings.hourFormats.12;am / pm;vorm. / nachm.
+settings.clockSettings.hourFormats.24;24 hour;Zeitanzeige im 24-Stunden-Format
+settings.systemConfigurations.updates;Updates;Software-Aktualisierungen
+settings.systemConfigurations.updates.updateAvailable;Software update available. Please wait a few minutes while your TV box restarts and installs the update.;Software-Update verfügbar. Bitte warte einige Minuten, während Deine GigaTV Box sich aktualisiert und neu gestartet wird
+settings.systemConfigurations.information;Information;Information
+settings.informations.buttons.general;General;Allgemein
+settings.informations.buttons.audioAndVideo;Audio & video;Audio & Video
+settings.informations.buttons.tvQuality;TV quality;TV-Qualität
+settings.informations.title;Box information;Box-Informationen
+settings.informations.brandName;Brand name;Markenname
+settings.informations.modelName;Model name;Modellname
+settings.informations.hardwareVersion;Hardware version;Hardware-Version
+settings.informations.softwareVersion;Software version;Software-Version
+settings.informations.uiVersion;UI version;UI-Version
+settings.informations.updateDate;Last system software update:;Letzte Software-Aktualisierung
+settings.informations.epgData;EPG data;EPG-Daten
+settings.informations.householdID;Household ID;Haushalts-Kennung
+settings.informations.usedCapacityEMMC;Used/capacity eMMC;Genutzte/Kapazität eMMC
+settings.informations.usbBack;USB back;USB Hinten
+settings.informations.activeConnection;Active connection;Aktive Verbindung
+settings.informations.ip;Current IP address;Aktuelle IP-Adresse
+settings.informations.wired.mac;Ethernet MAC address;LAN MAC Adresse
+settings.informations.wireless.mac;Wireless MAC address;WLAN MAC Adresse
+settings.informations.serialNumber;Serial number;Seriennummer
+settings.informations.router;Router;Router
+settings.informations.speedtest;Speed test;Ein Internet-Speedtest läuft gerade
+settings.informations.operationalMode;Operational mode;Betriebsmodus
+settings.informations.videoConnectionMode;Video connection mode;Video-Verbindungsmodus
+settings.informations.tvModel;TV model;Fernsehgerät
+settings.informations.audioConnectionMode;Audio connection mode;Audio-Verbindungsmodus
+settings.informations.audioOutput;Audio output;Audio-Wiedergabe
+settings.informations.remoteControlMode;Remote control mode;Fernbedienungsmodus
+settings.informations.channelNameDVBT;Channel name (DVB-T);DTT-Sender
+settings.informations.frequency;Frequency;Frequenz
+settings.informations.signalStrength;Signal strength;Signalstärke
+settings.informations.ber;BER;BER
+settings.informations.channelNameOTT;Channel name (over the top);Internet-TV-Sender
+settings.informations.abr;ABR;ABR
+settings.informations.environment;Environment;Umgebung
+settings.parentalControls;Parental controls;Jugendschutz
+settings.parentalControls.whats.popup;Your default PIN is 1234. When it’s turned on, you’ll be asked to enter it when you make payments and some settings changes like turning parental controls on/off.;Deine Standard-PIN lautet %1 und wir empfehlen, sie zu ändern. Diese PIN ist notwendig, um Käufe zu tätigen oder altersbeschränkte Sendungen anzusehen, wenn der Jugendschutz aktiv ist
+settings.lockedChannels.customise;Customise;Anpassen
+settings.lockedChannels.unlockAll;Unlock all;Alle entsperren
+settings.lockedChannels.locked;Locked;Gesperrt
+settings.tvChannels.premiumChannels;Premium channels;Nicht-abonnierte Sender verwalten
+settings.enterNewPin;Enter new PIN;Neue PIN eingeben
+settings.reEnterNewPin;Re-enter new PIN;Neue PIN wiederholen
+settings.pinConfirmed;PIN confirmed;PIN bestätigt
+settings.ageRatings.universal;Universal;Allgemein
+settings.ageRatings.u;U;U
+settings.ageRatings.pg;PG;PG
+settings.ageRatings.12;12;ab 12
+settings.ageRatings.15;15;ab 15
+settings.ageRatings.18;18;ab 18
+settings.ageRatings.off;Off;inaktiv
+settings.network.searchAgain;Search again;Erneut suchen
+settings.network.wps.popup;Press the WPS button on your TV box, then on your router to automatically start pairing.;Drücke den WPS-Knopf auf Deiner GigaTV Box und dann den WPS-Knopf auf Deinem Router
+settings.network.lan.connect;Connect;Verbinden
+settings.network.advanced;Advanced;Erweitert
+settings.network.advanced.ipAddress;IP address;IP-Adresse
+settings.remote;Remote;Fernbedienung
+settings.remotePairing;Remote pairing;Fernbedienung verbinden
+settings.remote.batteryStatus;Battery status;Batteriestatus
+settings.remote.batteryStatus.fine;Your battery status is OK;Batteriestatus OK
+settings.remote.batteryStatus.sheetTitleview;View status;Batteriestatus einsehen
+settings.remote.batteryStatus.sheetSubtitleview;Battery status;Batteriestatus
+settings.remote.connectionType;Connection type;Art der Verbindung
+settings.remote.connectionType.IR;IR;IR
+settings.remote.connectionType.infrared;Infrared;Infrarot
+settings.remote.connectionType.RF;RF;RF
+settings.remote.connectionType.radioFrequency;Radio frequency;Radiofrequenz
+settings.tvChannels.autoScan;Auto scan;Automatische Suche
+settings.tvChannels.startAutoScan;Start auto scan;Automatischen Sendersuchlauf starten
+settings.tvChannels.stopAutoScan;Stop auto scan;Automatischen Sendersuchlauf beenden
+settings.tvChannels.channelScan;Channel scan;Sendersuchlauf
+settings.tvChannels.currentlyHave;You currently have:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Aktuelle Sender:<div class='halfSummary'>Kabelsender<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internetsender<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyFound;We've found:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Gefundene Sender:<div class='halfSummary'>Kabelsender<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internetsender<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.weFound;We found:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Gefundene Sender:<div class='halfSummary'>Kabelsender<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internetsender<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.autoSelect;Auto select;Automatische Auswahl
+settings.tvChannels.customSelect;Custom select;Manuelle Auswahl
+settings.tvChannels.resolveConflict.description;Please confirm your chosen channel:;Welchen Sender bevorzugst Du?
+settings.tvChannels.confirmConflictResolution.description;Please confirm your chosen channels:;Bitte bestätige Deine ausgewählten Sender:
+mytv.watchnext;Watch next;Jetzt ansehen
+mytv.allRecordings;All recordings;Alle Aufnahmen
+mytv.scheduledRecordings;Scheduled recordings;Geplante Aufnahmen
+mytv.allScheduledRecordings;All scheduled recordings;Alle geplanten Aufnahmen
+mytv.allPurchasesAndRentals;All rentals & purchases;Ausgeliehene Inhalte
+mytv.wishlist;Record;Merkliste
+mytv.allWishlist;Recordings;Merkliste gesamt
+mytv.other;Others;Andere
+apps.apps;Apps;Apps
+apps.myApps;My apps;Meine Apps
+apps.new;New;Neu
+apps.popular;Popular;Beliebt
+apps.education;Education;Bildung
+search.searchResults;Search results;Suchergebnisse
+search.noResults;No results;Keine Ergebnisse gefunden
+programInfo.airedOn;Aired on;Gelaufen am
+programInfo.related;Related;Ähnlich
+programInfo.recording.record;Record;Aufnehmen
+programInfo.actionButtons.watch;Watch;In %1 ansehen
+programInfo.actionButtons.watchRecording;Watch your recording;Aufnahme ansehen
+programInfo.actionButtons.watchLive;Watch;Live ansehen
+programInfo.actionButtons.recordOn;Record episode;Aufnehmen
+programInfo.actionButtons.watchCatchup;Watch;In Mediathek ansehen
+programInfo.actionButtons.startOver;Restart;Neu starten
+programInfo.actionButtons.recordSeries;Record series;Serie aufnehmen
+programInfo.actionButtons.cancelRecording;Cancel recording;Aufnahme abbrechen
+programInfo.actionButtons.deleteRecording;Delete recording;Aufnahme löschen
+programInfo.actionButtons.cancelRecordSeriesOn;Cancel series recording;Serienaufnahme abbrechen
+programInfo.actionButtons.deleteRecordSeriesOn;Delete series recording;Serie löschen
+programInfo.actionButtons.protect;Protect recording;Aufnahme schützen
+programInfo.actionButtons.unprotect;Unprotect recording;Aufnahme nicht mehr schützen
+programInfo.actionButtons.trailer;Watch trailer;Trailer ansehen
+programInfo.actionButtons.thirdPartyApp;0,01;%1
+programInfo.actionButtons.wishlist.remove;Remove;Aus Merkliste entfernen
+programInfo.actionButtons.wishlist.add;Schedule record;Zu Merkliste hinzufügen
+programInfo.actionButtons.watchContent;Watch %1;%1 ansehen
+programInfo.actionButtons.buy;Buy;Kaufen
+programInfo.actionButtons.rent;Rent;Ausleihen
+programInfo.actionButtons.confirm4K;Your current resolution is not 4K. To watch 4K content your TV must be 4K-ready. Are you sure you want to continue?;Dein Fernsehgerät scheint nicht 4K/Ultra HD-fähig zu sein. Möchtest Du trotzdem fortfahren?
+minutes.acronym;mins;Min.
+minute.acronym;min;Min.
+settings.audioAndVisual.audioOutput;Audio output;Audio-Wiedergabe
+settings.audioAndVisual.audioOutput.stereo;Stereo;Stereo
+settings.audioAndVisual.audioOutput.dolbyAudio;Dolby Audio;Dolby Audio
+settings.audioAndVisual.hdmiAudioOutput;HDMI audio output;HDMI Audio-Wiedergabe
+settings.audioAndVisual.on;On;Aktiv
+settings.audioAndVisual.off;Off;Deaktiviert
+settings.audioAndVisual.screenResolution.576p;576p;576p
+settings.audioAndVisual.screenResolution.720p;720p;720p
+settings.audioAndVisual.screenResolution.1080p;1080p;1080p
+settings.audioAndVisual.screenResolution.4k;4K;4K
+settings.systemConfigurations.powerSaving;Power;Energie-Modus
+settings.powerSaving.quickBoot;Power saving mode;Energiespar-Modus
+settings.powerSaving.autoStandbyTime;Auto standby time;Auto-Standby-Zeit
+settings.powerSaving.autoStandbyTime.3h;3 hours;3 Stunden
+settings.powerSaving.autoStandbyTime.6h;6 hours;6 Stunden
+settings.powerSaving.autoStandbyTime.12h;12 hours;12 Stunden
+settings.powerSaving.autoStandbyTime.off;Off;Aus
+settings.conflictedChannelsFoundScreen.description;Your aerial is picking up multiple regions for <insert>. Please choose an option:;Mehrere Regionen für <strong>%1 %2</strong> gefunden. Welchen Sender bevorzugst Du?
+popups.powerSaving.buttons.cancel;Cancel standby;Standby-Modus beenden
+popups.powerSaving.buttons.adjust;Change auto standby;Auto-Standby anpassen
+network.ipAddress;IP address;IP-Adresse
+network.subnetMask;Subnet mask;Subnet-Maske
+network.defaultGateway;Default gateway;Standard-Gateway
+network.primaryDNS;Primary DNS;Primärer DNS-Server
+network.secondaryDNS;Secondary DNS;Sekundärer DNS-Server
+serieInfo.recordEpisode;Record episode;Folge aufnehmen
+serieInfo.recordSeries;Record series;Serie aufnehmen
+serieInfo.season;Season;STAFFEL
+popups.upgrade.buttons.updateNow;Update now;Jetzt aktualisieren
+popups.reboot.buttons.rebootNow;Reboot now;Neu starten
+popups.wifi.buttons.tryAgain;Try again;Erneut versuchen
+popups.storage.misc;0;0
+popups.storage.buttons.manage;Manage my recordings;Meine Aufnahmen bearbeiten
+popups.storage.buttons.enableAutoDelete;Enable auto delete;Automatisches Löschen aktivieren
+popups.continueWatching.buttons.next;Next episode;Nächste Folge
+popups.continueWatching.buttons.startOver;Restart;Von Anfang an sehen
+popups.maintenance.message;An update is scheduled for your TV box;Ein Update für Deine GigaTV Box steht an
+maintenance.wait;Update in progress, please wait.;Bitte warten...
+rails.more;More;Weitere
+rails.moretitle;More %1;%1
+rails.bucketMore;See more;Weitere Inhalte
+badging.expires;Expires from %1 in %2 days;Läuft in %2 Tagen von %1 ab
+badging.recorded;Recorded;Aufgenommen
+badging.protected;Protected recording;Aufnahme geschützt
+badging.subtitles;Subtitles available;Untertitel verfügbar
+badging.audioDescription;Audio description available;Audio-Deskription verfügbar
+badging.wishList;Scheduled record;Zu Merkliste hinzugefügt
+badging.catchUp;Catch up;Jetzt ansehen
+badging.airsOn;Airs on %1;Beginn
+notification.recording.delete;Recording deleted;Aufnahme gelöscht
+notification.recording.cancel;Recording cancelled;Aufnahme abgebrochen
+notification.recording.scheduled;Recording scheduled;Aufnahme geplant
+notification.seriesRecording.cancel;Series record cancelled;Die Serienaufnahme wurde abgebrochen
+notification.seriesRecording.delete;Series record deleted;Die Serie wurde gelöscht
+notification.recording.protect;Recording protected;Diese Aufnahme ist geschützt
+notification.network.online;You're connected;Deine GigaTV Box ist verbunden
+notification.purchase.success;Purchase made;Bestellung erfolgreich
+notification.login.emptyToken;Empty token;Leerer Token
+notification.battery.low;Your TV remote batteries are low, please replace them.;Bitte wechsle die Batterien in Deiner GigaTV Fernbedienung
+settings.warning.popup.parentalControlEnable;Turning on parental controls will enable your TV PIN. Are you happy to continue?;Bestätige bitte, um Deine Jugendschutz-PIN zu aktivieren (mehr Infos unter www.vodafone.de/tv)
+settings.ledBrightness.medium;Medium;Mittel
+programInfo.actionButtons.moreWatchOptions;More options;Ansehen
+notification.recording.unprotect;Unlocked - you can now record;Aufnahme ungeschützt
+common.confirm;Okay?;Bestätigen
+keyboard.search.placeholder;Start searching;Suche nach Filmen, Serien, Schauspielern...
+settings.warning.popup.masterPinDisable;Turning off your PIN will also turn off parental controls. Are you happy to continue?;Die Deaktivierung der PIN schaltet auch den Jugendschutz ab. Möchtest Du fortfahren?
+settings.network.wifi.waiting;Connecting to your Wi-Fi network;WLAN-Verbindung wird aufgebaut…
+settings.tvChannels.abortingAutoScan;Stopping;Abbruch
+settings.audioDescription.on;Turn on;Aktivieren
+settings.subtitles.on;Turn on;Aktivieren
+popups.powerSaving.message;Vodafone TV will go into standby mode in %1s;Deine GigaTV Box wechselt in wenigen Sekunden in den Standby-Modus
+firstInstall.languageScreen.description;Choose your language;Sprache auswählen
+settings.parentalControls.changeMyPin;Change PIN;PIN ändern
+settings.parentalControls.changedPin;Your PIN has changed;PIN wurde geändert
+settings.ledBrightness.high;High;Hoch
+settings.informations.buttons.connectivity;Internet;Internet
+settings.ledBrightness.low;Low;Dunkler
+settings.remote.remotePairNewDevice;Pair remote;Fernbedienung verbinden
+settings.channelScan.auto;Scan;Sendersuchlauf
+settings.powerSaving.quickBoot.hint;Turn power saving mode off for faster setup;Deaktiviere den Energiespar-Modus, um die Startzeit zu verkürzen
+firstInstall.helloScreen.description.searchingAccount;Logging in to your Vodafone TV account;Die Verbindung zu Deinem MeinVodafone-Konto wird hergestellt
+settings.systemConfigurations.subtitle;System info;System-Info
+settings.network.advanced.configureIpAddress;Manual setup;Manuelle Konfiguration
+popups.continueWatching.misc;Continue watching: starting in %1;Sendung beginnt in %1
+firstInstall.buttons.manualIPConfig;Manual IP setup;Manuelle IP-Konfiguration
+settings.systemConfigurations;More settings;Weitere Einstellungen
+settings.systemConfigurations.factoryReset;Reset;Werkseinstellungen wiederherstellen
+settings.informations.buttons.remoteControl;Remote;Fernbedienung
+settings.network.advanced.waiting;Connecting your IP address to your TV box;Die Verbindung zu Deiner GigaTV Box wird hergestellt
+popups.reboot.misc;Reboot in %1;Neustart in %1
+notification.recording.start;Recording;Aufnahme läuft
+date.format.day5;Friday;Freitag
+firstInstall.helloScreen.description.foundAccount;Nearly done;Einen kurzen Moment noch...
+firstInstall.wifiNetworkConnectingScreen.description;Connecting to your Wi-Fi network;Die WLAN-Verbindung wird hergestellt
+settings.network.advanced.dhcp;Auto setup;Automatisches Setup
+settings.remote.remotePairNewDevice.step0.failed.description;Sorry, you pressed the wrong buttons: press and hold the 3 and yellow buttons together for 5 seconds.;Bitte versuche es erneut. Halte die Nummerntaste [3] und den gelben Knopf gemeinsam fünf Sekunden lang gedrückt
+change language;Change language;Sprache ändern
+firstInstall.manualNetworkConfigurationScreen.description;Please enter your network details using the number keys.;Netzwerkdetails eingeben
+settings.premiumChannels.hide;Hide;Verbergen
+settings.premiumChannels.show;Show;Anzeigen
+pinEntry.parentalPinCode;Enter your PIN;PIN eingeben
+settings.remote.remotePairNewDevice.step2.description;Great, your remote is now paired;Fernbedienung erfolgreich verbunden
+pinEntry.masterPinCode;Enter your PIN;PIN eingeben
+settings.recordings.deleteAllQuestion;Are you sure you want to delete all recordings?;Willst Du wirklich alle Aufnahmen löschen?
+settings.recordings.autoDeleteQuestion;Are you sure you want to activate the auto delete feature?;Willst Du wirklich automatisch Aufnahmen löschen?
+pinEntry.successful;PIN confirmed;PIN bestätigt
+popups.upgrade.title;Software upgrade about to start;Das Update Deiner GigaTV Box beginnt in Kürze
+firstInstall.getHelpScreen.channels.description;Once your TV aerial is connected, start scanning for channels.;Bitte überprüfe, ob Deine GigaTV Box mit einer Antenne verbunden ist. <br/>Beginne dann die Sendersuche
+settings.systemConfigurations.factoryReset.popup;<p>Are you sure you want to restore to factory settings? This will delete any customised settings.<br/>Don't worry, your recordings won't be deleted.</p>;<p>Willst Du wirklich die Werkseinstellungen wiederherstellen? Danach muss Deine GigaTV Box neu aufgesetzt werden.<br/>Aber keine Sorge, Deine Aufnahmen werden nicht gelöscht</p>
+firstInstall.wiredNetworkSearchScreen.manual.description;Trying to connect;Es wird versucht, eine Verbindung herzustellen
+firstInstall.wiredNetworkSearchScreen.description;Please make sure your Ethernet cable is plugged in.;Bitte stelle sicher,<br/>dass Dein LAN-Kabel<br/>angeschlossen ist
+firstInstall.getHelpScreen.wifi.description;You'll find the answers to lots of questions at vodafone.co.uk/tv;Mehr Hilfe erhältst Du unter www.vodafone.de
+firstInstall.getHelpScreen.wired.description;You'll find the answers to lots of questions at vodafone.co.uk/tv;Mehr Hilfe erhältst du unter www.vodafone.de
+firstInstall.remotePairLaterScreen.description;If you can't pair your remote now, don't worry – you can always pair it later and it'll still work in the meantime when you point it at the box.;Die Fernbedienung kann auch<br/>zu einem späteren Zeitpunkt<br/>in den Einstellungen verbunden werden, damit Du nicht<br/>mit der Fernbedienung auf die GigaTVBox zeigen musst.
+settings.network.noInternet;;Keine Internetverbindung gefunden. Überprüfe bitte Deinen Router und versuche es erneut
+firstInstall.wifiNetworkErrorScreen.noLink;;SC106: Dein WLAN konnte keine Verbindung zum Internet herstellen. Überprüfe bitte Deinen Router und versuche es erneut
+settings.network.lan.noLink;;SC022: Es wurde keine LAN-Verbindung gefunden. Überprüfe die Verbindung Deines LAN-Kabels mit der GigaTV Box und versuche es erneut
+firstInstall.wiredNetworkScreen.noLink;;SC021: Es konnte keine LAN-Verbindung gefunden werden. Stecke das Kabel noch einmal ein und versuche es erneut
+notification.network.error;;SC014: Fehler bei der Verbindung mit dem Service. Überprüfe bitte Deine Internetverbindung
+programInfo.rentalExpiresOn;;Leihdauer läuft in %1 ab
+Available to Purchase;;Zum Kauf verfügbar
+Smart TV FTU UDID;;UDID : %1
+adult.hidden.description;;Dieser Inhalt ist aufgrund von Jugendschutz-Einstellungen gesperrt
+adult.hidden.title;;Ausgeblendete Inhalte
+adult.visible.title;;Erwachseneninhalte
+advertising.notification.description;;Das Video wird automatisch nach der Werbung fortgesetzt
+advertising.notification.personalizedAds.cannotWatch.description;;Stimme bitte personalisierter Werbung zu, um diesen Inhalt anzusehen
+advertising.notification.personalizedAds.cannotWatch.title;;Personalisierte Werbung
+advertising.notification.personalizedAds.optIn;;Wenn Du keine personalisierte Werbung willst, gehe einfach zu Einstellungen/Datenschutz/Datenschutz-Einwilligung Drittanbieter
+advertising.notification.personalizedAds.optOut;;Für personalisierte Werbung gehe einfach zu Einstellungen/Datenschutz/Datenschutz-Einwilligung Drittanbieter
+advertising.notification.title;;Werbepause
+advertising.overlay.count;;Werbung %1 von %2
+alexa.EnablewithoutSetup.text;;"Ohne Anmeldung sucht Alexa weiterhin nach TV-Sendungen und Filmen, steuert die Wiedergabe und Lautstärke und erzählt Witze. Du kannst das Setup jederzeit abschließen, indem Du in die Alexa-Einstellungen gehst und Dein Amazon-Konto verbindest.<br><br><span class= ""subtext""> Amazon verarbeitet Interaktionen mit Alexa in der Cloud. Durch die Auswahl „Alexa aktivieren“ akzeptierst Du die AGBs. Erfahre mehr über Alexa AGBs und Datenschutz unter den unten angegebenen Links</span>"
+alexa.EnablewithoutSetup.title;;Amazon Alexa aktivieren ohne Setup?
+alexa.alexaDisableScreen.cancelButton;;Abbrechen
+alexa.alexaDisableScreen.confirmButton;;Bestätigen
+alexa.alexaDisableScreen.text;;Du kannst Alexa mit diesem Gerät nicht mehr verwenden
+alexa.alexaDisableScreen.title;;Alexa deaktivieren?
+alexa.alexaSettignDefaultScreen.buttonSetUp;;Erste Schritte
+alexa.alexaSettingDefaultScreen.buttonLanguage;;Alexa Sprache
+alexa.alexaSettingDefaultScreen.buttonSignout;;Ausloggen
+alexa.alexaSettingDefaultScreen.buttonTermsAndConditions;;Allgemeine Geschäftsbedingungen
+alexa.alexaSetupScreen.description;;Wähle Code aktualisieren, falls Du Probleme mit dem Code hast und versuche es dann noch einmal.
+alexa.alexareadyscreen.ia.information;;Um weitere Funktionen wie z.B. Musik, Wetter und Smart Home Steuerung zu aktivieren, gehe einfach zu<span>Einstellungen > Sprach-Assitenten > Amazon Alexa</span> und verbinde Deinen Amazon Konto
+alexa.alexareadyscreen.ia.term1;;„Alexa, lauter“
+alexa.alexareadyscreen.ia.term2;;„Alexa, zeig mir Actionfilme“
+alexa.alexareadyscreen.ia.term3;;„Alexa, was läuft heute Abend im TV?“
+alexa.alexareadyscreen.information;;Um mehr zu erfahren, was Alexa kann, lade bitte die Amazon Alexa App im Google Play Store oder im Apple App Store herunter
+alexa.alexareadyscreen.subtitle;;Halte die Mikrofon-Taste auf Deiner Fernbedienung gedrückt und sag beispielsweise:
+alexa.alexareadyscreen.term1;;„Alexa, lauter“
+alexa.alexareadyscreen.term2;;„Alexa, wie wird das Wetter am Wochenende?“
+alexa.alexareadyscreen.term3;;„Alexa, was ist mein Sport-Update?“
+alexa.alexareadyscreen.term4;;„Alexa, suche Actionfilme“
+alexa.alexareadyscreen.term5;;„Alexa, spiele Popmusik-Videos“
+alexa.alexareadyscreen.vsb.information;;
+alexa.alexareadyscreen.vsb.subtitle;;Sag einfach auf deinem Gerät:
+alexa.alexareadyscreen.vsb.term1;;„Alexa, zeige mir den Wetterbericht fürs Wochenende“
+alexa.alexareadyscreen.vsb.term2;;„Alexa, wie sehen meine Sportergebnisse aus?“
+alexa.alexareadyscreen.vsb.term3;;„Alexa, füge Milch zu meiner Einkaufsliste hinzu“
+alexa.alexareadyscreen.vsb.term4;;„Alexa, spiele Pop-Songs aus den 90igern ab“
+alexa.alexareadyscreen.vsb.term5;;„Alexa, wer ist Brad Pitt?“
+alexa.alexareadyscreen.vsb.term6;;„Alexa, spiele Reggaeton-Musik“
+alexa.authError;;Das hat leider nicht geklappt. Versuche es bitte erneut
+alexa.card.canDoMore;;Alexa kann noch mehr
+alexa.card.connect;;Verbinden
+alexa.card.connectAmazonAccount;;Verbinde Dein Amazon Konto, um Funktionen zu aktivieren, wie Wetter, Smart Home Steuerung und vieles mehr...
+alexa.defaultScreen.description;;Mit Alexa kannst Du mittels Sprachsteuerung Filme und TV-Sendungen finden und abspielen, Fragen stellen, die Wettervorhersage abrufen, Musik streamen, Deine Smart Home Geräte steuern und vieles mehr.
+alexa.defaultScreen.subDescription;;Amazon verarbeitet Interaktionen mit Alexa in der Cloud. Durch die Auswahl „Erste Schritte“ akzeptierst Du die AGBs. Erfahre mehr über Alexa AGBs und Datenschutz unter den unten angegebenen Links
+alexa.defaultscreen.buttonDisable;;Deaktivieren
+alexa.defaultscreen.buttonSigneIn;;Bei Amazon Alexa anmelden
+alexa.defaultscreen.buttonTermOfUse;;Nutzungsbedingungen
+alexa.defaultscreen.devicename;;Gerätename
+alexa.defaultscreen.signedInAs;;Angemeldet als
+alexa.enablePopup.title;;Willst Du die Sprachsteuerung aktivieren?
+alexa.enableWithoutSetup.ok;;Alexa ausprobieren
+alexa.enablevoicesubMsg;;Die Sprachsteuerung auf Deiner Fernbedienung wurde noch nicht aktiviert.
+alexa.errorScreen.button.retry;;Nochmal
+alexa.isReadyTitle;;Alexa ist eingerichtet
+alexa.notification.signout.body;;Du kannst Alexa in den Einstellungen wieder aktivieren
+alexa.notification.signout.header;;Alexa wurde deaktiviert
+alexa.popup.tryAlexa.title;;Probiere doch mal Alexa mit einem Konto aus
+alexa.setUpScreen.Goto;;Gehe auf
+alexa.setUpScreen.description;; auf Deinem Smartphone oder PC und gib diesen Code ein
+alexa.setUpScreen.later;;Später
+alexa.setUpScreen.refreshCode;;Code aktualisieren
+alexa.setUpScreen.title;;Amazon Konto verbinden
+alexa.termandConditionScreen.title;;AGB & Impressum
+alexa.termsOfUseScreen.title;;Amazon Alexa Nutzungsbedingungen
+apps.myApps.add.added;;Hinzugefügt
+apps.myApps.add.titleAppAdd;;Meine Apps
+apps.myApps.add.titleAppAddDescription;;%1 App erfolgreich hinzugefügt
+apps.myApps.add.titleAppRemove;;Meine Apps
+apps.myApps.add.titleAppRemoveDescription;;%1 App erfolgreich gelöscht
+apps.myApps.add.titleMaxDescription;;"Bitte entferne Apps aus ""Meine Apps"", um neue hinzuzufügen"
+apps.myApps.add.titleMaxLimit;;Meine Apps
+apps.myApps.delete.remove;;Entfernen
+apps.myApps.reorder.moved;;Verschieben
+apps.rail.recentApps;;Zuletzt verwendete Apps
+badging.acronym.audioDescription;;AD
+badging.acronym.closedCaption;;BU
+badging.acronym.signLanguage;;ZS
+badging.acronym.subtitles;;UT
+badging.airsNow;;Jetzt im TV
+badging.airsOnDateAndTime;;Läuft
+badging.availableToPurchase;;Zum Kauf verfügbar
+badging.availableToPurchaseAndExpiration;;Leihdauer %1 Tage für %2
+badging.availableToSubscribe;;Als Abo verfügbar
+badging.failedOn;;Fehlgeschlagen am
+badging.partiallyRecordedOn;;Teilweise aufgenommen um
+badging.purchased;;Gekauft
+badging.recordableEpisode;;Diese Folge jetzt zu den Aufnahmen hinzufügen.
+badging.recordableSeries;;Alle Folgen jetzt zu den Aufnahmen hinzufügen
+badging.recordedOn;;Aufgenommen um
+badging.recordingNow;;Aufnahme läuft
+badging.recordingScheduled;;Geplante Aufnahme
+badging.scheduled;;Geplante Aufnahme
+badging.subscribed;;Innerhalb Deines Abos verfügbar
+badging.subscribedTo;;
+badging.upcomingCatchUp;;Bald in der Mediathek verfügbar
+bluetooth.fullplayer.audioprofile;;Audio-Profile
+bluetooth.fullplayer.collapse;;Minimieren
+bluetooth.fullplayer.connected;;Verbunden
+bluetooth.fullplayer.exit;;Beenden
+bluetooth.fullplayer.unknownTrackAlbum;;Unbekanntes Album
+bluetooth.fullplayer.unknownTrackArtist;;Unbekannter Interpret
+bluetooth.fullplayer.unknownTrackTitle;;Unbekannter Titel
+bluetooth.popup.buttons.connect;;Verbinden
+bluetooth.subtitle;;Prüfen?
+bluetoothConnect.subtitle;;Überprüfen?
+bluetoothConnect.title;;Verbindung mit Bluetooth
+bluetoothConnection.title;;Du wirst mit diesem Gerät verbunden
+bluetoothDisconnect.title;;Wähle aus, was du tun möchtest
+buttons.filesFormat.3d;;3D
+buttons.filesFormat.4K;;UHD
+buttons.filesFormat.HD;;HD
+buttons.filesFormat.SD;;SD
+cableRegio.scanSummary.description.success;;%1 Sender gefunden:<br/>%2 Internet %3 Terrestrisch %4 Radio
+cableRegio.scanSummary.title;;Ergebnisse des Sendersuchlaufs
+cancelMultipleSeries.popup.subtitle;;Du kannst diesen Schritt nicht rückgängig machen
+cancelMultipleSeries.popup.title;;Bist Du sicher, dass Du %1 Deiner Aufnahmen stornieren willst?
+cancelSeries.subtitle;;Bist Du sicher?
+cancelSeries.title;;Serienaufnahme abbrechen?
+channelScan.completed;;Sendersuchlauf abgeschlossen
+channelScan.error;;Fehler beim Sendersuchlauf
+clashManagementScreen.availableAsCatchup;;In der Mediathek verfügbar
+clashManagementScreen.recording;;%1 wird aufgenommen
+clashManagementScreen.repeatsOn;;Wiederholung läuft am %1
+clashManagementScreen.reschedule;;Neu planen
+clashManagementScreen.subtitle;;Um %1 aufzunehmen, wähle eine der unten stehenden Möglichkeiten. 
+clashManagementScreen.title;;Es sind zu viele lokale Aufnahmen geplant
+common.back;;Zurück
+common.blockedContent;;
+common.browseAll;;Alle anzeigen
+common.buyStorage;;Speicherplatz kaufen
+common.deselectAll;;Auswahl aufheben
+common.disconnect;;Verbindung trennen
+common.hideAll;;Alle verbergen
+common.min;;%1 min.
+common.noThanks;;
+common.other;;Andere
+common.reorder;;Sortieren
+common.searchOn;;Suche auf
+common.selectAll;;Alle auswählen
+common.showAll;;Alle anzeigen
+common.subscribe;;Abonnieren
+common.tvGuide;;TV-Programm
+common.unpair;;Kopplung trennen
+common.welcomeTo;;Willkommen bei
+continueWatching.household;;Meine GigaTV Box
+date.format.duration.day;;Tag
+date.format.duration.days;;Tage
+date.format.duration.hour;;Stunde
+date.format.duration.hours;;Stunden
+date.format.duration.minute;;Minute
+date.format.duration.minutes;;Minuten
+date.format.duration.month;;Monat
+date.format.duration.months;;Monate
+date.format.duration.second;;Sekunde
+date.format.duration.seconds;;Sekunden
+date.format.duration.short.hours;;h
+date.format.duration.short.minutes;;m
+date.format.duration.short.seconds;;s
+date.format.duration.year;;Jahr
+date.format.duration.years;;Jahre
+deleteMultipleSeries.popup.protectedSubtitle;;Es befinden sich %1 geschützte Aufnahmen in Deiner aktuellen Auswahl. Willst du trotzdem löschen?
+deleteMultipleSeries.popup.subtitle;;Dieser Schritt kann nicht rückgängig gemacht werden.
+deleteMultipleSeries.popup.title;;Willst Du wirklich %1 Aufnahmen löschen?
+deleteSeries.delete;;Serie löschen
+deleteSeries.subtitle;;Willst Du die Serie wirklich löschen?
+deleteSeries.title;;Serie löschen
+deleteSingleSeries.popup.subtitle;;Willst Du die gesamte Serie auswählen oder einzelne Folgen?
+deleteSingleSeries.popup.title;;Serie ausgewählt
+detailsConfirmPurchaseScreen.audioTitle;;Audio
+detailsConfirmPurchaseScreen.detailsTitle;;Details
+detailsConfirmPurchaseScreen.subtitlesTitle;;Untertitel
+epg.adultProgram.hidden.description;;Die Jugendschutz-Einstellungen sind aktiviert. Um diesen Inhalt ansehen zu können, gib bitte Deine PIN ein. Der Jugendschutz kann in den Einstellungen angepasst werden
+epg.adultProgram.hidden.name;;Programm ist ausgeblendet
+epg.adultProgram.hidden.subtitle;;Jugendschutz anpassen?
+epg.adultProgram.locked.description;;Dein Jugendschutz verhindert die Anzeige dieses Programms ohne PIN-Eingabe. Du kannst das aber in den Einstellungen ändern
+epg.adultProgram.locked.name;;Gesperrt
+epg.allChannels;;Alle Sender
+epg.channel.locked.name;;Gesperrt
+epg.filters.all;;Alle anzeigen
+epg.filters.allChannels;;Alle Sender
+epg.filters.hdchannels;;HD-Sender
+epg.filters.juststarted;;Eben begonnen
+epg.filters.mostWatched;;Meistgesehen
+epg.filters.subscribedChannels;;Abonnierte Sender
+epg.filters.title;;Senderfilter auswählen
+epg.program.locked.description;;Dein Jugendschutz verhindert die Anzeige dieses Programms ohne PIN-Eingabe. Du kannst das aber in den Einstellungen ändern
+epg.summary.duration;;Dauer
+epg.summary.origin;;Land
+epg.summary.releaseDate;;Veröffentlicht am
+error.actionNotAllowed;;Leider kann diese Aktion nicht ausgeführt werden
+error.default;;Etwas ist schief gegangen.
+error.mdw.network.configurationGetFailed;;Netzwerkkonfiguration nicht lesbar.
+error.mdw.network.configurationSetFailed;;Netzwerkkonfiguration nicht durchführbar
+error.netflix.esn;;Netflix ESN ungültig.
+error.player.broadcast.cannotResolve;;Der URI des verbundenen IP-Kanals kann nicht in Übereinstimmung gebracht werden.
+error.player.broadcast.cannotTune;;Kein TV-Signal. Prüfe bitte, ob Dein Antennenkabel richtig angeschlossen ist, und wechsle bei korrektem Anschluss zwischen zwei Sendern
+error.player.broadcast.channelChangeInterrupted;;Senderwechsel wurde unterbrochen.
+error.player.broadcast.channelNotFound;;Der gewählte Sender wurde im Stream nicht gefunden.
+error.player.broadcast.channelNotSupported;;Der Sender wird vom Tuner nicht unterstützt.
+error.player.broadcast.channelParentalLock;;Der Jugendschutz ist auf diesem Sender aktiviert.
+error.player.broadcast.channelRecordingOngoing;;Der Sender kann nicht gewechselt werden, da eine Aufnahme läuft.
+error.player.broadcast.encryptedChannel;;Verschlüsselter Sender oder fehlendes Key/Modul
+error.player.broadcast.insufficientBandwidth;;Die Bandbreite ist zu gering.
+error.player.broadcast.insufficientResources;;Der Sender kann nicht gezeigt werden, versuche es bitte später erneut.
+error.player.broadcast.tunerLocked;;Tuner von anderem Objekt gesperrt.
+error.player.broadcast.unknownChannel;;Unbekannter Sender
+error.player.broadcast.unrealized;;Der Sender kann nicht gewechselt werden.
+error.player.oipf.connectionLost;;Die Verbindung zum Server ist fehlgeschlagen oder wurde unterbrochen
+error.player.oipf.corrupt;;Der Inhalt ist ungültig.
+error.player.oipf.format;;AV-Format wird nicht unterstützt.
+error.player.oipf.insufficientResources;;Das hat leider nicht geklappt, versuche es bitte später erneut.
+error.player.oipf.positionUnavailable;;Der Inhalt ist an der ausgewählten Position nicht verfügbar.
+error.player.oipf.unavailable;;Der Inhalt ist nicht verfügbar.
+error.player.unidentified;;Unbekannter Abspielfehler
+error.purchase.er.PPVPurchased;;PPV gekauft
+error.purchase.er.accountNotValid;;Dieses Konto ist ungültig.
+error.purchase.er.collectionPurchased;;Die Collection wurde gekauft.
+error.purchase.er.configNotFound;;Keine Einstellung gefunden.
+error.purchase.er.couponNotValid;;Der Gutschein ist ungültig.
+error.purchase.er.free;;Gratis
+error.purchase.er.incorrectPrice;;Preis nicht gültig.
+error.purchase.er.insufficientFunds;;Dein Guthaben reicht nicht aus
+error.purchase.er.invalidUser;;Ungültige User-ID
+error.purchase.er.notInDomain;;Nutzer nicht in der Domain.
+error.purchase.er.notPurchasable;;Nicht zu kaufen
+error.purchase.er.pgChargeIDRequired;;Payment gateway charge ID erforderlich
+error.purchase.er.pgNoResponse;;Keine Rückmeldung vom Zahlungsportal
+error.purchase.er.pgNotExist;;Zahlungsportal existiert nicht.
+error.purchase.er.pgNotSet;;Zahlungsportal für diesen Haushalt nicht definiert.
+error.purchase.er.pgUnknownResponse;;Unbekannte Zahlungsportal-Rückmeldung
+error.purchase.er.retryLimitExceeded;;Zu viele fehlgeschlagene Versuche.
+error.purchase.er.signatureMismatch;;Signatur stimmt nicht überein.
+error.purchase.er.subscriptionOnly;;Nur als Abo möglich
+error.purchase.er.subscriptionPurchased;;Abo wurde erworben
+error.purchase.er.unknownPPV;;Unbekanntes PPV-Modul
+error.purchase.er.unknownReason;;Unbekannter Grund
+error.purchase.er.unknownTransactionState;;Unbekannter Transaktionsstatus
+error.purchase.er.unknownUser;;Unbekannter Benutzer
+error.purchase.er.userNotExist;;Benutzer existiert nicht
+error.purchase.er.userSuspended;;Der Benutzer wurde blockiert.
+error.purchase.unidentified;;Fehler beim Kauf
+error.token.store.failed;;Authentifizierungs-Token konnte nicht gespeichert werden.
+error.userAccountSuspended;;Dein Konto ist gesperrt 
+error.userActionSuspended;;Dein Konto ist abgelaufen
+explanatoryCard.localQuotaLimit.info;;Noch %1 Speicherplatz frei. Ältere und angesehene Aufnahmen werden gelöscht
+explanatoryCard.localQuotaLimit.statusContent;;Aufnahmen verwalten
+explanatoryCard.localQuotaLimit.title;;Festplatte fast voll
+explanatoryCard.mytv.external.myTVRecommendations;;Hier findest Du Deine persönlichen Empfehlungen für laufende Sendungen und die Videothek. Diese setzen sich aus dem zusammen, was Du bisher angesehen, aufgenommen oder ausgeliehen hast
+explanatoryCard.mytv.purchasesAndRentals;;Geliehene Filme können hier angesehen werden
+explanatoryCard.mytv.recommendations;;Hier findest Du Deine persönlichen Empfehlungen für laufende Sendungen und die Videothek
+explanatoryCard.mytv.recommendations.recommendationsOptIn;;Hier findest Du Deine persönlichen Empfehlungen, die GigaTV aus Deinen angesehenen, aufgenommenen oder ausgeliehenen Titeln zusammenstellt. Drücke auf OK, um Empfehlungen zu aktivieren
+explanatoryCard.mytv.recommendations.title;;Deine Filme und Serien
+explanatoryCard.mytv.recordings;;Hier findest Du Deine Aufnahmen
+explanatoryCard.mytv.rentals;;Geliehene Filme können hier angesehen werden
+explanatoryCard.mytv.scheduledRecordings;;Hier findest Du Deine geplanten Aufnahmen
+explanatoryCard.mytv.title;;Mein TV
+explanatoryCard.mytv.watchnext;;Hier findest Du gesammelt Deine Empfehlungen und bereits gestarteten Inhalte
+explanatoryCard.mytv.watchnext.recommendationsOptIn;;Drücke auf OK, um Empfehlungen zu aktivieren. So kannst Du auf einen Blick alle Programme, die Du fortsetzen möchtest, Deine neuesten Aufzeichnungen und die geliehenen Filme sehen
+explanatoryCard.mytv.watchnext.title;;Deine wichtigsten Programme
+explanatoryCard.mytv.welcomeTo;;Willkommen
+explanatoryCard.mytv.welcomeToMyTV;;Willkommen
+explanatoryCard.mytv.wishlist;;Hier findest Du Filme und Serien, die Du hinzugefügt hast
+explanatoryCard.ondemand.recommendationsOptIn;;Hier findest Du Deine persönlichen Empfehlungen, die GigaTV aus Deinen angesehenen, aufgenommenen oder ausgeliehenen Inhalten zusammenstellt. Drücke auf OK, um Empfehlungen zu aktivieren
+explanatoryCard.ondemand.title;;Empfehlungen für die Videothek
+explanatoryCard.quota.autoDelete;;Dein Speicherplatz für Aufnahmen ist gering. Die Automatisch Löschen-Funktion beginnt mit der nächsten Aufnahme
+explanatoryCard.quota.title;;Mehr Speicherplatz kaufen
+explanatoryCard.railTitle.mytv.external.myTVRecommendations;;Deine Filme und Serien
+explanatoryCard.railTitle.mytv.purchasesAndRentals;;Bezahlte Inhalte
+explanatoryCard.railTitle.mytv.recommendations;;Filme und Serien, die dir gefallen könnten
+explanatoryCard.railTitle.mytv.recordings;;Aufnahmen
+explanatoryCard.railTitle.mytv.rentals;;Bezahlte Inhalte
+explanatoryCard.railTitle.mytv.scheduledRecordings;;Geplante Aufnahmen
+explanatoryCard.railTitle.mytv.watchnext;;Weiter ansehen
+explanatoryCard.railTitle.mytv.wishlist;;Merkliste
+explanatoryCard.related.recommendationsOptIn;;Hier findest Du Deine persönlichen Empfehlungen, die GigaTV aus Deinen angesehenen, aufgenommenen oder ausgeliehenen Inhalten zusammenstellt. Drücke auf OK, um Empfehlungen zu aktivieren
+explanatoryCard.related.title;;Noch mehr
+explanatoryCard.search.recommendationsOptIn;;Hier findest Du Deine persönlichen Empfehlungen, die GigaTV aus Deinen angesehenen, aufgenommenen oder ausgeliehenen Inhalten zusammenstellt. Drücke auf OK, um Empfehlungen zu aktivieren
+explanatoryCard.search.title;;Ergebnisse sortiert nach Relevanz
+explanatoryCard.switchOn;;Aktivieren
+fastZap.barker.countdown;;App öffnet in<br/><div>%1 Sekunden</div>
+fastZap.upNext;;Demnächst
+firstInstall.automaticRecordingsMoreInfoScreen.description;;Eines der Highlights von GigaTV ist die Verfügbarkeit des Fernsehprogramms der letzten 7 Tage. Die Mediatheken-Inhalte erreichst Du über den TV Guide oder indem Du auf die HINAUF- und HINUNTER-Pfeile auf der Fernbedienung drückst.<br/><br/>Die Zustimmung ist ein rein regulatorischer Schritt und hat keinen Einfluss auf Deinen Datenverbrauch oder Speicherplatz
+firstInstall.automaticRecordingsMoreInfoScreen.title;;Automatische Aufnahmen
+firstInstall.bleRemotePairLaterScreen.description;;Um Deine Fernbedienung mit dem Fernsehgerät zu verbinden, halte die Nummerntaste [3] und den gelben Knopf gemeinsam fünf Sekunden gedrückt.<br/>Wenn Deine Fernbedienung momentan verbunden ist, halte zuerst die Nummerntaste [3] und den gelben Knopf gemeinsam fünf Sekunden gedrückt, um die Verbindung aufzuheben.<br/>Du kannst deine Fernbedienung auch später verbinden und sie jetzt trotzdem verwenden, wenn Du damit auf die Box zeigst
+firstInstall.bleRemotePairingScreen.description;;Um Deine Fernbedienung mit dem Fernsehgerät zu verbinden, halte die Nummerntaste [3] und den gelben Knopf gemeinsam fünf Sekunden gedrückt.<br/>Wenn Deine Fernbedienung momentan verbunden ist, halte zuerst die Nummerntaste [3] und den gelben Knopf gemeinsam fünf Sekunden gedrückt, um die Verbindung aufzuheben
+firstInstall.bleRemotePairingScreen.title;;Fernbedienung verbinden
+firstInstall.bleRemotePairingSuccessScreen.description;;Deine Fernbedienung ist mit der GigaTV Box verbunden
+firstInstall.bleRemotePairingSuccessScreen.title;;Verbunden
+firstInstall.buttons.ATP;;ATP
+firstInstall.buttons.I&D;;I&D
+firstInstall.buttons.agree;;Zustimmen
+firstInstall.buttons.back;;Zurück
+firstInstall.buttons.deepMode;;Energiespar-Modus
+firstInstall.buttons.developerMode;;
+firstInstall.buttons.disagree;;Ablehnen
+firstInstall.buttons.instantMode;;Standard
+firstInstall.buttons.manual;;Manuell
+firstInstall.buttons.moreInfo;;Mehr Informationen
+firstInstall.buttons.reset;;Zurücksetzen
+firstInstall.buttons.skipScanning;;Sendersuchlauf überspringen
+firstInstall.buttons.tryAgainWithEthernet;;Nochmal
+firstInstall.buttons.updateAndReboot;;Aktualisieren & neu starten
+firstInstall.buttons.validate;;Prüfen
+firstInstall.cheatMenuScreen.desc;;Setzt die Konfigurations-Parameter der GigaTV Box außer Kraft.
+firstInstall.cheatMenuScreen.title;;Developer Settings
+firstInstall.consent.description;;Wenn Du ein auf Dich persönlich zugeschnittenes GigaTV Erlebnis willst, stimme einfach den Nutzungsbedingungen zu
+firstInstall.contentSettingsScreen.automaticRecordingsAgreement.title;;Zeichnet automatisch alle Sender auf um bereits gesendetes Programm anzusehen.
+firstInstall.contentSettingsScreen.recommendationsAgreement.title;;Empfehlungen für Filme und Serien anzeigen
+firstInstall.contentSettingsScreen.title;;Einstellungen Inhalte
+firstInstall.firmwareUpdateScreen.desc;;Installiere bitte die verfügbare Software-Aktualisierung. Dein Gerät wird danach automatisch neu gestartet
+firstInstall.firmwareUpdateScreen.title;;Software-Update
+firstInstall.irRfRemotePairLaterScreen.description;;Um Deine Fernbedienung mit dem Fernsehgerät zu verbinden, halte die Nummerntaste [1] und den gelben Knopf gemeinsam fünf Sekunden gedrückt.<br/>Wenn Deine Fernbedienung momentan verbunden ist, halte die Nummerntaste [3] und den gelben Knopf gemeinsam fünf Sekunden gedrückt um die Verbindung aufzuheben.<br/>Keine Sorge, Du kannst Deine Fernbedienung auch später verbinden und sie jetzt trotzdem verwenden, indem Du damit auf die Box zeigst
+firstInstall.irRfRemotePairingScreen.description;;Um Deine Fernbedienung mit der GigaTV Box zu verbinden, musst Du die Nummerntaste [3] und den gelben Knopf gemeinsam fünf Sekunden lang gedrückt halten
+firstInstall.irRfRemotePairingScreen.title;;Fernbedienung verbinden
+firstInstall.irRfRemotePairingSuccessScreen.description;;Deine Fernbedienung ist mit der GigaTV Box verbunden
+firstInstall.irRfRemotePairingSuccessScreen.title;;Verbunden
+firstInstall.powerSaving.description;;Wenn Du die Sprachsteuerung nutzen oder Musik abspielen willst mit Bluetooth oder Spotify im Stand-By, dann muss diese Option AUS sein.<br><br>Ansonsten funktioniert das nur für eine kurze Zeit nachdem das Gerät abgeschaltet wird.<br><br>Du kannst das auch später in den GigaTV Box Einstellungen ändern
+firstInstall.powerSaving.title;;Energie sparen
+firstInstall.powerSaving.turnOff;;Ausschalten
+firstInstall.powerSaving.turnOn;;Anschalten
+firstInstall.progressbar.complete.label;;Sendersuchlauf abgeschlossen. Bitte warten...
+firstInstall.progressbar.label;;Sendersuchlauf bei %1%
+firstInstall.recommendationsMoreInfoScreen.description;;Deine Filme und Serien<br/><br/>Lass Dir Sendungen empfehlen, die GigaTV aus Deinen bisher angesehenen, aufgenommenen oder ausgeliehenen Inhalten für Dich zusammenstellt. Drücke hier auf OK oder gehe später in die Einstellungen und aktiviere Empfehlungen.<br/><br/>Du kannst Empfehlungen jederzeit deaktivieren
+firstInstall.recommendationsMoreInfoScreen.title;;Empfehlungen
+firstInstall.recoverPwdScreen.description;;Scanne diesen QR-Code auf Deinem Mobilgerät, um Dein Passwort wiederherzustellen oder zu ändern
+firstInstall.recoverPwdScreen.subtitle;;Scanne den QR-Code
+firstInstall.recoverPwdScreen.title;;GigaTV Passwort-Wiederherstellung
+firstInstall.scanSummaryScreen.description.fail;;Keine Sender gefunden<br/>Bitte überprüfe den Antennenanschluss und versuche es erneut! Oder besuche uns online unter www.vodafone.de
+firstInstall.scanSummaryScreen.description.fail.OTTOnly;;Keine Sender gefunden<br/>Bitte überprüfe die Netzwerkverbindung und versuche es erneut
+firstInstall.scanSummaryScreen.description.fail.cable;;Keine Sender gefunden<br/>Bitte überprüfe das Kabel und versuche es erneut!
+firstInstall.scanSummaryScreen.description.fail.ftth;;Keine Sender gefunden<br/>Bitte überprüfe das Kabel und versuche es erneut!
+firstInstall.scanSummaryScreen.description.partial;;<div class='halfSummary'>Kabelsender<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internetsender<div class='channelsSummary'>%3 TV</div></div></div>Sendersuchlauf abgebrochen<br/>Bitte überprüfe den Antennenanschluss und versuche es erneut
+firstInstall.scanSummaryScreen.description.partial.cable;;<div class='halfSummary'>Kabel<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>Um den Vorgang zu wiederholen, überprüfe die Kabelverbindung und versuche es erneut
+firstInstall.scanSummaryScreen.description.partial.ftth;;<div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>Um den Vorgang zu wiederholen, überprüfe die Kabelverbindung und versuche es erneut.
+firstInstall.scanSummaryScreen.description.success;;Sendersuchlauf abgeschlossen.<br/>Die folgenden Sender wurden gefunden:<br/><div class='halfSummary'>Kabelsender<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internetsender<div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.OTTOnly;;Sendersuchlauf abgeschlossen.<br/>Die folgenden Sender wurden gefunden:<br/><div class='halfSummary'>Internet<div class='channelsSummary'>%1 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.cable;;Sendersuchlauf abgeschlossen.<br/>Die folgenden Sender wurden gefunden:<br/><div class='halfSummary'>Kabel<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.ftth;;Sendersuchlauf abgeschlossen.<br/>Die folgenden Sender wurden gefunden:<br/><div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.standbyModeSelectionScreen.desc;;Bitte wähle einen Energie-Modus.<br><br>Der Schnellstart-Modus startet Deine GigaTV Box schneller aus dem Stand-By (spart aber weniger Energie).<br><br>Der Energiespar-Modus verlängert die Startzeit (spart aber mehr Energie)
+firstInstall.standbyModeSelectionScreen.title;;Standby-Modus
+firstInstall.startChannelsScanScreen.description.cable;;Die Suche nach TV-Sender wird gestartet. Bitte überprüfe, ob das Kabel angeschlossen ist!
+firstInstall.startChannelsScanScreen.description.ftth;;Der Sendersuchlauf findet lokale Fernseh- und Radiosender.
+firstInstall.unpairRfRemoteScreen.description;;Press and hold the yellow button and 3 to pair your remote.
+firstInstall.wifiBandwidthStateScreen.buttons.retry;;Nochmal
+firstInstall.wifiNetworkErrorScreen.wirelessConnectionError;;WLAN-Verbindung fehlgeschlagen, versuche es bitte erneut
+firstInstall.wifiNetworkSelector.wps;;Über WPS verbinden
+firstInstall.wiredNetworkScreen.noInternet;;SC115: Deine GigaTV Box kann keine Verbindung zum Server herstellen.<br/>Bitte versuche es später erneut oder kontaktiere den technischen Kundendienst
+folder.bundle.includes;;Enthält
+folder.button.confirm;;Bestätigen
+folder.button.selfcare.subscribe;;Abonnieren
+folder.button.subscribe;;%1/Monat abonnieren
+folder.button.subscribed;;Abonniert
+folder.channelGrid.title;;Sender von %1
+folder.subscriptionType.app;;App-Abo
+folder.subscriptionType.individualLinearChannel;;Sender-Abo
+folder.subscriptionType.pack;;Abo-Paket
+ftu.welcome.scanQR.button.description;;
+ftu.welcome.signUp.buttonText;;
+gdpr.consent;;Zustimmung
+gdpr.notice;;Hinweis
+gdpr.privacy;;Datenschutz
+gdpr.privacy.consent.ads.description;;Stimme hier einfach zu, um für Dich relevante Werbung zu sehen
+gdpr.privacy.consent.confirmation;;Ohne Deine Zustimmung verpasst Du Empfehlungen und Features, die zum besten GigaTV Erlebnis führen.<br/>Willst Du trotzdem fortfahren, oder zurückgehen und Dich anders entscheiden?
+gdpr.privacy.consent.description;;Um Empfehlungen zu nutzen, ist Deine Zustimmung erforderlich
+gdpr.privacy.consent.kids.description;;Um das bestmögliche Kids-App-Erlebnis zu erhalten, ist Deine Zustimmung erforderlich
+gdpr.privacy.consent.title;;Einwilligungserklärung
+gdpr.privacy.default.notice;;Sollte der Standard-Hinweis sein ( version 0 ):<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sagittis dignissim metus nec scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vulputate tempus risus, vel dignissim leo sodales id. Morbi eu arcu ligula. Suspendisse sed leo placerat, cursus ligula ac, consequat leo. Vestibulum vehicula vel dolor ut consequat. Curabitur vel justo justo. Vestibulum urna quam, fringilla in elit mollis, porta vestibulum odio. Vestibulum pretium dolor pharetra, euismod odio at, dictum felis. Curabitur pulvinar imperdiet ornare. Vivamus ac venenatis nulla, vel scelerisque quam. Maecenas venenatis ultrices felis et hendrerit. Nunc magna orci, suscipit a justo dictum, ornare consectetur tortor. Ut lobortis fermentum rutrum.<br/><br/>Nullam enim lacus, consequat et purus id, hendrerit faucibus massa. Sed tempor, mauris sed faucibus sodales, risus lorem tempus dolor, eget posuere dolor eros a tortor. Sed vestibulum eros eu ornare dignissim. Fusce tristique lectus mattis metus feugiat, sed dignissim dui pharetra. Cras diam turpis, finibus sed lorem ac, interdum ullamcorper massa. Ut tempus suscipit leo, at gravida metus pretium ac. Sed vestibulum vulputate turpis, vitae auctor nulla sagittis non. Cras vitae quam nec nisi imperdiet dictum in at arcu. Morbi in tempor massa. Duis efficitur nec magna et cursus. Ut ultrices, felis id dictum posuere, tortor felis fermentum urna, eu porta orci massa ut mi. Sed ut aliquam diam, a tristique ligula.<br/><br/>Aliquam justo sapien, egestas sed feugiat a, dignissim non justo. Ut vitae neque vel magna efficitur consectetur. Sed rhoncus neque euismod arcu varius, sed rutrum ex ullamcorper. Aenean lacus nisl, interdum vitae efficitur quis, facilisis id nunc. Nulla hendrerit dignissim orci. Curabitur fringilla, dui nec gravida vestibulum, ex ligula finibus ipsum, et malesuada ante est id ligula. Suspendisse vitae diam quam. Duis quis cursus orci, id hendrerit magna. Maecenas lacus sem, lobortis quis massa non, ornare condimentum lectus. Nam vitae sagittis diam. Suspendisse potenti.<br/><br/>Quisque vitae posuere metus. Etiam cursus nisl eleifend erat placerat gravida. Donec id nibh sem. Integer maximus sapien et ex malesuada posuere. Vestibulum interdum ex elementum volutpat feugiat. Suspendisse nec tincidunt libero. Phasellus fermentum posuere mauris, in faucibus libero malesuada quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse at finibus ligula.<br/><br/>Pellentesque euismod urna sed ante ultrices, sed dapibus nisi porta. Mauris faucibus tempus rutrum. Aliquam placerat, risus vitae rutrum faucibus, lectus lectus bibendum libero, eu iaculis metus massa in libero. Nulla at leo semper, euismod augue id, tempor turpis. Nulla viverra, tellus ut porttitor laoreet, arcu tortor faucibus ipsum, et condimentum nibh felis sed eros. Duis pretium arcu ligula, vitae accumsan metus pretium a. Praesent tellus tortor, interdum quis massa ut, tincidunt vehicula lectus.
+gdpr.privacy.notice.description;; 
+gdpr.privacy.notice.title;;Datenschutzerklärung
+gdpr.privacy.settings.agree;;Zustimmen
+gdpr.privacy.settings.agreed;;Zugestimmt
+gdpr.privacy.settings.agreedAll;;Allen zustimmen
+gdpr.privacy.settings.consent.description;;Um die Empfehlungen zu nutzen, ist Deine Zustimmung erforderlich
+gdpr.privacy.settings.description;;Um Deine Auswahl rückgängig zu machen, wähle
+gdpr.privacy.settings.disagree;;Ablehnen
+gdpr.privacy.settings.disagreedAll;;Alle ablehnen
+gdpr.privacy.settings.notAgreed;;Abgelehnt
+gdpr.privacy.settings.notice.description;; 
+gdpr.privacy.thirdPartyConsent.description;; Datenschutzeinwilligung für Drittanbieter 
+gdpr.privacy.thirdPartyConsent.title;;Einwilligung zum Datenschutz von Drittanbietern
+hpvr.countdown.shortSeconds;;%1 Sekunden
+hpvr.dismiss;;Verwerfen
+hpvr.formatDisk;;Festplatte initialisieren
+hpvr.hdd.connected;;Festplatte angeschlossen
+hpvr.hdd.eject.popup.title;;Ohne verbundene Festplatte können keine Aufnahmen durchgeführt oder angesehen werden
+hpvr.hdd.ongoing.eject.popup.title;;Sobald Du Deine Festplatte von der GigaTV Box trennst, verlierst Du Aufnahme(n), die gerade laufen.
+hpvr.hdd.recognized;;
+hpvr.hddFormat.popup.subtitle;;Zur Verwendung mit dieser Box muss die Festplatte initialisiert werden.
+hpvr.hddFormat.popup.title;;Es wurde eine neue Festplatte erkannt
+hpvr.hddFormatFailed.popup.subtitle;;Bitte versuche es nochmal. Sollte dies nicht klappen, kontaktiere bitte den Vodafone Kundenservice
+hpvr.hddFormatFailed.popup.title;;Fehler beim Leeren der Festplatte
+hpvr.hddFormatting.popup.subtitle;;Bitte warten...
+hpvr.hddFormatting.popup.title;;Deine Festplatte wird vorbereitet
+hpvr.hddFormattingDone.popup.subtitle;;Um Deine Festplatte für Aufnahmen zu nutzen, musst Du deine GigaTV Box neu starten
+hpvr.hddFormattingDone.popup.title;;Deine Festplatte wurde erfolgreich gelöscht
+hpvr.hddNotRecognize.popup.subtitle;;Bitte überprüfe die Verbindung der GigaTV Festplatte
+hpvr.hddNotRecognize.popup.title;;Die Festplatte wurde nicht erkannt
+hpvr.hddPlugged.popup.subtitle;;Um die Festplatte für Aufnahmen nutzen zu können, muss die GigaTV Box neu gestartet werden. <br><br> Die GigaTV Box wird neu gestartet in
+hpvr.hddPlugged.popup.title;;Die Festplatte ist verbunden
+hpvr.newHddPlug;;Festplatte angeschlossen
+hpvr.recording.cancelled;;Aufnahme abgebrochen
+hpvr.recording.channelNotFound;;Unbekannter Sender – die Aufnahme konnte nicht gestartet werden. 
+hpvr.recording.completed;;Aufnahme erfolgreich
+hpvr.recording.deleted;;Aufnahme gelöscht
+hpvr.recording.hddBufferOverflow;;Die Aufnahme konnte aufgrund eines Überlaufs des Zeitpuffers auf der Festplatte nicht abgeschlossen werden
+hpvr.recording.noCASSessionAvailable;;Aufnahme konnte aufgrund Fehlers nicht abgeschlossen werden
+hpvr.recording.noEntitlement;;Die Aufnahme konnte nicht abgeschlossen werden, da Du keine Berechtigung für diesen Inhalt hast
+hpvr.recording.noHDD;;Die Aufnahme konnte nicht abgeschlossen werden, da die Festplatte entfernt wurde
+hpvr.recording.noHDDSpace;;Die Aufnahme konnte nicht abgeschlossen werden, da nicht genügend Festplattenspeicher zu Verfügung steht
+hpvr.recording.noHDDWritable;;Die Aufnahme konnte aufgrund eines unbekannten Schreibfehlers auf der Festplatte nicht abgeschlossen werden
+hpvr.recording.noSignal;;Die Aufnahme konnte aufgrund eines Signalverlusts nicht abgeschlossen werden
+hpvr.recording.noTunersAvailable;;Die Aufnahme konnte aufgrund fehlender Tuner nicht abgeschlossen werden
+hpvr.recording.ongoing;;Die Aufnahme hat bereits begonnen.
+hpvr.recording.partiallyCompleted;;Die Aufnahme hat begonnen, wurde aber vom System unterbrochen.
+hpvr.recording.scheduled;;Aufnahme erfolgreich geplant
+hpvr.restartLater;;Später neu starten
+hpvr.restartNow;;Jetzt neu starten
+hpvr.subtitle.hddDisconnectedInformations;;Schließe Deine Festplatte wieder an, um lokale Aufnahmen ansehen zu können
+hpvr.subtitle.localQuotaLimitReached;;Lösche angesehene und alte Aufnahmen
+hpvr.title.formattingStorage;;Die Festplatte wurde formatiert
+hpvr.title.hddDisconnected;;Deine Festplatte ist nicht verbunden
+hpvr.title.localQuotaLimitReached;;Das Limit der Festplatte ist erreicht
+hybridPvrNotification.lowStorageForRecord;;Um Speicherplatz freizugeben, lösche bestehende Aufnahmen unter Meine Inhalte/Aufnahmen.
+hybridPvrNotification.rescheduledRecording;;Neu geplante Aufnahme
+hybridPvrNotification.rescheduledTo;;%1 <br>auf %2
+improvedRec.cancelEpisodes.selectEpisodes;;Wähle Folgen aus zum Stornieren
+improvedRec.deleteEpisodes.selectEpisodes;;Wähle die Folgen aus, die gelöscht werden sollen.
+improvedRec.deleteProtectedRecording.subtitle;;Das ist eine geschützte Aufnahme. Trotzdem löschen?
+improvedRec.deleteProtectedRecording.title;;Geschützte Aufnahmen löschen?
+improvedRec.deleteProtectedRecordings.subtitle;;Es befinden sich geschützte Aufnahmen in Deiner aktuellen Auswahl. Willst Du trotzdem löschen?
+improvedRec.deleteProtectedRecordings.title;;Geschützte Aufnahmen löschen?
+improvedRec.episodeCancelledAndChooseOption.subtitle;;Willst Du mehrere Folgen oder die ganze Serie stornieren?
+improvedRec.episodeCancelledAndChooseOption.title;;Aufnahmen wurden erfolgreich abgebrochen.
+improvedRec.episodeDeletedAndChooseOption.subtitle;;Sollen mehrere Folgen oder die ganze Serie gelöscht werden?
+improvedRec.episodeDeletedAndChooseOption.title;;Die Folge wurde gelöscht
+improvedRec.filters.all;;Alle
+improvedRec.filters.genre.othersInfos;;Ältere Aufnahmen ohne Genre Kategorie werden unter 'Andere' angezeigt
+improvedRec.filters.genre.rail.allMovies;;Alle Filme
+improvedRec.filters.genre.rail.allTvShows;;Alle TV Shows
+improvedRec.filters.scheduledRecordings;;Geplante Aufnahmen
+improvedRec.infos.cloudPercentage;;%1 Cloud-Speicher übrig
+improvedRec.infos.localPercentage;;%1% lokaler Speicher übrig
+improvedRec.infos.recordings;;%1 Aufnahmen
+improvedRec.infos.selectedOf;;%1 von %2 ausgewählt
+improvedRec.infos.simplePercentage;;%1% Speicherplatz übrig
+improvedRec.infos.updated.recordings;;%1 aktualisierte Aufnahmen...
+improvedRec.manage.noItemSelected.cancelDescription;;Du musst mindestens einen Inhalt auswählen, um etwas zu löschen
+improvedRec.manage.noItemSelected.description;;Du musst mindestens einen Inhalt auswählen um etwas zu löschen
+improvedRec.manage.noItemSelected.title;;Kein Inhalt ausgewählt
+improvedRec.manage.protectedDescription;;%1 erfolgreich geschützte Aufnahmen
+improvedRec.manage.protectedTitle;;Geschützt
+improvedRec.manage.unprotectedDescription;;%1 Aufnahmen sind nun nicht mehr geschützt
+improvedRec.manage.unprotectedTitle;;Ungeschützte Aufnahmen verwalten
+improvedRec.manageProtect.chooseBothRecordings;;Hebe den Aufnahmeschutz von %1 lokalen Aufnahmen und %2 Cloud-Aufnahmen auf, um fortfahren zu können.
+improvedRec.manageProtect.chooseCloudRecordings;;Hebe den Aufnahmeschutz von %1 Cloud-Aufnahmen auf, um fortfahren zu können.
+improvedRec.manageProtect.chooseLocalRecordings;;Hebe den Aufnahmeschutz von %1 lokalen Aufnahmen auf, um fortfahren zu können.
+improvedRec.manageProtect.chooseUnprotect;;Du willst insgesamt %1 Aufnahmen schützen und kannst nur %2 schützen
+improvedRec.manageProtect.exceedProtected;;Zu viele geschützte Aufnahmen
+improvedRec.manageProtect.maxAndLeftRecordings;;Du möchtest insgesamt %1 Aufnahmen schützen. Leider können nur %2 geschützt werden
+improvedRec.manageProtect.maxAndLeftRecordingsBoth;;Du versuchst insgesamt %1 Aufnahmen aus der Cloud und %2 auf der Festplatte zu schützen, kannst aber nur %3 von jeder schützen
+improvedRec.manageProtect.maxAndLeftRecordingsCloud;;Du versuchst insgesamt %1 Aufnahmen aus der Cloud zu schützen, kannst aber nur %2 schützen
+improvedRec.manageProtect.maxAndLeftRecordingsLocal;;Du versuchst insgesamt %1 Aufnahmen auf der Festplatte zu schützen, kannst aber nur %2 schützen
+improvedRec.manageProtect.maximumBothProtected;;Du kannst maximal %1 Aufnahmen lokal und auf der Cloud schützen
+improvedRec.manageProtect.maximumCloudProtected;;Du kannst maximal %1 Aufnahmen aus der Cloud schützen
+improvedRec.manageProtect.maximumLocalProtected;;Du kannst nur maximal %1 lokale Aufnahmen schützen
+improvedRec.manageProtect.maximumProtected;;Zu viele geschützte Cloud-Aufnahmen
+improvedRec.manageProtect.selectUnprotect;;Wähle Aufnahmeschutz aufheben, um zu bestätigen.
+improvedRec.manageProtect.title;;Geschützte Aufnahmen verwalten
+improvedRec.notification.cancelRecordings.description;;%1 Aufnahmen erfolgreich abgebrochen
+improvedRec.notification.cancelRecordings.title;;Aufnahmen abgebrochen
+improvedRec.notification.deleteRecordings.description;;%1 Folge(n) gelöscht
+improvedRec.notification.deleteRecordings.title;;Gelöschte Aufnahmen
+improvedRec.option.cancel;;Abbrechen
+improvedRec.option.cancelAll;;Alle abbrechen
+improvedRec.option.cancelSeries;;Serienaufnahme beenden
+improvedRec.option.delete;;Löschen
+improvedRec.option.deleteAll;;Alle löschen
+improvedRec.option.deleteSeries;;Serie löschen
+improvedRec.option.deleteUnprotect;;Ungeschützte Aufnahmen löschen
+improvedRec.option.deselectSeason;;Auswahl von Staffel %1 aufheben
+improvedRec.option.manage;;Verwalten
+improvedRec.option.protect;;Schützen
+improvedRec.option.selectSeason;;Staffel %1 auswählen
+improvedRec.option.selectSingleEpisodes;;Einzelne Folgen auswählen
+improvedRec.option.showProtected;;Alle Geschützten zeigen
+improvedRec.option.unprotect;;Aufnahmeschutz aufheben
+improvedRec.seriesSelected.subtitle;;Willst Du die gesamte Serie oder einzelne Folgen auswählen?
+improvedRec.seriesSelected.title;;Serie auswählen
+improvedRec.userAgreement.subtitle;;Bist Du sicher?
+improvedRec.userAgreementForSeries.title;;Serie löschen?
+improvedRec.userAgreementForUnprotected.title;;Alle ungeschützten Aufnahmen löschen?
+improvedRecordings.cloud.leftSpace;;Noch <b>%1% Cloud-Speicherplatz frei</b>
+improvedRecordings.local.leftSpace;;Noch <b>%1% lokaler Speicherplatz frei</b>
+improvedRecordings.scheduled.recordingClashes;;Aufnahmekonflikte
+improvedRecordings.scheduled.seriesRecordings;;Serienaufnahme
+improvedRecordings.scheduled.singleRecordings;;Einzelaufnahme
+jpn;;jpn
+keyboard.search.otherPlaceholderText;;Drücke <div class='microIcon'></div> für die Suche mittels Sprachbefehl
+kids.PIN.turnOff;;Deaktivieren
+kids.PIN.turnOn;;Aktivieren
+kids.accept.consent;;Stimme zu um zu akzeptieren.
+kids.accept.notice;;Um der Erklärung zuzustimmen
+kids.actors;;Schauspielerinnen und Schauspieler
+kids.agreed;;Zugestimmt
+kids.back;;Zurück
+kids.bedtime.turnedOnFrom;;Von %1 bis %2 aktiviert
+kids.cancel;;Abbrechen
+kids.characters;;Avatare
+kids.common.continue;;Fortfahren
+kids.countdown.cancel;;Abbrechen
+kids.countdown.change;;Ändern
+kids.countdown.changeTimerSettings;;Timer einrichten
+kids.countdown.clearCountdown;;Timer zurücksetzen
+kids.countdown.overrideBedtime;;Willst Du wirklich %1s Gute-Nacht-Zeit deaktivieren?<br/>%2s Gute-Nacht-Zeit ist in %3 Stunden und %4 Minuten
+kids.countdown.shortSeconds;;%1 sek
+kids.countdown.startCountdown;;Timer starten
+kids.countdown.updateCountdown;;Timer anpassen
+kids.countdown.useBedtimeLimit;;Gute-Nacht-Zeit einhalten
+kids.disagreed;;Abgelehnt
+kids.exit;;Exit
+kids.explanatoryCard.subtitle.text;;Keine Sendung!
+kids.explanatoryCard.title.text;;Oh nein!
+kids.ftusettings.ageSelection.setBirthday;;Geburtstag einstellen
+kids.ftusettings.ageSelection.title;;Wähle Dein Alter
+kids.ftusettings.birthdaySelection.description;;Mit Deinem Geburtsdatum wird das Profil automatisch auf das richtige Alter eingestellt.<br/>Du kannst das auch später in den Einstellungen finden und anpassen
+kids.ftusettings.birthdaySelection.set;;Bestätigen
+kids.ftusettings.birthdaySelection.title;;Gib Dein Geburtsdatum ein
+kids.ftusettings.buttons.agree;;Zustimmen
+kids.ftusettings.buttons.disagree;;Ablehnen
+kids.ftusettings.buttons.getStarted;;Leg los!
+kids.ftusettings.buttons.watchAgain;;Noch einmal ansehen
+kids.ftusettings.changeBirthday.title;;Geburtstag ändern
+kids.ftusettings.changeCharacter.title;;Avatar ändern
+kids.ftusettings.changeNickname.title;;Name ändern
+kids.ftusettings.characterSelection.title;;Wähle einen Avatar!
+kids.ftusettings.nicknameEntry.emptyName;;Du musst mindestens einen Buchstaben eingeben
+kids.ftusettings.nicknameEntry.maximumReached;;Maximal 10 Buchstaben möglich
+kids.ftusettings.nicknameEntry.title;;Gib Deinen Namen ein
+kids.gdpr.privacy.consent.confirmation;;Ohne Deine Zustimmung verpasst Du Empfehlungen und Features, die zum besten GigaTV Erlebnis führen.<br/>Willst Du trotzdem fortfahren, oder zurückgehen und dich anders entscheiden?
+kids.gdpr.privacy.consent.subtitle;;Um Empfehlungen zu sehen, ist Deine Zustimmung erforderlich
+kids.gdpr.privacy.consent.subtitle.part2;;Deine Auswahl gilt für alle Profile
+kids.gdpr.privacy.consent.title;;Einwilligungserklärung
+kids.gdpr.privacy.default.consent;;Sollte der Standard-Hinweis sein ( version 0 ):<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sagittis dignissim metus nec scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vulputate tempus risus, vel dignissim leo sodales id. Morbi eu arcu ligula. Suspendisse sed leo placerat, cursus ligula ac, consequat leo. Vestibulum vehicula vel dolor ut consequat. Curabitur vel justo justo. Vestibulum urna quam, fringilla in elit mollis, porta vestibulum odio. Vestibulum pretium dolor pharetra, euismod odio at, dictum felis. Curabitur pulvinar imperdiet ornare. Vivamus ac venenatis nulla, vel scelerisque quam. Maecenas venenatis ultrices felis et hendrerit. Nunc magna orci, suscipit a justo dictum, ornare consectetur tortor. Ut lobortis fermentum rutrum.<br/><br/>Nullam enim lacus, consequat et purus id, hendrerit faucibus massa. Sed tempor, mauris sed faucibus sodales, risus lorem tempus dolor, eget posuere dolor eros a tortor. Sed vestibulum eros eu ornare dignissim. Fusce tristique lectus mattis metus feugiat, sed dignissim dui pharetra. Cras diam turpis, finibus sed lorem ac, interdum ullamcorper massa. Ut tempus suscipit leo, at gravida metus pretium ac. Sed vestibulum vulputate turpis, vitae auctor nulla sagittis non. Cras vitae quam nec nisi imperdiet dictum in at arcu. Morbi in tempor massa. Duis efficitur nec magna et cursus. Ut ultrices, felis id dictum posuere, tortor felis fermentum urna, eu porta orci massa ut mi. Sed ut aliquam diam, a tristique ligula.<br/><br/>Aliquam justo sapien, egestas sed feugiat a, dignissim non justo. Ut vitae neque vel magna efficitur consectetur. Sed rhoncus neque euismod arcu varius, sed rutrum ex ullamcorper. Aenean lacus nisl, interdum vitae efficitur quis, facilisis id nunc. Nulla hendrerit dignissim orci. Curabitur fringilla, dui nec gravida vestibulum, ex ligula finibus ipsum, et malesuada ante est id ligula. Suspendisse vitae diam quam. Duis quis cursus orci, id hendrerit magna. Maecenas lacus sem, lobortis quis massa non, ornare condimentum lectus. Nam vitae sagittis diam. Suspendisse potenti.<br/><br/>Quisque vitae posuere metus. Etiam cursus nisl eleifend erat placerat gravida. Donec id nibh sem. Integer maximus sapien et ex malesuada posuere. Vestibulum interdum ex elementum volutpat feugiat. Suspendisse nec tincidunt libero. Phasellus fermentum posuere mauris, in faucibus libero malesuada quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse at finibus ligula.<br/><br/>Pellentesque euismod urna sed ante ultrices, sed dapibus nisi porta. Mauris faucibus tempus rutrum. Aliquam placerat, risus vitae rutrum faucibus, lectus lectus bibendum libero, eu iaculis metus massa in libero. Nulla at leo semper, euismod augue id, tempor turpis. Nulla viverra, tellus ut porttitor laoreet, arcu tortor faucibus ipsum, et condimentum nibh felis sed eros. Duis pretium arcu ligula, vitae accumsan metus pretium a. Praesent tellus tortor, interdum quis massa ut, tincidunt vehicula lectus.
+kids.gdpr.privacy.default.notice;;Sollte der Standard-Hinweis sein ( version 0 ):<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sagittis dignissim metus nec scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vulputate tempus risus, vel dignissim leo sodales id. Morbi eu arcu ligula. Suspendisse sed leo placerat, cursus ligula ac, consequat leo. Vestibulum vehicula vel dolor ut consequat. Curabitur vel justo justo. Vestibulum urna quam, fringilla in elit mollis, porta vestibulum odio. Vestibulum pretium dolor pharetra, euismod odio at, dictum felis. Curabitur pulvinar imperdiet ornare. Vivamus ac venenatis nulla, vel scelerisque quam. Maecenas venenatis ultrices felis et hendrerit. Nunc magna orci, suscipit a justo dictum, ornare consectetur tortor. Ut lobortis fermentum rutrum.<br/><br/>Nullam enim lacus, consequat et purus id, hendrerit faucibus massa. Sed tempor, mauris sed faucibus sodales, risus lorem tempus dolor, eget posuere dolor eros a tortor. Sed vestibulum eros eu ornare dignissim. Fusce tristique lectus mattis metus feugiat, sed dignissim dui pharetra. Cras diam turpis, finibus sed lorem ac, interdum ullamcorper massa. Ut tempus suscipit leo, at gravida metus pretium ac. Sed vestibulum vulputate turpis, vitae auctor nulla sagittis non. Cras vitae quam nec nisi imperdiet dictum in at arcu. Morbi in tempor massa. Duis efficitur nec magna et cursus. Ut ultrices, felis id dictum posuere, tortor felis fermentum urna, eu porta orci massa ut mi. Sed ut aliquam diam, a tristique ligula.<br/><br/>Aliquam justo sapien, egestas sed feugiat a, dignissim non justo. Ut vitae neque vel magna efficitur consectetur. Sed rhoncus neque euismod arcu varius, sed rutrum ex ullamcorper. Aenean lacus nisl, interdum vitae efficitur quis, facilisis id nunc. Nulla hendrerit dignissim orci. Curabitur fringilla, dui nec gravida vestibulum, ex ligula finibus ipsum, et malesuada ante est id ligula. Suspendisse vitae diam quam. Duis quis cursus orci, id hendrerit magna. Maecenas lacus sem, lobortis quis massa non, ornare condimentum lectus. Nam vitae sagittis diam. Suspendisse potenti.<br/><br/>Quisque vitae posuere metus. Etiam cursus nisl eleifend erat placerat gravida. Donec id nibh sem. Integer maximus sapien et ex malesuada posuere. Vestibulum interdum ex elementum volutpat feugiat. Suspendisse nec tincidunt libero. Phasellus fermentum posuere mauris, in faucibus libero malesuada quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse at finibus ligula.<br/><br/>Pellentesque euismod urna sed ante ultrices, sed dapibus nisi porta. Mauris faucibus tempus rutrum. Aliquam placerat, risus vitae rutrum faucibus, lectus lectus bibendum libero, eu iaculis metus massa in libero. Nulla at leo semper, euismod augue id, tempor turpis. Nulla viverra, tellus ut porttitor laoreet, arcu tortor faucibus ipsum, et condimentum nibh felis sed eros. Duis pretium arcu ligula, vitae accumsan metus pretium a. Praesent tellus tortor, interdum quis massa ut, tincidunt vehicula lectus.
+kids.gdpr.privacy.notice.title;;Datenschutzerklärung
+kids.languages.turnedOff;;Deaktiviert
+kids.languages.turnedOn;;Aktiviert
+kids.menu;;Menü
+kids.menu.episode;;Folge
+kids.menu.season;;Staffel
+kids.notForKids.changeChannel;;Um weitere Kinderprogramme zu sehen, gehe zu einem anderen Sender oder zurück ins Menü.
+kids.notForKids.showNotForKids;;Diese Sendung ist nicht für Kinder.
+kids.notification.incorrect.configuration.description;;
+kids.notification.network.offline.subtitle;;Ein Netzwerkfehler liegt vor
+kids.notification.network.offline.title;;Netzwerkfehler
+kids.notification.noContent.message;;Es ist kein Inhalt verfügbar
+kids.notification.noContent.subtitle;;Kein Kids-Inhalt
+kids.notification.noContent.title;;Kein Inhalt
+kids.notification.player.error.subtitle;;Wiedergabefehler
+kids.notification.player.error.title;;Wiedergabefehler
+kids.pinEntry.accessProfile;;Profil bearbeiten
+kids.pinEntry.approveProfile;;Profil freigeben
+kids.pinEntry.deleteProfile;;%1s Profil löschen
+kids.pinEntry.enterSettings;;Zu den Einstellungen
+kids.pinEntry.exit;;Kids TV verlassen
+kids.pinEntry.help.defaultPin;;Der voreingestellte Master-PIN lautet 0000
+kids.pinEntry.help.details;;Mit Deiner Jugendschutz-PIN kannst du Bestellungen<br/> bestätigen, bezahlen und alle Einstellungen verändern.<br/><br/><br/>Außerdem kannst Du mit ihr den Jugendschutz anpassen.<br/><br/><br/>Wenn Du die PIN vergessen hast, kannst Du sie online unter https://kabel.vodafone.de/hilfe_und_service/geraete/meinegeraete zurücksetzen
+kids.pinEntry.help.whats;;Was ist eine Master-PIN?
+kids.pinEntry.title;;Bitte PIN eingeben
+kids.player.back;;Zurück
+kids.player.info;;Info
+kids.player.retry;;Erneut versuchen
+kids.player.setCountdown;;Timer einrichten
+kids.playerError;;Wiedergabefehler
+kids.profileSelection.addProfile;;Profil hinzufügen
+kids.profileSelection.aged;;%1 Jahre
+kids.profileSelection.bedtimeStartedSince;;Gute-Nacht-Zeit hat vor %1 begonnen
+kids.profileSelection.bedtimeStartedSince.atLeastTwoHours;;Die Schlafenszeit begann vor %1 Stunden
+kids.profileSelection.bedtimeStartedSince.betweenOneHourAndTwoHours;;Die Schlafenszeit begann vor 1 Stunde und %1 Minute(n)
+kids.profileSelection.bedtimeStartedSince.lessThanOneHour;;Die Schlafenszeit begann vor %1 Minute(n)
+kids.profileSelection.countdownFinishedSince;;Timer endete vor %1
+kids.profileSelection.settings;;Einstellungen
+kids.profileSelection.unconfirmed;;Nicht bestätigt
+kids.profiles;;Profile
+kids.programInfo.audioDescription;;Audiodeskription
+kids.programInfo.language;;Sprache
+kids.programInfo.subtitles;;Untertitel
+kids.settings;;Jugendschutz
+kids.settings.bedtime;;Gute-Nacht-Zeit
+kids.settings.bedtime.from;;Von
+kids.settings.bedtime.setBedtime;;Gute-Nacht-Zeit einrichten
+kids.settings.bedtime.setTime;;Zeit einstellen
+kids.settings.bedtime.to;;Bis
+kids.settings.changeAge;;Alter ändern
+kids.settings.changeAvatar;;Avatar ändern
+kids.settings.changeName;;Name ändern
+kids.settings.content.preferredLanguage;;Bevorzugte Sprache
+kids.settings.contentSettings;;Inhalte anpassen
+kids.settings.delete;;Löschen
+kids.settings.deleteProfile;;Profil löschen
+kids.settings.editProfile;;Profil bearbeiten
+kids.settings.help;;Hilfe
+kids.settings.pinRequest;;PIN-Abfrage
+kids.settings.privacy;;Datenschutz
+kids.settings.showVideos;;Intro-Video abspielen
+kids.settings.subtitle.askForPin;;PIN abfragen
+kids.settings.subtitle.deleteProfile.part1;;Willst Du wirklich
+kids.settings.subtitle.deleteProfile.part2;;%1s Profil löschen?
+kids.settings.timeManagement;;Zeitmanagement
+kids.tick.dontShowAgain;;Nicht erneut anzeigen
+kids.timeOver.addMoreTime;;Mehr Zeit hinzufügen
+kids.timeOver.exit;;Kids TV verlassen
+kids.timeOver.takeABreak;;Zeit für eine Pause!
+kids.timeOver.wakeup;;Aufwachen
+kids.turnOff;;Deaktivieren
+kids.turnOn;;Aktivieren
+kids.turnedOff;;Deaktiviert
+kids.turnedOn;;Aktiviert
+kids.update.gdpr.privacy.consent.subtitle;;Stimme den Richtlinien zu, um Empfehlungen zu nutzen.
+kids.update.gdpr.privacy.consent.subtitle.part2;;Deine Auswahl gilt für alle Profile
+kids.update.gdpr.privacy.consent.title;;Datenschutzerklärung aktualisiert
+kids.update.gdpr.privacy.notice.subtitle;;Bitte lies das Folgende und wähle Fortfahren, um GigaTV weiter zu benutzen.
+kids.update.gdpr.privacy.notice.title;;Geänderte Datenschutzerklärung
+language.afr;;Afrikaans
+language.ang;;Altenglisch (ca. 450 – 1100)
+language.ara;;Arabisch
+language.auto;;Automatisch
+language.ces;;Tschechisch
+language.chi;;Chinesisch
+language.dan;;Dänisch
+language.de-DE;;Deutsch (DE)
+language.dut;;Niederländisch
+language.ell;;Griechisch
+language.en-GB;;Englisch (GB)
+language.en-US;;Englisch (US)
+language.es-ES;;Spanisch (ES)
+language.fas;;Persisch
+language.fin;;Finnisch
+language.grc;;Griechisch
+language.gsw;;Schweizerdeutsch
+language.heb;;Hebräisch
+language.hin;;Hindi
+language.hun;;Ungarisch
+language.isl;;Isländisch
+language.it-IT;;
+language.jap;;Japanisch
+language.jpn;;Japanisch
+language.kaz;;Kasachisch
+language.kor;;Koreanisch
+language.lav;;Lettisch
+language.mao;;Maorische Sprache
+language.mri;;Maorische Sprache
+language.mul;;Originalsprache
+language.nld;;Niederländisch
+language.nor;;Norwegisch
+language.per;;Persisch
+language.pol;;Polnisch
+language.por;;Portugiesisch
+language.prt;;Portugiesisch
+language.pt-BR;;Portugiesisch (BR)
+language.pt-PT;;Portugiesisch (PT)
+language.qaa;;Originalsprache
+language.ron;;Rumänisch
+language.rus;;Russisch
+language.slk;;Slowakisch
+language.slv;;Slowenisch
+language.sqi;;Albanisch
+language.ukr;;Ukrainisch
+language.zho;;Chinesisch
+mainMenu.kids;;Kids
+mainMenu.mediaLibrary;;Mediatheken
+mainMenu.onTv.title;;Jetzt im TV
+mainMenu.recordings;;Aufnahmen
+mainMenu.topBar.search;;Suche nach Filmen, Schauspielern, Serien...
+mainMenu.tvGuide.subscribeNow;;Jetzt abonnieren
+mainMenu.tvGuide.watch;;Ansehen
+maintenance.description;;GigaTV wird gerade aktualisiert. Das kann einige Minuten dauern. Schalte die Box bitte nicht aus und halte sie online bis der Vorgang beendet ist
+maintenance.title;;Update wird durchgeführt...
+miniProgramInfo.showMore;;Mehr Infos
+myApps.Shortcut.Add;;Zu meinen Apps hinzufügen
+myApps.Shortcut.Manage;;Verwalten
+myApps.add.info;;Wähle einen oder mehrere Apps, die Du hinzufügen willst
+myApps.add.title;;Zu meinen Apps hinzufügen
+myApps.delete.info;;Wähle die Apps, die Du entfernen möchtest
+myApps.delete.title;;Von meinen Apps entfernen
+myApps.manage.favorite;;Meine Apps - Favoriten
+myApps.manage.info.favorite;;Durchsuche und verwalte Deine Lieblings-Apps
+myApps.manage.info.favorite.number;;%1 Apps
+myApps.manage.info.recent;;Zeigt bis zu 20 bisher genutzte Apps an
+myApps.manage.info.recent.number;;Bisher keine Apps genutzt
+myApps.manage.recent;;Meine Apps - Vor kurzem genutzt
+myApps.manage.title;;Meine Apps
+myApps.reorder.info.default;;Wähle die App aus, die Du verschieben willst
+myApps.reorder.info.reorderMode;;Mit links und rechts kannst Du die App verschieben wohin Du willst. Drücke OK, um sie zu platzieren
+myApps.reorder.title;;Sortiere meine Apps um
+mytv.external.myTVRecommendations;;Empfehlungen für dich
+mytv.kaltura.Adults;;Gesperrte Programme
+mytv.recommendations;;Empfehlungen
+mytv.recommended;;Empfehlungen
+mytv.recordings.all.lastMonth;;Letzter Monat
+mytv.recordings.all.lastWeek;;Letzte Woche
+mytv.recordings.all.month;;Dieser Monat
+mytv.recordings.all.older;;Älter
+mytv.recordings.all.week;;Diese Woche
+mytv.recordings.cloud.future;;Läuft später ab
+mytv.recordings.cloud.month;;Läuft diesen Monat ab
+mytv.recordings.cloud.never;;Kein Ablaufdatum
+mytv.recordings.cloud.nextMonth;;Läuft nächsten Monat ab
+mytv.recordings.cloud.nextWeek;;Läuft nächste Woche ab
+mytv.recordings.cloud.week;;Läuft diese Woche ab
+mytv.recordings.cloud.year;;Läuft dieses Jahr ab
+mytv.recordings.failed.lastMonth;;Letzter Monat
+mytv.recordings.failed.lastWeek;;Letzte Woche
+mytv.recordings.failed.month;;Dieser Monat
+mytv.recordings.failed.week;;Diese Woche
+mytv.recordings.local.hd;;HD
+mytv.recordings.local.lastMonth;;Letzter Monat
+mytv.recordings.local.lastWeek;;Letzte Woche
+mytv.recordings.local.month;;Diesen Monat
+mytv.recordings.local.older;;Ältere
+mytv.recordings.local.other;;Andere
+mytv.recordings.local.sd;;SD
+mytv.recordings.local.uhd;;4K
+mytv.recordings.local.week;;Diese Woche
+mytv.recordings.month;;Diesen Monat
+mytv.recordings.nextWeek;;Nächste Woche
+mytv.recordings.older;;Ältere Aufnahmen
+mytv.recordings.scheduledRecordings.clashes;;Aufnahmekonflikte
+mytv.recordings.scheduledRecordings.series;;Serienaufnahme
+mytv.recordings.scheduledRecordings.single;;Einzelaufnahmen
+mytv.recordings.soon;;Läuft demnächst ab
+mytv.recordings.unwatched.lastMonth;;Letzter Monat
+mytv.recordings.unwatched.lastWeek;;Letzte Woche
+mytv.recordings.unwatched.month;;Dieser Monat
+mytv.recordings.unwatched.week;;Diese Woche
+mytv.recordings.week;;Diese Woche
+mytvRecommendations1;;Fortsetzen
+mytvRecommendations2;;Empfehlungen für dich
+nagra.information.authNToken;;AuthNToken
+nagra.information.cakVersion;;CAK Version
+nagra.information.chipset.revision;;Chipset Revision
+nagra.information.chipset.type;;Chipset Type
+nagra.information.dasSDKVersion;;
+nagra.information.irdsn;;IRDSN
+nagra.information.lastAuthNTokenDate;;Letzte AuthN-Token-Aktualisierung
+nagra.information.lastConnectionsToOTT;;Letzte Verbindungen zu OTT
+nagra.information.lastEntitlement;;Datum der letzten Berechtigung
+nagra.information.lastLicenceUpdate;;Letzte Aktualisierung der Lizenzen
+nagra.information.lastProvision;;Letzter Bereitstellungstermin
+nagra.information.nc.OpVaultTimestamp;;Op Vault Zeitstempel
+nagra.information.nc.deviceUniqueId;;Individuelle Geräte-Kennung
+nagra.information.nc.initStatus;;Initialisierungs-Status
+nagra.information.nc.integrationContextCertificateName;;Zertifikats-Name
+nagra.information.nc.integrationContextCertificateOperatorId;;Zertifikats-Betreiber-Kennung
+nagra.information.nc.integrationContextCertificatePlatform;;Zertifikats-Plattform
+nagra.information.nc.integrationContextCertificateSecurityLevel;;Zertifikats-Sicherheitsstufe
+nagra.information.nc.integrationContextCertificateType;;Zertifikats-Typ
+nagra.information.nc.nuid;;NUID
+nagra.information.nc.prmaVersion;;PRMA-Version
+nagra.information.nc.prmcVersion;;PRMC-Version
+nagra.information.nuid;;NUID
+nagra.information.projectInfo;;Projektinformation
+nagra.popups.connectionLost;;Verbindungsproblem der GigaTV Box
+nagra.popups.defaultError;;Sender nicht abonniert
+nagra.popups.suspended;;GigaTV Box deaktiviert
+nagra.popups.uninitialized;;GigaTV Box nicht initialisiert
+nagra.popups.unsubscribed;;Sender nicht abonniert
+network.wifi.band.unit;;GHz
+network.wifi.quality.good;;Beste Verbindung
+network.wifi.quality.incompatible;;Schlechte Verbindung
+network.wifi.quality.sufficient;;Verbindung ausreichend
+networkAccessValidation.defaultErrorMessage;;Ungültiger Netzwerk-Zugriff. Verbinde Deine GigaTV Box mit dem Breitband-Netzwerk und versuche es erneut
+notification.HDCPError.description;;HDCP Fehlerbeschreibung
+notification.HDCPError.title;;HDCP Fehler
+notification.adultProgram.hidden.description;;Jugendschutz anpassen, um diese Sendung anzusehen
+notification.adultProgram.hidden.title;;Diese Sendung ist ausgeblendet
+notification.alexa.alert.description;;Sag einfach „Alexa, Stopp“ zum Beenden
+notification.alexa.alert.title;;Alexa Alarm
+notification.alexa.alexaNumberOfNotification.title;;Du hast eine Alexa Benachrichtigung 
+notification.alexa.apps.notAvailable;;
+notification.alexa.apps.wrongContext;;Die Mediensteuerung innerhalb von Drittanbieter-Apps ist noch nicht möglich
+notification.alexa.listenToNotification.description;;Sag einfach „Benachrichtigungen anhören“, um mehr zu hören
+notification.alexa.pressingVoiceButton.description;;Drücke die Mikrofon-Taste und sag „Benachrichtigungen anhören“, um mehr zu hören
+notification.alexaAction.disabledInsideApps;;Die Sprachsteuerung ist leider nicht verfügbar bei Nutzung der Apps von Drittanbietern
+notification.app.cts.token.error;;
+notification.app.gdpr.disagree;;Bitte gehen Sie zu den Einstellungen und ändern Sie Ihre Datenschutz-Einstellungen
+notification.app.notSubscribed;;Sie haben diesen Dienst nicht abonniert
+notification.automaticRecordings.channelDisabled;;Aktiviere Automatische Aufnahmen für diesen Sender, um diese Inhalte anzusehen.
+notification.backend.error;;SC402: Der Server meldet einen Fehler. Versuche es später erneut!
+notification.bleRemotePairing.failed;;Es konnte keine Verbindung zur Fernbedienung hergestellt werden
+notification.bleRemotePairing.info;;Um die Sprachsteuerung zu aktivieren, halte auf Deiner Fernbedienung gleichzeitig den gelben Knopf und die Nummerntaste [3] fünf Sekunden lang gedrückt
+notification.bleRemotePairing.success;;Die Fernbedienung ist nun verbunden und kann auch zur Sprachsteuerung verwendet werden
+notification.bluetooth.connected;;Bluetooth verbunden
+notification.bluetooth.disconnected;;Bluetooth getrennt
+notification.bluetooth.fail;;Kopplung fehlgeschlagen
+notification.bluetooth.multiple.remove.subtitle;;%1 Geräte erfolgreich entfernt
+notification.bluetooth.noDevice;;Kein neues Gerät gefunden
+notification.bluetooth.rcu.connected;;Die Fernbedienung ist nun über Bluetooth verbunden
+notification.bluetooth.remove;;Bluetooth-Geräte entfernen
+notification.bluetooth.remove.subtitle;; Erfolgreich entfernt
+notification.bluetooth.success;;Erfolgreich hinzugefügt
+notification.bluetooth.unsupportedRcu.description;;Die Software-Version der Fernbedienung ist nicht korrekt
+notification.bluetooth.unsupportedRcu.title;;Fernbedienung wird nicht unterstützt
+notification.buy.notPossible;;
+notification.channel.liveApp;;Drücke HINAUF oder HINUNTER, um die %1-App zu erreichen.
+notification.channel.liveApp.redButton;;Drücke den roten Knopf, um %1 zu starten.
+notification.drmUnavailable.description;;Nagra ist noch nicht bereit
+notification.drmUnavailable.title;;DRM nicht erreichbar
+notification.episode.past;;Diese Folge ist bald in deinen Aufnahmen verfügbar
+notification.episode.scheduled;;Aufnahme geplant
+notification.episode.scheduledNew;;Serienaufnahme %1 wurde programmiert
+notification.episode.start;;Aufnahme läuft
+notification.folder.confirm;;OK
+notification.frequentlyAskedQuestions.fetch.error;;Die FAQ können nicht angezeigt werden.
+notification.mcast.insufficient.bandwidth;;
+notification.network.fallback;;Die neuen Konfigurationen sind leider nicht gültig. Versuche es bitte nochmal oder drücke Zurück, um sie rückgängig zu machen und die vorherigen Konfigurationen beizubehalten
+notification.network.fallback.Id;;ID %1
+notification.network.noMuMimoEnabled;;
+notification.network.notEnoughBandwidth;;Aufgrund zu geringer WLAN-Bandbreite kann es zu Quälitätsverlusten kommen. Um dieses Problem zu beheben, wähle ein neues Netzwerk, unter Einstellungen > Weitere Einstellungen > Netzwerk
+notification.offline.error;;Deine GigaTV Box ist im Offline-Modus
+notification.player.blackout.message1;;Dieses Programm kann aufgrund einer Rechtebeschränkung nicht angezeigt werden. Versuche es später erneut.
+notification.player.blackout.message2;;Dieses Programm kann aufgrund einer Rechtebeschränkung nicht angezeigt werden. Versuche es später erneut.
+notification.player.concurrent;;Diese Sendung wird bereits auf der maximal erlaubten Anzahl von Geräten wiedergegeben.
+notification.player.noRights;;SB003: Entweder versuchst Du auf mehr als zwei Geräten zuzugreifen oder Du hast kein Abo.
+notification.ppv.success;;Erfolgreich gekauft
+notification.privacy.fail.description;;Bitte versuche es später erneut!
+notification.privacy.fail.title;;Fehler in Verbindung mit dem Datenschutz
+notification.programInfo.failure;;SM010: Es ist ein Fehler aufgetreten. Die Programminformation kann nicht angezeigt werden.
+notification.programInfo.purchase.disclaimer;;Dein Kauf beginnt nach der PIN-Eingabe und kann danach nicht mehr storniert werden
+notification.programInfo.recording.noChannel;;Diese Aufnahme gehört zu keinem Sender.
+notification.programInfo.rental.days.disclaimer;;Deine %1-tägige Ausleihe beginnt nach der PIN-Eingabe und kann danach nicht mehr storniert werden
+notification.programInfo.rental.hour.disclaimer;;Deine %1-stündige Ausleihe beginnt nach der PIN-Eingabe und kann danach nicht mehr storniert werden
+notification.programInfo.rental.hours.disclaimer;;Die Leihdauer beträgt 2 Tage und beginnt sofort. Mit der Bestellung stimmst Du der Ausführung des Vertrages vor Ablauf der Widerrufsfrist ausdrücklich zu. Das Widerrufsrecht erlischt mit Beginn der Ausführung des Vertrags. Die Abrechnung erfolgt über Deine Vodafone Rechnung. Preis inkl. MwSt.
+notification.programInfo.rental.month.disclaimer;;Deine %1-monatige Ausleihe beginnt nach der PIN-Eingabe und kann danach nicht mehr storniert werden
+notification.programInfo.rental.months.disclaimer;;Deine %1-monatige Ausleihe beginnt nach der PIN-Eingabe und kann danach nicht mehr storniert werden
+notification.programInfo.subscribe.disclaimer;;Dein Abo beginnt nach der PIN-Eingabe
+notification.recommendations.disabled;;Empfehlungen wurden für dich deaktiviert.
+notification.recommendations.enabled;;Empfehlungen wurden für dich aktiviert.
+notification.recommendationsOptIn;;Um sie wieder zu deaktivieren, gehe zu Einstellungen > Inhalte.
+notification.recommendationsOptOut;;Um sie wieder zu aktivieren, gehe zu Einstellungen > Inhalte.
+notification.recording.cancel.failed;;Leider konnte Deine Aufnahme nicht abgebrochen werden. Versuche es bitte später erneut
+notification.recording.clash.multiple;;Es wurden mehrere Aufnahmekonflikte gefunden.
+notification.recording.clash.multiple.description;;Zur Konfliktbehebung drücke %1 auf der Fernbedienung, um zu Mein TV / Geplante Aufnahmen zu gelangen
+notification.recording.clash.resolve;;Aufnahmekonflikt behoben
+notification.recording.clash.resolve.description;;Behobener Aufnahmekonflikt
+notification.recording.clash.single;;Aufnahmekonflikt gefunden
+notification.recording.clash.single.description;;Zur Konfliktbehebung drücke %1 auf der Fernbedienung, um zu Mein TV / Geplante Aufnahmen zu gelangen
+notification.recording.delete.failed;;Leider konnte Deine Aufnahme nicht gelöscht werden. Versuche es bitte später erneut
+notification.recording.description.deleteRecordings;;Es wurden %1 Aufnahmen gelöscht.
+notification.recording.fullCloudProtection;;Zu viele geschützte Cloud-Aufnahmen
+notification.recording.fullLocalProtection;;Zu viele lokal geschützte Aufnahmen
+notification.recording.fullProtectionTitle;;Aufnahme kann nicht geschützt werden
+notification.recording.localNotPossible;;Verbinde bitte Deine lokale Festplatte, um die Aufnahme zu programmieren
+notification.recording.past;;Inhalte sind bald in deinen Aufnahmen verfügbar
+notification.recording.scheduledNew;;Aufnahme %1 wurde programmiert
+notification.recording.title.delete;;Aufnahmen löschen 
+notification.recordings.update;;Aktualisieren von GigaTV
+notification.remoteBooking.hddConnected.title;;
+notification.remoteDiagnostics.speedTest.ongoing;;Der Speedtest läuft gerade. Bitte warten...
+notification.remotePairing.timeout;;Kopplung leider fehlgeschlagen. Versuche es bitte nochmal, indem Du die Mikrofon-Taste auf Deiner Fernbedienung drückst
+notification.rent.notPossible;;
+notification.rollingBuffer.description;;
+notification.rollingBuffer.title;;
+notification.search.characterLimit.description;;
+notification.search.characterLimit.title;;
+notification.search.fail.description;;Es kam zu einem Fehler beim Laden der Inhalte
+notification.search.fail.title;;Suchfehler
+notification.seriesInfo.fetchDataFailed;;SM011: Es können nicht alle verfügbaren Folgen angezeigt werden. Überprüfe bitte Deine Internetverbindung
+notification.seriesInfo.missingMetadata;;Fehlende Serienkennung. Programminformation kann nicht angezeigt werden.
+notification.seriesRecording.alreadyScheduled;;Die Aufnahme ist bereits programmiert. Drücke OK für mehr Aufnahme-Optionen
+notification.seriesRecording.past;;Alle bisherigen Folgen sind bald in deinen Aufnahmen verfügbar
+notification.seriesRecording.pastNew;;Vorherige Folgen findest Du später in Deinen Aufnahmen
+notification.soundbox.audio.off;;Audio-Wiedergabe deaktiviert
+notification.soundbox.audio.stb;;Audio-Wiedergabe für GigaTV Box aktiviert
+notification.soundbox.audio.tv;;Audio-Wiedergabe für TV aktiviert
+notification.soundbox.connected;;%1 verbunden
+notification.soundbox.description;;Um anzupassen, gehe zu Einstellungen / Verbundene Geräte / Sprachassistenten.
+notification.soundbox.disconnected;;Verbindung getrennt
+notification.subscribe.notPossible;;
+notification.subscription.success;;Erfolgreich abonniert
+notification.timeout.error;;SC401: Datenabruf abgelaufen. Überprüfe die Internetverbindung Deines Routers.
+notification.trickMode.notAllowed;;Dieser Befehl ist auf Wunsch des Senders für diese Sendung untersagt
+notification.vodafoneNetworkLost.description;;Du musst mit Deinem Vodafone Netzwerk verbunden sein, um alle GigaTV Funktionen nutzen zu können
+notification.vodafoneNetworkLost.title;;Verbindung zum Vodafone Netzwerk unterbrochen
+notification.voiceAction.appNonExistent;;Diese App unterstützt keine Sprachsteuerung
+notification.voiceAction.appNotAvailable;;Diese App ist nicht verfügbar.
+notification.voiceAction.areaNonExistent;;Das können wir nicht anzeigen, es existiert nicht!
+notification.voiceAction.genericError;;Es ist etwas schief gegangen, bitte versuche es erneut.
+notification.voiceAction.keyPressedTooShort;;Deine Eingabe wurde nicht verstanden. Bitte drücke den Sprach-Knopf länger und wiederhole deine Eingabe
+notification.voiceAction.kids.profileNotSelected;;Du musst ein Profil auswählen, um die Spracheingabe nutzen zu können
+notification.voiceAction.kids.screenNotAllowed;;Gehe zum Menü, um die Spracheingabe zu benützen.
+notification.voiceAction.misunderstanding;;Deine Eingabe wurde nicht verstanden. Bitte versuche es erneut
+notification.voiceAction.noChannel;;Sender %1 existiert nicht.
+notification.voiceAction.noChannelError;;Dieser Sender existiert nicht.
+notification.voiceAction.noChannelNumber;;Diese Sendernummer existiert nicht.
+notification.voiceAction.noResults;;Es wurde nichts gefunden. Bitte versuche es erneut!
+notification.voiceAction.notAllowedContent;;Leider kann der dieser Inhalt aufgrund fehlender Berechtigungen nicht wiedergegeben werden.
+notification.voiceAction.notAllowedInApp;;Aktion nicht möglich mit dieser App
+notification.voiceAction.notPossible;;Die Ausführung Deiner Spracheingabe ist nicht möglich
+notification.voiceAction.notSupportedInKids;;Das ist leider nicht im Kids TV möglich.
+notification.voiceAction.voiceASRFailure;;Deine Anfrage konnte nicht bearbeitet werden. Versuche es bitte erneut
+notification.voiceAction.voiceToSearch;;Mit Sprachsteuerung suchen
+notifications.privacy.fail.title;;Die Datenschutz- und die Einwilligungserklärung sind nicht verfügbar
+optIn;;Jetzt aktivieren
+pin.consecutiveDigitsError.popup.text;;Vier gleiche Zahlen (z.B. 2222) sind nicht möglich.<br>Wähle bitte eine andere Zahlenkombination
+pin.consecutiveDigitsError.popup.title;;Diese Zahlenkombination ist leider nicht möglich<br><br>
+pin.lockedPin.notification.description;;Versuche es bitte nochmal in %1
+pin.lockedPin.notification.title;;PIN-Eingabe ist gesperrt
+pin.lockedPin.popup.text;;Die PIN wurde 3 mal hintereinander falsch eingegeben<br>Du kannst es nochmal in %1 versuchen
+pin.lockedPin.popup.title;;Die PIN-Eingabe ist gesperrt für die nächsten %1<br><br>
+pinEntry.adultPin;;PIN eingeben
+pinEntry.purchasePinCode;;PIN eingeben
+player.endOfBuffer.description;;Das ist der Anfang der Automatischen Aufnahme.
+player.endOfBuffer.title;;Die Pufferzeit des Streams wurde leider überschritten
+player.feedback.remaining;;Verbleiben
+player.notification.cantRecoverMedia.description;;
+player.notification.cantRecoverMedia.title;;
+popup.gdpr.app.disagree;;
+popups.buttons.continueWithoutRebooting;;Weiter ohne Sender
+popups.buttons.rebootStb;;Box neu starten
+popups.cecStandBy.message;;Deine GigaTV Box schaltet nun in den Stand-By
+popups.deepLinkError.button;;OK
+popups.deepLinkError.message;;Es ist ein Fehler aufgetreten. Bitte versuche es später erneut!
+popups.deepLinkError.title;;Etwas ist schief gegangen.
+popups.emptyChannelList.description;;Wähle bitte 'Box neu starten' und drücke OK, um das Problem sofort zu beheben. <br> Sonst wähle 'Weiter ohne Sender' und löse das Problem später, indem Du die Box kurz vom Strom trennst und dann neu startest
+popups.emptyChannelList.title;;Wir konnten Deine Senderliste nicht vollständig abrufen
+popups.error.folderWithIncorrectApp;;Fehler: Der Ordner beinhaltet eine falsche App
+popups.howToSubscribe;;Du willst noch mehr Sendervielfalt? Buche mit GigaTV jetzt Dein passendes TV-Paket hinzu unter vodafone.de/tv-optionen oder telefonisch unter: 0800-6808016
+popups.networkValidation.buttons.retry;;Erneut versuchen
+popups.networkValidation.misc;;Fehler (Fehlermeldung: %1)
+popups.networkValidation.title;;Netzwerk-Zugriff fehlgeschlagen
+popups.noInternetConnection.button;;Einstellungen öffnen
+popups.noInternetConnection.message;;Überprüfe bitte alle Kabelanschlüsse und die Interneteinstellungen. Wenn das Problem weiterhin besteht, kontaktiere den technischen Kundendienst.
+popups.noInternetConnection.title;;Es wurde keine Internetverbindung gefunden
+popups.notEnoughBandwidth.buttons.retry;;Nochmal
+popups.notEnoughBandwidth.message;;Um dieses Problem zu beheben, wähle 'Erneut versuchen' und überprüfe Deinen Router, positioniere ihn näher an Deine GigaTV Box oder entferne etwaige Gegenstände um Deine GigaTV Box. Falls das Problem weiterhin besteht, wende Dich bitte an unseren Kunden-Service
+popups.notEnoughBandwidth.title;;Es gab ein Problem mit der WLAN Bandbreite.
+popups.powerSaving.buttons.closeThirdAppsAndAdjust;;Schließen und Auto Standby anpassen
+popups.speedTest.misc;;Der Speedtest läuft gerade. Willst Du den Test abbrechen?
+popups.subscriptionFiltering.buttons.cancel;;Nein
+popups.subscriptionFiltering.buttons.showApp;;Zeige %1
+popups.subscriptionFiltering.message;;%1 in der Videothek und den Suchergebnissen anzeigen?
+popups.subscriptionFiltering.title;;Wir hoffen Du hattest Freude mit dieser App
+popups.update.failed;;Error %1: Softwareaktualisierung fehlgeschlagen.
+popups.update.success;;Die Softwareaktualisierung ist erfolgreich abgeschlossen.
+programInfo.actionButtons.confirm;;Jetzt kostenpflichtig leihen
+programInfo.actionButtons.from;;Ab
+programInfo.actionButtons.listen;;Anhören
+programInfo.actionButtons.noFolderSubscribe;;Abonnieren
+programInfo.actionButtons.own;;Kaufen
+programInfo.actionButtons.ownAsPPVLabel;;Kaufe %1
+programInfo.actionButtons.ownLabel;;%1 kaufen
+programInfo.actionButtons.rentAsPPVLabel;;Leihe %1
+programInfo.actionButtons.restartLiveOn;;Neu starten auf
+programInfo.actionButtons.resume;;Fortsetzen
+programInfo.actionButtons.subscribeLabel;;Abonnieren
+programInfo.actionButtons.subscribePrice;;%1 abonnieren
+programInfo.actionButtons.subscribeSelfcare;;Abonnieren
+programInfo.actionButtons.subscribedLabel;;Abonniert
+programInfo.actionButtons.trailers;;Trailer
+programInfo.actionButtons.watchBundle;;Alle ansehen
+programInfo.actionButtons.watchBundleIn;;All in %1 ansehen
+programInfo.actionButtons.watchCatchupOn;;In der Mediathek ansehen am
+programInfo.actionButtons.watchLiveOn;;Jetzt auf
+programInfo.actionButtons.watchOn;;Hier klicken für 
+programInfo.actionButtons.watchSubscriptionOn;;Ansehen in %1
+programInfo.actors.label;;Schauspieler
+programInfo.badging.availableToRent;;Zum Ausleihen
+programInfo.badging.availableToRentAndExpiration;;Leihdauer %1 Tage für %2
+programInfo.bundle.partOf;;Teil von %1
+programInfo.catchupExpiresOn;;Läuft in %1 ab
+programInfo.director.label;;Regisseur
+programInfo.newPI.catchupAiredOn;;
+programInfo.newPI.catchupExpiresOn;;Läuft ab in %1 Std. und %2 Min
+programInfo.newPI.recordedOn;;
+programInfo.newPi.recordingServiceName;;
+programInfo.partialRecordingExpiresOn;;Die teilweise Aufnahme läuft ab in %1
+programInfo.purchase.disclaimer;;Nicht widerrufbar, 48-Stunden-Miete wird beginnen. Siehe nächste Rechnung.
+programInfo.recordingExpiresOn;;Aufnahme läuft in %1 ab
+programInfo.series.special;;SPECIAL
+rails.availableToOwn;;Zum Kauf verfügbar
+rails.defaultGenreLabel;;Genre nicht definiert
+rails.relatedfrom;;%1
+rails.relatedto;;Ebenfalls empfohlen
+rails.rollingBuffer.title.dayOfTheMonthDateFormat;;ddd dd mmm
+rails.rollingBuffer.title.today;;%1
+rails.rollingBuffer.title.today-1;;Gestern
+rails.rollingBuffer.title.today-2;;Vor 2 Tagen
+rails.rollingBuffer.title.today-3;;Vor 3 Tagen
+rails.rollingBuffer.title.today-4;;Vor 4 Tagen
+rails.rollingBuffer.title.today-5;;Vor 5 Tagen
+rails.rollingBuffer.title.today-6;;Vor 6 Tagen
+rails.rollingBuffer.title.today-7;;Vor 7 Tagen
+rails.subscription;;Abo
+rails.title.morefrom;;%1
+recordingCancel.cancelSeries;;Serienaufnahme abbrechen
+recordingCancel.subtitle;;Möchtest Du die gesamte Serienaufnahme abbrechen?
+recordingCancel.title;;Aufnahme gelöscht
+recordings.update.please.wait;;Bitte warten
+relatedbyactor;;Mehr von %1
+relatedbydirector;;Mehr von %1
+relatedbygenre;;Mehr aus dem Genre
+relatedto;;Verwandt mit %1
+sdk7.browse.myHome.aboutMyHome;;
+sdk7.browse.myHome.breadcrumbTitle;;
+sdk7.browse.myHome.button.browseOnDemand;;
+sdk7.browse.myHome.button.openTvGuide;;
+sdk7.browse.myHome.contentInfo;;
+sdk7.countrySelection.text;;
+sdk7.countrySelection.title;;
+sdk7.epg.focusedTile.remaining;;
+sdk7.lockedPin.modal.subtitle;;
+sdk7.lockedPin.modal.title;;
+sdk7.menu.tab.onTv;;
+sdk7.miniProgramInfo.remaining;;
+sdk7.miniProgramInfo.showMore;;
+sdk7.moreBucket.all;;
+sdk7.pinEntry.helpLabel;;
+sdk7.pinEntry.success;;
+sdk7.pinEntry.success.subtitle;;
+sdk7.pinEntry.unSuccessful;;
+sdk7.pinEntry.unSuccessful.subtitle;;
+sdk7.pinEntry.verifying;;
+sdk7.programInfo.actionButtons.wishlist.add;;
+sdk7.programInfo.actionButtons.wishlist.remove;;
+sdk7.programInfo.showInfo;;
+sdk7.search.noResults;;
+sdk7.search.searchResults;;
+sdk7.serieInfo.episodePrefix;;
+sdk7.serieInfo.episodeShortPrefix;;
+sdk7.serieInfo.seasonShortPrefix;;
+sdk7.settings;;
+sdk7.settings.changePin.confirm;;
+sdk7.settings.changePin.confirmNewPin;;
+sdk7.settings.changePin.enterNewPin;;
+sdk7.settings.changePin.hideNewPin;;
+sdk7.settings.changePin.masterPin;;
+sdk7.settings.changePin.pinChanged.failed;;
+sdk7.settings.changePin.pinChanged.successfully;;
+sdk7.settings.changePin.pinChanged.tryAgain;;
+sdk7.settings.changePin.secondaryString;;
+sdk7.settings.changePin.showNewPin;;
+sdk7.settings.changePin.title;;
+sdk7.settings.hiddenChannels;;
+sdk7.settings.parentalControls.adultContent;;
+sdk7.settings.parentalControls.ageRating.pinModal.event;;
+sdk7.settings.parentalControls.ageRating.screen.description;;
+sdk7.settings.parentalControls.ageRating.screen.secondary.description;;
+sdk7.settings.parentalPurchases.locked;;
+sdk7.settings.parentalPurchases.locked.desc;;
+sdk7.settings.parentalPurchases.purchasePinState;;
+sdk7.settings.parentalPurchases.unlocked;;
+sdk7.settings.parentalPurchases.unlocked.desc;;
+sdk7.settings.pinProtection.desc;;
+sdk7.settings.pinProtection.isActivated;;
+sdk7.settings.pinProtection.isDeactivated;;
+sdk7.settings.pinProtection.pinConfirmationModal.message.activatePin;;
+sdk7.settings.pinProtection.pinConfirmationModal.message.deactivatePin;;
+sdk7.settings.pinProtection.pinConfirmationModal.title.activatePin;;
+sdk7.settings.pinProtection.pinConfirmationModal.title.deactivatePin;;
+sdk7.settings.pinProtection.pinProtection;;
+sdk7.settings.premiumChannels.hidden;;
+sdk7.settings.premiumChannels.intro;;
+sdk7.settings.premiumChannels.visible;;
+sdk7.settings.privacy.and.terms;;
+sdk7.settings.privacy.consent.disagree.text;;
+sdk7.settings.privacy.consent.disagree.title;;
+sdk7.settings.vodafoneTV;;
+sdk7.smartTV.firstInstall.login.error.title;;
+sdk7.watch.timestamp.live;;
+search.recentSearches;;Letzte Suchanfragen
+search.recommendations;;Empfehlungen
+searchRecommendations1;;Alle
+searchRecommendations2;;Jetzt Live
+searchRecommendations3;;Neu in der Mediathek
+serieInfo.episodeShort;;F
+serieInfo.seasonPrefix;;Staffel %1
+serieInfo.seasonShort;;S
+settings.accessibility.audioLanguage.description;;
+settings.accessibility.audioLanguage.description.selected;;
+settings.accessibility.help;;Hilfe
+settings.accessibility.help.description;;Für weitere Bedienungshilfen rund um Dein GigaTV besuche uns bitte online unter<br/>https://www.vodafone.de/tv
+settings.alexa;;Amazon Alexa
+settings.alexa.deviceName;;Gerätename: 
+settings.alexa.status.finished;;Abgeschlossen
+settings.ast.astDisableVisualScrubber;;
+settings.ast.astOverrideShakaSettings;;
+settings.ast.astSettings;;
+settings.ast.astShowBackgroundProcess;;
+settings.ast.overrideShakaSettings.items.bufferingGoal;;
+settings.ast.overrideShakaSettings.items.defaultBandwidthEstimate;;
+settings.ast.overrideShakaSettings.items.defaultPresentationDelay;;
+settings.ast.overrideShakaSettings.items.rebufferingGoal;;
+settings.ast.overrideShakaSettings.resetButton;;
+settings.ast.overrideShakaSettings.title;;
+settings.audioAndVisual.audioOutput.auto;;Automatisch
+settings.audioAndVisual.audioOutput.resetVolume;;Lautstärke zurücksetzen
+settings.audioAndVisual.audioOutput.resetVolumeInfo;;Durch das Zurücksetzen wird die Lautstärke der GigaTV Box auf ein hohes Niveau gesetzt.<br/>Verwende diese Einstellung, wenn die Lautstärke nicht vorhanden, zu leise oder zu laut ist und Deine GigaTV Fernbedienung mit dem Fernseher verbunden ist
+settings.audioAndVisual.audioSettings;;Audio
+settings.audioAndVisual.audioSettings.hdmi;;HDMI
+settings.audioAndVisual.audioSettings.localSpeaker;;Lokaler Lautsprecher
+settings.audioAndVisual.soundMode;;Audio-Profil
+settings.audioAndVisual.soundMode.automatic;;Automatisch
+settings.audioAndVisual.soundMode.game;;Spiel
+settings.audioAndVisual.soundMode.movie;;Film
+settings.audioAndVisual.soundMode.music;;Musik
+settings.audioAndVisual.soundMode.music.fidelity;;Klangtreue
+settings.audioAndVisual.soundMode.music.loud;;Klanglautstärke
+settings.audioAndVisual.soundMode.music.surround;;Surround Sound
+settings.audioAndVisual.soundMode.night;;Nacht
+settings.audioAndVisual.soundMode.off;;Aus
+settings.audioAndVisual.soundMode.sport;;Sport
+settings.audioAndVisual.soundMode.voice;;Stimme
+settings.audioAndVisual.widescreen;;4:3 Nutzung
+settings.audioAndVisual.widescreen.fullmode;;Vollbild
+settings.audioAndVisual.widescreen.original;;Original
+settings.audioAndVisual.widescreen.zoom;;Zoom
+settings.audioProfile.description;;
+settings.autoDelete;;Die Automatisch Löschen-Funktion beginnt mit der nächsten geplanten Aufnahme. Vergrößere Deinen Speicherplatz, um zu verhindern, dass Inhalte automatisch gelöscht werden
+settings.automaticRecordings.description;;Eines der Highlights von GigaTV ist, dass Dir das Fernsehprogramm der letzten 7 Tage zu Verfügung steht. Die Mediatheken-Inhalte erreichst Du über den TV-Guide oder indem Du auf der Fernbedienung Hinauf oder Hinunter drückst
+settings.automaticRecordings.title;;Automatische Aufnahmen
+settings.bluetooth;;Bluetooth
+settings.bluetooth.addDevice;;Gerät hinzufügen
+settings.bluetooth.autoConnect;;Automatisch verbinden
+settings.bluetooth.connect;;
+settings.bluetooth.connected;;Verbunden
+settings.bluetooth.connected.description;;Drücke Hoch/Runter, um ein Gerät auszuwählen. Drücke OK, um das ausgewählte Gerät zu verbinden oder zu trennen. Kannst Du das Gerät nicht finden? Gehe zu 'Gerät hinzufügen', um nach weiteren Geräten zu suchen
+settings.bluetooth.connecting;;Wird verbunden...
+settings.bluetooth.description;;Deine Bluetooth Geräteliste ist leer. <br> Füge bitte zunächst ein Gerät hinzu, um es zu verbinden
+settings.bluetooth.devices;;Meine Geräte
+settings.bluetooth.disconnecting;;Verbindung wird getrennt...
+settings.bluetooth.otherDevices;;Andere Geräte
+settings.bluetooth.pairing;;Bluetooth-Aktivierung
+settings.bluetooth.pairingPopup.description;;Prüfe bitte dein Gerät zum Bestätigen. Anschließend wird verfügbar sein unter 'Meine Geräte'
+settings.bluetooth.pairingPopup.title;;Wird hinzugefügt 
+settings.bluetooth.pairingScreen.description;;Drücke Hoch/Runter, um ein Gerät auszuwählen. Drücke OK, um das ausgewählte Gerät zu Deiner Liste hinzuzufügen
+settings.bluetooth.refreshButton.text;;Aktualisieren
+settings.bluetooth.removeDevice;;Gerät entfernen
+settings.bluetooth.removeScreen.description;;Wähle ein oder mehrere Geräte aus mit 'OK' auf der Fernbedienung.<br/> Bestätige deine Auswahl, um sie von Deiner Geräteliste zu entfernen
+settings.bluetooth.screen.description;;Du kannst Dein Gerät mittels Bluetooth verbinden, um Deine Musik zu hören
+settings.bluetooth.screen.title;;Bluetooth-Verbindung
+settings.bluetooth.searching;;Suche nach anderen Geräten
+settings.boxSpace;;Aufnahmen
+settings.cec.buttons.paired;;Verbunden
+settings.cec.buttons.unpaired;;Jetzt verbinden
+settings.cec.paired.description;;Die GigaTV Fernbedienung ist mit dem Fernsehgerät verbunden. Du kannst damit ein- und ausschalten sowie Lautstärke und Eingangsquelle Deines Fernsehers steuern.<br> Wenn Du das nicht möchtest, trenne die Verbindung zwischen GigaTV Fernbedienung und dem Fernsehgerät
+settings.cec.paired.subtitle;;Verbindung trennen
+settings.cec.title;;Steuerung des Fernsehgeräts
+settings.cec.unpaired.description;;Verbinde Deine GigaTV Fernbedienung, um Lautstärke und Eingangsquelle des Fernsehers zu steuern und um Dein Fernsehgerät ein- und auszuschalten
+settings.cec.unpaired.subtitle;;Steuerung verbinden
+settings.channelReordering.apply;;Anwenden
+settings.channelReordering.confirm;;Bestätige
+settings.channelReordering.multiSelection;;Mehrfach-Auswahl
+settings.channelReordering.notification.channelAllSubHidden.description;;Ändere bitte mindestens einen abonnierten Sender auf sichtbar, um ohne Fehler Sender auszublenden
+settings.channelReordering.notification.channelAllSubHidden.title;;Sender können nicht ausgeblendet werden
+settings.channelReordering.notification.channelHidden.description;;Um den Sender anzuzeigen, passe bitte die Sichtbarkeit des Senders in den GigaTV Box Einstellungen an
+settings.channelReordering.notification.channelHidden.title;;%1 (%2) ist ausgeblendet
+settings.channelReordering.notification.channelHidden.titleForAll;;Alle Sender sind ausgeblendet. Gehe zu 'Einstellungen' > 'GigaTV Box Einstellungen' > 'TV-Sender' und führe einen automatischen Sendersuchlauf durch, um sie wieder einzublenden
+settings.channelReordering.notification.channelUnsubHidden.description;;Deine Präferenz zum Zeigen/Ausblenden von nicht-abonnierten Sendern wurde aktualisiert
+settings.channelReordering.notification.channelUnsubHidden.title;;Drücke auf zeige/blende nicht-abonnierte Sender aus
+settings.channelReordering.notification.notSortable.description;;Deine Auswahl wurde auf Position %1 platziert
+settings.channelReordering.notification.notSortable.title;;Senderposition %1 ist geschützt
+settings.channelReordering.reset;;Sortierung zurücksetzen
+settings.channelReordering.reset.popup.description;;Willst Du wirklich Deine persönliche Senderliste zurücksetzen auf die Grundeinstellung?
+settings.channelReordering.reset.popup.title;;Sender-Sortierung zurücksetzen
+settings.channelSorting.allChannels.selected;;Alle Sender (%1 ausgewäht)
+settings.channelSorting.allChannels.unselected;;Alle Sender
+settings.channelSorting.description;;Ändere die Reihenfolge in Deiner Senderliste, indem Du einen Sender auswählst und auf eine neue Position legst. Nutze die Hoch-/Runter-Taste oder gib die Sendeplatznummer ein, um einen Sender zu finden. Drücke OK zum Auswählen des Senders
+settings.channelSorting.description.batchSelection;;Bewege die Auswahl Hoch/Runter zur neuen Position oder nutze die Nummerntasten auf der Fernbedienung.<br><br>Drücke OK zum Einsetzen
+settings.channelSorting.description.editMode;;Bewege den Sender Hoch/Runter zur neuen Position oder nutze die Nummerntasten auf der Fernbedienung.<br><br>Drücke OK zum Einsetzen
+settings.channelSorting.description.multiSelectionMode;;Drücke Hoch/Runter oder gib die Sendernummer ein, um einen Sender zu finden. Drücke OK zum Auswählen.<br><br>Deine fertige Auswahl kannst Du dann auf der neuen Position platzieren
+settings.channelSorting.subtitle.customisation;;Umsortieren
+settings.channelSorting.title;;Senderliste sortieren
+settings.channelVisibility.allChannels.visible;;Alle Sender
+settings.channelVisibility.confirm;;Bestätigen
+settings.channelVisibility.description;;Blende einfach ungewollte Sender auf GigaTV aus.<br><br>Nutze die Hoch-/Runter-Tasten oder gib die Sendernummer ein, um einen Sender zu finden. Drücke dann OK zum Aus- oder Einblenden
+settings.channelVisibility.hideAllChannels;;Es muss mindestens ein Sender sichtbar sein auf GigaTV
+settings.channelVisibility.hideUnsubscribedChannels;;Nicht-abonnierte Sender ausblenden
+settings.channelVisibility.showUnsubscribedChannels;;Nicht-abonnierte Sender zeigen
+settings.channelVisibility.subtitle;;Sender ausblenden
+settings.channelVisibility.subtitle.customisation;;Anpassen
+settings.channelVisibility.title;;Sender ausblenden
+settings.cloudRecordings;;Aufnahmen in der Cloud
+settings.cloudsRecordings;;Cloud-Aufnahmen
+settings.connectedDevices;;Verbundene Geräte
+settings.connectedDevices.mobilePairing;;Mobile Apps
+settings.connectedDevices.remote;;Fernbedienung
+settings.connectedDevices.tvInput;;TV Eingang
+settings.connectedDevices.voiceAssistants;;Sprachassistenten
+settings.contentSettings;;Senderliste & Aufnahmen
+settings.developerMode;;Entwickler-Modus
+settings.fallbackDeepLink;;Gehe zum dynamischen Deep-Link
+settings.frequentlyAskedQuestions;;Häufig gestellte Fragen
+settings.frequentlyAskedQuestions.faqBrowser;;Antworten finden
+settings.informations.abrProfile;;
+settings.informations.button.pvr;;Festplattenspeicher
+settings.informations.buttons.nagra;;Nagra
+settings.informations.buttons.nagraStv;;
+settings.informations.buttons.pvr;;Video-Rekorder
+settings.informations.casingSerialNumber;;Seriennummer
+settings.informations.casingSerialNumber.unavailable;;Nicht verfügbar
+settings.informations.channelNameDVBC;;Kabel-Sender
+settings.informations.channelNameDVBIP;;Sender
+settings.informations.channelNameFTTH;;Sender
+settings.informations.diskConnectState;;Speicherplatz-Zustand
+settings.informations.diskConnectState.connected;;Verbunden
+settings.informations.diskConnectState.disconnected;;Nicht verbunden
+settings.informations.diskStatus;;Speicherplatz
+settings.informations.diskStatus.notReady;;Nicht bereit
+settings.informations.diskStatus.ready;;Bereit
+settings.informations.freq;;Frequenz
+settings.informations.hdcpVersion;;HDCP-Version
+settings.informations.imei;;IMEI
+settings.informations.kdsn;;KDSN
+settings.informations.lcn;;LCN
+settings.informations.netflixEsn;;Netflix ESN
+settings.informations.nid;;Netzwerk-Kennung
+settings.informations.onid;;Individuelle Netzwerk-Kennung
+settings.informations.otaUpdateProgress;;Fortschritt der OTA-Aktualisierung
+settings.informations.ott;;
+settings.informations.packetLoss;;Verlust von Datenpaketen
+settings.informations.sdkVersion;;
+settings.informations.sid;;Service-Kennung
+settings.informations.signalQuality;;Qualität
+settings.informations.smartTvVersion;;Smart TV Version
+settings.informations.snr;;SNR (Signal-Rausch-Verhältnis)
+settings.informations.tsid;;Transport-Stream-Kennung
+settings.informations.updateStatus.failed;;%1: Aktualisierung fehlgeschlagen
+settings.informations.updateStatus.success;;Aktualisierung erfolgreich
+settings.informations.uri;;URI
+settings.informations.wireless.quality;;
+settings.language.audioLanguage;;Audio-Sprache
+settings.language.systemLanguage;;System-Sprache
+settings.language.systemLanguage.info;;Wenn die Automatisch-Option ausgewählt ist, verwendet die GigaTV Box die Systemsprache Deines Smart-TV Geräts, wenn sie von der Box unterstützt wird
+settings.languageAndAccessibility;;Audio-Sprache & Barrierefreiheit
+settings.languageAndAccessibility.audioLanguage;;Audio-Sprache
+settings.languageAndAccessibility.subtitlesPreference;;Untertitel Menü
+settings.localRecordings;;Aufnahmen auf der Festplatte
+settings.localRecordings.error;;Fehler beim Abrufen der Informationen auf der Festplatte
+settings.localRecordings.reformatDisk.notification.helpMessage;;Bitte beachte, dass alle Aufnahmen verloren gehen. <br/> Dieser Schritt kann nicht rückgängig gemacht werden
+settings.localRecordings.reformatDisk.notification.offlineSubtitle;;Bitte verbinde Deine GigaTV Box wieder mit dem Internet um die Festplatte zu formatieren
+settings.localRecordings.reformatDisk.notification.offlineTitle;;Deine GigaTV Box ist offline
+settings.localRecordings.reformatDisk.notification.title;;Gib Deine PIN ein, um deine Festplatte neu zu formatieren
+settings.logger;;Logger
+settings.logger.loggerIp;;Logger-Endpunkt
+settings.logger.loggerModule;;Logger-Modus
+settings.logger.loggerType;;Logger-Typ
+settings.loggerIp.description;;Logs werden an die folgende IP mit den folgenden Regeln zu Port 8080 gesendet
+settings.loggerIp.subtitle;;Gib Deine IP ein
+settings.loggerIp.title;;Logger IP
+settings.loggerModule.description;;Das Aktivieren des Module erlaubt Dir mehr Details zu erhalten zu spezifischen Module.<br/>Beachte bitte, dass dies zu Nebeneffekten wie z.B. einer langsameren Navigation führen kann
+settings.loggerModule.subtitle;;Aktiviere den Log, den Du benötigst
+settings.loggerModule.title;;Log Module Aktivierung
+settings.loggerType.description;;Es gibt drei Optionen: - Browser: leite es zum Browser-Debugger um<br/> - Sagemcom MW: Alle Logs an den MW senden (funktioniert nur auf STB), <br/> - Websocket: Leitet Dein Log über WebSocket auf eine IP um, die Du konfigurieren kannst. <br/>Bitte beachte, dass dies Nebenwirkungen haben kann, z. B. eine Verlangsamung der Navigation
+settings.loggerType.subtitle;;Wähle bitte, wo Du Dein Log abrufen willst
+settings.loggerType.title;;Log-Aktivierung
+settings.network.channelScan.pleaseWait;;Sendersuchlauf, bitte warten...
+settings.parentalControls.managePin;;PIN verwalten
+settings.parentalControls.options;;Altersbeschränkung
+settings.parentalControls.purchasePin;;Käufe
+settings.powerSaving.autoStandbyTime.2h;;2 Stunden
+settings.powerSaving.autoStandbyTime.4h;;4 Stunden
+settings.powerSaving.autoStandbyTime.8h;;8 Stunden
+settings.powerSaving.quickBoot.description;;Wenn Du die Sprachsteuerung nutzen oder Musik abspielen willst mit Bluetooth oder Spotify im Stand-By, dann muss diese Option AUS sein.<br><br>Ansonsten funktioniert das nur für eine kurze Zeit nachdem das Gerät abgeschaltet wird
+settings.powerSaving.remoteBooking.description;;
+settings.powerSaving.smartStandby.active;;Aktiv
+settings.powerSaving.smartStandby.active.description;;Wenn Deine GigaTV Box und Fernseher aus ist, kannst Du dich mit Bluetooth verbinden und Musik abspielen, Spotify Connect und die Sprachsteuerung verwenden
+settings.powerSaving.smartStandby.energySaving;;Energie sparen
+settings.powerSaving.smartStandby.energySaving.description;;Wenn Du im Stand-By noch weniger Energie verbrauchen willst, dann wähle Energie sparen aus. Du kannst dann die Active/Smart Stand-By Funktionen nicht nutzen und die Startzeit der GigaTV Box verzögert sich leicht
+settings.powerSaving.smartStandby.smartStandby;;Smart Standby
+settings.powerSaving.smartStandby.smartStandby.description;;Wenn Deine GigaTV Box und Fernseher aus ist, kannst Du dich mit Bluetooth verbinden und Musik abspielen, Spotify Connect und die Sprachsteuerung verwenden.<br/>Diese Stand-By Option erlaubt Dir alle Deine Hauptfunktionen zu nutzen, wenn Du sie am meisten benötigst. Zudem spart sie Energie zwischen 1 und 6 Uhr morgens
+settings.privacy;;Datenschutz
+settings.privacy.consent;;Einwilligungserklärung
+settings.privacy.notice;;Datenschutzhinweise
+settings.privacyDisclaimer;;Datenschutzerklärung
+settings.privacyDisclaimer.privacy;;Datenschutzerklärung
+settings.privacyDisclaimerPageTitle;;Datenschutzerklärung
+settings.purchase.errorTurnOn;;Um die Kauf-PIN zu aktivieren, muss zuvor die Jugendschutz-PIN aktiviert sein
+settings.purchase.turnOff;;PIN deaktivieren
+settings.purchase.turnOn;;PIN aktivieren
+settings.purchase.turnedOff;;PIN deaktiviert
+settings.purchase.turnedOn;;PIN aktiv
+settings.purchasePin;;Kauf-PIN
+settings.recommendations;;Empfehlungen
+settings.recommendations.off;;Deaktivieren
+settings.recommendations.on;;Aktivieren
+settings.recording.padding.fifteen;;15 / 15 Min.
+settings.recording.padding.five;;5 / 10 Min.
+settings.recording.padding.ten;;10 / 10 Min.
+settings.recording.setPaddings.noPadding;;4 / 10 Min.
+settings.recordings.automaticRecordings;;Automatische Aufnahmen
+settings.recordings.boxSpaceLow;;Es ist wenig Speicherplatz verfügbar
+settings.recordings.buyMoreStorage;;Mehr Speicherplatz kaufen
+settings.recordings.buyStorage;;Speicherplatz kaufen
+settings.recordings.ejectDisk;;Festplatte entfernen
+settings.recordings.filterContent;;Inhalte filtern
+settings.recordings.manage;;Aufnahmen verwalten
+settings.recordings.padding.none;;4 / 10 Min.
+settings.recordings.recommendationsOptOut;;Empfehlungen deaktivieren
+settings.recordings.reformatDisk;;Festplatte neu formatieren
+settings.recordings.remoteBooking;;
+settings.recordings.setPadding;;Zeitpuffer einstellen
+settings.recordings.setPadding.description;;Zeitpuffer am Anfang / Ende Deiner Aufnahme hinzufügen
+settings.recordings.setPadding.title;;Zeitpuffer einstellen
+settings.recordings.subscribedChannels;;Abo-Sender anzeigen
+settings.remote.buttons.back;;Zurück
+settings.remote.buttons.green;;Grün
+settings.remote.buttons.info;;Informationen
+settings.remote.buttons.paired;;Verbunden
+settings.remote.buttons.tv;;TV-Steuerung
+settings.remote.buttons.unpaired;;Nicht verbunden
+settings.remote.buttons.voice;;Mehr zum Thema Sprachsteuerung
+settings.remote.connectionType.BLE;;BLE
+settings.remote.info.IRCodesTableDBVersion;;?
+settings.remote.info.batteryLevelGood;;Gut
+settings.remote.info.batteryLevelLow;;Niedrig
+settings.remote.info.batteryStatus.button;;Batteriestatus
+settings.remote.info.batteryStatus.subtitle;;Batteriestatus
+settings.remote.info.bleConnection.button;;Bluetooth-Verbindung
+settings.remote.info.bluetooth;;Die Fernbedienung nutzt seit %1 Bluetooth, um Deine GigaTV Box zu steuern und die Sprachsteuerung ist aktiviert. <br><br>Halte den gelben Knopf und die Nummerntaste [3] gedrückt, um sie zu trennen
+settings.remote.info.buttons.firmware.button;;Firmware
+settings.remote.info.connectivityStatus.button;;Verbindungsstatus
+settings.remote.info.connectivityStatus.subtitle;;Verbindungsstatus
+settings.remote.info.done.button;;Abgeschlossen
+settings.remote.info.firmware.button;;Firmware
+settings.remote.info.firmware.subtitle;;Firmware
+settings.remote.info.hardwareVersion;;Hardware Version
+settings.remote.info.infrared;;Die Fernbedienung nutzt Infrarot, um Deine GigaTV Box zu steuern
+settings.remote.info.lastDownloadDateFirmware;;Datum des letzten Firmware-Downloads
+settings.remote.info.macAddress;;MAC-Adresse der Fernbedienung:
+settings.remote.info.manufacturingDate;;Herstellungsdatum
+settings.remote.info.productNumber;;Produktnummer
+settings.remote.info.radioFrequency;;Die Fernbedienung nutzt seit %1 eine Radiofrequenz, um Deine GigaTV Box zu steuern.<br><br>Halte den gelben Knopf und die Nummerntaste [3] gedrückt, um sie zu trennen
+settings.remote.info.remoteSerialNumber;;Seriennummer der Fernbedienung
+settings.remote.info.remoteVersion.button;;Version der Fernbedienung
+settings.remote.info.remoteVersion.subtitle;;Version der Fernbedienung
+settings.remote.info.serialNumber.button;;Seriennummer
+settings.remote.info.serialNumber.subtitle;;Seriennummer
+settings.remote.info.softwareVersion;;Software-Version
+settings.remote.info.title;;Informationen
+settings.remote.info.version;;Version
+settings.remote.paired.descriptionBle;;Du kannst die Sprachsteuerung verwenden, indem Du die Mikrofon-Taste auf der Fernbedienung drückst. Die Fernbedienung muss dabei nicht auf das Gerät zeigen
+settings.remote.paired.descriptionIrRf;;Deine Fernbedienung ist jetzt per Radiofrequenz verbunden. Es ist nun nicht mehr notwendig, die Fernbedienung auf die GigaTV Box zu richten.
+settings.remote.paired.subtitle;;Verbundene Fernbedienung
+settings.remote.remoteStatus;;Status der Fernbedienung
+settings.remote.retry.descriptionBle;;Die Verbindung ist fehlgeschlagen. Halte erneut den gelben Knopf und die Nummerntaste [3] fünf Sekunden lang gedrückt
+settings.remote.retry.descriptionIrRf;;Die Verbindung ist fehlgeschlagen. Halte erneut den gelben Knopf und die Nummerntaste [1] fünf Sekunden lang gedrückt
+settings.remote.retry.subtitle;;Fernbedienung verbinden
+settings.remote.title;;Status der Fernbedienung
+settings.remote.tvControls;;TV-Steuerung
+settings.remote.unpaired.descriptionBle;;Verbinde Deine Fernbedienung mittels Bluetooth, um die Sprachsteuerung zu aktivieren. Danach muss die Fernbedienung nicht mehr auf die GigaTV Box gerichtet werden und kann auch für das Fernsehgerät verwendet werden.<br>Um die Fernbedienung zu verbinden, halte den gelben Knopf und die Nummerntaste [3] fünf Sekunden lang gedrückt.
+settings.remote.unpaired.descriptionIrRf;;Verbinde Deine Fernbedienung mittels Radiofrequenz, um höhere Leistungen zu erzielen und um nicht mehr auf die GigaTV Box zeigen zu müssen.<br><br>Um die Verbindung herzustellen, halte den gelben Knopf und die Nummerntaste [1] fünf Sekunden lang gedrückt
+settings.remote.unpaired.subtitle;;Fernbedienung verbinden
+settings.remoteBooking.button.standbyOptions;;
+settings.remoteBooking.screen.text;;
+settings.remoteBooking.screen.title;;
+settings.remoteControl;;Einstellungen zur Fernbedienung
+settings.selfDiagnostics.button.internetConnection;;Internetverbindung
+settings.selfDiagnostics.button.localStorage;;Lokaler Speicher
+settings.selfDiagnostics.button.networkConnection;;Netzwerkverbindung
+settings.selfDiagnostics.button.remote;;Fernbedienung
+settings.selfDiagnostics.button.softwareUpdates;;Softwareaktualisierungen
+settings.selfDiagnostics.button.tvChannels;;TV-Sender
+settings.selfDiagnostics.issuesTable.message.sdi01.01;;Dein Gerät ist weder über LAN noch über WLAN verbunden. Überprüfe bitte die Kabelverbindung und die Einstellungen Deiner Netzwerkverbindung
+settings.selfDiagnostics.issuesTable.message.sdi01.02;;GigaTV kann keine gültige IP-Adresse beziehen. Bitte überprüfe die IP-Einstellungen und starte Deinen Router und die GigaTV Box neu
+settings.selfDiagnostics.issuesTable.message.sdi01.03;;Das WLAN-Signal ist schwach. Stelle die Verbindung stattdessen über LAN-Kabel her oder stelle den WLAN-Router näher an Deine GigaTV Box
+settings.selfDiagnostics.issuesTable.message.sdi02.01;;GigaTV kann momentan keine Verbindung zum Internet herstellen. Wenn Du auf anderen Geräten im selben Netzwerk ähnliche Probleme erlebst, solltest Du mit Deinem Internet-Provider Rücksprache halten, da ein größeres Problem vorliegen könnte.<br />Wenn Du ausschließlich mit GigaTV Probleme hast, trenne das Gerät vom Strom und verbinde es danach erneut. Wenn das Problem weiterhin besteht, rufe beim Kundenservice an
+settings.selfDiagnostics.issuesTable.message.sdi02.02;;GigaTV kann keine Verbindung zu Vodafone aufbauen, möglicherweise liegt eine Systemstörung vor. Bitte besuche die Vodafone-Webseite, um deren Status zu überprüfen
+settings.selfDiagnostics.issuesTable.message.sdi03.01;;Es ist kein Antennenkabel mit der GigaTV Box verbunden. Bitte überprüfe den Kabelanschluss. 
+settings.selfDiagnostics.issuesTable.message.sdi03.02;;Wegen des schlechten Empfangs über das Antennenkabel siehst Du aktuell eine verminderte Videoqualität. Bitte überprüfe die Kabelverbindung und stelle die Antenne neu ein
+settings.selfDiagnostics.issuesTable.message.sdi03.03;;Wegen einer reduzierten Internet-Bandbreite oder Verbindungsproblemen empfängt GigaTV aktuell eine verminderte Videoqualität. (Eventuell ist die Bildqualität schlechter, weil Du zum Beispiel mehr als ein Video gleichzeitig streamst oder große Dateien herunterlädst.)<br/>Falls das der Fall ist, empfehlen wir Dir, Deinen Datenverbrauch während Du GigaTV benutzt einzuschränken oder Deinen Internet-Tarif zu erweitern
+settings.selfDiagnostics.issuesTable.message.sdi04.01;;Die Batterien in Deiner GigaTV Fernbedienung sind schwach. Wechsle bitte bald die Batterien
+settings.selfDiagnostics.issuesTable.message.sdi04.02;;Wird die GigaTV Fernbedienung mit der GigaTV Box verbunden, ist es nicht mehr notwendig, dass sie direkt auf die Box zeigt. Die Box kann dann sogar in einem Schrank untergebracht werden.<br/>Stelle diese Option im Menü unter Einstellungen > verbundene Geräte > Fernbedienung verbinden ein
+settings.selfDiagnostics.issuesTable.message.sdi05.01;;Für Dein Gerät sind Softwareaktualisierungen verfügbar. Installiere sie um die neuesten Funktionen freizuschalten
+settings.selfDiagnostics.issuesTable.message.sdi06.01;;Es liegt ein Problem mit dem lokalen Speicher vor, daher ist die Pause-Funktion deaktiviert.<br/>Bitte starte Deine GigaTV Box neu oder kontaktiere den technischen Kundendienst, wenn das Problem weiterhin besteht
+settings.selfDiagnostics.issuesTable.title.sdi01.01;;Keine Netzwerkverbindung
+settings.selfDiagnostics.issuesTable.title.sdi01.02;;Keine IP-Adresse
+settings.selfDiagnostics.issuesTable.title.sdi01.03;;Schwaches WLAN-Signal
+settings.selfDiagnostics.issuesTable.title.sdi02.01;;Es kann keine Internetverbindung hergestellt werden
+settings.selfDiagnostics.issuesTable.title.sdi02.02;;Es kann keine Verbindung zu Vodafone hergestellt werden
+settings.selfDiagnostics.issuesTable.title.sdi03.01;;Es ist kein Antennenkabel verbunden.
+settings.selfDiagnostics.issuesTable.title.sdi03.02;;Schlechter Digital-TV-Empfang über Antennenkabel
+settings.selfDiagnostics.issuesTable.title.sdi03.03;;Mindere Qualität des Video-Streaming über Internet.
+settings.selfDiagnostics.issuesTable.title.sdi04.01;;Die Batterien in der Fernbedienung sind schwach!
+settings.selfDiagnostics.issuesTable.title.sdi04.02;;Verbinde Deine Fernbedienung mit GigaTV
+settings.selfDiagnostics.issuesTable.title.sdi05.01;;Softwareaktualisierung verfügbar.
+settings.selfDiagnostics.issuesTable.title.sdi06.01;;Der lokale Speicher kann nicht verbunden werden.
+settings.selfDiagnostics.noErrors;;Es wurden keine Probleme mit GigaTV festgestellt.
+settings.serviceSettings;;Service-Einstellungen
+settings.showBackgroundProcess.hide;;
+settings.showBackgroundProcess.show;;
+settings.soundAndVideo;;Audio & Video
+settings.subscriptionFiltering.allAppsHidden;;Alle Apps ausgeblendet
+settings.subscriptionFiltering.appsHidden;;%1 Apps ausgeblendet
+settings.subscriptionFiltering.description;;Du kannst auswählen, welche Apps angezeigt oder verborgen werden. Wähle dazu aus der Liste der App-Anbieter aus
+settings.subscriptionFiltering.title;;Apps filtern
+settings.systemConfigurations.bluetooth.deviceList.title;;Verfügbare Geräte
+settings.systemConfigurations.bluetooth.devicePairedList.title;;Verbundene Geräte
+settings.systemConfigurations.developerMode;;Entwickler-Modus
+settings.systemConfigurations.epgStbCacheStatus;;EPG Cache Status
+settings.systemConfigurations.epgUiCacheStatus;;EPG UI Cache Status
+settings.systemConfigurations.lastActiveStandby;;
+settings.systemConfigurations.lastBoots;;Letzter Systemstart
+settings.systemConfigurations.lastFullMaintenance;;
+settings.systemConfigurations.lastLoginDate;;Letzter Login
+settings.systemConfigurations.lastMaintenance;;Letzte Wartung
+settings.systemConfigurations.lastMaintenanceReboot;;Letzter Wartungs-Neustart
+settings.systemConfigurations.lastTechnicalDiagUpdate;;
+settings.systemConfigurations.maintenanceTimeoutEvents;;Maintenance timeout MW events
+settings.systemConfigurations.mobilePairing;;Mobiltelefon verbinden
+settings.systemConfigurations.mobilePairing.concurrentPairingDenied;;Du kannst nicht mehrere Geräte gleichzeitig verbinden
+settings.systemConfigurations.mobilePairing.description;;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+settings.systemConfigurations.mobilePairing.deviceList.title;;Verfügbare Geräte
+settings.systemConfigurations.mobilePairing.failed;;Fehlgeschlagen
+settings.systemConfigurations.mobilePairing.failure;;Fehler bei der automatischen Verbindung mit Deinem Telefon
+settings.systemConfigurations.mobilePairing.paired;;Verbunden
+settings.systemConfigurations.mobilePairing.pairingError;;Verbindungsfehler
+settings.systemConfigurations.mobilePairing.pairingFailed;;Verbindung fehlgeschlagen
+settings.systemConfigurations.mobilePairing.pairingInProgress;;Verbindung wird hergestellt
+settings.systemConfigurations.mobilePairing.pairingSuccessful;;Erfolgreich eingeloggt
+settings.systemConfigurations.mobilePairing.pinEntryHelpMessage;;Gib Deine Master-PIN ein, um das Gerät zu verifizieren
+settings.systemConfigurations.mobilePairing.qrCodeMode.description;;Scanne diesen QR-Code mit deinem Mobiltelefon, um es zu verbinden
+settings.systemConfigurations.mobilePairing.qrCodeMode.subtitle;;QR-Code scannen
+settings.systemConfigurations.mobilePairing.readyToPair;;Verbindung möglich
+settings.systemConfigurations.mobilePairing.showQrCode;;QR-Code anzeigen
+settings.systemConfigurations.mobilePairing.subtitle;;Netzwerkgeräte
+settings.systemConfigurations.mobilePairing.title;;Mobiltelefon verbinden
+settings.systemConfigurations.networkAndPlayerLogs;;Netzwerk- & Player-Verlauf
+settings.systemConfigurations.networkLogsTitle;;Netzwerk-Verlauf
+settings.systemConfigurations.noMaintenanceDone;;Es wurde keine Wartung durchgeführt
+settings.systemConfigurations.noMaintenanceTimeout;;No maintenance timeout
+settings.systemConfigurations.playerLogsTitle;;Player-Verlauf
+settings.systemConfigurations.refreshCacheStatus;;Cache-Status aktualisieren
+settings.systemConfigurations.selfDiagnostics;;Selbstdiagnose
+settings.systemConfigurations.soundBox;;Sprachassistenten
+settings.systemConfigurations.soundBox.description;;Falls Du die Sprachsteuerung nicht mehr benutzen möchtest, kannst Du dieses Gerät von Deiner GigaTV Box trennen
+settings.systemConfigurations.soundBox.deviceList.title;;Verfügbare Geräte
+settings.systemConfigurations.soundBox.disconnectDevice;;Verbindung trennen
+settings.systemConfigurations.soundBox.hideAlexaCards;;Alexa-Cards verbergen
+settings.systemConfigurations.soundBox.showAlexaCards;;Alexa-Cards anzeigen
+settings.systemConfigurations.soundBox.title;;Sprachassistenten
+settings.systemConfigurations.soundbox.audioOutput;;Audio-Wiedergabe
+settings.systemConfigurations.soundbox.audioOutput.checkOptical;;Stelle sicher, dass der optische Eingang auf der mobilen Installations-App ausgewählt ist
+settings.systemConfigurations.soundbox.audioOutput.off;;Aus
+settings.systemConfigurations.soundbox.audioOutput.off.selected;;Drücke OK zum Ausschalten
+settings.systemConfigurations.soundbox.audioOutput.spdifstb;;GigaTV Box
+settings.systemConfigurations.soundbox.audioOutput.spdifstb.selected;;Drücke OK, um Deine Audio-Anlage als externen Lautsprecher für Deine GigaTV Box zu verwenden
+settings.systemConfigurations.soundbox.audioOutput.spdiftv;;TV
+settings.systemConfigurations.soundbox.audioOutput.spdiftv.selected;;Drück OK, um Deine Audio-Gerät als externen Lautsprecher für Deinen Fernseher zu verwenden
+settings.systemConfigurations.soundbox.audioOutput.turnedOff;;Deaktiviert
+settings.systemConfigurations.soundbox.audioOutput.turnedOn;;Aktiviert
+settings.systemConfigurations.status.downloading;;Download läuft...
+settings.systemConfigurations.status.failed;;Fehlgeschlagen
+settings.systemConfigurations.status.finished;;
+settings.systemConfigurations.status.ok;;OK
+settings.systemConfigurations.status.ongoing;;Läuft...
+settings.systemConfigurations.subscriptionFiltering;;Abo-Filter
+settings.systemConfigurations.technicalDiagnostics;;Technische Diagnose
+settings.systemConfigurations.technicalDiagnostics.auth;;Authentifizierung
+settings.systemConfigurations.technicalDiagnostics.authNrefresh;;AuthN token aktualisieren
+settings.systemConfigurations.technicalDiagnostics.checkUpdate;;Nach Softwareaktualisierung suchen
+settings.systemConfigurations.technicalDiagnostics.epg;;EPG aktualisieren
+settings.systemConfigurations.technicalDiagnostics.licencesRefresh;;Lizenzen aktualisieren
+settings.systemConfigurations.technicalDiagnostics.localMaintenance;;Lokale Wartung
+settings.systemConfigurations.technicalDiagnostics.nagraCheckMaintenance;;Nagra-Wartung überprüfen
+settings.systemConfigurations.technicalDiagnostics.nagraSSPCheckMaintenance;;Nagra SSP check maintenance
+settings.systemConfigurations.technicalDiagnostics.newMaintenance;;
+settings.systemConfigurations.technicalDiagnostics.no_save_home_mcast_stats;;
+settings.systemConfigurations.technicalDiagnostics.noscan;;Keine Suche notwendig
+settings.systemConfigurations.technicalDiagnostics.noupdate;;Kein Update notwendig
+settings.systemConfigurations.technicalDiagnostics.oldMaintenance;;
+settings.systemConfigurations.technicalDiagnostics.restart;;GigaTV Box neu starten
+settings.systemConfigurations.technicalDiagnostics.save_home_mcast_stats;;
+settings.systemConfigurations.technicalDiagnostics.scan;;Suche
+settings.systemConfigurations.technicalDiagnostics.scanStart;;Scan start
+settings.systemConfigurations.technicalDiagnostics.sendTechnical;;Technische Daten abschicken
+settings.systemConfigurations.technicalDiagnostics.subtitle;;Letzte Wartung
+settings.systemConfigurations.technicalDiagnostics.update;;GigaTV Box aktualisieren
+settings.systemConfigurations.technicalOverlay;;Technische Überlagerung
+settings.technicalOverlay;;Technische Überlagerung
+settings.technicalOverlay.disable;;Deaktivieren
+settings.technicalOverlay.enable;;Aktivieren
+settings.tvBoxSettings;;GigaTV Box Einstellungen
+settings.tvChannels.currentlyFound.cable;;Gefundene Sender:<div class='halfSummary'>Kabel<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyFound.ftth;;Gefundene Sender:<div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyHave.cable;;Aktuelle Sender: <div class='halfSummary'>Kabel<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3TV</div></div></div>
+settings.tvChannels.currentlyHave.ftth;;Aktuelle Sender:<div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.showDttChannels;;Terrestrische Sender anzeigen
+settings.tvChannels.weFound.cable;;Gefundene Sender:<div class='halfSummary'>Kabel<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.weFound.ftth;;Gefundene Sender:<div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvInput.auto;;Automatisch
+settings.tvInput.auto.description;;Wähle diese Option aus, um mit Deiner GigaTV Fernbedienung die Lautstärke Deines Fernsehers zu steuern und Deinen Fernseher zusammen mit deiner GigaTV Box über die Power Taste an- und auszuschalten
+settings.tvInput.config.power;;Power
+settings.tvInput.config.power.description;;Wähle diese Option, um Dein TV-Gerät gemeinsam mit Deiner GigaTV Box über die Power-Taste auf Deiner GigaTV Fernbedienung in Standby zu versetzen und wieder aufzuwecken
+settings.tvInput.config.volume;;Lautstärke
+settings.tvInput.config.volume.description;;Wähle diese Option, um die Lautstärke Deines TV-Geräts mit den VOL +/- Tasten Deiner GigaTV Fernbedienung zu steuern
+settings.tvInput.deviceList;;Geräte-Liste
+settings.tvInput.deviceList.availableDeviceList.description;;Du kannst alle unterstützten und über HDMI verbundenen Geräte mit Deiner GigaTV Fernbedienung steuern
+settings.tvInput.deviceList.availableDeviceList.title;;Geräte-Liste
+settings.tvInput.deviceList.description;;Um Deine über HDMI verbundenen Geräte zu sehen und zwischen diesen mit Deiner GigaTV Fernbedienung zu wechseln, musst Du die Einstellungen für HDMI-CEC auf AN stellen
+settings.tvInput.deviceList.unavailableDeviceList.description;;Um Deine über HDMI verbundenen Geräte zu sehen und zwischen diesen mit Deiner GigaTV Fernbedienung zu wechseln, musst Du die Einstellungen für HDMI-CEC auf AN stellen
+settings.tvInput.deviceList.vodafoneDevice;;GigaTV
+settings.tvInput.manual;;Manuell
+settings.tvInput.manual.cecSettings;;Einstellungen für HDMI-CEC
+settings.tvInput.manual.description;;Einige TV-Geräte erlauben Dir die Kontrolle einiger Funktionen nicht. Wende Dich dann bitte an Deinen TV-Geräte-Anbieter. Wähle die Option aus, um mit der GigaTV Fernbedienung die Lautstärke Deines Fernsehers zu steuern oder ihn zusammen mit Deiner GigaTV Box über die Power-Taste an- und auszuschalten
+settings.tvInput.off;;Aus
+settings.tvInput.off.description;;Wähle diese Option aus, um die Funktionen des über HDMI verbundenen TV-Geräts und der GigaTV Box auszuschalten
+settings.tvInput.userOff;;Aus
+settings.uiVersionOverlay;;UI-Version Überblendung
+settings.uiVersionOverlay.hide;;Verbergen
+settings.uiVersionOverlay.show;;Zeigen
+settings.visualScrubberStatus;;
+settings.visualScrubberStatus.disable;;
+settings.visualScrubberStatus.enable;;
+settings.voice.channel_change.default.answer;;Antwort auf Senderwechsel
+settings.voice.channel_change.default.question;;Senderwechsel
+settings.voice.navigate.default.answer;;Antwort auf Navigation
+settings.voice.navigate.default.question;;Navigation 
+settings.voice.search.default.answer;;Steuer Deine GigaTV mit Deiner Stimme. Aktiviere Sprachbefehle, indem Du die Mikrofon-Taste auf Deiner Fernbedienung drückst
+settings.voice.search.default.question;;Suche
+settings.voice.title;;Sprachsteuerung
+settings.voice.voiceTopics;;Sprachsteuerung
+settings.voiceAssistants;;Sprach-Assistenten
+settings.warning.popup.recommendationsOptOut;;Wenn Du diesen Einstellungen nicht zustimmst, verpasst Du einige unserer Services und wir können Dir nicht das perfekte GigaTV Erlebnis versprechen. Willst Du wirklich fortfahren oder doch zurück und Deine Auswahl ändern?
+shopInShop.disclaimer.title;;Impressum
+smartTV.firstInstall.buttons.clear;;Verwerfen
+smartTV.firstInstall.buttons.signin;;Anmelden
+smartTV.firstInstall.buttons.whatsnew;;Neuigkeiten
+smartTV.firstInstall.incompatibleDeviceErrorScreen.title;;
+smartTV.firstInstall.login.error.description;;Bitte versuche es erneut, oder kontaktiere den Kundendienst unter: ########
+smartTV.firstInstall.login.error.title;;Account-Problem
+smartTV.firstInstall.login.error.tooManyDevices.description;;Es sind bereits zu viele Geräte registriert
+smartTV.firstInstall.login.error.tvAlreadyPaired.description;;Dein Fernseher ist bereits mit der GigaTV Box verbunden
+smartTV.firstInstall.login.fail.description;;
+smartTV.firstInstall.login.fail.title;;
+smartTV.firstInstall.login.nativeInput.placeholder;;Drücke OK zur Eingabe
+smartTV.firstInstall.login.nativePassword.title;;Gib Dein Passwort ein
+smartTV.firstInstall.login.nativeUsername.title;;Gib Deinen Benutzernamen ein
+smartTV.firstInstall.login.password.description;;Falls Du bereits ein GigaTV Konto hast, melde Dich bitte an. Wenn Du mehr über unseren Service wissen willst, wähle Was ist GigaTV?
+smartTV.firstInstall.login.password.title;;Passwort
+smartTV.firstInstall.login.success.description;;
+smartTV.firstInstall.login.success.title;;
+smartTV.firstInstall.login.udid;;UDID: %1
+smartTV.firstInstall.login.username.description;;Logge Dich ein, wenn Du bereits einen Account hast
+smartTV.firstInstall.login.username.placeholder;;Gib Deinen Benutzernamen ein.
+smartTV.firstInstall.login.username.title;;Benutzername
+smartTV.firstInstall.login.welcome.description;;Bitte mit dem Benutzernamen und Passwort Deines GigaTV-Kontos anmelden
+smartTV.firstInstall.login.welcome.title;;Willkommen bei GigaTV
+smartTV.mainMenu.watchTV;;Jetzt im TV
+smartTV.popups.exit.message;;Willst Du wirklich beenden?
+smartTV.popups.exit.title;;Du verlässt nun GigaTV
+smartTV.settings.account.logout;;Abmelden
+smartTV.settings.account.logout.popup;;Willst Du Dich wirklich abmelden?
+smarttv.offlineMode.buttonText;;
+smarttv.offlineMode.descriptionText;;
+smarttv.offlineMode.loadingText;;
+smarttv.offlineMode.title;;
+somethingDifferent;;Etwas anderes
+somethingSimilar;;Ebenfalls empfohlen
+sr.notification.error.authenticationError;;%1: Leider konnten wir Sie nicht anmelden. Bitte versuchen Sie es später erneut.
+sr.notification.error.device.existsInOther.households;;%1: Leider konnten wir dieses Gerät nicht registrieren. Das Gerät ist einem anderen Konto zugeordnet.
+sr.notification.error.exceeded.limit;;%1: Leider haben Sie die maximale Anzahl von Geräten erreicht, die in Ihrem Konto registriert werden dürfen. Bitte entfernen Sie ein Gerät aus Ihrem Konto.
+sr.notification.error.kaltura.service.expired;;%1 KS Module returned error KS expired
+sr.notification.error.kaltura.service.invalid;;%1 KS Module returned error invalid KS
+sr.notification.error.kaltura.service.revocation;;%1 KS is invalid (Kaltura returned error when calling the backend API, possibly due to KS revocation)
+sr.notification.error.notAllowed.type.device;;%1: Dieses Gerät ist leider nicht mit unserem Service kompatibel. Bitte versuchen Sie es erneut mit einem anderen Gerät.
+sr.notification.error.secretCode.problem;;%1: Leider konnten wir Sie nicht anmelden. Bitte versuchen Sie es später erneut. Dies hat zwei Schlüssel im Witzdokument.
+technicalOverlay.widget.label.audioBuffer;;
+technicalOverlay.widget.label.audioPid;;Audio PID
+technicalOverlay.widget.label.bandwidthManagement;;Bandbreitenverwaltung
+technicalOverlay.widget.label.ber;;BER
+technicalOverlay.widget.label.blackout;;Blackout
+technicalOverlay.widget.label.bufferingTime;;
+technicalOverlay.widget.label.currentTime;;
+technicalOverlay.widget.label.droppedFrames;;
+technicalOverlay.widget.label.errorManagement;;Fehlerverwaltung
+technicalOverlay.widget.label.estimatedBandwidth;;
+technicalOverlay.widget.label.frequency;;Frequenz
+technicalOverlay.widget.label.licenseTime;;
+technicalOverlay.widget.label.liveLatency;;
+technicalOverlay.widget.label.loadLatency;;
+technicalOverlay.widget.label.multiaudio;;Multiaudio
+technicalOverlay.widget.label.multicastGroup;;Multicast-Gruppe
+technicalOverlay.widget.label.packetLoss;;Datenpaketverlust
+technicalOverlay.widget.label.progressBar;;Fortschrittsanzeige
+technicalOverlay.widget.label.sid;;SID
+technicalOverlay.widget.label.snr;;SNR (Signal-Rausch-Verhältnis)
+technicalOverlay.widget.label.streamBandwidth;;
+technicalOverlay.widget.label.streamType;;Art des Streams
+technicalOverlay.widget.label.textBuffer;;
+technicalOverlay.widget.label.videoBuffer;;
+technicalOverlay.widget.label.videoPid;;Video PID
+technicalOverlay.widget.title;;Technische Überlagerung
+upnext.footer.back;;Zurück
+upnext.footer.moreEpisodes;;Weitere Folgen
+upnext.header.nextEpisode;;Nächste Folge
+upnext.header.startingCounter;;Beginnt in %1
+upnextRecommendations1;;Ebenfalls empfohlen
+upnextRecommendations2;;Etwas anderes
+voice.app.changeChannel.text;;<p>Beende %1 und sieh Dir %2 auf GigaTV an</p><p>oder suche nach %3 auf %4</p>
+voice.app.searchNotAllowed.text;;Suche innerhalb von %1 nicht möglich
+voice.interface.searchScreenAccessMessage;;Wonach suchst Du?
+voice.interface.startMessage;;Womit kann ich helfen?
+voiceChrome.interface.listening;;Hört zu...
+voiceChrome.interface.speaking;;Spricht...
+voiceChrome.interface.thinking;;Überlegt...
+volume.hintHotkeyProfiles;;Halte die Stumm-Taste gedrückt<br>für Audio-Profile 
+watchNext.purchase;;Kaufen
+watchNext.recording;;Aufnahme
+watchNext.rental;;Bezahlter Inhalt
+wifi.bandwidthStatePopup.description;;Um das Problem zu beheben, drücke bitte Nochmal und prüfe Deinen Router, bringe ihn näher an die GigaTV Box oder entferne blockierende Gegenstände dazwischen. Falls der Fehler weiterhin besteht, rufe bitte unseren technischen Kundenservice an
+wifi.bandwidthStatePopup.title;;Leider gab es ein Problem mit Deiner WLAN-Bandbreite
+wifi.buttons.tryAgain;;Nochmal

@@ -1,0 +1,2156 @@
+key;en-GROUP;hu-HU-x-HU text
+popups.reboot.footerText;SG002: Error number %1;SG002: Hibaszám %1
+popups.upgrade.footerText;SG001: Error number %1;SG001: Hibaszám %1
+popups.wifi.footerText;SC120: Error number %1;SC120: Hibaszám %1
+firstInstall.wifiNetworkErrorScreen.title;Network;Wi-Fi
+notification.recording.notForPast;Sorry, you can’t record programmes shown in the past.;Nincs lehetőség felvételre. A műsor véget ért.
+notification.recording.fullprotection;SR004: Maximum number of recordings already protected. Please unprotect other recordings and try again.;Nem lehet levédeni a felvételt. Szüntesd meg más felvételek védettségét, majd próbáld újra!
+firstInstall.remotePairingFailedScreen.title;Remote pairing;Újrapróbál
+firstInstall.remotePairingFailedScreen.description;To reset your TV remote, hold the 3 and yellow buttons together for 5 seconds (or until the power light on the remote stops flashing).;Sajnos nem sikerült párosítani a Vodafone Mediaboxot <br/>a távirányítóval. Kérjük, próbáld meg újra a 3-as számú<br/>és a sárga színű gombok 5 másodpercig történő együttes nyomva tartásával!
+notification.program.noInformation;SM002: No info available;Lejátszás folytatása sikertelen. [SM002]
+serieInfo.episode.notavailable;SM001: Sorry, title unavailable.;Nincs elérhető információ az epizódhoz. [SM001]
+settings.network.lan.waiting;Connect your Ethernet cable to set up your network;Csatlakoztasd az Ethernet-kábelt
+notification.channel.offline;SV003: Sorry, this channel is unavailable;Ez a csatorna jelenleg nem elérhető. Kérjük, próbáld újra később!
+notification.player.videoUnavailable;SV002: Programme unavailable.;Ez a műsor nem játszható vissza. [SV002]
+notification.player.error;SV001: Error;Visszajátszási hiba [SV001]
+notification.recording.failed;SR007: Recording failed;Hiba a felvétel során. Kérjük, próbáld újra később! [SR007]
+notification.recording.notPossible;SR005: You can't record this.;A műsorrögzítés nem lehetséges. Ellenőrizd a rögzíthető programokat a Műsorújságban.
+notification.recording.notOnBarker;SR003: Sorry, you can't record this channel;A felvétel nem elérhető ezen a csatornán
+notification.seriesRecording.failed;SR002: Recording failed, try again.;Hiba a felvétel során. Kérjük, próbáld meg később! [SR002]
+popups.storage.title;SR001: Sorry, your storage is full;A felvétel nem lehetséges, a tárhely megtelt. Kérjük, törölj valamit a felvételeid közül!
+notification.player.noAntenna;SD001: No aerial signal found.;Nincs jel. Kérjük, ellenőrizd a kábel csatlakozását, és próbáld újra! [SD001]
+popups.playbackError.message;SC219: Please check your Wi-Fi or see vodafone.co.uk/tv;Visszajátszás megszakítva. <br/> Kérjük, ellenőrizd a routert, és próbáld újra! [SC218]
+popups.playbackError.title;SC218: Sorry, we can't find a connection;Megszakadt a Wi-Fi-kapcsolat. Ellenőrizd a routert, és próbáld meg újra!
+firstInstall.wifiNetworkErrorScreen.noIP;SC123: Please reboot your router and try again.;Nincs internetkapcsolat. Kérjük, ellenőrizd a routert, és próbáld újra! [SC123]
+firstInstall.wifiNetworkErrorScreen.wirelessKeyError;SC116: Your Wi-Fi password is wrong, please try again.;A Wi-Fi-jelszó nem megfelelő. Kérjük, próbáld újra!
+firstInstall.wiredNetworkScreen.noIP;SC013: You’re not connected to the internet – please try again.;Nincs internetkapcsolat.<br/> Kérjük, ellenőrizd a routert, és próbáld újra! [SC013]
+notification.epg.date.invalid;SC007: Invalid date;Érvénytelen dátum [SC007]
+notification.network.offline;SC005: Connnection lost.;A kapcsolat megszakadt. Kérjük, ellenőrizd az internetkapcsolatot! [SC005]
+settings.network.lan.noIP;SC002: You’re not connected to the internet – please try again.;Nincs internetkapcsolat.<br/>Kérjük ellenőrizd a routert, és próbáld újra! [SC002]
+firstInstall.wiredNetworkScreen.connectionLost.description;SC001: Your internet connection was lost.;A kapcsolat megszakadt.<br/>Kérjük, ellenőrizd a routert, és próbáld újra! [SC001]
+firstInstall.getHelpScreen.wired.title;Network;Internetkapcsolat
+notification.channel.notSubscribed;SB003: You’re not subscribed.;Kettőnél több készüléken próbálsz meg lejátszani, vagy nincs előfizetésed. [SB003]
+notification.purchase.failed;SB001: Purchase failed;A vásárlás sikertelen. Kérjük, próbáld újra! [SB001]
+settings.masterPin.doNotMatch;SA010: They don't match, please try again.;A PIN kódok nem egyeznek. Kérjük, próbáld újra! [SA010]
+popups.pinEntry.failed;SA007: Sorry, that was the wrong PIN. Please try again.;A PIN kód nem megfelelő. Kérjük, próbáld újra!
+continueWatching.noUsername;SA006: Unknown;Ismeretlen
+firstInstall.operatorPairingScreen.description.noPin;SA005: Please call us on 08080 034 515 to complete setup.;Az üzembehelyezést nem lehet befejezni. Kérjük, lépj kapcsolatba az Ügyfélszolgálattal! [SA005]
+notification.login.error;SA002: Sorry, login failed.;Nem lehet csatlakozni a szolgáltatáshoz. Kérjük, lépj kapcsolatba az Ügyfélszolgálattal! [SA002]
+pinEntry.unSuccessful;SA001: Wrong PIN;A PIN kód nem megfelelő. Kérjük, próbáld újra!
+firstInstall.pairingPinInputScreen.title;Welcome;Szia!
+firstInstall.remoteUnPairingScreen.description;To pair your TV box and remote, hold the 3 and yellow buttons together for 5 seconds, then repeat with the 1 and yellow buttons.;A távirányító és a Vodafone Mediabox párosításához kérjük tartsd lenyomva a 3-as és a sárga gombokat egyidejűleg 5 másodpercig, majd az 1-es és a sárga gombokat további 5 másodpercig.
+firstInstall.remotePairingScreen.description;To pair your TV box and remote, hold the 1 and yellow buttons together for 5 seconds. ;A távirányító és a Vodafone Mediabox párosításához kérjük, tartsd lenyomva<br/> az 1-es és a sárga gombokat egyidejűleg 5 másodpercig
+settings.remote.pairing;Remote pairing;Távirányító párosítása
+settings.remote.remotePairNewDevice.step0.description;To unpair your remote, hold the 3 and yellow buttons together for 5 seconds.;Kérjük, először tartsd lenyomva a 3-as és a sárga gombot egyidejűleg 5 másodpercig
+firstInstall.wiredNetworkScreen.description;Connect your Ethernet cable to set up your network.;Csatlakoztasd az Ethernet-kábelt a Vodafone Mediaboxból a routerbe
+settings.remote.batteryStatus.low;Your battery status is low.;Kérjük, helyezz be új elemeket
+settings.network.wifi;WiFi;Wi-Fi
+firstInstall.wiredNetworkFoundScreen.description;You're now connected.;Sikeres csatlakozás
+settings.remote.remotePairNewDevice.step1.description;To pair your TV box and remote, hold the 1 and yellow buttons together for 5 seconds.;Kérjük, tartsd lenyomva az 1-es és a sárga gombokat egyidejűleg 5 másodpercig
+firstInstall.pairingPinInputScreen.description;Something went wrong, sorry – please call us on 08080 034 515;Az üzembehelyezés befejezéséhez kérjük, vedd fel a kapcsolatot az Ügyfélszolgálattal!
+popups.reboot.title;Sorry, your box needs to reboot.;Kérjük, indítsd újra a Vodafone Mediaboxot!
+settings.powerSaving.autoStandbyTime.hint;Remember, increasing auto standby time will use more power.;Megjegyzés: az automatikus készenléti idő növelésével az eszköz több energiát fogyaszt
+popups.upgrade.misc;Your box will reboot;A Vodafone Mediabox hamarosan újraindul %1
+firstInstall.wiredNetworkScreen.title;Network;Internetkapcsolat
+settings.parentalPin.on;On;Bekapcsolás
+settings.parentalPin.off;Off;Kikapcsolás
+firstInstall.wiredNetworkSearchScreen.title;Network;Hálózat
+firstInstall.scanSummaryScreen.title;Channels scanned;Csatornák
+settings.termsAndConditions.view;Read our Ts&Cs;Jogi feltételek
+settings.parentalPinInit;Your default PIN is 1234. We recommend you choose a new one now.;A PIN kódokról további információ elérhető a következő honlapon: vodafone.hu/tv
+settings.network.lan.connected;Connected;Csatlakoztatva
+firstInstall.remotePairingScreen.title;Remote pairing;Távirányító párosítása
+firstInstall.wifiNetworkConnectingScreen.title;Network;Wi-Fi
+firstInstall.wifiNetworkSelectScreen.title;Network;Wi-Fi
+firstInstall.wifiKeyboardScreen.title;Network;Wi-Fi
+firstInstall.getHelpScreen.wifi.title;Network;Wi-Fi
+firstInstall.finishSetupScreen.title;Your devices;Eszközeid
+notification.recording.notAllow;Sorry, you can't record this programme;A felvétel nem lehetséges. Nincs előfizetésed
+settings.parentalAndPaiment;Payment & controls;Díjak és szabályok
+settings.audioAndVisual.screenResolution;Screen resolution;Képernyőfelbontás
+pinEntry.more;See more on PINs in Settings.;További információ: vodafone.hu/tv
+firstInstall.wifiNetworkFoundScreen.description;Your TV box is now connected to Wi-Fi.;Vodafone Mediabox <br/>csatlakoztatva
+settings.remote.remotePair;Pair;Párosítás
+settings.remote.remoteUnpair;Unpair;Párosítás megszüntetése
+firstInstall.getHelpScreen.channels.title;Channels;Csatornák
+settings.parentalControls.ageRating.info;Choosing PIN protection for age-rated programmes will also protect any recordings after 9pm.;
+rails.morefrom;More from;Még több %1
+firstInstall.startChannelsScanScreen.title;Channels;Csatornák
+settings.parentalAndPaiment.parentalPin;PIN;PIN kód
+settings.parentalPin;PIN;PIN kód
+firstInstall.wiredNetworkFoundScreen.title;You're connected;Csatlakoztatva
+firstInstall.wifiNetworkFoundScreen.title;You're connected;Wi-Fi csatlakoztatva
+keyboard.parentalPin.enter.placeholder;Please enter your new 4-digit PIN;Add meg az új négyjegyű PIN kódodat
+keyboard.parentalPin.reEnter.placeholder;Please re-enter your new 4-digit PIN;Add meg újra az új négyjegyű PIN kódodat
+settings.network.wps;WPS;WPS
+programInfo.actionButtons.moreRecordSeriesOptions;Record series;Sorozatrögzítés
+firstInstall.manualNetworkConfigurationScreen.title;Network;Hálózat
+common.help;Help;Segítség
+keyboard.wifi.password.placeholder;Enter WiFi password;Add meg a Wi-Fi-jelszavadat
+settings.masterPin.changed;Your PIN's changed;PIN kód megváltoztatva
+settings.systemConfigurations.ledBrightness;Brightness;LED fényerő
+settings.network.lan;LAN;LAN
+settings.ledBrightness;Brightness;LED fényerő
+settings.adjustBrightness;Adjust brightness;Fényerő módosítása
+change volume;Press +/- to change volume;A hangerő szabályozásához nyomd meg a  +/-  gombot
+firstInstall.helloScreen.title.foundAccount;Hi;Szia!
+firstInstall.startChannelsScanScreen.description;To set up your TV and radio channels, first make sure your TV aerial is connected.;A csatornakeresés az otthonodban elérhető <br/> TV- és rádiócsatornákat jeleníti meg.
+settings.audioDescription.off;Off;Kikapcsolás
+settings.subtitles.off;Off;Kikapcsolás
+settings.powerSaving.quickBoot.on;On;Bekapcsolva
+settings.powerSaving.quickBoot.off;Off;Kikapcsolva
+common.done;Done;OK
+firstInstall.remotePairingSuccessScreen.description;Your TV box is now paired with your remote.;A távirányító párosítva a <br/> Vodafone Mediabox-szal
+settings.recordings.boxSpace;Storage;Tárhely
+settings.remote.batteryStatus.view;View status;Az elem töltöttségének megtekintése
+programInfo.catchup.watch;Watch;Lejátszás
+programInfo.watch;Watch;Lejátszás
+badging.parentalLock.on;Parental lock on; Gyerekzár miatt zárolva (Beállítások/Gyerekzár)
+firstInstall.operatorPairingScreen.title;Please call us;Lépj kapcsolatba velünk!
+firmwareUpdate.description.countdown;Update starts in:;A Vodafone Mediabox újraindul: %1
+settings.masterPin.turnOff;PIN off;PIN kód kikapcsolás
+settings.masterPin.turnOn;PIN on;PIN kód bekapcsolás
+settings.masterPin.changePin;Change your PIN;PIN kód megváltoztatása
+settings.systemConfigurations.updates.upToDate;You already have the latest updates.;Nincs elérhető frissítés.
+settings.lockedChannels;Locked channels;Zárolt csatornák
+mytv.recordings;Recordings;Felvételek
+mytv.purchasesAndRentals;Purchases & rentals;Kölcsönzések
+programInfo.actionButtons.moreRecordOptions;Record episode;Rögzítés
+programInfo.actionButtons.buyLabel;Buy;Vásárold meg: %1
+programInfo.actionButtons.rentLabel;Rent;Kölcsönözd ki: %1
+programInfo.actionButtons.bought;Purchased;Megvásárolt
+programInfo.actionButtons.rented;Rented;Kölcsönzött
+badging.parentalLock.off;Parental lock off;Nem zárolt
+badging.recordable;Available to record;Rögzíthető műsor
+firstInstall.wifiNetworkSelector.joinOtherNetwork;Join other network;Csatlakozás másik hálózathoz
+firstInstall.buttons.getHelp;Get help;Segítség
+firmwareUpdate.description.inProgress;Updating now, please wait.;Türelmet kérünk, a Vodafone Mediabox frissítése folyamatban
+settings.masterPin.turnedOff;PIN off;PIN kód kikapcsolva
+settings.masterPin.turnedOn;PIN on;PIN kód bekapcsolva
+settings.parentalControls.lockedChannels;Lock channels;Csatornák zárolása
+settings.network.joinOtherNetwork;Join other network;Csatlakozás másik hálózathoz
+popups.wifi.buttons.getHelp;Get help;Segítség
+common.tryAgain;Try again;Újrapróbál
+firstInstall.remotePairingSuccessScreen.title;Now paired;Párosítva
+firstInstall.buttons.wifi;WiFi;Wi-Fi
+firstInstall.buttons.backToWifiList;Back to WiFi list;Vissza
+firstInstall.buttons.abort;Stop;Leállítás
+keyboard.wifi.ssid.placeholder;Enter network name:;Add meg a hálózat nevét:
+settings.masterPin.whats;See your PIN;Információ a PIN kódról
+settings.informations.OUI;OUI;OUI
+settings.informations.updateStatus;Last system software update:;Az utolsó szoftverfrissítés állapota
+settings.informations.chipID;ID;Azonosító
+settings.parentalControls.ageRating;Age rating;Korhatár besorolás
+settings.parentalControls.whats;See your PIN;Információ a PIN kódról
+settings.parentalControls.okay;Okay;OK
+settings.lockedChannels.permitted;Allowed;Engedélyezve
+settings.boxSpaceProgression;You're using %1% of your available space;A rendelkezésre álló órákból %1%  felhasználva
+settings.remote.itsPaired;Now paired;Párosítva
+popups.storage.buttons.buyMore;Buy more storage;További információk
+popups.settings.audioAndVisual.screenResolution;Save resolution?;Mented a beállításokat?
+rails.notitle;No title;Nincs cím
+badging.recording;Recording;Felvétel
+notification.seriesRecording.start;Schedule series recording;Sorozatrögzítés beállítása
+watch;Watch;Lejátszás: %1
+volume;Volume:;Hangerő
+Today;Today;Ma
+Tomorrow;Tomorrow;Holnap
+Yesterday;Yesterday;Tegnap
+locked;Locked;Zárolva
+mainMenu.myTV.title;MY TV;Műsoraim
+mainMenu.browse.title;ON DEMAND;FILMEK, SOROZATOK
+mainMenu.myTVCoverflow.title;Watch next;Lejátszás folytatása
+mainMenu.appsCoverflow.title;MY apps;Továbbiak megtekintése
+mainMenu.tvGuide.title;TV GUIDE;MŰSORÚJSÁG
+mainMenu.apps.title;APPS;ALKALMAZÁSOK
+mainMenu.search;Search;KERESÉS
+mainMenu.settings;Settings;BEÁLLÍTÁSOK
+mainMenu.allChannelsTvGuide.title;All channels;Összes csatorna
+common.noData;No information;Nincs elérhető információ
+common.noItem;No item;Nincs elérhető tartalom
+common.onNow;On now;Műsoron
+common.launchApp;Launch app;Indítás
+common.launch;Launch;Indítás
+common.onNext;On next;Utána
+common.onLater;On later;Később műsoron
+common.onTomorrow;On tomorrow;Holnap műsoron
+common.today;Today;Ma
+common.tomorrow;Tomorrow;Holnap
+common.yesterday;Yesterday;Tegnap
+common.continue;Continue;Folytatás
+common.popular;Popular;Népszerű
+common.cancel;Cancel;Visszavonás
+common.yes;Yes;Igen
+common.no;No;Nem
+common.skip;Skip;Átugrás
+common.notAvailable;Not available;Nem elérhető
+common.okay;Okay;OK
+common.noSynopsis;Synopsis unavailable;Összefoglaló nem érhető el
+common.channel;channel;Csatorna
+common.channels;channels;Csatorna
+language.eng;English;English
+language.fra;Français;Francais
+language.ita;Italiano;Italiano
+language.deu;Deutsch;Deutsch
+language.spa;Español;Español
+language.swe;Svenska;Svenska
+language.tur;Türk;Kiegészítő felirat
+liveScreen.noChannel;Channel unavailable;Csatorna nem elérhető
+date.format.smallday0;Sun;V
+date.format.smallday1;Mon;H
+date.format.smallday2;Tue;K
+date.format.smallday3;Wed;Sze
+date.format.smallday4;Thu;Cs
+date.format.smallday5;Fri;P
+date.format.smallday6;Sat;Szo
+date.format.day0;Sunday;Vasárnap
+date.format.day1;Monday;Hétfő
+date.format.day2;Tuesday;Kedd
+date.format.day3;Wednesday;Szerda
+date.format.day4;Thursday;Csütörtök
+date.format.day6;Saturday;Szombat
+date.format.smallmonth0;Jan;Jan.
+date.format.smallmonth1;Feb;Feb.
+date.format.smallmonth2;Mar;Márc.
+date.format.smallmonth3;Apr;Ápr.
+date.format.smallmonth4;May;Máj.
+date.format.smallmonth5;Jun;Jún.
+date.format.smallmonth6;Jul;Júl.
+date.format.smallmonth7;Aug;Aug.
+date.format.smallmonth8;Sep;Szept.
+date.format.smallmonth9;Oct;Okt.
+date.format.smallmonth10;Nov;Nov.
+date.format.smallmonth11;Dec;Dec.
+date.format.month0;January;Január
+date.format.month1;February;Február
+date.format.month2;March;Március
+date.format.month3;April;Április
+date.format.month4;May;Május
+date.format.month5;June;Június
+date.format.month6;July;Július
+date.format.month7;August;Augusztus
+date.format.month8;September;Szeptember
+date.format.month9;October;Október
+date.format.month10;November;November
+date.format.month11;December;December
+network.error.ssid.tooShort;Network name too short, please enter another one and try again.;A megadott hálózati név túl rövid. Kérjük, próbáld újra!
+network.error.password.tooShort;Password is too short, please enter another one with more digits and try again.;A megadott jelszó túl rövid. Kérjük, add meg újra!
+firstInstall.languageScreen.title;Language;Nyelv
+firstInstall.remoteUnPairingScreen.title;Remote pairing;Távirányító párosítása
+firstInstall.helpBar.toSelect;Choose;Válassz
+firstInstall.helpBar.toGoBack;Back;Vissza
+firstInstall.wifiNetworkSelectScreen.description;Press the WPS button on your TV box until the connection confirmation screen appears, or enter your Wi-Fi details:;Add meg a Wi-Fi adatait:
+firstInstall.wifiKeyboardScreen.ssid.description;Enter network name:;Add meg a hálózat nevét:
+firstInstall.wifiKeyboardScreen.password.description;Enter Wi-Fi password:;Add meg a jelszót:
+firstInstall.wifiNetworkSelector.searchAgain;Search again;Újrakeresés
+firstInstall.helloScreen.title.searchingAccount;One moment;Csatlakozás
+firstInstall.conflictedChannelsFoundScreen.title;Channels;Csatornák
+firstInstall.conflictedChannelsFoundScreen.description;Your aerial is picking up multiple regions for %1 %2. Please choose:;A<br/> %1 %2 csatorna több régióban elérhető. Kérjük válassz:
+firstInstall.resolveChannelConflictScreen.title;Channel %1;%1 csatorna
+firstInstall.resolveChannelConflictScreen.description;Please choose one of the following options:;Kérjük, válassz ki az alábbiak közül egyet:
+firstInstall.conflictResolutionConfirmScreen.title;Confirm channels;Csatornák megerősítése
+firstInstall.conflictResolutionConfirmScreen.description;Please confirm your chosen channels:;Kérjük, erősítsd meg a kiválasztott csatornákat:
+firstInstall.buttons.pairLater;Pair later;Párosítás később
+firstInstall.buttons.connect;Connect;Csatlakozás
+firstInstall.buttons.ethernet;Ethernet;Ethernet
+firstInstall.buttons.tryAgain;Try again;Újrapróbál
+firstInstall.buttons.tryAgainDHCP;Try again with DHCP;Újrapróbál (DHCP)
+firstInstall.buttons.connectWifi;Connect with WiFi;Csatlakozás Wi-Fi-n keresztül
+firstInstall.buttons.advanced;Advanced;Haladó
+firstInstall.buttons.continue;Continue;Folytatás
+firstInstall.buttons.next;Next;Következő
+firstInstall.buttons.confirm;Confirm;Megerősítés
+firstInstall.buttons.startScanning;Start scanning;Keresés indítása
+firstInstall.buttons.finishSetup;Finish setup;TV nézés
+firstInstall.buttons.skip;Skip;Kihagyás
+firstInstall.buttons.startWatching;Start watching;Lejátszás indítása
+firstInstall.buttons.autoSelect;Auto select;Automatikus kiválasztás
+firstInstall.buttons.customSelect;Custom select;Egyéni kiválasztás
+firstInstall.helpBar.help;Help;Segítség
+keyboard.masterPin.enter.placeholder;Please enter your new 4-digit PIN;Kérjük, add meg az új négyjegyű PIN kódodat
+keyboard.masterPin.reEnter.placeholder;Please re-enter your new 4-digit PIN;Kérjük, add meg újra a PIN kódodat
+keyboard.lockedChannels.placeholder;Channel number;Csatornaszám
+firmwareUpdate.title;Please wait while your box updates.;A Vodafone Mediabox frissítése, türelmet kérünk
+firmwareUpdate.buttonsBar.updateNow;Update now;Frissítés most
+settings.masterPin;PIN;PIN kód
+settings.masterPin.okay;Okay;OK
+settings.masterPin.changeMyPin;Change your PIN;PIN kód megváltoztatása
+settings.masterPin.whats.popup;Your default PIN is 1234;További információ elérhető a vodafone.hu/tv oldalon
+settings.parentalAndPaiment.paymentPin;PIN;PIN kód
+settings.recordings;Recordings;Felvételek
+settings.recordings.deleteAll;Delete all;Összes törlése
+settings.recordings.delete.dont;Don't delete all;Ne törölje az összeset
+settings.recordings.activate.dont;Don't activate;Ne aktiválja
+settings.recordings.autoDelete;Auto delete;Automatikus törlés
+settings.recordings.buySpace;Buy space;További információk
+settings.language;Language;Nyelv
+settings.accessibility;Accessibility;Kiegészítő lehetőségek
+settings.accessibility.audioDescription;Audio description;Audionarráció
+settings.accessibility.subtitles;Subtitles;Feliratok
+settings.termsAndConditions;Terms & conditions;Felhasználási feltételek
+settings.termsAndConditionsPageTitle;Terms & conditions;Felhasználási feltételek
+settings.systemConfigurations.network;Network;Hálózat
+settings.systemConfigurations.remote;Remote;Távirányító
+settings.systemConfigurations.tvChannels;TV channels;TV csatornák
+settings.systemConfigurations.audioAndVisual;Audio & visual;Hang- és képbeállítások
+settings.systemConfigurations.clockSettings;Clock settings;Órabeállítások
+settings.clockSettings.hourFormats.12;am / pm;de / du
+settings.clockSettings.hourFormats.24;24 hour;24 órás
+settings.systemConfigurations.updates;Updates;Frissítések
+settings.systemConfigurations.updates.updateAvailable;Software update available. Please wait a few minutes while your TV box restarts and installs the update.;Frissítés elérhető. Kérjük, várj néhány percig, míg a Vodafone Mediabox letölti a frissítést és újraindul.
+settings.systemConfigurations.information;Information;Információ
+settings.informations.buttons.general;General;Általános
+settings.informations.buttons.audioAndVideo;Audio & video;Hang- és képbeállítások
+settings.informations.buttons.tvQuality;TV quality;TV minőség
+settings.informations.title;Box information;Készülékinformáció
+settings.informations.brandName;Brand name;Márkanév
+settings.informations.modelName;Model name;Típusnév
+settings.informations.hardwareVersion;Hardware version;Hardververzió
+settings.informations.softwareVersion;Software version;Szoftververzió
+settings.informations.uiVersion;UI version;A felhasználói felület verziója
+settings.informations.updateDate;Last system software update:;Utolsó szoftverfrissítés
+settings.informations.epgData;EPG data;EPG-adatok
+settings.informations.householdID;Household ID;A háztartás azonosítója
+settings.informations.usedCapacityEMMC;Used/capacity eMMC;Felhasznált/Rendelkezésre álló eMMC
+settings.informations.usbBack;USB back;USB kimenet
+settings.informations.activeConnection;Active connection;Aktív kapcsolat
+settings.informations.ip;Current IP address;Jelenlegi IP-cím
+settings.informations.wired.mac;Ethernet MAC address;Ethernet MAC-cím
+settings.informations.wireless.mac;Wireless MAC address;Wi-Fi MAC-cím
+settings.informations.serialNumber;Serial number;Szériaszám
+settings.informations.router;Router;Router
+settings.informations.speedtest;Speed test;Sebességteszt
+settings.informations.operationalMode;Operational mode;Működési mód
+settings.informations.videoConnectionMode;Video connection mode;Videokapcsolat mód
+settings.informations.tvModel;TV model;TV típus
+settings.informations.audioConnectionMode;Audio connection mode;Audiocsatlakozási mód
+settings.informations.audioOutput;Audio output;Audiokimenet
+settings.informations.remoteControlMode;Remote control mode;Távirányító mód
+settings.informations.channelNameDVBT;Channel name (DVB-T);DTT csatorna neve
+settings.informations.frequency;Frequency;Frekvencia
+settings.informations.signalStrength;Signal strength;Jelerősség
+settings.informations.ber;BER;BER, bithiba-arány
+settings.informations.channelNameOTT;Channel name (over the top);Internetes TV-csatorna neve
+settings.informations.abr;ABR;ABR
+settings.informations.environment;Environment;Környezet
+settings.parentalControls;Parental controls;Gyerekzár
+settings.parentalControls.whats.popup;Your default PIN is 1234. When it’s turned on, you’ll be asked to enter it when you make payments and some settings changes like turning parental controls on/off.;A PIN kódod alapbeállítása %1, javasoljuk, hogy ezt változtasd meg. A PIN kódra szükséged lesz, ha vásárolni szeretnél vagy korhatáros tartalmat szeretnél megtekinteni, amikor a Gyerekzár be van kapcsolva.
+settings.lockedChannels.customise;Customise;Beállítások
+settings.lockedChannels.unlockAll;Unlock all;Összes feloldása
+settings.lockedChannels.locked;Locked;Zárolva
+settings.tvChannels.premiumChannels;Premium channels;Prémium csatornák
+settings.enterNewPin;Enter new PIN;Kérjük, add meg az új PIN kódodat
+settings.reEnterNewPin;Re-enter new PIN;Kérjük, add meg újra az új PIN kódodat
+settings.pinConfirmed;PIN confirmed;PIN kód megerősítve
+settings.ageRatings.universal;Universal;Univerzális
+settings.ageRatings.u;U;U
+settings.ageRatings.pg;PG;PG
+settings.ageRatings.12;12;12
+settings.ageRatings.15;15;15
+settings.ageRatings.18;18;18
+settings.ageRatings.off;Off;Kikapcsolás
+settings.network.searchAgain;Search again;Újrakeresés
+settings.network.wps.popup;Press the WPS button on your TV box, then on your router to automatically start pairing.;Kérjük, nyomd meg a WPS gombot előbb a Vodafone Mediaboxodon, majd a routereden
+settings.network.lan.connect;Connect;Csatlakozás
+settings.network.advanced;Advanced;Haladó
+settings.network.advanced.ipAddress;IP address;IP-cím
+settings.remote;Remote;Távirányító
+settings.remotePairing;Remote pairing;Távirányító párosítása
+settings.remote.batteryStatus;Battery status;Elemtöltöttség
+settings.remote.batteryStatus.fine;Your battery status is OK;Elemtöltöttség rendben
+settings.remote.batteryStatus.sheetTitleview;View status;Elemtöltöttség megtekintése
+settings.remote.batteryStatus.sheetSubtitleview;Battery status;Elemtöltöttség
+settings.remote.connectionType;Connection type;Kapcsolat típusa
+settings.remote.connectionType.IR;IR;IR
+settings.remote.connectionType.infrared;Infrared;Infravörös
+settings.remote.connectionType.RF;RF;RF
+settings.remote.connectionType.radioFrequency;Radio frequency;Rádiófrekvencia
+settings.tvChannels.autoScan;Auto scan;Automatikus keresés
+settings.tvChannels.startAutoScan;Start auto scan;Keresés indítása
+settings.tvChannels.stopAutoScan;Stop auto scan;Keresés leállítása
+settings.tvChannels.channelScan;Channel scan;Csatornakeresés
+settings.tvChannels.currentlyHave;You currently have:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Jelenlegi csatornák:<div class='halfSummary'>Szabadon fogható csatornák<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyFound;We've found:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Csatornák:<div class='halfSummary'>Szabadon fogható csatornák<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.weFound;We found:<div class='channelsSummary'><div>%1</div><div>Digital</div><div>%2</div><div>TV</div><div>%3</div><div>Radio</div></div>;Csatornák:<div class='halfSummary'>Szabadon fogható csatornák<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.autoSelect;Auto select;Automatikus kiválasztás
+settings.tvChannels.customSelect;Custom select;Egyéni kiválasztás
+settings.tvChannels.resolveConflict.description;Please confirm your chosen channel:;Melyik csatornát választod?
+settings.tvChannels.confirmConflictResolution.description;Please confirm your chosen channels:;Kérjük, erősítsd meg a kiválasztott csatornákat:
+mytv.watchnext;Watch next;Lejátszás folytatása
+mytv.allRecordings;All recordings;Összes felvétel
+mytv.scheduledRecordings;Scheduled recordings;Időzített rögzítések
+mytv.allScheduledRecordings;All scheduled recordings;Összes időzített rögzítés
+mytv.allPurchasesAndRentals;All rentals & purchases;Összes kölcsönzés
+mytv.wishlist;Record;Lejátszási lista
+mytv.allWishlist;Recordings;Összes lejátszási lista
+mytv.other;Others;Egyéb
+apps.apps;Apps;Alkalmazások
+apps.myApps;My apps;Alkalmazásaim
+apps.new;New;Újdonság
+apps.popular;Popular;Népszerű
+apps.education;Education;Oktatás
+search.searchResults;Search results;Keresési találatok
+search.noResults;No results;Nincs találat
+programInfo.airedOn;Aired on;Műsoron
+programInfo.related;Related;Kapcsolódó
+programInfo.recording.record;Record;Felvétel
+programInfo.actionButtons.watch;Watch;Lejátszás: %1
+programInfo.actionButtons.watchRecording;Watch your recording;Felvétel lejátszása
+programInfo.actionButtons.watchLive;Watch;Nézd élőben
+programInfo.actionButtons.recordOn;Record episode;Rögzítés
+programInfo.actionButtons.watchCatchup;Watch;Műsorvisszajátszó:
+programInfo.actionButtons.startOver;Restart;Újrakezdés
+programInfo.actionButtons.recordSeries;Record series;Sorozatrögzítés
+programInfo.actionButtons.cancelRecording;Cancel recording;Rögzítés leállítása
+programInfo.actionButtons.deleteRecording;Delete recording;Felvétel törlése
+programInfo.actionButtons.cancelRecordSeriesOn;Cancel series recording;Sorozatrögzítés leállítása
+programInfo.actionButtons.deleteRecordSeriesOn;Delete series recording;Sorozat törlése
+programInfo.actionButtons.protect;Protect recording;Felvétel védelme
+programInfo.actionButtons.unprotect;Unprotect recording;Felvétel védelmének törlése
+programInfo.actionButtons.trailer;Watch trailer;Előzetes megtekintése
+programInfo.actionButtons.thirdPartyApp;0,01;%1
+programInfo.actionButtons.wishlist.remove;Remove;Eltávolítás a Lejátszási listáról
+programInfo.actionButtons.wishlist.add;Schedule record;Hozzáadás a Lejátszási listához
+programInfo.actionButtons.watchContent;Watch %1;Lejátszás: %1
+programInfo.actionButtons.buy;Buy;Vásárlás
+programInfo.actionButtons.rent;Rent;Kölcsönzés
+programInfo.actionButtons.confirm4K;Your current resolution is not 4K. To watch 4K content your TV must be 4K-ready. Are you sure you want to continue?;A tévéd nem 4K (Ultra HD)-képes. Folytatni szeretnéd ennek ellenére?
+minutes.acronym;mins;perc
+minute.acronym;min;perc
+settings.audioAndVisual.audioOutput;Audio output;Audiokimenet
+settings.audioAndVisual.audioOutput.stereo;Stereo;Sztereó
+settings.audioAndVisual.audioOutput.dolbyAudio;Dolby Audio;Dolby Audio
+settings.audioAndVisual.hdmiAudioOutput;HDMI audio output;HDMI-audiokimenet
+settings.audioAndVisual.on;On;Bekapcsolás
+settings.audioAndVisual.off;Off;Kikapcsolás
+settings.audioAndVisual.screenResolution.576p;576p;576p
+settings.audioAndVisual.screenResolution.720p;720p;720p
+settings.audioAndVisual.screenResolution.1080p;1080p;1080p
+settings.audioAndVisual.screenResolution.4k;4K;4K
+settings.systemConfigurations.powerSaving;Power;Energiatakarékos üzemmód
+settings.powerSaving.quickBoot;Power saving mode;Energiatakarékos üzemmód
+settings.powerSaving.autoStandbyTime;Auto standby time;Automatikus készenléti üzemmód
+settings.powerSaving.autoStandbyTime.3h;3 hours;3 óra
+settings.powerSaving.autoStandbyTime.6h;6 hours;6 óra
+settings.powerSaving.autoStandbyTime.12h;12 hours;12 óra
+settings.powerSaving.autoStandbyTime.off;Off;Kikapcsolás
+settings.conflictedChannelsFoundScreen.description;Your aerial is picking up multiple regions for <insert>. Please choose an option:;A<strong>%1 %2</strong> csatorna több régióban elérhető. Kérjük válassz:
+popups.powerSaving.buttons.cancel;Cancel standby;Készenlét mód elvetése
+popups.powerSaving.buttons.adjust;Change auto standby;Készenléti idő megváltoztatása
+network.ipAddress;IP address;IP-cím
+network.subnetMask;Subnet mask;Alhálózati maszk
+network.defaultGateway;Default gateway;Alapértelmezett átjáró
+network.primaryDNS;Primary DNS;Elsődleges DNS
+network.secondaryDNS;Secondary DNS;Másodlagos DNS
+serieInfo.recordEpisode;Record episode;Műsor rögzítése
+serieInfo.recordSeries;Record series;Sorozatrögzítés
+serieInfo.season;Season;SOROZAT
+popups.upgrade.buttons.updateNow;Update now;Frissítés most
+popups.reboot.buttons.rebootNow;Reboot now;Újraindítás most
+popups.wifi.buttons.tryAgain;Try again;Újrapróbál
+popups.storage.misc;0;0
+popups.storage.buttons.manage;Manage my recordings;Felvételeim kezelése
+popups.storage.buttons.enableAutoDelete;Enable auto delete;Automatikus törlés engedélyezése
+popups.continueWatching.buttons.next;Next episode;Következő epizód
+popups.continueWatching.buttons.startOver;Restart;Újrakezdés
+popups.maintenance.message;An update is scheduled for your TV box;A Vodafone Mediaboxra időzítve van egy frissítés.
+maintenance.wait;Update in progress, please wait.;Kérjük várj…
+rails.more;More;Tovább
+rails.moretitle;More %1;Még több %1
+rails.bucketMore;See more;Még több
+badging.expires;Expires from %1 in %2 days;%1 lejár %2 napon belül
+badging.recorded;Recorded;Rögzítve
+badging.protected;Protected recording;Védett felvétel
+badging.subtitles;Subtitles available;Felirat elérhető
+badging.audioDescription;Audio description available;Audionarráció elérhető
+badging.wishList;Scheduled record;Hozzáadva a Lejátszási listához
+badging.catchUp;Catch up;Lejátszás most
+badging.airsOn;Airs on %1;Kezdődik
+notification.recording.delete;Recording deleted;Felvétel törölve
+notification.recording.cancel;Recording cancelled;Időzített rögzítés leállítva
+notification.recording.scheduled;Recording scheduled;Rögzítés beállítva
+notification.seriesRecording.cancel;Series record cancelled;Sorozatrögzítés leállítása
+notification.seriesRecording.delete;Series record deleted;Sorozat törölve
+notification.recording.protect;Recording protected;Felvétel védve
+notification.network.online;You're connected;Vodafone Mediabox csatlakoztatva
+notification.purchase.success;Purchase made;Sikeres vásárlás
+notification.login.emptyToken;Empty token;Üres token
+notification.battery.low;Your TV remote batteries are low, please replace them.;Cserélj elemet a Vodafone Mediabox távirányítójában
+settings.warning.popup.parentalControlEnable;Turning on parental controls will enable your TV PIN. Are you happy to continue?;Kérjük, erősítsd meg a PIN kódodat, mely így aktiválásra kerül (további információ: vodafone.hu/tv )
+settings.ledBrightness.medium;Medium;Közepes
+programInfo.actionButtons.moreWatchOptions;More options;Lejátszási opciók
+notification.recording.unprotect;Unlocked - you can now record;Felvétel védelme törölve
+common.confirm;Okay?;Rendben
+keyboard.search.placeholder;Start searching;Keresés indítása
+settings.warning.popup.masterPinDisable;Turning off your PIN will also turn off parental controls. Are you happy to continue?;A PIN kód feloldásával kikapcsolod a Gyerekzárat is. Folytatod a műveletet?
+settings.network.wifi.waiting;Connecting to your Wi-Fi network;Csatlakozás a Wi-Fi hálózathoz ...
+settings.tvChannels.abortingAutoScan;Stopping;Leállítás
+settings.audioDescription.on;Turn on;Bekapcsolás
+settings.subtitles.on;Turn on;Bekapcsolás
+popups.powerSaving.message;Vodafone TV will go into standby mode in %1s;A Vodafone Mediabox néhány másodpercen belül készenléti üzemmódra vált
+firstInstall.languageScreen.description;Choose your language;Nyelv kiválasztása
+settings.parentalControls.changeMyPin;Change PIN;PIN kód megváltoztatása
+settings.parentalControls.changedPin;Your PIN has changed;PIN kód megváltozott
+settings.ledBrightness.high;High;Magas
+settings.informations.buttons.connectivity;Internet;Internet
+settings.ledBrightness.low;Low;Alacsony
+settings.remote.remotePairNewDevice;Pair remote;Távirányító párosítása
+settings.channelScan.auto;Scan;Keresés
+settings.powerSaving.quickBoot.hint;Turn power saving mode off for faster setup;A gyorsabb indításért kapcsold ki az energiatakarékos üzemmódot
+firstInstall.helloScreen.description.searchingAccount;Logging in to your Vodafone TV account;Csatlakozás a Vodafone-fiókodhoz
+settings.systemConfigurations.subtitle;System info;Rendszerinformáció
+settings.network.advanced.configureIpAddress;Manual setup;Kézi beállítás
+popups.continueWatching.misc;Continue watching: starting in %1;A műsor hamarosan kezdődik: %1
+firstInstall.buttons.manualIPConfig;Manual IP setup;Manuális IP-beállítás
+settings.systemConfigurations;More settings;További Beállítások
+settings.systemConfigurations.factoryReset;Reset;Alaphelyzetbe állítás
+settings.informations.buttons.remoteControl;Remote;Távirányító
+settings.network.advanced.waiting;Connecting your IP address to your TV box;Csatlakozás a Vodafone Mediaboxhoz
+popups.reboot.misc;Reboot in %1;Újraindítás: %1
+notification.recording.start;Recording;Rögzítés folyamatban
+date.format.day5;Friday;Péntek
+firstInstall.helloScreen.description.foundAccount;Nearly done;Majdnem kész
+firstInstall.wifiNetworkConnectingScreen.description;Connecting to your Wi-Fi network;Csatlakozás a Wi-Fi hálózathoz
+settings.network.advanced.dhcp;Auto setup;Automatikus beállítás
+settings.remote.remotePairNewDevice.step0.failed.description;Sorry, you pressed the wrong buttons: press and hold the 3 and yellow buttons together for 5 seconds.;Kérjük, próbáld újra! Tartsd lenyomva egyidejűleg a 3-as és a sárga gombokat 5 másodpercig
+change language;Change language;Nyelv megváltoztatása
+firstInstall.manualNetworkConfigurationScreen.description;Please enter your network details using the number keys.;Add meg a hálózati adatokat
+settings.premiumChannels.hide;Hide;Elrejtés
+settings.premiumChannels.show;Show;Megjelenítés
+pinEntry.parentalPinCode;Enter your PIN;PIN megadása
+settings.remote.remotePairNewDevice.step2.description;Great, your remote is now paired;Távirányító sikeresen párosítva
+pinEntry.masterPinCode;Enter your PIN;PIN megadása
+settings.recordings.deleteAllQuestion;Are you sure you want to delete all recordings?;Biztos, hogy törölni szeretnéd az összes felvételt?
+settings.recordings.autoDeleteQuestion;Are you sure you want to activate the auto delete feature?;Biztos, hogy automatikusan törölni szeretnéd az összes felvételt?
+pinEntry.successful;PIN confirmed;PIN kód megerősítve
+popups.upgrade.title;Software upgrade about to start;Vodafone Mediabox frissítése hamarosan elkezdődik
+firstInstall.getHelpScreen.channels.description;Once your TV aerial is connected, start scanning for channels.;Kérjük, ellenőrizd az antennakábelt<br/>és kezdj el csatornákat keresni
+settings.systemConfigurations.factoryReset.popup;<p>Are you sure you want to restore to factory settings? This will delete any customised settings.<br/>Don't worry, your recordings won't be deleted.</p>;<p>Biztosan vissza szeretnéd állítani a gyári beállításokat? Ez esetben az igényeidnek megfelelően újra be kell állítanod a Vodafone Mediaboxot, például a csatorna sorbarendezést, elrejtést. <br/>Ne aggódj, a felvételeid nem vesznek el!</p>
+firstInstall.wiredNetworkSearchScreen.manual.description;Trying to connect;Csatlakozás megkísérlése
+firstInstall.wiredNetworkSearchScreen.description;Please make sure your Ethernet cable is plugged in.;Kérjük, győződj meg róla, hogy az<br/>Ethernet-kábel<br/> csatlakoztatva van
+firstInstall.getHelpScreen.wifi.description;You'll find the answers to lots of questions at vodafone.co.uk/tv;További segítség elérhető a <br/>vodafone.hu/tv oldalon
+firstInstall.getHelpScreen.wired.description;You'll find the answers to lots of questions at vodafone.co.uk/tv;További segítség elérhető a <br/>vodafone.hu/tv oldalon
+firstInstall.remotePairLaterScreen.description;If you can't pair your remote now, don't worry – you can always pair it later and it'll still work in the meantime when you point it at the box.;A távirányító párosítását a későbbiekben<br/> a Beállítások menüpont alatt is elvégezheted,<br/>így nem lesz szükséges a távirányítót a <br/>Vodafone Mediabox felé irányítani
+settings.network.noInternet;;Nincs internetkapcsolat. Kérjük, ellenőrizd a routert, és próbáld újra!
+firstInstall.wifiNetworkErrorScreen.noLink;;A Wi-Fi kapcsolat megszakadt. Kérjük, ellenőrizd a routeredet és próbáld újra! [SC106]
+settings.network.lan.noLink;;Ethernet-kábel nem érzékelhető. Kérjük, csatlakoztasd a kábelt megint, majd próbáld újra! [SC022]
+firstInstall.wiredNetworkScreen.noLink;;Az Ethernet-kábel nem érzékelhető. Kérjük, csatlakoztasd a kábelt megint, majd próbáld újra! [SC021]
+notification.network.error;;Csatlakozási hiba. Kérjük, ellenőrizd az internetkapcsolatot! [SC014]
+programInfo.rentalExpiresOn;;A kölcsönzés lejár: %1
+Available to Purchase;;Megvásárolható
+Smart TV FTU UDID;;UDID: %1
+adult.hidden.description;;Gyerekzárral ellátott tartalom
+adult.hidden.title;;Rejtett tartalom
+adult.visible.title;;Felnőtt tartalom
+advertising.notification.description;;A lejátszás automatikusan folytatódik a reklám után
+advertising.notification.personalizedAds.cannotWatch.description;;Ennek a tartalomnak a megtekintéséhez el kell fogadnod a személyre szabott reklámokat.
+advertising.notification.personalizedAds.cannotWatch.title;;Személyre szabott reklámok
+advertising.notification.personalizedAds.optIn;;A személyre szabott reklámok elvetéséhez menj a Beállítások/Adatkezelés/3. feles adatkezelési hozzájárulás menüpontba.
+advertising.notification.personalizedAds.optOut;;A személyre szabott reklámok beállításához menj a Beállítások/Adatkezelés/3. feles adatkezelési hozzájárulás menüpontba.
+advertising.notification.title;;Reklám szünet
+advertising.overlay.count;;%2 %1 reklám
+alexa.EnablewithoutSetup.text;;
+alexa.EnablewithoutSetup.title;;
+alexa.alexaDisableScreen.cancelButton;;Elvet
+alexa.alexaDisableScreen.confirmButton;;Megerősít
+alexa.alexaDisableScreen.text;;Nem fogod tudni az Alexát használni ezzel az eszközzel.
+alexa.alexaDisableScreen.title;;Amazon Alexa kikapcsolása?
+alexa.alexaSettignDefaultScreen.buttonSetUp;;Alexa beállítás
+alexa.alexaSettingDefaultScreen.buttonLanguage;;Alexa nyelv
+alexa.alexaSettingDefaultScreen.buttonSignout;;Kijelentkezés
+alexa.alexaSettingDefaultScreen.buttonTermsAndConditions;;Felhasználási feltételek
+alexa.alexaSetupScreen.description;;Válaszd a Kód frissítést, ha problémád van a kapott kóddal és próbáld újra
+alexa.alexareadyscreen.ia.information;;Ahhoz, hogy további funkciókat érj el, mint zene, időjárás, okos otthon vezérlés, menj a <span>Beállítások>Hangvezérlés>Amazon Alexa</span> menübe bármikor, hogy csatlakoztasd az Amazon fiókodat.
+alexa.alexareadyscreen.ia.term1;;"""Alexa, emeld a hangerőt"""
+alexa.alexareadyscreen.ia.term2;;"""Alexa, mutass akció filmeket"""
+alexa.alexareadyscreen.ia.term3;;"""Alexa, mi megy ma a tévében?"""
+alexa.alexareadyscreen.information;;
+alexa.alexareadyscreen.subtitle;;Nyomd meg és tartsd nyomva a mikrofon gombot, majd próbáld mondani a következőket:
+alexa.alexareadyscreen.term1;;"""Alexa, vedd fel a hangot"""
+alexa.alexareadyscreen.term2;;"""Alexa, mutasd a hétvégi időjárást"""
+alexa.alexareadyscreen.term3;;"""Alexa, mi a hír a sportjaimról?"""
+alexa.alexareadyscreen.term4;;"""Alexa, keress akciófilmeket"""
+alexa.alexareadyscreen.term5;;"""Alexa, játsz le pop zenei klippeket"""
+alexa.alexareadyscreen.vsb.information;;
+alexa.alexareadyscreen.vsb.subtitle;;A készülékeden csak kezdd el mondani, hogy:
+alexa.alexareadyscreen.vsb.term1;;
+alexa.alexareadyscreen.vsb.term2;;
+alexa.alexareadyscreen.vsb.term3;;
+alexa.alexareadyscreen.vsb.term4;;
+alexa.alexareadyscreen.vsb.term5;;
+alexa.alexareadyscreen.vsb.term6;;
+alexa.authError;;Valami hiba történt. Kérjük, próbáld újra
+alexa.card.canDoMore;;Az Alexa többre képes
+alexa.card.connect;;Csatlakoztat
+alexa.card.connectAmazonAccount;;Csatlakozz Amazon fiókoddal az időjárásjelentéshez, az okos otthon vezérléshez és a többi funkcióért.
+alexa.defaultScreen.description;;Az Alexa használatával a hangoddal kereshetsz és indíthatsz el filmeket és TV műsorokat, tehetsz fel kérdéseket, ellenőrizheted az időjárást, játszhatsz le zenét, vezérelheted okos otthonodat és még sok minden más.
+alexa.defaultScreen.subDescription;;Az Amazon az Amazon interakciókat felhőben dolgozza fel. Az Alexa engedélyezésével minden szerződési és felhasználási feltételt elfogadsz. Az Alexa szerződési és felhasználási feltételeiről többet az alábbi linken tudhatsz meg
+alexa.defaultscreen.buttonDisable;;Kikapcsolás
+alexa.defaultscreen.buttonSigneIn;;Lépj be az Alexa-ba
+alexa.defaultscreen.buttonTermOfUse;;Felhasználási feltételek
+alexa.defaultscreen.devicename;;Eszköz név
+alexa.defaultscreen.signedInAs;;Fiók csatlakoztatása
+alexa.enablePopup.title;;Engedélyezni szeretnéd a hang vezérlést?
+alexa.enableWithoutSetup.ok;;Próbál ki Alexát
+alexa.enablevoicesubMsg;;A hang vezérlés a távirányítódon még nincs engedélyezve
+alexa.errorScreen.button.retry;;
+alexa.isReadyTitle;;Alexa készen áll
+alexa.notification.signout.body;;később ismét bekapcsolhatod a beállításoknál
+alexa.notification.signout.header;;Alexa kikapcsolva
+alexa.popup.tryAlexa.title;;Próbáld ki az Alexat regisztráció nélkül
+alexa.setUpScreen.Goto;;Látogasd meg: 
+alexa.setUpScreen.description;;telefonodon vagy számítógépeden vidd be ezt a kódot 
+alexa.setUpScreen.later;;Később végzem el
+alexa.setUpScreen.refreshCode;;Kód frissítés
+alexa.setUpScreen.title;;Csatlakoztasd Amazon fiókodat
+alexa.termandConditionScreen.title;;Felhasználási feltételek
+alexa.termsOfUseScreen.title;;Alexa felhasználási feltételek
+apps.myApps.add.added;;Hozzáad
+apps.myApps.add.titleAppAdd;;Alkalmazásaim
+apps.myApps.add.titleAppAddDescription;;%1 alkalmazás sikeresen hozzáadva
+apps.myApps.add.titleAppRemove;;Alkalmazásaim
+apps.myApps.add.titleAppRemoveDescription;;%1 alkalmazás sikeresen törölve
+apps.myApps.add.titleMaxDescription;;Kérjük, hogy távolíts el a Kedvencekből alkalmazást, hogy újat adhass hozzá
+apps.myApps.add.titleMaxLimit;;Alkalmazásaim
+apps.myApps.delete.remove;;Eltávolít
+apps.myApps.reorder.moved;;Áthelyez
+apps.rail.recentApps;;Nemrég használt alkalmazások
+badging.acronym.audioDescription;;AD
+badging.acronym.closedCaption;;CC
+badging.acronym.signLanguage;;SL
+badging.acronym.subtitles;;F
+badging.airsNow;;Műsoron
+badging.airsOnDateAndTime;;Műsoron
+badging.availableToPurchase;;Megvásárolható
+badging.availableToPurchaseAndExpiration;;%1 napos kölcsönzés elérhető a következő naptól: %2
+badging.availableToSubscribe;;Előfizethető
+badging.failedOn;;Meghiúsult
+badging.partiallyRecordedOn;;Részleges felvétel folyamatban
+badging.purchased;;Megvásárolt
+badging.recordableEpisode;;Epizód hozzáadása a rögzítési listához
+badging.recordableSeries;;Minden epizód hozzáadása a rögzítési listához
+badging.recordedOn;;Rögzítve
+badging.recordingNow;;Rögzítés folyamatban
+badging.recordingScheduled;;Időzített rögzítés
+badging.scheduled;;Időzített rögzítés
+badging.subscribed;;Előfizetésed keretében megtekinthető
+badging.subscribedTo;;Része a %1 csomagodnak
+badging.upcomingCatchUp;;Hamarosan elérhető a Műsorvisszajátszón
+bluetooth.fullplayer.audioprofile;;Audio profil
+bluetooth.fullplayer.collapse;;Kibont
+bluetooth.fullplayer.connected;;Csatlakoztatva
+bluetooth.fullplayer.exit;;Kilépés
+bluetooth.fullplayer.unknownTrackAlbum;;Ismeretlen album
+bluetooth.fullplayer.unknownTrackArtist;;Ismeretlen előadó
+bluetooth.fullplayer.unknownTrackTitle;;Ismeretlen szám
+bluetooth.popup.buttons.connect;;Csatlakoztat
+bluetooth.subtitle;;Megerősít?
+bluetoothConnect.subtitle;;Érvényesít?
+bluetoothConnect.title;;Engedélyezni akarod a hang vezérlést?
+bluetoothConnection.title;;Csatlakoztatva leszel ehhez az eszközhöz
+bluetoothDisconnect.title;;Válaszd ki, mit szeretnél tenni
+buttons.filesFormat.3d;;3D
+buttons.filesFormat.4K;;UHD
+buttons.filesFormat.HD;;HD
+buttons.filesFormat.SD;;SD
+cableRegio.scanSummary.description.success;;%1 csatorna találat:<br/>%2 Internetes %3 Kábel %4 Rádio
+cableRegio.scanSummary.title;;Csatorna keresés eredménye
+cancelMultipleSeries.popup.subtitle;;Ezt a lépést nem vonhatod vissza.
+cancelMultipleSeries.popup.title;;Biztos, hogy el akarod vetni a %1 rögzítését?
+cancelSeries.subtitle;;Biztos vagy benne?
+cancelSeries.title;;Törlöd a sorozat rögzítését?
+channelScan.completed;;Csatornakeresés befejeződött
+channelScan.error;;Hiba a csatornakereséssel
+clashManagementScreen.availableAsCatchup;;Elérhető visszajátszásra
+clashManagementScreen.recording;;Felvétel %1
+clashManagementScreen.repeatsOn;;Ismétel %1
+clashManagementScreen.reschedule;;Átütemez
+clashManagementScreen.subtitle;;Ahhoz, hogy felvedd a következőt: %1 , válassz az alábbi opciók közül
+clashManagementScreen.title;;Túl sok helyi felvételed van
+common.back;;Vissza
+common.blockedContent;;
+common.browseAll;;
+common.buyStorage;;További információk
+common.deselectAll;;Összes kijelölésének törlése
+common.disconnect;;Leválaszt
+common.hideAll;;Összes elrejtése
+common.min;;%1 perc
+common.noThanks;;Nem, köszönöm
+common.other;;Egyéb
+common.reorder;;Újra rendezés
+common.searchOn;;Keresés bekapcsolása
+common.selectAll;;Összes kijelölése
+common.showAll;;Összes megjelenítése
+common.subscribe;;Előfizetés
+common.tvGuide;;TV műsor
+common.unpair;;Párosítás megszüntetése
+common.welcomeTo;;Üdvözlünk!
+continueWatching.household;;Vodafone Mediabox
+date.format.duration.day;;nap
+date.format.duration.days;;nap
+date.format.duration.hour;;óra
+date.format.duration.hours;;óra
+date.format.duration.minute;;perc
+date.format.duration.minutes;;perc
+date.format.duration.month;;hónap
+date.format.duration.months;;hónap
+date.format.duration.second;;másodperc
+date.format.duration.seconds;;másodperc
+date.format.duration.short.hours;;ó
+date.format.duration.short.minutes;;p
+date.format.duration.short.seconds;;mp
+date.format.duration.year;;év
+date.format.duration.years;;év
+deleteMultipleSeries.popup.protectedSubtitle;;%1 levédett felvételt is kiválasztottál. Így is törölni szeretnéd őket?
+deleteMultipleSeries.popup.subtitle;;Ezt a lépést nem vonhatod vissza.
+deleteMultipleSeries.popup.title;;Epizód törölve. Törlöd a sorozat többi ( %1 ) epizódját is?
+deleteSeries.delete;;Sorozat törlése
+deleteSeries.subtitle;;Biztosan törlöd?
+deleteSeries.title;;Sorozat törlése
+deleteSingleSeries.popup.subtitle;;Szeretnéd az egész sorozatot törölni, vagy más epizódokat is?
+deleteSingleSeries.popup.title;;Epizód törölve
+detailsConfirmPurchaseScreen.audioTitle;;Audio
+detailsConfirmPurchaseScreen.detailsTitle;;Részletek
+detailsConfirmPurchaseScreen.subtitlesTitle;;Felirat
+epg.adultProgram.hidden.description;;A műsor lejátszásához a Gyerekzár PIN kódja szükséges. Ha ezen változtatni szeretnél, a Beállításokban megteheted
+epg.adultProgram.hidden.name;;Rejtett műsor
+epg.adultProgram.hidden.subtitle;;A lejátszáshoz változtasd meg a Gyerekzár beállításokat
+epg.adultProgram.locked.description;;A műsor lejátszásához a Gyerekzár PIN kódja szükséges. Ha ezen változtatni szeretnél, a Beállításokban megteheted
+epg.adultProgram.locked.name;;Zárolva
+epg.allChannels;;Minden csatorna
+epg.channel.locked.name;;Zárolva
+epg.filters.all;;Összes
+epg.filters.allChannels;;Összes csatorna
+epg.filters.hdchannels;;HD csatornák
+epg.filters.juststarted;;Most kezdődött
+epg.filters.mostWatched;;Legtöbbet nézett
+epg.filters.subscribedChannels;;Előfizetett csatornák
+epg.filters.title;;Válaszd ki a csatornaszűrőt
+epg.program.locked.description;;A műsor lejátszásához a Gyerekzár PIN kódja szükséges. Ha ezen változtatni szeretnél, a Beállításokban megteheted
+epg.summary.duration;;Időtartam
+epg.summary.origin;;Származási hely
+epg.summary.releaseDate;;Megjelenés dátuma
+error.actionNotAllowed;;Nem sikerült végrehajtani az utasítást
+error.default;;Hiba történt
+error.mdw.network.configurationGetFailed;;Hiba a hálózati konfiguráció olvasásában.
+error.mdw.network.configurationSetFailed;;Hiba a hálózati konfiguráció olvasásában írásában.
+error.netflix.esn;;Netflix ESN érvénytelen
+error.player.broadcast.cannotResolve;;Az IP-csatorna URI-jének feloldása sikertelen
+error.player.broadcast.cannotTune;;A kívánt adatfolyamra hangolás sikertelen.
+error.player.broadcast.channelChangeInterrupted;;Csatornaváltás megszakítva
+error.player.broadcast.channelNotFound;;A megjelölt csatorna nem található az adatfolyamban
+error.player.broadcast.channelNotSupported;;Tuner által nem támogatott csatorna
+error.player.broadcast.channelParentalLock;;Gyerekzár a csatornán
+error.player.broadcast.channelRecordingOngoing;;Felvétel történik, csatornaváltás zárolva.
+error.player.broadcast.encryptedChannel;;Titkosított csatorna vagy hiányzó kulcs/modul
+error.player.broadcast.insufficientBandwidth;;Nem elegendő sávszélesség
+error.player.broadcast.insufficientResources;;A csatorna megjelenítéséhez nem áll rendelkezésre elegendő erőforrás
+error.player.broadcast.tunerLocked;;Más objektum zárolta a tunert.
+error.player.broadcast.unknownChannel;;Ismeretlen csatorna
+error.player.broadcast.unrealized;;Csatornaváltás nem lehetséges
+error.player.oipf.connectionLost;;A kiszolgálóhoz történő kapcsolódás sikertelen vagy megszakadt a kapcsolat.
+error.player.oipf.corrupt;;Hibás vagy érvénytelen tartalom
+error.player.oipf.format;;A/V formátum nem támogatott
+error.player.oipf.insufficientResources;;Nem elérhető elegendő erőforrás
+error.player.oipf.positionUnavailable;;Tartalom nem elérhető az adott helyen
+error.player.oipf.unavailable;;Tartalom nem elérhető
+error.player.unidentified;;Ismeretlen lejátszási hiba
+error.purchase.er.PPVPurchased;;Pay per view vásárlás
+error.purchase.er.accountNotValid;;Érvénytelen fiók
+error.purchase.er.collectionPurchased;;Megvásárolt összeállítás
+error.purchase.er.configNotFound;;Ismeretlen konfiguráció
+error.purchase.er.couponNotValid;;Kupon nem érvényes
+error.purchase.er.free;;Ingyenes
+error.purchase.er.incorrectPrice;;Helytelen ár
+error.purchase.er.insufficientFunds;;Nem elegendő egyenleg
+error.purchase.er.invalidUser;;Érvénytelen felhasználónév
+error.purchase.er.notInDomain;;Felhasználó nem található a tartományban
+error.purchase.er.notPurchasable;;Nem vásárolható meg
+error.purchase.er.pgChargeIDRequired;;Fizetési felülethez tartozó azonosító szükséges
+error.purchase.er.pgNoResponse;;A fizetési felület nem válaszol
+error.purchase.er.pgNotExist;;Nem létezik fizetési felület
+error.purchase.er.pgNotSet;;A fizetési felület nincs beállítva számodra
+error.purchase.er.pgUnknownResponse;;Ismeretlen válasz érkezett a fizetési felületről
+error.purchase.er.retryLimitExceeded;;Nincs lehetőség további próbálkozásra
+error.purchase.er.signatureMismatch;;Nem egyező aláírás
+error.purchase.er.subscriptionOnly;;Vásárlás csak előfizetéssel lehetséges
+error.purchase.er.subscriptionPurchased;;Sikeres előfizetés
+error.purchase.er.unknownPPV;;Ismeretlen pay per view modul
+error.purchase.er.unknownReason;;Hiba oka ismeretlen
+error.purchase.er.unknownTransactionState;;Ismeretlen tranzakciós állapot
+error.purchase.er.unknownUser;;Ismeretlen felhasználó
+error.purchase.er.userNotExist;;A felhasználó nem létezik
+error.purchase.er.userSuspended;;A felhasználó felfüggesztésre került
+error.purchase.unidentified;;Ismeretlen hiba a vásárlás során
+error.token.store.failed;;Hiba lépett fel a Hitelesítési tokenek tárolása során
+error.userAccountSuspended;;A fiókodat felfüggesztettük 
+error.userActionSuspended;;A fiókodat felfüggesztettük
+explanatoryCard.localQuotaLimit.info;;A helyi tárhelyed majdnem megtelt. <br/>%1 szabad hely maradt.
+explanatoryCard.localQuotaLimit.statusContent;;Helyi felvételek kezelése
+explanatoryCard.localQuotaLimit.title;;A helyi tárhelyed majdnem megtelt.
+explanatoryCard.mytv.external.myTVRecommendations;;Itt Személyes ajánlót találsz az élő műsorok köréből az általad nézett és rögzített tartalmak alapján.
+explanatoryCard.mytv.purchasesAndRentals;;Kölcsönözz a Filmtár filmek közül és nézd meg őket itt!
+explanatoryCard.mytv.recommendations;;Itt találod a Neked ajánlott tartalmakat
+explanatoryCard.mytv.recommendations.recommendationsOptIn;;Ne hagyd ki a megtekintéseid, felvételeid vagy kölcsönzéseid alapján személyedre szabott műsorokat. A Személyes ajánló bekapcsolásához nyomd meg az OK gombot
+explanatoryCard.mytv.recommendations.title;;Filmek és tévéműsorok, amiket látnod kell
+explanatoryCard.mytv.recordings;;Itt tudod megnézni és kezelni a felvételeidet.
+explanatoryCard.mytv.rentals;;Kölcsönözz a Filmtár filmek közül és nézd meg őket itt!
+explanatoryCard.mytv.scheduledRecordings;;A rögzítésre beállított műsorok itt találhatóak.
+explanatoryCard.mytv.title;;Műsoraim
+explanatoryCard.mytv.watchnext;;Nézd tovább egyszerűen a már megkezdett műsorokat
+explanatoryCard.mytv.watchnext.recommendationsOptIn;;Az összes folytatni kívánt műsor, a legújabb felvételek és kölcsönzött filmek egyszerű áttekintéséhez nyomd meg az OK gombot, és engedélyezd a Személyes ajánlót.
+explanatoryCard.mytv.watchnext.title;;Legfontosabb műsoraid
+explanatoryCard.mytv.welcomeTo;;Üdvözlünk!
+explanatoryCard.mytv.welcomeToMyTV;;Üdvözlünk a Műsoraim menüpontban!
+explanatoryCard.mytv.wishlist;;Add hozzá a Lejátszási listához a számodra érdekes filmeket és műsorokat a Filmek, sorozatok menüből hogy később könnyedén megtekinthesd őket
+explanatoryCard.ondemand.recommendationsOptIn;;Ne hagyd ki a megtekintéseid, felvételeid vagy kölcsönzéseid alapján személyedre szabott műsorokat. A Személyes ajánló bekapcsolásához nyomd meg az OK gombot
+explanatoryCard.ondemand.title;;Filmek, sorozatok ajánló
+explanatoryCard.quota.autoDelete;;Nem elérhető elegendő tárhely. A következő Felvételkor automatikus törlés fog indulni
+explanatoryCard.quota.title;;Tárhelytelítettség információ
+explanatoryCard.railTitle.mytv.external.myTVRecommendations;;Filmek és műsorok, melyeket látnod kell!
+explanatoryCard.railTitle.mytv.purchasesAndRentals;;Kölcsönzések
+explanatoryCard.railTitle.mytv.recommendations;;Filmek és TV műsorok, amik tetszhetnek
+explanatoryCard.railTitle.mytv.recordings;;Felvételek
+explanatoryCard.railTitle.mytv.rentals;;Kölcsönzések
+explanatoryCard.railTitle.mytv.scheduledRecordings;;Időzített rögzítések
+explanatoryCard.railTitle.mytv.watchnext;;Lejátszás folytatása
+explanatoryCard.railTitle.mytv.wishlist;;Lejátszási lista
+explanatoryCard.related.recommendationsOptIn;;Ne hagyd ki a megtekintéseid, felvételeid vagy kölcsönzéseid alapján személyedre szabott műsorokat. A Személyes ajánló bekapcsolásához nyomd meg az OK gombot
+explanatoryCard.related.title;;További hasonló tartalom
+explanatoryCard.search.recommendationsOptIn;;Ne hagyd ki a megtekintéseid, felvételeid vagy kölcsönzéseid alapján személyedre szabott műsorokat. A Személyes ajánló bekapcsolásához nyomd meg az OK gombot
+explanatoryCard.search.title;;Az igényeidnek megfelelő találatok
+explanatoryCard.switchOn;;Bekapcsolás
+fastZap.barker.countdown;;Az alkalmazás <br/>megnyílik:<div>%1 mp</div>
+fastZap.upNext;;Következő műsor
+firstInstall.automaticRecordingsMoreInfoScreen.description;;A Vodafone TV egyik fő funkciója, hogy visszanézheted az elmúlt hét nap tévéműsorait. A Műsorújságból vagy tévénézés közben a távirányító Fel és Le gombjainak segítségével közvetlenül hozzáférhetsz ezen tartalomhoz. <br/><br/> A funkció használata nem foglalja a tárhelyedet.
+firstInstall.automaticRecordingsMoreInfoScreen.title;;Automatikus rögzítés
+firstInstall.bleRemotePairLaterScreen.description;;A TV és a távirányító párosításához kérjük, tartsd lenyomva egyidejűleg az 1-es és a sárga gombokat 5 másodpercig.<br/>Ha sikerült a távirányító párosítása, tartsd lenyomva a 3-as és a sárga gombokat 5 másodpercig a párosítás feloldásához.<br/>Ne aggódj, ha nem sikerül a párosítás, később bármikor megteheted és továbbra is működni fog, ha azt a Vodafone Mediabox felé irányítod.
+firstInstall.bleRemotePairingScreen.description;;A TV és a távirányító párosításához kérjük, tartsd lenyomva egyidejűleg az 1-es és a sárga gombokat 5 másodpercig.<br/>Ha a távirányítót sikerült párosítani, tartsd lenyomva a 3-as és a sárga gombokat 5 másodpercig a párosítás feloldásához.
+firstInstall.bleRemotePairingScreen.title;;Távirányító párosítása
+firstInstall.bleRemotePairingSuccessScreen.description;;A Vodafone Mediabox párosítva a távirányítóval
+firstInstall.bleRemotePairingSuccessScreen.title;;Sikeres párosítás
+firstInstall.buttons.ATP;;ATP
+firstInstall.buttons.I&D;;I&D
+firstInstall.buttons.agree;;Elfogadom
+firstInstall.buttons.back;;Vissza
+firstInstall.buttons.deepMode;;Energiatakarékos mód bekapcsolás
+firstInstall.buttons.developerMode;;Fejlesztői üzemmód
+firstInstall.buttons.disagree;;Nem fogadom el
+firstInstall.buttons.instantMode;;Energiatakarékos mód kikapcsolás
+firstInstall.buttons.manual;;Kezelési útmutató
+firstInstall.buttons.moreInfo;;Több információ
+firstInstall.buttons.reset;;Alaphelyzetbe állítás
+firstInstall.buttons.skipScanning;;Keresés átugrása
+firstInstall.buttons.tryAgainWithEthernet;;Újrapróbál
+firstInstall.buttons.updateAndReboot;;Frissítés és újraindítás
+firstInstall.buttons.validate;;Érvényesítés
+firstInstall.cheatMenuScreen.desc;;A művelet felülírja a Vodafone Mediabox konfigurálási paramétereket
+firstInstall.cheatMenuScreen.title;;Beállítások menü
+firstInstall.consent.description;;A személyre szabott reklámokhoz el kell fogadnod vagy el kell utasítanod a feltételeket.
+firstInstall.contentSettingsScreen.automaticRecordingsAgreement.title;;Automatikusan rögzíti az összes csatornát, hogy megtekinthesd a korábbi műsorok tartalmát
+firstInstall.contentSettingsScreen.recommendationsAgreement.title;;Mutass Személyes ajánlót filmekről és műsorokról, melyeket látnod kell
+firstInstall.contentSettingsScreen.title;;Tartalom beállítások
+firstInstall.firmwareUpdateScreen.desc;;Kérjük, telepítsd az elérhető szoftverfrissítéseket! A frissítés befejezése után az eszköz automatikusan újraindul
+firstInstall.firmwareUpdateScreen.title;;Frissítések
+firstInstall.irRfRemotePairLaterScreen.description;;A TV és a távirányító párosításához kérjük, tartsd lenyomva egyidejűleg az 1-es és a sárga gombokat 5 másodpercig.<br/>Ha sikerült a távirányító párosítása, tartsd lenyomva a 3-as és a sárga gombokat 5 másodpercig a párosítás feloldásához.<br/>Ne aggódj, ha nem sikerül a párosítás, később bármikor megteheted és továbbra is működni fog, ha azt a Vodafone Mediabox felé irányítod.
+firstInstall.irRfRemotePairingScreen.description;;A távirányító és a Vodafone Mediabox párosításához kérjük, tartsd lenyomva az 1-es és a sárga gombokat egyidejűleg 5 másodpercig
+firstInstall.irRfRemotePairingScreen.title;;Távirányító párosítása
+firstInstall.irRfRemotePairingSuccessScreen.description;;A Vodafone Mediabox párosítva a távirányítóval
+firstInstall.irRfRemotePairingSuccessScreen.title;;Párosítva
+firstInstall.powerSaving.description;;Ha a hangfelismerést akarod használni vagy zenét lejátszani Bluetooth-on vagy Spotify-on keresztül készenléti üzemmódban, akkor ezt a kapcsolót KI kell kapcsolnod. <br><br> Egyéb esetben a készülék kikapcsolása után ezeket csak rövid ideig tudod megtenni.<br><br>A későbbiekben ez a Vodafone TV Box Beállításaiban módosíthatod.
+firstInstall.powerSaving.title;;Energiatakarékosság
+firstInstall.powerSaving.turnOff;;Kikapcsolás
+firstInstall.powerSaving.turnOn;;Bekapcsolás
+firstInstall.progressbar.complete.label;;Csatornakeresés befejeződött
+firstInstall.progressbar.label;;Csatornakeresés folyamatban %1%
+firstInstall.recommendationsMoreInfoScreen.description;;Filmek és tévéműsorok, amiket látnod kell!<br/><br/>Ne hagyd ki a megtekintéseid, felvételeid vagy kölcsönzéseid alapján személyedre szabott műsorokat! Nyomd meg az OK gombot vagy válaszd az Adatkezelés/Adatkezelési hozzájárulás menüpontot a Beállítások között.<br/><br/>Később bármikor kikapcsolhatod ezt a funkciót
+firstInstall.recommendationsMoreInfoScreen.title;;Személyes ajánló
+firstInstall.recoverPwdScreen.description;;Olvasd be ezt a QR kódot a mobiloddal, hogy helyreállítsd vagy módosítsd a jelszavadat.
+firstInstall.recoverPwdScreen.subtitle;;QR kód beolvasása
+firstInstall.recoverPwdScreen.title;;Vodafone TV Jelszó Visszaállítás
+firstInstall.scanSummaryScreen.description.fail;;Nem találhatóak csatornák.<br/>Csatlakoztasd még egyszer az antennakábelt, majd próbáld újra, vagy látogass el a vodafone.hu/tv weboldalra segítségért!
+firstInstall.scanSummaryScreen.description.fail.OTTOnly;;Sajnáljuk, a csatornakeresés sikertelen. Kérjük, ellenőrizd a hálózati kapcsolatot, majd próbáld újra.
+firstInstall.scanSummaryScreen.description.fail.cable;;Sajnáljuk, a csatornakeresés sikertelen. Kérjük, ellenőrizd a kábelcsatlakozást, majd próbáld újra!
+firstInstall.scanSummaryScreen.description.fail.ftth;;Sajnáljuk, a csatornakeresés sikertelen. Kérjük, ellenőrizd a kábelcsatlakozást, majd próbáld újra!
+firstInstall.scanSummaryScreen.description.partial;;<div class='halfSummary'>Szabadon fogható csatornák<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>A csatornakeresés megszakadt. Kérjük, csatlakoztasd még egyszer az antennakábelt, majd indítsd újra a keresést!
+firstInstall.scanSummaryScreen.description.partial.cable;;<div class='halfSummary'>Kábel<div class='channelsSummary'><div>%1 TV</div><div>%2 Radio</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>Kérjük, ellenőrizd a kábelcsatlakozást, majd próbáld újra!
+firstInstall.scanSummaryScreen.description.partial.ftth;;<div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div> Kérjük, ellenőrizd a kábelcsatlakozást, majd próbáld újra!
+firstInstall.scanSummaryScreen.description.success;;Csatornakeresés véget ért.<br/>A következő csatornákat találtuk:<br/><div class='halfSummary'>Szabadon fogható csatornák<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.OTTOnly;;Csatornakeresés véget ért.<.<br/> Az alábbi csatornákat sikerült találni:<br/><div class='halfSummary'>Internet<div class='channelsSummary'>%1 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.cable;;Csatornakeresés véget ért.<br/>Az alábbi csatornákat sikerült találni:<br/><div class='halfSummary'>Kábel<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.scanSummaryScreen.description.success.ftth;;Csatornakeresés véget ért.<br/>Az alábbi csatornákat sikerült találni:<br/><div class='halfSummary'>Kábel<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+firstInstall.standbyModeSelectionScreen.desc;;Kérjük, válassz egy energiatakarékos üzemmódot<br><br>Az energiatakarékos módot kikapcsolva a Vodafone Mediabox gyorsabban indul (de kevesebb energiát takarít meg)<br><br>A bekapcsolt energiatakarékos módban az eszköz lassabban indul el (de több energiát takarít meg)
+firstInstall.standbyModeSelectionScreen.title;;Készenléti mód
+firstInstall.startChannelsScanScreen.description.cable;;Csatornakeresés indítása. Kérjük, győződj meg róla, hogy csatlakoztatva van a megfelelő kábel!
+firstInstall.startChannelsScanScreen.description.ftth;;A csatornakeresés az otthonodban elérhető <br/> TV- és rádiócsatornákat jeleníti meg
+firstInstall.unpairRfRemoteScreen.description;;Nyomd meg és tartsd nyomva a sárga és a 3-as gombot a távirányító párosításához.
+firstInstall.wifiBandwidthStateScreen.buttons.retry;;Újrapróbál
+firstInstall.wifiNetworkErrorScreen.wirelessConnectionError;;Nem vált lehetségessé a Wi-Fi kapcsolat megteremtése, kérlek próbáld újra.
+firstInstall.wifiNetworkSelector.wps;;WPS opció
+firstInstall.wiredNetworkScreen.noInternet;;A Vodafone Mediabox nem tud kapcsolódni a kiszolgálóhoz.<br/>Kérjük, próbáld újra később vagy lépj kapcsolatba az Ügyfélszolgálattal! [SC115]
+folder.bundle.includes;;Magában foglalja
+folder.button.confirm;;Megerősítés
+folder.button.selfcare.subscribe;;Előfizetés
+folder.button.subscribe;;Előfizetés %1/hónap
+folder.button.subscribed;;Előfizetett
+folder.channelGrid.title;;Csatorna: %1
+folder.subscriptionType.app;;Előfizetés az alkalmazásra
+folder.subscriptionType.individualLinearChannel;;Csatorna előfizetés
+folder.subscriptionType.pack;;Előfizetési csomag
+ftu.welcome.scanQR.button.description;;Ha a Vodafone TV alkalmazást már letöltötted, válaszd ezt az opciót a kamerán keresztüli gyorsabb bejelentkezéshez.
+ftu.welcome.signUp.buttonText;;Feliratkozás
+gdpr.consent;;Hozzájárulás
+gdpr.notice;;Tájékoztató
+gdpr.privacy;;Adatkezelés
+gdpr.privacy.consent.ads.description;;A személyreszabott reklámokhoz, meg kell adnod a hozzájárulásodat.
+gdpr.privacy.consent.confirmation;;A jóváhagyás hiányában lemaradsz a személyes ajánlásokról és a többi olyan extra funkcióról, amelyek a Vodafone TV kiemelkedő ügyfélélményét biztosítják. <br/>Folytatni szeretnéd vagy Visszalépsz, hogy mégis változtass a Beállításokon?
+gdpr.privacy.consent.description;;A személyes ajánlások megjelenítéséhez szükség van a hozzájárulásodra.
+gdpr.privacy.consent.kids.description;;A Gyereksarok összes funkciójának kihasználásához szükség van a hozzájárulásodra.
+gdpr.privacy.consent.title;;Adatkezelési hozzájárulás
+gdpr.privacy.default.notice;;
+gdpr.privacy.notice.description;;Az alkalmazás használatához szükség van a hozzájárulásodra.
+gdpr.privacy.notice.title;;Adatkezelési tájékoztató
+gdpr.privacy.settings.agree;;Hozzájárulok
+gdpr.privacy.settings.agreed;;Hozzájárultam
+gdpr.privacy.settings.agreedAll;;Mindhez hozzájárultam
+gdpr.privacy.settings.consent.description;;A Személyes ajánló megjelenítéséhez szükség van a hozzájárulásodra.
+gdpr.privacy.settings.description;;Visszavonhatod a választásod ezt választva
+gdpr.privacy.settings.disagree;;Nem járulok hozzá
+gdpr.privacy.settings.disagreedAll;;Egyikhez se járultam hozzá.
+gdpr.privacy.settings.notAgreed;;Nem járultam hozzá
+gdpr.privacy.settings.notice.description;;Az alkalmazás használatához szükség van a hozzájárulásodra.
+gdpr.privacy.thirdPartyConsent.description;;
+gdpr.privacy.thirdPartyConsent.title;;3. Feles Adatkezelési Hozzájárulás
+hpvr.countdown.shortSeconds;;%1 másodperc
+hpvr.dismiss;;Elvetés
+hpvr.formatDisk;;Lemez formázása
+hpvr.hdd.connected;;
+hpvr.hdd.eject.popup.title;;Újra kell csatlakoztatnod a helyi meghajtódat a helyi felvételek megtekintéséhez.
+hpvr.hdd.ongoing.eject.popup.title;;Ha eltávolítod a külső meghajtót, elveszíted a folyamatban lévő helyi felvétele(i)det.
+hpvr.hdd.recognized;;
+hpvr.hddFormat.popup.subtitle;;Előfordulhat, hogy formáznod kell ezt a meghajtót, ha úgy döntesz, minden rajta tárolt tartalom törlődik
+hpvr.hddFormat.popup.title;;Nem lehet csatlakozni ehhez a helyi meghajtóhoz.
+hpvr.hddFormatFailed.popup.subtitle;;Megpróbálhatod ismét formázni a meghajtót. Ha a hiba továbbra is fennáll, kérjük, lépj kapcsolatba az Ügyfélszolgálattal!
+hpvr.hddFormatFailed.popup.title;;A helyi meghajtó formázása során hiba történt.
+hpvr.hddFormatting.popup.subtitle;;Meghajtó formázása folyamatban
+hpvr.hddFormatting.popup.title;;Helyi meghajtó formázása
+hpvr.hddFormattingDone.popup.subtitle;;Ahhoz, hogy a helyi meghajtót használd a felvételeidhez, újra kell indítanod a mediaboxot.
+hpvr.hddFormattingDone.popup.title;;Helyi meghajtó sikeresen formázva.
+hpvr.hddNotRecognize.popup.subtitle;;Kérjük, győzödj meg róla, hogy csatlakoztál a Vodafone TV helyi meghajtójához!
+hpvr.hddNotRecognize.popup.title;;Nem sikerült felismerni a helyi meghajtót
+hpvr.hddPlugged.popup.subtitle;;A helyi meghajtóddal történő rögzítéshez újra kell indítanod a Mediaboxod. /n/n A Mediaboxod automatikusan újraindul ennyi időn belül
+hpvr.hddPlugged.popup.title;;Csatlakoztatott helyi meghajtó
+hpvr.newHddPlug;;Helyi meghajtó csatlakoztatva
+hpvr.recording.cancelled;;Felvétel visszavonva
+hpvr.recording.channelNotFound;;A rögzítés nem kezdhető meg, mert a csatorna nem található
+hpvr.recording.completed;;Rögzítés sikeresen befejezve
+hpvr.recording.deleted;;Felvétel törölve
+hpvr.recording.hddBufferOverflow;;A rögzítés nem véglegesíthető, a merevlemez puffertúlcsordulása miatt
+hpvr.recording.noCASSessionAvailable;;A rögzítés nem véglegesíthető, mert nincs rendelkezésre álló CAS munkamenet
+hpvr.recording.noEntitlement;;A rögzítés nem véglegesíthető, mert nincs jogosultságod a tartalomhoz
+hpvr.recording.noHDD;;A rögzítés nem véglegesíthető, mert a merelemezt eltávolították
+hpvr.recording.noHDDSpace;;A rögzítés nem véglegesíthető, mert nincs elég hely a merevlemezen.
+hpvr.recording.noHDDWritable;;A rögzítés nem véglegesíthető, mert hiba lépett fel a merevlemezre írás közben
+hpvr.recording.noSignal;;A rögzítés nem véglegesíthető mert nincs jel
+hpvr.recording.noTunersAvailable;;A rögzítés nem véglegesíthető, mert nem állnak rendelkezésre tunerek.
+hpvr.recording.ongoing;;A rögzítés már megkezdődött
+hpvr.recording.partiallyCompleted;;A rögzítés megkezdődött, de a rendszer félbeszakította
+hpvr.recording.scheduled;;Rögzítés sikeresen időzítve
+hpvr.restartLater;;Újraindítás később
+hpvr.restartNow;;Újraindítás most
+hpvr.subtitle.hddDisconnectedInformations;;A helyi felvételeid eléréséhez újra kell csatlakoznod a helyi meghajtódhoz.
+hpvr.subtitle.localQuotaLimitReached;;A helyi rögzítési limit elérve.
+hpvr.title.formattingStorage;;A háttértár formázásra került.
+hpvr.title.hddDisconnected;;Helyi meghajtó leválasztva
+hpvr.title.localQuotaLimitReached;;A helyi rögzítési limit elérve.
+hybridPvrNotification.lowStorageForRecord;;Kérjük, a Műsoraim/Felvételek közüli törléssel szabadíts fel tárhelyet
+hybridPvrNotification.rescheduledRecording;;Átütemezett felvételek
+hybridPvrNotification.rescheduledTo;;%1 <br>-től %2 -ig
+improvedRec.cancelEpisodes.selectEpisodes;;Válaszd ki a törlendő epizódokat
+improvedRec.deleteEpisodes.selectEpisodes;;Válaszd ki a törlendő epizódokat
+improvedRec.deleteProtectedRecording.subtitle;;Ez egy védett felvétel. Mindenképp törlöd?
+improvedRec.deleteProtectedRecording.title;;Törlöd a védett felvételt?
+improvedRec.deleteProtectedRecordings.subtitle;;Levédett felvételeket is kiválasztottál. Így is törölni szeretnéd őket?
+improvedRec.deleteProtectedRecordings.title;;Törlöd a levédett felvételeket?
+improvedRec.episodeCancelledAndChooseOption.subtitle;;Több epizódot vagy az egész sorozat rögzítését törlöd?
+improvedRec.episodeCancelledAndChooseOption.title;;Az epizód rögzítése sikeresen törölve.
+improvedRec.episodeDeletedAndChooseOption.subtitle;;Több epizódot szeretnél törölni vagy a teljes sorozatot?
+improvedRec.episodeDeletedAndChooseOption.title;;Az epizód sikeresen törölve.  
+improvedRec.filters.all;;Összes
+improvedRec.filters.genre.othersInfos;;"A kategória besorolás nélküli korábbi felvételeid az ""Egyéb"" kategóriába kerülnek."
+improvedRec.filters.genre.rail.allMovies;;Összes Film
+improvedRec.filters.genre.rail.allTvShows;;Összes Sorozat
+improvedRec.filters.scheduledRecordings;;Ütemezett felvételek
+improvedRec.infos.cloudPercentage;;%1% maradt a felhő felvételekre
+improvedRec.infos.localPercentage;;%1% maradt a helyi felvétekre
+improvedRec.infos.recordings;;%1 Felvétel
+improvedRec.infos.selectedOf;;%1 a %2 -ból kiválasztva
+improvedRec.infos.simplePercentage;;%1% hely maradt
+improvedRec.infos.updated.recordings;;%1 frissített felvétel...
+improvedRec.manage.noItemSelected.cancelDescription;;Legalább egy tételt ki kell választanod a törlés végrehajtásához
+improvedRec.manage.noItemSelected.description;;Legalább egy tételt választanod kell a törlési művelet elvégzéséhez.
+improvedRec.manage.noItemSelected.title;;Nincs kiválasztott tétel
+improvedRec.manage.protectedDescription;;%1 felvétel sikeresen levédve
+improvedRec.manage.protectedTitle;;Védett
+improvedRec.manage.unprotectedDescription;;Sikeresen megszüntetted %1 felvétel védelmét
+improvedRec.manage.unprotectedTitle;;Levédett felvételek kezelése
+improvedRec.manageProtect.chooseBothRecordings;;A folytatáshoz %1 helyi és %2 felhőben levő felvétel védelmét meg kell szüntetned.
+improvedRec.manageProtect.chooseCloudRecordings;;A folytatáshoz %1 felvétel védelmét kell törölnöd a felhőből!
+improvedRec.manageProtect.chooseLocalRecordings;;A folytatáshoz %1 helyi felvétel védelmét meg kell szüntetned.
+improvedRec.manageProtect.chooseUnprotect;;Megpróbálsz %1 felvételt levédeni, de csak ennyit lehet: %2
+improvedRec.manageProtect.exceedProtected;;Túl sok levédett felvétel
+improvedRec.manageProtect.maxAndLeftRecordings;;%1 felvételt próbálsz meg levédeni, de csak %2 felvételt lehet.
+improvedRec.manageProtect.maxAndLeftRecordingsBoth;;A meghajtóra és a felhőbe rögzített felvételeid összességéből ennyit védenél le: %1, de csak ennyit lehet: %2.
+improvedRec.manageProtect.maxAndLeftRecordingsCloud;;A felhő felvételeidből összességéből ennyit védenél le: %1, de csak ennyit lehet: %2.
+improvedRec.manageProtect.maxAndLeftRecordingsLocal;;A meghajtóra rögzített felvételeidből összességéből ennyit védenél le: %1, de csak ennyit lehet: %2.
+improvedRec.manageProtect.maximumBothProtected;;Csak maximum ennyi helyi és felhő felvételt védhetsz le: %1
+improvedRec.manageProtect.maximumCloudProtected;;Csak maximum ennyi felhő felvételt védhetsz le: %1
+improvedRec.manageProtect.maximumLocalProtected;;Csak maximum ennyi helyi felvételt védhetsz le: %1
+improvedRec.manageProtect.maximumProtected;;Túl sok levédett felvétel a felhőben.
+improvedRec.manageProtect.selectUnprotect;;A megerősítéshez kattints a Felvétel védelmének törlése gombra.
+improvedRec.manageProtect.title;;Levédett felvételek kezelése
+improvedRec.notification.cancelRecordings.description;;%1 epizód rögzítése sikeresen törölve.
+improvedRec.notification.cancelRecordings.title;;Törölt rögzítések
+improvedRec.notification.deleteRecordings.description;;Sikeresen töröltél %1 epizódot
+improvedRec.notification.deleteRecordings.title;;Felvételek törlése
+improvedRec.option.cancel;;Mégse
+improvedRec.option.cancelAll;;Az összes törlése
+improvedRec.option.cancelSeries;;Sorozatrögzítés elvetése
+improvedRec.option.delete;;Törlés
+improvedRec.option.deleteAll;;Összes törlése
+improvedRec.option.deleteSeries;;Sorozat törlése
+improvedRec.option.deleteUnprotect;;Nem levédett felvételek törlése
+improvedRec.option.deselectSeason;;%1 évad kijelölés megszüntetése
+improvedRec.option.manage;;Kezelés
+improvedRec.option.protect;;Védelem
+improvedRec.option.selectSeason;;Válaszd a %1 évadot
+improvedRec.option.selectSingleEpisodes;;Epizódok kiválasztása
+improvedRec.option.showProtected;;Levédett felvételek megjelenítése
+improvedRec.option.unprotect;;Védelem feloldása
+improvedRec.seriesSelected.subtitle;;Az egész sorozatot szeretnéd kiválasztani, vagy csak egyes epizódokat?
+improvedRec.seriesSelected.title;;Sorozat kiválasztva
+improvedRec.userAgreement.subtitle;;Biztos vagy benne?
+improvedRec.userAgreementForSeries.title;;Törlöd a sorozatot?
+improvedRec.userAgreementForUnprotected.title;;Törlöd az összes nem levédett epizódot?
+improvedRecordings.cloud.leftSpace;;Csak <b>%1% felhő felvétel maradt</b>.
+improvedRecordings.local.leftSpace;;Már csak ennyi helyi felvétel tárhelyed van: <b>%1%</b>.
+improvedRecordings.scheduled.recordingClashes;;Ütköző rögzítések
+improvedRecordings.scheduled.seriesRecordings;;Sorozatfelvételek
+improvedRecordings.scheduled.singleRecordings;;Sima felvételek
+jpn;;japán
+keyboard.search.otherPlaceholderText;;Nyomd meg a <div class='microIcon'></div> gombot a hangvezérlés használatához
+kids.PIN.turnOff;;Kikapcsolás
+kids.PIN.turnOn;;Bekapcsolás
+kids.accept.consent;;Jóváhagyás elfogadása
+kids.accept.notice;;Értesítés elfogadása
+kids.actors;;Színészek
+kids.agreed;;Elfogadom
+kids.back;;Vissza
+kids.bedtime.turnedOnFrom;;Bekapcsolva %1 -tól %2 -ig
+kids.cancel;;Mégse
+kids.characters;;Karakterek
+kids.common.continue;;Folytatás
+kids.countdown.cancel;;Mégse
+kids.countdown.change;;Módosít
+kids.countdown.changeTimerSettings;;Visszaszámlálás beállítása
+kids.countdown.clearCountdown;;Visszaszámlálás leállítása
+kids.countdown.overrideBedtime;;Biztos vagy benne, hogy felülírod %1 lefekvési idejét?<br/>%2 lefekvési ideje %3 óra és %4 perc múlva kezdődik
+kids.countdown.shortSeconds;;%1 másodperc
+kids.countdown.startCountdown;;Visszaszámlálás indítása
+kids.countdown.updateCountdown;;Visszaszámlálás frissítése
+kids.countdown.useBedtimeLimit;;Lefekvési idő beállítása
+kids.disagreed;;Nem fogadom el
+kids.exit;;Kilépés
+kids.explanatoryCard.subtitle.text;;Nincs elérhető műsor
+kids.explanatoryCard.title.text;;Ajjaj...
+kids.ftusettings.ageSelection.setBirthday;;Születésnap beállítása
+kids.ftusettings.ageSelection.title;;Válaszd ki az életkorod
+kids.ftusettings.birthdaySelection.description;;Kérjük, add meg a születésnapodat, hogy automatikusan frissüljön az életkorod a profilodban!<br/>A Beállításokban ezt később meg is nézheted.
+kids.ftusettings.birthdaySelection.set;;Beállítás
+kids.ftusettings.birthdaySelection.title;;Születésnap beállítása
+kids.ftusettings.buttons.agree;;Elfogadom
+kids.ftusettings.buttons.disagree;;Nem fogadom el
+kids.ftusettings.buttons.getStarted;;Első lépések
+kids.ftusettings.buttons.watchAgain;;Újra lejátszom
+kids.ftusettings.changeBirthday.title;;Születésnap megváltoztatása
+kids.ftusettings.changeCharacter.title;;Karakter megváltoztatása
+kids.ftusettings.changeNickname.title;;Becenév megváltoztatása
+kids.ftusettings.characterSelection.title;;Válassz egy karaktert
+kids.ftusettings.nicknameEntry.emptyName;;Kérjük, adj meg legalább egy betűt
+kids.ftusettings.nicknameEntry.maximumReached;;Csak tíz betű engedélyezett
+kids.ftusettings.nicknameEntry.title;;Becenév megadása
+kids.gdpr.privacy.consent.confirmation;;A jóváhagyás hiányában lemaradsz az ajánlásokról és a többi olyan extra funkcióról, amelyek a Vodafone TV kiemelkedő ügyfélélményét biztosítják. <br/>Folytatni szeretnéd vagy Visszalépsz, hogy mégis változtass a Beállításokon?
+kids.gdpr.privacy.consent.subtitle;;Az ajánlások megjelenítéséhez szükség van a jóváhagyásodra még egyszer
+kids.gdpr.privacy.consent.subtitle.part2;;Választásod az összes profilra érvényes
+kids.gdpr.privacy.consent.title;;Adatkezelési hozzájárulás
+kids.gdpr.privacy.default.consent;;
+kids.gdpr.privacy.default.notice;;
+kids.gdpr.privacy.notice.title;;Adatkezelési tájékoztató
+kids.languages.turnedOff;;Kikapcsolva
+kids.languages.turnedOn;;Bekapcsolva
+kids.menu;;Menü
+kids.menu.episode;;Epizód
+kids.menu.season;;Évad
+kids.notForKids.changeChannel;;További gyerekműsorok megtekintéséhez kérjük, válts csatornát, vagy lépj vissza a menübe
+kids.notForKids.showNotForKids;;Ez a műsor nem gyerekek számára készült
+kids.notification.incorrect.configuration.description;;
+kids.notification.network.offline.subtitle;;Hálózati hiba lépett fel
+kids.notification.network.offline.title;;Hálózati hiba
+kids.notification.noContent.message;;Nincs elérhető tartalom
+kids.notification.noContent.subtitle;;Nincs gyerekeknek szóló tartalom
+kids.notification.noContent.title;;Nincs tartalom
+kids.notification.player.error.subtitle;;Lejátszási hiba
+kids.notification.player.error.title;;Lejátszási hiba
+kids.pinEntry.accessProfile;;Hozzáférés a profilhoz
+kids.pinEntry.approveProfile;;Profil jóváhagyása
+kids.pinEntry.deleteProfile;;%1 profiljának törlése
+kids.pinEntry.enterSettings;;Beállítások megtekintése
+kids.pinEntry.exit;;Kilépés a Gyereksarokból
+kids.pinEntry.help.defaultPin;;Az alapértelmezett PIN kód 0000
+kids.pinEntry.help.details;;Ha engedélyezted, a fő PIN kóddal hagyhatod jóvá a megrendeléseket<br/>, és tranzakciókat, illetve változtathatsz néhány beállításon.<br/><br/><br/>Ezzel a PIN kóddal változtathatók meg a<br/>Gyerekzár beállítások is (ha aktiváltad őket).<br/><br/><br/>
+kids.pinEntry.help.whats;;Mi az a fő PIN kód?
+kids.pinEntry.title;;Add meg a PIN kódodat
+kids.player.back;;Vissza
+kids.player.info;;Infó
+kids.player.retry;;Újra próbál
+kids.player.setCountdown;;Visszaszámlálás beállítása
+kids.playerError;;Lejátszási hiba
+kids.profileSelection.addProfile;;Profil hozzáadása
+kids.profileSelection.aged;;Kor %1
+kids.profileSelection.bedtimeStartedSince;;A lefekvési idő ennyi ideje elkezdődött: %1
+kids.profileSelection.bedtimeStartedSince.atLeastTwoHours;;A lefekvési idő %1 órája elkezdődött
+kids.profileSelection.bedtimeStartedSince.betweenOneHourAndTwoHours;;A lefekvési idő 1 órája és %1 perce elkezdődött
+kids.profileSelection.bedtimeStartedSince.lessThanOneHour;;A lefekvési idő %1 perce elkezdődött 
+kids.profileSelection.countdownFinishedSince;;A visszaszámlálás befejeződött ennyi ideje: %1
+kids.profileSelection.settings;;Beállítások
+kids.profileSelection.unconfirmed;; Nincs megerősítve 
+kids.profiles;;Profilok
+kids.programInfo.audioDescription;;Audionarráció
+kids.programInfo.language;;Nyelv
+kids.programInfo.subtitles;;Felirat
+kids.settings;;Gyerekzár beállítások
+kids.settings.bedtime;;Lefekvési idő
+kids.settings.bedtime.from;;Kezdete
+kids.settings.bedtime.setBedtime;;Lefekvési idő beállítása
+kids.settings.bedtime.setTime;;Idő beállítása
+kids.settings.bedtime.to;;Vége
+kids.settings.changeAge;;Életkor megváltoztatása
+kids.settings.changeAvatar;;Profilkép megváltoztatása
+kids.settings.changeName;;Név megváltoztatása
+kids.settings.content.preferredLanguage;;Választott nyelv
+kids.settings.contentSettings;;Tartalom beállítások
+kids.settings.delete;;Törlés
+kids.settings.deleteProfile;;Profil törlése
+kids.settings.editProfile;;Profil szerkesztése
+kids.settings.help;;Segítség
+kids.settings.pinRequest;;PIN kód kérése
+kids.settings.privacy;;Adatkezelés
+kids.settings.showVideos;;Bemutató videó lejátszása
+kids.settings.subtitle.askForPin;;PIN kód kérése
+kids.settings.subtitle.deleteProfile.part1;;Biztos vagy benne?
+kids.settings.subtitle.deleteProfile.part2;;Törölni szeretnéd %1 profilját?
+kids.settings.timeManagement;;Időzítők
+kids.tick.dontShowAgain;;Ne mutasd többet
+kids.timeOver.addMoreTime;;Több idő hozzáadása
+kids.timeOver.exit;;Kilépés a Gyereksarokból
+kids.timeOver.takeABreak;;Itt az ideje egy kis szünetnek
+kids.timeOver.wakeup;;Ébresztés
+kids.turnOff;;Kikapcsolás
+kids.turnOn;;Bekapcsolás
+kids.turnedOff;;Kikapcsolva
+kids.turnedOn;;Bekapcsolva
+kids.update.gdpr.privacy.consent.subtitle;;A személyes ajánlások megjelenítéséhez szükség van a jóváhagyásodra még egyszer
+kids.update.gdpr.privacy.consent.subtitle.part2;;Választásod az összes profilra érvényes
+kids.update.gdpr.privacy.consent.title;;Frissített adatkezelési hozzájárulás
+kids.update.gdpr.privacy.notice.subtitle;;A Vodafone TV további használatához kérjük, olvasd el, majd válaszd a Folytatást
+kids.update.gdpr.privacy.notice.title;;Frissített adatkezelési tájékoztató
+language.afr;;Afrikai
+language.ang;;Angol, régi (kb 450-1100)
+language.ara;;Arab
+language.auto;;Automatikus
+language.ces;;Cseh
+language.chi;;Kínai
+language.dan;;
+language.de-DE;;Deutsch (DE)
+language.dut;;Holland
+language.ell;;görög
+language.en-GB;;English (GB)
+language.en-US;;English (US)
+language.es-ES;;Español (ES)
+language.fas;;Perzsa
+language.fin;;Finn
+language.grc;;Ελληνικά
+language.gsw;;Svájci német
+language.heb;;Héber
+language.hin;;Hindi
+language.hun;;Magyar
+language.isl;;Izlandi
+language.it-IT;;Olasz (IT)
+language.jap;;Japán
+language.jpn;;Japán
+language.kaz;;Kazah
+language.kor;;Kóreai
+language.lav;;Litván
+language.mao;;Maori
+language.mri;;Maori
+language.mul;;Eredeti nyelv
+language.nld;;Holland
+language.nor;;Norvég
+language.per;;Perzsa
+language.pol;;Lengyel
+language.por;;portugál
+language.prt;;Português
+language.pt-BR;;Português (BR)
+language.pt-PT;;Português (PT)
+language.qaa;;Eredeti nyelv
+language.ron;;Román
+language.rus;;Orosz
+language.slk;;Szlovák
+language.slv;;Szlovén
+language.sqi;;Albán
+language.ukr;;Ukrán
+language.zho;;Kínai
+mainMenu.kids;;GYEREKSAROK
+mainMenu.mediaLibrary;;Média tár
+mainMenu.onTv.title;;Adásban
+mainMenu.recordings;;FELVÉTELEK
+mainMenu.topBar.search;;Keresés filmre, sorozatra, színészre...
+mainMenu.tvGuide.subscribeNow;;Most előfizetek
+mainMenu.tvGuide.watch;;Lejátszás
+maintenance.description;;
+maintenance.title;;
+miniProgramInfo.showMore;;További információ
+myApps.Shortcut.Add;;Hozzáadás Alkalmazásaimhoz
+myApps.Shortcut.Manage;;Kezelés
+myApps.add.info;;Válassz ki egy vagy több alkalmazást a hozzáadásra
+myApps.add.title;;Hozzáadás az Alkalmazásaimhoz
+myApps.delete.info;;Válaszd ki az áthelyezendő alkalmazásokat
+myApps.delete.title;;Eltávolítás az Alkalmazásaim közül
+myApps.manage.favorite;;Alkalmazásaim - Kedvencek
+myApps.manage.info.favorite;;Böngéssz és kezeld kedvenc alkalmazásaidat
+myApps.manage.info.favorite.number;;%1 alkalmazás
+myApps.manage.info.recent;;Maximum 20 legutóbbi alkalmazás mutatása
+myApps.manage.info.recent.number;;Még nem volt alkalmazás használva.
+myApps.manage.recent;;Alkalmazásaim - Legutóbbiak
+myApps.manage.title;;Alkalmazásaim
+myApps.reorder.info.default;;Válaszd ki az áthelyezendő alkalmazást
+myApps.reorder.info.reorderMode;;A bal és jobb navigációs gombbal helyezd át az alkalmazást, majd nyomd meg az OK-t a beillesztéshez
+myApps.reorder.title;;Alkalmazásaim újra rendezése
+mytv.external.myTVRecommendations;;Neked ajánljuk
+mytv.kaltura.Adults;;Zárolt programok
+mytv.recommendations;;Neked ajánljuk
+mytv.recommended;;Neked ajánljuk
+mytv.recordings.all.lastMonth;;Múlt hónap
+mytv.recordings.all.lastWeek;;Múlt hét
+mytv.recordings.all.month;;Aktuális hónap
+mytv.recordings.all.older;;Régebbi
+mytv.recordings.all.week;;Aktuális hét
+mytv.recordings.cloud.future;;Később jár le
+mytv.recordings.cloud.month;;Ebben a hónapban lejár
+mytv.recordings.cloud.never;;Nincs lejárati dátum
+mytv.recordings.cloud.nextMonth;;Következő hónapban lejár
+mytv.recordings.cloud.nextWeek;;Következő héten lejár
+mytv.recordings.cloud.week;;Ezen a héten lejár
+mytv.recordings.cloud.year;;Ebben az évben lejár
+mytv.recordings.failed.lastMonth;;Múlt hónap
+mytv.recordings.failed.lastWeek;;Múlt hét
+mytv.recordings.failed.month;;Aktuális hónap
+mytv.recordings.failed.week;;Aktuális hét
+mytv.recordings.local.hd;;HD
+mytv.recordings.local.lastMonth;;Múlt hónap
+mytv.recordings.local.lastWeek;;Múlt hét
+mytv.recordings.local.month;;Aktuális hónap
+mytv.recordings.local.older;;Régebbi
+mytv.recordings.local.other;;Egyéb
+mytv.recordings.local.sd;;SD
+mytv.recordings.local.uhd;;4K
+mytv.recordings.local.week;;Aktuális hét
+mytv.recordings.month;;Ebben a hónapban
+mytv.recordings.nextWeek;;Következő héten
+mytv.recordings.older;;Korábbi felvételek
+mytv.recordings.scheduledRecordings.clashes;;Ütköző rögzítések
+mytv.recordings.scheduledRecordings.series;;Sorozatfelvételek
+mytv.recordings.scheduledRecordings.single;;Sima felvételek
+mytv.recordings.soon;;Rövidesen lejár
+mytv.recordings.unwatched.lastMonth;;Múlt hónap
+mytv.recordings.unwatched.lastWeek;;Múlt hét
+mytv.recordings.unwatched.month;;Aktuális hónap
+mytv.recordings.unwatched.week;;Aktuális hét
+mytv.recordings.week;;Ezen a héten
+mytvRecommendations1;;Lejátszás folytatása
+mytvRecommendations2;;Neked ajánljuk
+nagra.information.authNToken;;AuthNToken
+nagra.information.cakVersion;;CAK verzió
+nagra.information.chipset.revision;;Chipkészlet verzió
+nagra.information.chipset.type;;Chipkészlet típusa
+nagra.information.dasSDKVersion;;DAS SDK verzió
+nagra.information.irdsn;;IRDSN
+nagra.information.lastAuthNTokenDate;;Legutóbbi AuthN token-frissítés
+nagra.information.lastConnectionsToOTT;;Utolsó OTT kapcsolatok
+nagra.information.lastEntitlement;;Legutóbbi jogosultsági dátum
+nagra.information.lastLicenceUpdate;;Legutóbbi licencfrissítés
+nagra.information.lastProvision;;Legutóbbi kiépítési dátum
+nagra.information.nc.OpVaultTimestamp;;Op Vault Timestamp
+nagra.information.nc.deviceUniqueId;;Eszköz egyedi azonosítója
+nagra.information.nc.initStatus;;Init státusz
+nagra.information.nc.integrationContextCertificateName;;Tanúsítvány neve
+nagra.information.nc.integrationContextCertificateOperatorId;;Tanúsítvány kezelőjének azonosítója
+nagra.information.nc.integrationContextCertificatePlatform;;Tanúsítványplatform
+nagra.information.nc.integrationContextCertificateSecurityLevel;;Tanúsítvány biztonsági szintje
+nagra.information.nc.integrationContextCertificateType;;Tanúsítvány típusa
+nagra.information.nc.nuid;;NUID
+nagra.information.nc.prmaVersion;;PRMA verzió
+nagra.information.nc.prmcVersion;;PRMV verzió
+nagra.information.nuid;;NUID
+nagra.information.projectInfo;;Projekt információ
+nagra.popups.connectionLost;;Vodafone Mediabox kapcsolódási probléma
+nagra.popups.defaultError;;A csatorna nincs előfizetve
+nagra.popups.suspended;;Vodafone Mediabox felfüggesztve
+nagra.popups.uninitialized;;A Vodafone Mediabox nem indult el
+nagra.popups.unsubscribed;;Nincs előfizetés a csatornára
+network.wifi.band.unit;;GHz
+network.wifi.quality.good;;Jó hálózat minőség
+network.wifi.quality.incompatible;;Rossz hálózat minőség
+network.wifi.quality.sufficient;;Elégséges hálózat minőség
+networkAccessValidation.defaultErrorMessage;;Érvénytelen hálózati hozzáférés. Csatlakoztasd a Vodafone Mediaboxot a Vodafone internet eléréshez, majd próbáld újra!
+notification.HDCPError.description;;HDCP hiba leírás
+notification.HDCPError.title;;HDCP hiba
+notification.adultProgram.hidden.description;;A lejátszáshoz kérjük, változtasd meg a Gyerekzár beállításokat
+notification.adultProgram.hidden.title;;Rejtett program
+notification.alexa.alert.description;;"Csak mondd azt, hogy ""Alexa állj"" a kikapcsoláshoz."
+notification.alexa.alert.title;;Alexa Figyelmeztető
+notification.alexa.alexaNumberOfNotification.title;;1% Alexa értesítésed van
+notification.alexa.apps.notAvailable;;
+notification.alexa.apps.wrongContext;;
+notification.alexa.listenToNotification.description;;"Csak mondd: ""meghallgatom a részleteket"", hogy többet tudj meg."
+notification.alexa.pressingVoiceButton.description;;"Nyomd meg a hang gombot és mondd ""értesítések meghallgatása"", hogy többet hallhass."
+notification.alexaAction.disabledInsideApps;;A hangvezérlés nem elérhető az alkalmazásokon belül.
+notification.app.cts.token.error;;Egy hiba történt. Az Alkalmazás néhány korlátozott funkcióval indulhat.
+notification.app.gdpr.disagree;;Kérlek menj a Beállítások > Adatvédelem menüpontra és változtasd meg az Adatvédelmi Nyilatkozatra való hozzájárulásod.
+notification.app.notSubscribed;;Nem rendelkezel előfizetéssel erre az alkalmazásra
+notification.automaticRecordings.channelDisabled;;A tartalom lejátszásához kérjük, engedélyezd az automatikus Felvétel funkciót erre a csatornára.
+notification.backend.error;;A kiszolgáló hibát észlelt. Kérjük, próbáld újra később! [SC402]
+notification.bleRemotePairing.failed;;Nem volt lehetséges a távirányító párosítása
+notification.bleRemotePairing.info;;A hangvezérléshez nyomd meg a sárga és a 1-as gombot és tartsd lenyomva 5 másodpercig a távirányítóval való párosításhoz.
+notification.bleRemotePairing.success;;A távirányító most már párosítva van és kész a hangvezérlésre.
+notification.bluetooth.connected;;Bluetooth csatlakoztatva
+notification.bluetooth.disconnected;;Bluetooth leválasztva
+notification.bluetooth.fail;;Sikertelen párosítás
+notification.bluetooth.multiple.remove.subtitle;;%1 eszköz sikeresen eltávolítva
+notification.bluetooth.noDevice;;Nem található új eszköz
+notification.bluetooth.rcu.connected;;A távirányító most a Bluetoothon keresztül van csatlakoztatva
+notification.bluetooth.remove;;Bluetooth eszközök eltávolítása
+notification.bluetooth.remove.subtitle;; 1 készülék sikeresen eltávolítva
+notification.bluetooth.success;;Sikeresen hozzáadva
+notification.bluetooth.unsupportedRcu.description;;A távirányító verziója nem megfelelő.
+notification.bluetooth.unsupportedRcu.title;;Nem támogatott távirányító
+notification.buy.notPossible;;Nem lehetséges a tartalmat megvásárolni ezen a készüléken.
+notification.channel.liveApp;;A %1 alkalmazáshoz való hozzáféréshez kérjük, nyomd meg a FEL vagy LE gombot
+notification.channel.liveApp.redButton;;A %1 alkalmazáshoz való hozzáféréshez nyomd meg a PIROS gombot
+notification.drmUnavailable.description;;A Nagra még nincs kész
+notification.drmUnavailable.title;;A DRM nem elérhető
+notification.episode.past;;Az epizód hamarosan elérhető lesz a felvételek között
+notification.episode.scheduled;;Rögzítés időzítve
+notification.episode.scheduledNew;;
+notification.episode.start;;Rögzítés folyamatban
+notification.folder.confirm;;OK
+notification.frequentlyAskedQuestions.fetch.error;;Nem lehet megjeleníteni a gyakran ismételt kérdéseket
+notification.mcast.insufficient.bandwidth;;Nem elegendő sávszélesség
+notification.network.fallback;;Az új konfigurációk érvénytelenek. Kérjük, próbáld újra vagy nyomd meg a BACK/VISSZA gombot a beállítások visszavonásához és a korábbi konfiguráció használatához.
+notification.network.fallback.Id;;ID %1
+notification.network.noMuMimoEnabled;;A gyenge WiFi jel miatt a szolgáltatás minősége romolhat, a probléma megoldásához menj a Beállítások > További beállítások > Hálózat menüpontba és válassz más hálózatot.
+notification.network.notEnoughBandwidth;;A gyenge WiFi jel miatt a szolgáltatás minősége romolhat, a probléma megoldásához menj a Beállítások>További beállítások>Hálózat menüpontba és válassz más hálózatot.
+notification.offline.error;;Vodafone Mediabox offline üzemmódban
+notification.player.blackout.message1;;Tartalom korlátozás miatt nem tudjuk lejátszani ezt a műsort. Kérjük, próbáld újra később!
+notification.player.blackout.message2;;Tartalom korlátozás miatt nem tudjuk lejátszani ezt a műsort. Kérjük, próbáld újra később!
+notification.player.concurrent;;A műsor lejátszása jelenleg a maximálisan megengedett számú eszközön fut
+notification.player.noRights;;Kettőnél több eszközön próbálod megtekinteni a műsort, vagy nincs érvényes előfizetésed [SB003]
+notification.ppv.success;;Sikeresen megvásárolva
+notification.privacy.fail.description;;Kérjük, próbáld újra később
+notification.privacy.fail.title;;Adatkezelés hiba 
+notification.programInfo.failure;;A műsorinformáció megjelenítése közben hiba lépett fel [SM010]
+notification.programInfo.purchase.disclaimer;;A PIN kód megadása után megtörténik a vásárlás, melyet ezt követően már nem tudsz visszavonni
+notification.programInfo.recording.noChannel;;Ez a felvétel nem tartozik egyik csatornához sem
+notification.programInfo.rental.days.disclaimer;;A %1 napos kölcsönzés a PIN kód megadása/ a Megerősítés után kezdődik, melyet ezt követően már nem tudsz visszavonni
+notification.programInfo.rental.hour.disclaimer;;A %1 órás kölcsönzés a PIN kód megadása/ a Megerősítés után kezdődik, melyet ezt követően már nem tudsz visszavonni
+notification.programInfo.rental.hours.disclaimer;;A %1 órás kölcsönzés a PIN kód megadása/ a Megerősítés után kezdődik, melyet ezt követően már nem tudsz visszavonni
+notification.programInfo.rental.month.disclaimer;;A %1 hónapos kölcsönzés a PIN kód megadása/ a Megerősítés után kezdődik, melyet ezt követően már nem tudsz visszavonni.
+notification.programInfo.rental.months.disclaimer;;A %1 hónapos kölcsönzés a PIN kód megadása/ a Megerősítés után kezdődik, melyet ezt követően már nem tudsz visszavonni.
+notification.programInfo.subscribe.disclaimer;;Előfizetésed a PIN kód megadását követően veszi kezdetét
+notification.recommendations.disabled;;A Személyes ajánló kikapcsolásra került.
+notification.recommendations.enabled;;A Személyes ajánló bekapcsolásra került.
+notification.recommendationsOptIn;;Ha ismét szeretnéd kikapcsolni a Személyes ajánlót, a Beállítások > Tartalombeállítások menüpont alatt megteheted.
+notification.recommendationsOptOut;;Ha ismét szeretnéd bekapcsolni a Személyes ajánlót, a Beállítások > Tartalombeállítások menüpont alatt megteheted
+notification.recording.cancel.failed;;Nem lehet leállítani a rögzítést. Kérjük, próbáld meg később!
+notification.recording.clash.multiple;;Több ütköző rögzítést találtunk
+notification.recording.clash.multiple.description;;A megoldáshoz nyomd meg a távirányító %1 gombját és válaszd a Műsoraim/Időzített rögzítéseket
+notification.recording.clash.resolve;;Ütközés megoldva
+notification.recording.clash.resolve.description;;Ütközés megoldva leírás
+notification.recording.clash.single;;Ütköző rögzítéseket találtunk
+notification.recording.clash.single.description;;A megoldáshoz nyomd meg a távirányító %1 gombját és válaszd a Műsoraim/Időzített rögzítéseket
+notification.recording.delete.failed;;Nem lehet törölni a rögzítést. Kérjük, próbáld meg később!
+notification.recording.description.deleteRecordings;;Törölve. Sikeresen töröltél %1 felvételt.
+notification.recording.fullCloudProtection;;Túl sok levédett felvétel a felhőben
+notification.recording.fullLocalProtection;;Túl sok helyi levédett felvétel
+notification.recording.fullProtectionTitle;;A felvételt nem lehet levédeni
+notification.recording.localNotPossible;;
+notification.recording.past;;A tartalom hamarosan elérhető lesz a felvételek között
+notification.recording.scheduledNew;;
+notification.recording.title.delete;;Felvételek törlése 
+notification.recordings.update;;A Vodafone TV frissítése
+notification.remoteBooking.hddConnected.title;;A távoli felvétel beállításhoz nyomd meg a zöld gombot, és változtasd meg a Mediaboxod Készenléti állapotát.
+notification.remoteDiagnostics.speedTest.ongoing;;A sebességmérés folyamatban, kérjük, várj
+notification.remotePairing.timeout;;Sajnáljuk, a párosítás nem sikerült. Próbáld újra a Hang gomb megnyomásával a távirányítón.
+notification.rent.notPossible;;Nem lehetséges kikölcsönözni a tartalmat ezen a készüléken.
+notification.rollingBuffer.description;;a VISSZA gombbal folytathatja a tekerést
+notification.rollingBuffer.title;;Hátralévő idő az élő közvetítésre való visszaállásig: 
+notification.search.characterLimit.description;;Elérte a maximális számú karaktert
+notification.search.characterLimit.title;;A karakterlimitet elérte
+notification.search.fail.description;;Hiba történt az adatok betöltése közben
+notification.search.fail.title;;Keresési hiba
+notification.seriesInfo.fetchDataFailed;;Nem lehet megjeleníteni az összes elérhető epizódot. Kérjük, ellenőrizd az internetkapcsolatodat! [SM011]
+notification.seriesInfo.missingMetadata;;Hiányzó sorozatazonosító. Nem lehet megjeleníteni a műsorinformációt.
+notification.seriesRecording.alreadyScheduled;;
+notification.seriesRecording.past;;Sorozatrögzítés beállítva
+notification.seriesRecording.pastNew;;
+notification.soundbox.audio.off;;Audio kimenet kikapcsolva
+notification.soundbox.audio.stb;;Audio kimenet a Mediaboxra állítva
+notification.soundbox.audio.tv;;Audio kimenet a TV-re állítva
+notification.soundbox.connected;;%1 csatlakoztatva
+notification.soundbox.description;;Válaszd a Beállítások/Csatlakoztatott eszközök/Hangvezérlés pontot a kezeléshez.
+notification.soundbox.disconnected;;leválasztva
+notification.subscribe.notPossible;;Nem lehetséges a tartalomra előfizetni ezen a készüléken.
+notification.subscription.success;;Sikeres előfizetés
+notification.timeout.error;;Időkorlát-túllépés adatelérés közben. Kérjük, ellenőrizd a routeren az internethozzáférést! [SC401]
+notification.trickMode.notAllowed;;A tekerési funkciókat a csatorna nem engedélyezi
+notification.vodafoneNetworkLost.description;;Vodafone hálózaton kell lenned a Vodafone TV összes funkciójának használatához.
+notification.vodafoneNetworkLost.title;;Vodafone hálózati hiba
+notification.voiceAction.appNonExistent;;Ez az alkalmazás nem támogatja hang lejátszását
+notification.voiceAction.appNotAvailable;;Ez az alkalmazás nem támogatja hang lejátszását
+notification.voiceAction.areaNonExistent;;Nem jeleníthető meg, nem létező tartalom
+notification.voiceAction.genericError;;Sajnáljuk, hiba történt, kérjük, próbáld meg újra!
+notification.voiceAction.keyPressedTooShort;;Sajnáljuk, nem értettük amit mondtál. Kérjük, tartsd hosszabban lenyomva a hang gombot és ismételd meg!
+notification.voiceAction.kids.profileNotSelected;;Ki kell választanod egy profilt, mielőtt a hangfelismerést használod
+notification.voiceAction.kids.screenNotAllowed;;Be kell lépned a menübe a hangfelismerés használatához
+notification.voiceAction.misunderstanding;;Sajnáljuk, nem értettük amit mondtál, kérjük, ismételd meg!
+notification.voiceAction.noChannel;;%1  csatorna nem létezik
+notification.voiceAction.noChannelError;;Ez a csatorna nem létezik
+notification.voiceAction.noChannelNumber;;Ez a csatornaszám nem létezik
+notification.voiceAction.noResults;;A keresés nem járt sikerrel, kérjük, ismételd meg, amit mondtál!
+notification.voiceAction.notAllowedContent;;Sajnáljuk, ezt a típusú tartalmat nem tekintheted meg
+notification.voiceAction.notAllowedInApp;;A parancs nem lehetséges ebben az Alkalmazásban
+notification.voiceAction.notPossible;;A kérést nem lehet végrehajtani
+notification.voiceAction.notSupportedInKids;;Sajnáljuk, a Vodafone Gyereksarok alatt nem elérhető ez a funció
+notification.voiceAction.voiceASRFailure;;A kérést nem lehet végrehajtani, kérjük, próbáld újra
+notification.voiceAction.voiceToSearch;;Kérjük, használd a hangvezérlést a kéréshez
+notifications.privacy.fail.title;;Sikertelen hozzáférés az adatkezelési tájékoztatóhoz/hozzájáruláshoz
+optIn;;Bekapcsolás most
+pin.consecutiveDigitsError.popup.text;;Négy egyforma szám egymás után nem engedélyezett (pl 2222) <br>Kérjük, válassz más kombinációt!
+pin.consecutiveDigitsError.popup.title;;Ez a kombináció nem engedélyezett<br><br>
+pin.lockedPin.notification.description;;Kérjük, próbáld újra: %1
+pin.lockedPin.notification.title;;A PIN bevitel zárolva van
+pin.lockedPin.popup.text;;A beütött PIN kód helytelen volt háromszor egymás után<br> Újrapróbálhatod ennyi idő múlva: %1
+pin.lockedPin.popup.title;;A PIN bevitel zárolva ennyi ideig: %1<br><br>
+pinEntry.adultPin;;PIN kód megadása
+pinEntry.purchasePinCode;;PIN kód megadása
+player.endOfBuffer.description;;Automatikus rögzítés kezdete
+player.endOfBuffer.title;;Automatikus rögzítés vége
+player.feedback.remaining;;Hátralévő
+player.notification.cantRecoverMedia.description;;player.notification.cantRecoverMedia.description
+player.notification.cantRecoverMedia.title;;player.notification.cantRecoverMedia.title
+popup.gdpr.app.disagree;;Ehhez újra kell indítanod a készüléket
+popups.buttons.continueWithoutRebooting;;
+popups.buttons.rebootStb;;
+popups.cecStandBy.message;;A Vodafone TV mediaboxod most kikapcsol áram megtakarítás céljából.
+popups.deepLinkError.button;;Ok
+popups.deepLinkError.message;;Sajnáljuk, hiba történt a működés során. Kérjük, próbáld újra később!
+popups.deepLinkError.title;;Valami hiba történt
+popups.emptyChannelList.description;;
+popups.emptyChannelList.title;;
+popups.error.folderWithIncorrectApp;;Nem megfelelő alkalmazás a mappában
+popups.howToSubscribe;;Az előfizetéshez lépj kapcsolatba az Ügyfélszolgálattal (1270-es telefonszám).
+popups.networkValidation.buttons.retry;;Újrapróbál
+popups.networkValidation.misc;;Hiba lépett fel (hiba:%1 )
+popups.networkValidation.title;;Hiba lépett fel a hálózati hozzáférés validációja során
+popups.noInternetConnection.button;;Beállítások megnyitása
+popups.noInternetConnection.message;;Kérjük, ellenőrizd, az összes kábelcsatlakozást és az internetkonfigurációt. Ha a probléma továbbra is fennáll, lépj kapcsolatba az Ügyfélszolgálattal!
+popups.noInternetConnection.title;;Nem érhető el internetkapcsolat.
+popups.notEnoughBandwidth.buttons.retry;;Újrapróbál
+popups.notEnoughBandwidth.message;;A probléma megoldása érdekében, kérjük, nyomd meg az újra gombot és ellenőrizd a routert, tedd közelebb a mediaboxhoz vagy távolíts el minden akadályozó elemet a közeléből. Ha a probléma továbbra is fenn áll, hívd az ügyfélszolgálatot (06-1-288-1270).
+popups.notEnoughBandwidth.title;;Sajnáljuk, problémát észleltünk a WIFI hozzáférésedben.
+popups.powerSaving.buttons.closeThirdAppsAndAdjust;;Változtasd meg az automatikus készenléti időt
+popups.speedTest.misc;;Sebességmérés folyamatban. Le akarod állítani a mérést?
+popups.subscriptionFiltering.buttons.cancel;;Nem
+popups.subscriptionFiltering.buttons.showApp;;%1 megjelenítése
+popups.subscriptionFiltering.message;;%1 mutatása a Filmek, sorozatok menüben lévő műsorok valamint a keresési eredmények közt?
+popups.subscriptionFiltering.title;;Reméljük, tetszett az alkalmazás
+popups.update.failed;;%1 hiba: a szoftverfrissítés nem sikerült
+popups.update.success;;Sikeres frissítés
+programInfo.actionButtons.confirm;;Megerősítés
+programInfo.actionButtons.from;;-tól
+programInfo.actionButtons.listen;;Meghallgatás
+programInfo.actionButtons.noFolderSubscribe;;Előfizetés
+programInfo.actionButtons.own;;Legyen a tiéd
+programInfo.actionButtons.ownAsPPVLabel;;Legyen a tiéd %1
+programInfo.actionButtons.ownLabel;;Legyen a tiéd 1%
+programInfo.actionButtons.rentAsPPVLabel;;Kölcsönöz %1
+programInfo.actionButtons.restartLiveOn;;Újrakezdés - élő
+programInfo.actionButtons.resume;;Folytatás
+programInfo.actionButtons.subscribeLabel;;Előfizetés
+programInfo.actionButtons.subscribePrice;;Előfizetés %1
+programInfo.actionButtons.subscribeSelfcare;;Előfizetés
+programInfo.actionButtons.subscribedLabel;;Előfizettél
+programInfo.actionButtons.trailers;;Előzetesek
+programInfo.actionButtons.watchBundle;;Összes lejátszása
+programInfo.actionButtons.watchBundleIn;;Összes lejátszása: %1
+programInfo.actionButtons.watchCatchupOn;;Műsorvisszajátszó:
+programInfo.actionButtons.watchLiveOn;;Nézd élőben
+programInfo.actionButtons.watchOn;;Lejátszás 
+programInfo.actionButtons.watchSubscriptionOn;;Lejátszás: %1
+programInfo.actors.label;;Szereplők
+programInfo.badging.availableToRent;;Kölcsönözhető 
+programInfo.badging.availableToRentAndExpiration;;%1 napos kölcsönzés elérhető a következő naptól: %2
+programInfo.bundle.partOf;;%1 része
+programInfo.catchupExpiresOn;;Műsorvisszajátszón lejár: %1
+programInfo.director.label;;Rendezte
+programInfo.newPI.catchupAiredOn;;%1 napon közvetítve
+programInfo.newPI.catchupExpiresOn;;Lejár %1 óra és %2 perc múlva
+programInfo.newPI.recordedOn;;%1 felvéve
+programInfo.newPi.recordingServiceName;;Lejátszás: %1
+programInfo.partialRecordingExpiresOn;;Részleges felvétel lejárata: %1
+programInfo.purchase.disclaimer;;Nem vonható vissza, kezdődik a 48 órás kölcsönzés. A következő számlán látni fogod a részleteket.
+programInfo.recordingExpiresOn;;Felvétel lejárata: %1
+programInfo.series.special;;KÜLÖNLEGES
+rails.availableToOwn;;Megvásárolható
+rails.defaultGenreLabel;;Később meghatározandó
+rails.relatedfrom;;Még több %1
+rails.relatedto;;Hasonló ehhez: %1
+rails.rollingBuffer.title.dayOfTheMonthDateFormat;;éééé hh nn
+rails.rollingBuffer.title.today;;Még több %1
+rails.rollingBuffer.title.today-1;;Tegnap
+rails.rollingBuffer.title.today-2;;2 nappal ezelőtt
+rails.rollingBuffer.title.today-3;;3 nappal ezelőtt
+rails.rollingBuffer.title.today-4;;4 nappal ezelőtt
+rails.rollingBuffer.title.today-5;;5 nappal ezelőtt
+rails.rollingBuffer.title.today-6;;6 nappal ezelőtt
+rails.rollingBuffer.title.today-7;;7 nappal ezelőtt
+rails.subscription;;Előfizetés
+rails.title.morefrom;;%1
+recordingCancel.cancelSeries;;Sorozat rögzítésének leállítása
+recordingCancel.subtitle;;Az egész sorozat rögzítését le akarod állítani?
+recordingCancel.title;;Időzített rögzítés leállítva
+recordings.update.please.wait;;Kérjük, várj
+relatedbyactor;;Még több %1
+relatedbydirector;;%1 rendezte
+relatedbygenre;;Még több műsor ebből a műfajból
+relatedto;;Hasonló ehhez: %1
+sdk7.browse.myHome.aboutMyHome;;A főmenüről
+sdk7.browse.myHome.breadcrumbTitle;;Főmenü
+sdk7.browse.myHome.button.browseOnDemand;;Filmek, sorozatok böngészése
+sdk7.browse.myHome.button.openTvGuide;;Műsorújság megnyitása
+sdk7.browse.myHome.contentInfo;;Felvett sorozatokat, kikölcsönözhető filmeket és műsorokat vagy elmentett kedvenceket találhatsz ebben a részben. Böngéssz a Filmtárban vagy a Műsorújságban hogy felvehesd vagy kikölcsönözhesd amit csak szeretnél!
+sdk7.countrySelection.text;;Ez a választás az alkalmazás nyelvének beállításához szükséges.
+sdk7.countrySelection.title;;Kérlek válaszd ki az országod
+sdk7.epg.focusedTile.remaining;;
+sdk7.lockedPin.modal.subtitle;;
+sdk7.lockedPin.modal.title;;
+sdk7.menu.tab.onTv;;Médiatár
+sdk7.miniProgramInfo.remaining;;Hátralévő
+sdk7.miniProgramInfo.showMore;;Több információ
+sdk7.moreBucket.all;;Összes
+sdk7.pinEntry.helpLabel;;A PIN kód nem megfelelő.
+sdk7.pinEntry.success;;
+sdk7.pinEntry.success.subtitle;;
+sdk7.pinEntry.unSuccessful;;
+sdk7.pinEntry.unSuccessful.subtitle;;
+sdk7.pinEntry.verifying;;
+sdk7.programInfo.actionButtons.wishlist.add;;Kívánságlista
+sdk7.programInfo.actionButtons.wishlist.remove;;Eltávolítás a kívánságlistáról
+sdk7.programInfo.showInfo;;
+sdk7.search.noResults;;
+sdk7.search.searchResults;;
+sdk7.serieInfo.episodePrefix;;%1 epizód
+sdk7.serieInfo.episodeShortPrefix;;
+sdk7.serieInfo.seasonShortPrefix;;
+sdk7.settings;;Beállítások
+sdk7.settings.changePin.confirm;;
+sdk7.settings.changePin.confirmNewPin;;
+sdk7.settings.changePin.enterNewPin;;
+sdk7.settings.changePin.hideNewPin;;
+sdk7.settings.changePin.masterPin;;
+sdk7.settings.changePin.pinChanged.failed;;
+sdk7.settings.changePin.pinChanged.successfully;;
+sdk7.settings.changePin.pinChanged.tryAgain;;
+sdk7.settings.changePin.secondaryString;;
+sdk7.settings.changePin.showNewPin;;
+sdk7.settings.changePin.title;;
+sdk7.settings.hiddenChannels;;
+sdk7.settings.parentalControls.adultContent;;Felnőtt tartalom
+sdk7.settings.parentalControls.ageRating.pinModal.event;;
+sdk7.settings.parentalControls.ageRating.screen.description;;
+sdk7.settings.parentalControls.ageRating.screen.secondary.description;;
+sdk7.settings.parentalPurchases.locked;;
+sdk7.settings.parentalPurchases.locked.desc;;
+sdk7.settings.parentalPurchases.purchasePinState;;
+sdk7.settings.parentalPurchases.unlocked;;
+sdk7.settings.parentalPurchases.unlocked.desc;;
+sdk7.settings.pinProtection.desc;;
+sdk7.settings.pinProtection.isActivated;;
+sdk7.settings.pinProtection.isDeactivated;;
+sdk7.settings.pinProtection.pinConfirmationModal.message.activatePin;;
+sdk7.settings.pinProtection.pinConfirmationModal.message.deactivatePin;;
+sdk7.settings.pinProtection.pinConfirmationModal.title.activatePin;;
+sdk7.settings.pinProtection.pinConfirmationModal.title.deactivatePin;;
+sdk7.settings.pinProtection.pinProtection;;
+sdk7.settings.premiumChannels.hidden;;
+sdk7.settings.premiumChannels.intro;;
+sdk7.settings.premiumChannels.visible;;
+sdk7.settings.privacy.and.terms;;Adatvédelem és Felhasználási Feltételek
+sdk7.settings.privacy.consent.disagree.text;;A személyes ajánlások megjelenítéséhez szükség van a jóváhagyásodra még egyszer
+sdk7.settings.privacy.consent.disagree.title;;Biztos vagy benne?
+sdk7.settings.vodafoneTV;;Vodafone TV
+sdk7.smartTV.firstInstall.login.error.title;;Fiókproblémák?
+sdk7.watch.timestamp.live;;élő
+search.recentSearches;;Legutóbbi keresések
+search.recommendations;;Neked ajánljuk
+searchRecommendations1;;Összes
+searchRecommendations2;;Élőben most
+searchRecommendations3;;Legújabb tartalom a Műsorvisszajátszón
+serieInfo.episodeShort;;E
+serieInfo.seasonPrefix;;%1 évad
+serieInfo.seasonShort;;S
+settings.accessibility.audioLanguage.description;;
+settings.accessibility.audioLanguage.description.selected;;
+settings.accessibility.help;;Segítség
+settings.accessibility.help.description;;A Vodafone szolgáltatásokkal kapcsolatos<br/>további információért látogass el a<br/>www.vodafone.hu weboldalra, vagy lépj kapcsolatba telefonon<br/>az Ügyfélszolgálatunkkal a 1270-es telefonszámon!
+settings.alexa;;Alexa
+settings.alexa.deviceName;;Eszköz név: 
+settings.alexa.status.finished;;Sikeresen lefutott
+settings.ast.astDisableVisualScrubber;;Tekerési állapotjelző
+settings.ast.astOverrideShakaSettings;;
+settings.ast.astSettings;;
+settings.ast.astShowBackgroundProcess;;Háttérfolyamat
+settings.ast.overrideShakaSettings.items.bufferingGoal;;
+settings.ast.overrideShakaSettings.items.defaultBandwidthEstimate;;
+settings.ast.overrideShakaSettings.items.defaultPresentationDelay;;
+settings.ast.overrideShakaSettings.items.rebufferingGoal;;
+settings.ast.overrideShakaSettings.resetButton;;
+settings.ast.overrideShakaSettings.title;;
+settings.audioAndVisual.audioOutput.auto;;Automatikus
+settings.audioAndVisual.audioOutput.resetVolume;;Hangerő alaphelyzetbe állítása
+settings.audioAndVisual.audioOutput.resetVolumeInfo;;A hangerő alaphelyzetbe állításával a Vodafone TV hangereje maximális szintre áll be.<br/>Kérjük, csak abban az esetben alkalmazd, ha már a Vodafone távirányító és a TV párosítása megtörtént, a hangerő pedig túl alacsony vagy hang egyáltalán nem hallható.
+settings.audioAndVisual.audioSettings;;Audio
+settings.audioAndVisual.audioSettings.hdmi;;HDMI
+settings.audioAndVisual.audioSettings.localSpeaker;;Helyi hangszóró
+settings.audioAndVisual.soundMode;;Hang mód
+settings.audioAndVisual.soundMode.automatic;;Automatikus
+settings.audioAndVisual.soundMode.game;;Játék
+settings.audioAndVisual.soundMode.movie;;Mozi
+settings.audioAndVisual.soundMode.music;;Zene
+settings.audioAndVisual.soundMode.music.fidelity;;
+settings.audioAndVisual.soundMode.music.loud;;
+settings.audioAndVisual.soundMode.music.surround;;
+settings.audioAndVisual.soundMode.night;;Éjszakai
+settings.audioAndVisual.soundMode.off;;Ki
+settings.audioAndVisual.soundMode.sport;;Sport
+settings.audioAndVisual.soundMode.voice;;Hang
+settings.audioAndVisual.widescreen;;4:3 képkezelés
+settings.audioAndVisual.widescreen.fullmode;;Teljes képernyő
+settings.audioAndVisual.widescreen.original;;Eredeti
+settings.audioAndVisual.widescreen.zoom;;Nagyítás
+settings.audioProfile.description;;
+settings.autoDelete;;Az automatikus törlés megkezdődik a következő időzített rögzítéssel.
+settings.automaticRecordings.description;;A Vodafone TV egyik fő funkciója, hogy visszanézheted az elmúlt hét nap műsorait az engedélyezett tartalmaknál. A Műsorújságban kiválasztva vagy tévénézés közben a távirányító Fel és Le gombjainak megnyomásával közvetlenül hozzáférhetsz a Műsorvisszajátszó tartalmához. Javasoljuk, hogy a funkciót engedélyezd minden csatornán.
+settings.automaticRecordings.title;;Automatikus rögzítés
+settings.bluetooth;;Bluetooth
+settings.bluetooth.addDevice;;Eszköz hozzáadása
+settings.bluetooth.autoConnect;;Automatikus kapcsolódás
+settings.bluetooth.connect;;Csatlakoztass egy készüléket
+settings.bluetooth.connected;;Csatlakoztatva
+settings.bluetooth.connected.description;;"A fel/le gombokkal válassz ki egy készüléket. Az OK megnyomásával fel- vagy lecsatlakoztathatod az adott készüléket. Ha nem találod, a ""Készülék hozzáadása"" opcióval indíthatsz új keresést."
+settings.bluetooth.connecting;;Csatlakoztatás...
+settings.bluetooth.description;;A bluetooth eszközeid listája üres. <br> Kérjük, először adj hozzá egy eszközt a csatlakozáshoz.
+settings.bluetooth.devices;;Eszközeim
+settings.bluetooth.disconnecting;;Leválasztás...
+settings.bluetooth.otherDevices;;Más eszközök
+settings.bluetooth.pairing;;Bluetooth aktiválás
+settings.bluetooth.pairingPopup.description;;Kérlek ellenőrizd a készüléked. Ezután elérhető lesz a készülék listában.
+settings.bluetooth.pairingPopup.title;;%1 hozzáadása
+settings.bluetooth.pairingScreen.description;;A fel/le gombokkal válassz ki egy készüléket. Az OK megnyomásával fel- vagy lecsatlakoztathatod az adott készüléket.
+settings.bluetooth.refreshButton.text;;Frissítés
+settings.bluetooth.removeDevice;;Eszköz eltávolítása
+settings.bluetooth.removeScreen.description;;Válassz ki egy vagy több eszközt a távirányító OK gombjával. <br/> Erősítsd meg a választásod a készülékeid listából való eltávolításához.
+settings.bluetooth.screen.description;;Bluetoothon keresztül csatlakoztathatod eszközödet a zenehallgatáshoz.
+settings.bluetooth.screen.title;;Bluetooth kapcsolat
+settings.bluetooth.searching;;Más eszközök keresése
+settings.boxSpace;;Felvételek
+settings.cec.buttons.paired;;Párosítva
+settings.cec.buttons.unpaired;;Párosítás most
+settings.cec.paired.description;;A távirányítód párosítva van a Vodafone Mediaboxoddal, melynek segítségével szabályozni tudod annak energiafelhasználását, hangerejét, bemeneti forrását és le is némíthatod azt. <br>Amennyiben nem a távirányítóval szeretnéd szabályozni a TV-d ezen beállításait, itt megszüntetheted a távirányító párosítását
+settings.cec.paired.subtitle;;Távirányító párosításának megszüntetése
+settings.cec.title;;Távirányító
+settings.cec.unpaired.description;;Párosítsd a távirányítódat és segítségével szabályozd a a TV energiafelhasználását, hangerejét és forrását.
+settings.cec.unpaired.subtitle;;Távirányító párosítása
+settings.channelReordering.apply;;Alkalmaz
+settings.channelReordering.confirm;;Megerősít
+settings.channelReordering.multiSelection;;Több kiválasztása
+settings.channelReordering.notification.channelAllSubHidden.description;;A csatornák láthatóságának legjobb minőségének érdekében legalább egy előfizetett csatornát állíts láthatóra.
+settings.channelReordering.notification.channelAllSubHidden.title;;Csatornák nem elrejthetőek
+settings.channelReordering.notification.channelHidden.description;;A csatorna megjelenítéséhez menj be a Beállításokba és módosítsd a csatorna láthatóságát
+settings.channelReordering.notification.channelHidden.title;;%1 (%2) el van rejtve
+settings.channelReordering.notification.channelHidden.titleForAll;;Minden csatorna elrejtve
+settings.channelReordering.notification.channelUnsubHidden.description;;A nem előfizetett csatornák elrejtésének beállítása frissült
+settings.channelReordering.notification.channelUnsubHidden.title;;Kattints a nem előfizetett csatornák elrejtéséhez/megjelenítéséhez
+settings.channelReordering.notification.notSortable.description;;A választott csatornád erre a pozícióra került: %1
+settings.channelReordering.notification.notSortable.title;;Levédett csatornahely pozíció
+settings.channelReordering.reset;;Alap sorrend visszaállítása
+settings.channelReordering.reset.popup.description;;Biztos, hogy törlöd a személyre szabott csatorna beállításaidat és visszaállítod a sorrendet alap helyzetbe?
+settings.channelReordering.reset.popup.title;;Alaphelyzet visszaállítása
+settings.channelSorting.allChannels.selected;;Minden csatorna (%1 kiválasztva)
+settings.channelSorting.allChannels.unselected;;Minden csatorna
+settings.channelSorting.description;;Az elérhető csatornák sorrendjének megváltoztatásához válassz ki egy csatornát és húzd át az új helyére.<br>Léptess fel vagy le vagy üss be egy csatorna számot a csatorna megtalálásához. Nyomd meg az OK-t a csatorna kiválasztásához.
+settings.channelSorting.description.batchSelection;;Vidd a csatornát feljebb vagy lejjebb az új pozíciójába vagy használd a távirányító szám gombjait.<br><br>Nyomd meg az OK-t a beillesztéshez.
+settings.channelSorting.description.editMode;;Vidd a csatornát feljebb vagy lejjebb az új pozíciójába vagy használd a távirányító szám gombjait.<br><br>Nyomd meg az OK-t a beillesztéshez.
+settings.channelSorting.description.multiSelectionMode;;Navigálj fel vagy le vagy üss be egy csatorna számot a csatorna megtalálásához. Nyomd meg az OK-t a csatorna kiválasztásához vagy a kiválasztás törléséhez.<br><br>Miután végeztél a kiválasztással, mozgathatod a csatorná(ka)t az új helyre.
+settings.channelSorting.subtitle.customisation;;Személyreszabás
+settings.channelSorting.title;;Csatorna sorrend
+settings.channelVisibility.allChannels.visible;;Minden csatorna
+settings.channelVisibility.confirm;;Megerősít
+settings.channelVisibility.description;;Ha szeretnéd, elrejtheted a nem kívánt csatornákat.<br>Léptess fel vagy le vagy üss be egy csatorna számot a csatorna megtalálásához. Nyomd meg az OK-t a csatorna elrejtéséhez vagy megjelenítéséhez.
+settings.channelVisibility.hideAllChannels;;Legalább 1 látható csatornának kell lennie a boxon.
+settings.channelVisibility.hideUnsubscribedChannels;;Nem előfizetett csatornák elrejtése
+settings.channelVisibility.showUnsubscribedChannels;;Nem előfizetett csatornák mutatása
+settings.channelVisibility.subtitle;;Csatornák elrejtése
+settings.channelVisibility.subtitle.customisation;;Személyreszabás
+settings.channelVisibility.title;;Csatorna láthatósága
+settings.cloudRecordings;;Felhőalapú felvételek
+settings.cloudsRecordings;;Felhő felvételek
+settings.connectedDevices;;Csatlakoztatott eszközök
+settings.connectedDevices.mobilePairing;;Mobilalkalmazás
+settings.connectedDevices.remote;;Távirányító
+settings.connectedDevices.tvInput;;TV bemenet
+settings.connectedDevices.voiceAssistants;;Hangasszisztens
+settings.contentSettings;;Tartalom beállítások
+settings.developerMode;;Fejlesztői mód
+settings.fallbackDeepLink;;Ugrás a Dinamikus DeepLinkhez
+settings.frequentlyAskedQuestions;;Gyakran Ismételt Kérdések
+settings.frequentlyAskedQuestions.faqBrowser;;Válaszok keresése
+settings.informations.abrProfile;;Jelenlegi ABR-profil
+settings.informations.button.pvr;;Helyi felvétel információ
+settings.informations.buttons.nagra;;Nagra
+settings.informations.buttons.nagraStv;;Nagra
+settings.informations.buttons.pvr;;PVR
+settings.informations.casingSerialNumber;;Sorozatszám
+settings.informations.casingSerialNumber.unavailable;;Nem elérhető
+settings.informations.channelNameDVBC;;Kábelcsatorna neve
+settings.informations.channelNameDVBIP;;Csatorna neve
+settings.informations.channelNameFTTH;;Csatorna neve
+settings.informations.diskConnectState;;Lemez csatlakozási állapota
+settings.informations.diskConnectState.connected;;Csatlakoztatva
+settings.informations.diskConnectState.disconnected;;Nincs csatlakoztatva
+settings.informations.diskStatus;;Lemez állapota
+settings.informations.diskStatus.notReady;;Nincs kész
+settings.informations.diskStatus.ready;;Kész
+settings.informations.freq;;Frekvencia
+settings.informations.hdcpVersion;;HDCP verzió
+settings.informations.imei;;IMEI
+settings.informations.kdsn;;KDSN
+settings.informations.lcn;;LCN
+settings.informations.netflixEsn;;Netflix ESN
+settings.informations.nid;;Hálózati azonosító
+settings.informations.onid;;Eredeti hálózati azonosító
+settings.informations.otaUpdateProgress;;OTA frissítési folyamat
+settings.informations.ott;;Alkalmazás
+settings.informations.packetLoss;;Csomagveszteség
+settings.informations.sdkVersion;;SDK verzió
+settings.informations.sid;;Szolgáltatás azonosító
+settings.informations.signalQuality;;Minőség
+settings.informations.smartTvVersion;;Smart TV verzió
+settings.informations.snr;;SNR
+settings.informations.tsid;;Transport Stream ID
+settings.informations.updateStatus.failed;;%1: sikertelen frissítés
+settings.informations.updateStatus.success;;Sikeres
+settings.informations.uri;;URI
+settings.informations.wireless.quality;;Wi-Fi hálózat minőség ellenőrzés
+settings.language.audioLanguage;;Hangsáv
+settings.language.systemLanguage;;Rendszernyelv
+settings.language.systemLanguage.info;;Ha az Automatikus opció van kiválasztva, a Vodafone TV box nyelve a Smart TV rendszer nyelvét fogja használni, amennyiben az elérhető a boxon.
+settings.languageAndAccessibility;;Nyelv és kisegítő lehetőségek
+settings.languageAndAccessibility.audioLanguage;;Audio
+settings.languageAndAccessibility.subtitlesPreference;;Felirat preferencia
+settings.localRecordings;;Helyi felvételek
+settings.localRecordings.error;;Hiba történt a lemezről való információ olvasás közben
+settings.localRecordings.reformatDisk.notification.helpMessage;;Kérjük, vedd figyelembe, hogy minden helyi felvétel törlésre fog kerülni <br/> és nem fogod tudni visszaállítani őket!
+settings.localRecordings.reformatDisk.notification.offlineSubtitle;;
+settings.localRecordings.reformatDisk.notification.offlineTitle;;
+settings.localRecordings.reformatDisk.notification.title;;Az újraformázáshoz add meg a PIN kódodat.
+settings.logger;;Logger
+settings.logger.loggerIp;;Logger endpoint
+settings.logger.loggerModule;;Logger Module
+settings.logger.loggerType;;Logger Type
+settings.loggerIp.description;;A logok a következő IP-relesznek küldve a 8080 porton a szabálynak megfelelően
+settings.loggerIp.subtitle;;IP bevitele
+settings.loggerIp.title;;Logger IP
+settings.loggerModule.description;;A modul aktiválása lehetővé teszi, hogy több részlethez juss egy kiválasztott modulról<br/>Kérjük, vedd figyelembe, hogy ennek mellékhatása lehet, például a navigáció lassulása
+settings.loggerModule.subtitle;;Aktiváld a szükséges logot
+settings.loggerModule.title;;Log modul aktiválása
+settings.loggerType.description;;Három opció van: Böngésző: a böngésző debuggerébe átrirányít<br/> - Sagemcom MW: minden logot az MW-be küld (csak mediaboxon működik)<br/> - Websocket: átirányítja a logjaidat a Websocketen keresztül egy IP-re, amit konfigurálhatsz. <br/>Kérjük, vedd figyelembe, hogy ennek mellékhatása lehet, például a navigáció lassulása
+settings.loggerType.subtitle;;Válaszd ki a logolás helyét
+settings.loggerType.title;;Log aktiválása
+settings.network.channelScan.pleaseWait;;Csatornakeresés zajlik, kérjük várjon...
+settings.parentalControls.managePin;;PIN kód kezelése
+settings.parentalControls.options;;Korhatár besorolás
+settings.parentalControls.purchasePin;;Vásárlások
+settings.powerSaving.autoStandbyTime.2h;;2 óra
+settings.powerSaving.autoStandbyTime.4h;;4 óra
+settings.powerSaving.autoStandbyTime.8h;;8 óra
+settings.powerSaving.quickBoot.description;;Ha a hangfelismerést akarod használni vagy zenét lejátszani Bluetooth-on vagy Spotify-on keresztül készenléti üzemmódban, akkor ezt a kapcsolót KI kell kapcsolnod. <br><br> Egyéb esetben a készülék kikapcsolása után ezeket csak rövid ideig tudod megtenni.
+settings.powerSaving.remoteBooking.description;;Ha energiatakarékosan szeretnéd a készenléti üzemmódot használni, álapértelmezetten válaszd az Energiatakarékos üzemmódot. Nem lesz használható a távoli felvétel beállítás, illetve lassabban indul el a Mediabox.
+settings.powerSaving.smartStandby.active;;Aktív
+settings.powerSaving.smartStandby.active.description;;A Mediabox és TV-készülék kikapcsolása mellett is használható a hangvezérlés, Bluetooth pair and play és Spotify Connect.
+settings.powerSaving.smartStandby.energySaving;;Energiatakarékos
+settings.powerSaving.smartStandby.energySaving.description;;Ha készenléti üzemmódban kevesebb áramot akarsz fogyasztani, válaszd alapként az Energiatakarékosság üzemmódot. Így nem fogod tudni használni az Aktív/Okos Készenléti üzemmód funkciókat és a box indítása is lassabb lesz.
+settings.powerSaving.smartStandby.smartStandby;;Intelligens készenlét
+settings.powerSaving.smartStandby.smartStandby.description;;A Mediabox és TV-készülék kikapcsolása mellett is használható a hangvezérlés, Bluetooth pair and play és Spotify Connect. <br/>Az okos készenléti állapottal a fő funkciók használhatóak nappal és este, éjszaka viszont energiát takarít meg 01:00-06:00 között.
+settings.privacy;;Adatkezelés
+settings.privacy.consent;;Adatkezelési hozzájárulás
+settings.privacy.notice;;Adatkezelési tájékoztató
+settings.privacyDisclaimer;;Adatkezelési tájékoztató
+settings.privacyDisclaimer.privacy;;Adatkezelési téjékoztató
+settings.privacyDisclaimerPageTitle;;Adatkezelési tájékoztató
+settings.purchase.errorTurnOn;;A Vásárlási PIN kód aktiválásához kérjük, először kapcsold be a Gyerekzárat!
+settings.purchase.turnOff;;PIN kód kikapcsolás
+settings.purchase.turnOn;;PIN kód bekapcsolás
+settings.purchase.turnedOff;;PIN kód kikapcsolva
+settings.purchase.turnedOn;;PIN kód bekapcsolva
+settings.purchasePin;;Vásárlási PIN kód
+settings.recommendations;;Személyes ajánló
+settings.recommendations.off;;Kikapcsolás
+settings.recommendations.on;;Bekapcsolás
+settings.recording.padding.fifteen;;+15 perc
+settings.recording.padding.five;;+5 perc
+settings.recording.padding.ten;;+10 perc
+settings.recording.setPaddings.noPadding;;Nincs időráhagyás
+settings.recordings.automaticRecordings;;Automatikus rögzítés
+settings.recordings.boxSpaceLow;;A tárhelyed majdnem megtelt
+settings.recordings.buyMoreStorage;;A tárhely majdnem betelt
+settings.recordings.buyStorage;;További információk
+settings.recordings.ejectDisk;;Adathordozó eltávolítása
+settings.recordings.filterContent;;Tartalom szűrése
+settings.recordings.manage;;Felvételek kezelése
+settings.recordings.padding.none;;Nincs időráhagyás
+settings.recordings.recommendationsOptOut;;Ajánlások kikapcsolva
+settings.recordings.reformatDisk;;Lemez újraformázás
+settings.recordings.remoteBooking;;Távoli felvétel beállítás
+settings.recordings.setPadding;;Extra idő beállítása
+settings.recordings.setPadding.description;;Extra idő hozzáadása a felvételek végéhez.
+settings.recordings.setPadding.title;;Extra idő beállítása
+settings.recordings.subscribedChannels;;Előfizetéses csatornák mutatása
+settings.remote.buttons.back;;Vissza
+settings.remote.buttons.green;;Zöld
+settings.remote.buttons.info;;Távirányítóval kapcsolatos információ
+settings.remote.buttons.paired;;Párosítva
+settings.remote.buttons.tv;;TV távirányító
+settings.remote.buttons.unpaired;;Párosítás megszüntetése
+settings.remote.buttons.voice;;Információ a hangbeállításokról
+settings.remote.connectionType.BLE;;BLE
+settings.remote.info.IRCodesTableDBVersion;;?
+settings.remote.info.batteryLevelGood;;Jó
+settings.remote.info.batteryLevelLow;;Alacsony
+settings.remote.info.batteryStatus.button;;Elemtöltöttség
+settings.remote.info.batteryStatus.subtitle;;Elemtöltöttség
+settings.remote.info.bleConnection.button;;Bluetooth kapcsolat
+settings.remote.info.bluetooth;;A távirányító Bluetooth segítségével vezérli a Vodafone Mediaboxot és a hangvezérlés is engedélyezve van %1 óta. <br><br>Kérjük, tartsd lenyomva a sárga és a 3-as gombokat a távirányító párosításának megszüntetéséhez.
+settings.remote.info.buttons.firmware.button;;Firmware
+settings.remote.info.connectivityStatus.button;;Csatlakozási állapot
+settings.remote.info.connectivityStatus.subtitle;;Csatlakozási állapot
+settings.remote.info.done.button;;Vissza
+settings.remote.info.firmware.button;;Firmware
+settings.remote.info.firmware.subtitle;;Firmware
+settings.remote.info.hardwareVersion;;Hardververzió
+settings.remote.info.infrared;;A távirányító infravörös jelekkel vezérli a Vodafone Mediaboxot. 
+settings.remote.info.lastDownloadDateFirmware;;Firmware utolsó letöltési dátuma
+settings.remote.info.macAddress;;Távirányító MAC Address:
+settings.remote.info.manufacturingDate;;Gyártási dátum
+settings.remote.info.productNumber;;Termékszám
+settings.remote.info.radioFrequency;;A távirányító %1 óta rádiófrekvencia segítségével irányítja a Vodafone Mediaboxot.<br><br>A párosítás megszüntetéséhez kérjük, tartsd nyomd a sárga és a 3-as gombokat
+settings.remote.info.remoteSerialNumber;;Távirányító szériaszáma
+settings.remote.info.remoteVersion.button;;Távirányító verziószáma
+settings.remote.info.remoteVersion.subtitle;;Távirányító verziószáma
+settings.remote.info.serialNumber.button;;Szériaszám
+settings.remote.info.serialNumber.subtitle;;Szériaszám
+settings.remote.info.softwareVersion;;Szoftver verziószáma
+settings.remote.info.title;;Távirányítóval kapcsolatos információ
+settings.remote.info.version;;Verzió
+settings.remote.paired.descriptionBle;;A Hang gomb lenyomásával használhatod a Hangvezérlést. Nem kell a Vodafone Mediabox irányába tartanod a távirányítót a vezérléshez, és irányíthatod a TV-det is (válaszd ki a TV irányítás menüt).
+settings.remote.paired.descriptionIrRf;;A jobb teljesítmény érdekében távirányítód párosítása rádió frekvencia segítségével történik meg. Így nem kell többé a Vodafone Mediabox felé irányítanod a távirányítót.
+settings.remote.paired.subtitle;;Párosított távirányító
+settings.remote.remoteStatus;;Távirányító állapota
+settings.remote.retry.descriptionBle;;Sajnáljuk, hiba lépett fel a párosítás során. Kérjük, tartsd lenyomva a sárga és az 1-es gombokat 5 másodpercig
+settings.remote.retry.descriptionIrRf;;Sajnáljuk, hiba lépett fel a párosítás során. Kérjük, tartsd lenyomva a sárga és az 1-es gombokat 5 másodpercig
+settings.remote.retry.subtitle;;Távirányító párosítása
+settings.remote.title;;Távirányító állapota
+settings.remote.tvControls;;Távirányító
+settings.remote.unpaired.descriptionBle;;Párosítsd a távirányítót Bluetooth segítségével és használd a hangvezérlést a TV irányítására. A távirányítót nem szükséges a Vodafone Mediabox felé irányítanod és a TV-t is tudod vezérelni vele. <br><br>A párosításhoz kérjük, tartsd lenyomva a sárga és az 1-es gombokat 5 másodpercig
+settings.remote.unpaired.descriptionIrRf;;A jobb teljesítmény érdekében párosítsd a távirányítót rádiofrekvencia segítségével és így nem is kell többé a Vodafone Mediabox felé irányítanod azt. <br><br>A párosításhoz tartsd lenyomva a sárga és az 1-es gombokat 5 másodpercig
+settings.remote.unpaired.subtitle;;Távirányító párosítása
+settings.remoteBooking.button.standbyOptions;;Készenléti beállítások
+settings.remoteBooking.screen.text;;A felvételek távoli beállításához (pl. mobilkészülékedről) a Mediabox Készenléti állapotának bekapcsolva kell lennie. <br><br> A készenléti állapot beállítható a Mediabox Beállítások > Készenléti állapot menüpontban.
+settings.remoteBooking.screen.title;;Távoli felvétel beállítás
+settings.remoteControl;;Távirányító beállítások
+settings.selfDiagnostics.button.internetConnection;;Internetkapcsolat
+settings.selfDiagnostics.button.localStorage;;Tárhely
+settings.selfDiagnostics.button.networkConnection;;Hálózati kapcsolat
+settings.selfDiagnostics.button.remote;;Távirányító
+settings.selfDiagnostics.button.softwareUpdates;;Szoftverfrissítések
+settings.selfDiagnostics.button.tvChannels;;TV csatornák
+settings.selfDiagnostics.issuesTable.message.sdi01.01;;Eszközöd nem LAN vagy Wi-Fi hálózaton keresztül csatlakozik. Kérjük, ellenőrizd a kábelcsatlakozásokat és a hálózati beállításokat! 
+settings.selfDiagnostics.issuesTable.message.sdi01.02;;A Vodafone Mediabox nem kapott érvényes IP-címet. Kérjük, ellenőrizd az IP-cím beállításokat és állítsd alapállapotba a routert és a Vodafone Mediaboxot! 
+settings.selfDiagnostics.issuesTable.message.sdi01.03;;Gyenge Wi-Fi-jel. Kérjük, fontold meg a LAN-kábellel történő csatlakozást, vagy helyezd közelebb a vezetéknélküli routered a Vodafone Mediaboxhoz 
+settings.selfDiagnostics.issuesTable.message.sdi02.01;;A Vodafone Mediabox jelenleg nem tud csatlakozni az Internetre. Amennyiben további otthoni hálózatra csatlakoztatott eszközökön is hasonló problémát észlelsz, kérjük, lépj kapcsolatba az internet-szolgáltatóddal, mert valószínűleg általános internetszolgáltatás kiesés történt. <br />Ha a probléma csak a Vodafone Mediaboxnál lépett fel, kérjük, húzd ki, majd csatlakoztasd újra a Vodafone Mediaboxot az elektromos hálózathoz és próbálj újra csatlakozni. Ha a probléma továbbra is fennáll, kérjük, lépj kapcsolatba az Ügyfélszolgálattal!
+settings.selfDiagnostics.issuesTable.message.sdi02.02;;A Vodafone TV szolgáltatási hiba miatt jelenleg nem tud csatlakozni a Vodafone hálózathoz. Kérjük, keresd fel a Vodafone honlapját további információkért esetleges szolgáltatáskiesésről 
+settings.selfDiagnostics.issuesTable.message.sdi03.01;;Nem csatlakozik antennakábel a Vodafone Mediaboxhoz. Kérjük, ellenőrizd az antennakábel állapotát! 
+settings.selfDiagnostics.issuesTable.message.sdi03.02;;A Vodafone Mediabox érzékelte, hogy az antennakábelen érkező gyenge jel miatt rossz minőségben nézed a műsort. Kérjük, ellenőrizd az antennakábel csatlakozását és állíts a TV antenna helyzetén 
+settings.selfDiagnostics.issuesTable.message.sdi03.03;;A Vodafone Mediabox érzékelte, hogy sávszélességi vagy csatlakozási problémák miatt rossz minőségben nézed a műsort. Ennek oka lehet, hogy intenzíven használod az internetet (egyszerre több videót nézel vagy nagy fájlokat töltesz le), mellyel rontod a tévézés élményét és csökkented az elérhető sávszélességet.<br/>Ha ez az eset áll fenn, azt javasoljuk, hogy csökkentsd a sávszélesség felhasználásának intenzitását a TV nézés időtartama alatt, vagy válassz nagyobb Internet-csomagot 
+settings.selfDiagnostics.issuesTable.message.sdi04.01;;A távirányító elemei hamarosan lemerülnek. Kérjük, cseréld ki őket! 
+settings.selfDiagnostics.issuesTable.message.sdi04.02;;Ha párosítod a Vodafone TV távirányítóját a Vodafone Mediabox-szal, többé már nem kell közvetlenül az utóbbi felé tartanod a távirányítót. Akár egy szekrénybe is rakhatod a Vodafone Mediaboxot .<br />A távirányító párosítása: a Beállítások > További beállítások > Távirányító > Távirányító párosítása menüpont alatt érhető el
+settings.selfDiagnostics.issuesTable.message.sdi05.01;;Szoftverfrissítések érhetők el eszközödhöz. Kérjük, frissítsd az eszközöd, hogy kihasználhasd a legújabb funkciókat! 
+settings.selfDiagnostics.issuesTable.message.sdi06.01;;Probléma lépett fel a tárhely elérésekor, amely nem teszi lehetővé TV Megállítása funkciót.<br/>Kérjük, indítsd újra a Vodafone Mediaboxot, és a ha a probléma továbbra is fennáll, lépj kapcsolatba a műszaki támogatással!
+settings.selfDiagnostics.issuesTable.title.sdi01.01;;Nincs hálózati csatlakozás
+settings.selfDiagnostics.issuesTable.title.sdi01.02;;IP-cím nem elérhető
+settings.selfDiagnostics.issuesTable.title.sdi01.03;;Nem megfelelő Wi-Fi jelerősség
+settings.selfDiagnostics.issuesTable.title.sdi02.01;;Nem lehet csatlakozni az internetre
+settings.selfDiagnostics.issuesTable.title.sdi02.02;;Nem lehet csatlakozni a Vodafone hálózathoz
+settings.selfDiagnostics.issuesTable.title.sdi03.01;;Az antennakábel nincs csatlakoztatva
+settings.selfDiagnostics.issuesTable.title.sdi03.02;;Nem megfelelő digitális TV jel az antennakábelen
+settings.selfDiagnostics.issuesTable.title.sdi03.03;;Nem megfelelő internet adatátvitel
+settings.selfDiagnostics.issuesTable.title.sdi04.01;;Távirányító elemeinek töltöttsége alacsony
+settings.selfDiagnostics.issuesTable.title.sdi04.02;;Távirányító párosítása a Vodafone Mediabox-szal
+settings.selfDiagnostics.issuesTable.title.sdi05.01;;Frissítések elérhetőek
+settings.selfDiagnostics.issuesTable.title.sdi06.01;;Nincs hozzáférés a tárhelyhez
+settings.selfDiagnostics.noErrors;;Nem találtunk problémát a Vodafone Mediaboxnál
+settings.serviceSettings;;Szolgáltatás beállításai
+settings.showBackgroundProcess.hide;;Elrejtés
+settings.showBackgroundProcess.show;;Megjelenítés
+settings.soundAndVideo;;Hang és Video
+settings.subscriptionFiltering.allAppsHidden;;Összes alkalmazás elrejtve
+settings.subscriptionFiltering.appsHidden;;%1 alkalmazás elrejtve
+settings.subscriptionFiltering.description;;Kiválaszthatod, hogy mely alkalmazásokat kívánod elrejteni vagy megjeleníteni az alkalmazáslistában jelölve.
+settings.subscriptionFiltering.title;;Alkalmazások szűrése
+settings.systemConfigurations.bluetooth.deviceList.title;;Elérhető eszközök
+settings.systemConfigurations.bluetooth.devicePairedList.title;;Párosított eszközök
+settings.systemConfigurations.developerMode;;Fejlesztői mód
+settings.systemConfigurations.epgStbCacheStatus;;Műsorújság Vodafone Mediabox Cache állapot
+settings.systemConfigurations.epgUiCacheStatus;;Műsorújság UI Cache állapot
+settings.systemConfigurations.lastActiveStandby;;Last ActiveStandby
+settings.systemConfigurations.lastBoots;;Legutóbbi indítás
+settings.systemConfigurations.lastFullMaintenance;;Legutóbbi teljes karbantartás
+settings.systemConfigurations.lastLoginDate;;Utolsó login dátuma
+settings.systemConfigurations.lastMaintenance;;Legutóbbi karbantartás
+settings.systemConfigurations.lastMaintenanceReboot;;Legutóbbi karbantartási újraindítás
+settings.systemConfigurations.lastTechnicalDiagUpdate;;Utolsó technikai diagnosztikai frissítés
+settings.systemConfigurations.maintenanceTimeoutEvents;;Maintenance timeout MW events
+settings.systemConfigurations.mobilePairing;;Mobiltelefon párosítása
+settings.systemConfigurations.mobilePairing.concurrentPairingDenied;;Egyszerre csak egyetlen eszköz párosítható
+settings.systemConfigurations.mobilePairing.description;;Csatlakoztasd és kezeld mobil eszközeidet.<br/>Hozzákapcsolhatod előfizetésedet a mobil applikációdhoz QR kód használatával, csak válaszd ki a QR kód megjelenítését a kezdéshez.
+settings.systemConfigurations.mobilePairing.deviceList.title;;Elérhető eszközök
+settings.systemConfigurations.mobilePairing.failed;;Sikertelen
+settings.systemConfigurations.mobilePairing.failure;;Mobilod automatikus párosítása közben hiba lépett fel
+settings.systemConfigurations.mobilePairing.paired;;Párosítva
+settings.systemConfigurations.mobilePairing.pairingError;;Sikertelen párosítás
+settings.systemConfigurations.mobilePairing.pairingFailed;;Hiba lépett fel eszközöd párosítása során
+settings.systemConfigurations.mobilePairing.pairingInProgress;;Párosítás folyamatban
+settings.systemConfigurations.mobilePairing.pairingSuccessful;;Sikeres bejelentkezés az eszközön
+settings.systemConfigurations.mobilePairing.pinEntryHelpMessage;;Eszközöd ellenőrzéséhez add meg újra a fő PIN kódodat
+settings.systemConfigurations.mobilePairing.qrCodeMode.description;;A párosításhoz kérjük, olvasd be a mobileszközöddel ezt a QR kódot!
+settings.systemConfigurations.mobilePairing.qrCodeMode.subtitle;;QR kód beolvasása
+settings.systemConfigurations.mobilePairing.readyToPair;;Párosításra elérhető
+settings.systemConfigurations.mobilePairing.showQrCode;;QR kód megjelenítése
+settings.systemConfigurations.mobilePairing.subtitle;;Hálózati eszközök
+settings.systemConfigurations.mobilePairing.title;;Mobiltelefon párosítása
+settings.systemConfigurations.networkAndPlayerLogs;;Hálózati és Lejátszási naplók
+settings.systemConfigurations.networkLogsTitle;;Hálózati naplók
+settings.systemConfigurations.noMaintenanceDone;;Nem volt karbantartás
+settings.systemConfigurations.noMaintenanceTimeout;;No maintenance timeout
+settings.systemConfigurations.playerLogsTitle;;Lejátszási naplók
+settings.systemConfigurations.refreshCacheStatus;;Cache állapotának frissítése
+settings.systemConfigurations.selfDiagnostics;;Öndiagnosztika
+settings.systemConfigurations.soundBox;;Hangasszisztens
+settings.systemConfigurations.soundBox.description;;Leválaszthatod ezt az eszközt a mediaboxodról, ha már nem akarod az extra hangvezérlést használni.
+settings.systemConfigurations.soundBox.deviceList.title;;Elérhető eszközök
+settings.systemConfigurations.soundBox.disconnectDevice;;Leválasztva
+settings.systemConfigurations.soundBox.hideAlexaCards;;Rejtsd el az Alexa Kártyákat
+settings.systemConfigurations.soundBox.showAlexaCards;;Mutasd az Alexa Kártyákat
+settings.systemConfigurations.soundBox.title;;Hang asszisztensek
+settings.systemConfigurations.soundbox.audioOutput;;Audio kimenet
+settings.systemConfigurations.soundbox.audioOutput.checkOptical;;Győződj meg róla, hogy az optikai forrás ki van választva a telepítő mobilalkalmazáson.
+settings.systemConfigurations.soundbox.audioOutput.off;;Kikapcsolva
+settings.systemConfigurations.soundbox.audioOutput.off.selected;;A kikapcsoláshoz nyomd meg az OK gombot.
+settings.systemConfigurations.soundbox.audioOutput.spdifstb;;Mediabox
+settings.systemConfigurations.soundbox.audioOutput.spdifstb.selected;;Nyomd meg az OK gombot, hogy a Mediaboxod külső kimeneteként csatlakoztasd a Soundboxod.
+settings.systemConfigurations.soundbox.audioOutput.spdiftv;;TV
+settings.systemConfigurations.soundbox.audioOutput.spdiftv.selected;;Nyomd meg az OK gombot, hogy a TV-d külső kimeneteként csatlakoztasd a Soundboxod.
+settings.systemConfigurations.soundbox.audioOutput.turnedOff;;Kikapcsolva
+settings.systemConfigurations.soundbox.audioOutput.turnedOn;;Bekapcsolva
+settings.systemConfigurations.status.downloading;;Letöltés ...
+settings.systemConfigurations.status.failed;;Sikertelen
+settings.systemConfigurations.status.finished;;Sikeresen lefutott
+settings.systemConfigurations.status.ok;;OK
+settings.systemConfigurations.status.ongoing;;Folyamatban
+settings.systemConfigurations.subscriptionFiltering;;Előfizetés szűrés
+settings.systemConfigurations.technicalDiagnostics;;Műszaki diagnosztika
+settings.systemConfigurations.technicalDiagnostics.auth;;Hitelesítés
+settings.systemConfigurations.technicalDiagnostics.authNrefresh;;AuthN token frissítés
+settings.systemConfigurations.technicalDiagnostics.checkUpdate;;Frissítések keresése
+settings.systemConfigurations.technicalDiagnostics.epg;;Műsorújság frissítése
+settings.systemConfigurations.technicalDiagnostics.licencesRefresh;;Licencfrissítés
+settings.systemConfigurations.technicalDiagnostics.localMaintenance;;Helyi karbantartás
+settings.systemConfigurations.technicalDiagnostics.nagraCheckMaintenance;;Nagra karbantartás ellenőrzése
+settings.systemConfigurations.technicalDiagnostics.nagraSSPCheckMaintenance;;Nagra SSP check maintenance
+settings.systemConfigurations.technicalDiagnostics.newMaintenance;;Új karbantartás üzemmód
+settings.systemConfigurations.technicalDiagnostics.no_save_home_mcast_stats;;No save home MCast stats
+settings.systemConfigurations.technicalDiagnostics.noscan;;Beolvasás nem szükséges
+settings.systemConfigurations.technicalDiagnostics.noupdate;;Frissítés nem szükséges
+settings.systemConfigurations.technicalDiagnostics.oldMaintenance;;Korábbi karbantartás üzemmód
+settings.systemConfigurations.technicalDiagnostics.restart;;Mediabox újraindítása
+settings.systemConfigurations.technicalDiagnostics.save_home_mcast_stats;;Save home MCast stats
+settings.systemConfigurations.technicalDiagnostics.scan;;Beolvasás
+settings.systemConfigurations.technicalDiagnostics.scanStart;;Scan start
+settings.systemConfigurations.technicalDiagnostics.sendTechnical;;Műszaki adatok küldése
+settings.systemConfigurations.technicalDiagnostics.subtitle;;Utolsó karbantartási folyamat
+settings.systemConfigurations.technicalDiagnostics.update;;Mediabox frissítése
+settings.systemConfigurations.technicalOverlay;;Műszaki átfedés
+settings.technicalOverlay;;Műszaki átfedés
+settings.technicalOverlay.disable;;Kikapcsolás
+settings.technicalOverlay.enable;;Engedélyezés
+settings.tvBoxSettings;;Vodafone Mediabox Beállítások
+settings.tvChannels.currentlyFound.cable;;Megtalált csatornák: <div class='halfSummary'>Cable<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyFound.ftth;;Megtalált csatornák: <div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyHave.cable;;Jelenlegi csatornák:<div class='halfSummary'>Cable<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.currentlyHave.ftth;;Jelenlegi csatornák: <div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.showDttChannels;;Földfelszíni csatornák megjelenítése
+settings.tvChannels.weFound.cable;;Megtalált csatornák: <div class='halfSummary'>Cable<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvChannels.weFound.ftth;;Megtalált csatornák: <div class='halfSummary'>IP<div class='channelsSummary'><div>%1 TV</div><div>%2 Rádió</div></div></div><div class='halfSummary'>Internet<div class='channelsSummary'>%3 TV</div></div></div>
+settings.tvInput.auto;;Auto
+settings.tvInput.auto.description;;Válaszd ezt az opciót, hogy automatikusan beállítsd a Vodafone TV távirányítódat, hogy szabályozhasd a TV-d hangerejét, és hogy be- és kikapcsolhasd a TV-d és a Mediaboxod.
+settings.tvInput.config.power;;Áramellátás
+settings.tvInput.config.power.description;;A mediabox és a TV be- és kikapcsolása a Vodafone TV távirányítóval.
+settings.tvInput.config.volume;;Hangerő
+settings.tvInput.config.volume.description;;Válaszd ezt az opciót, hogy engedélyezd a TV-d hangerejének szabályozását a Vodafone távirányítóddal.
+settings.tvInput.deviceList;;Eszközök listája
+settings.tvInput.deviceList.availableDeviceList.description;;Bármilyen eszközt tudsz vezérelni a Vodafone TV tárvirányítóddal, ami HDMI támogatott és azon keresztül van csatlakoztatva.
+settings.tvInput.deviceList.availableDeviceList.title;;CEC Eszköz lista
+settings.tvInput.deviceList.description;;Ahhoz, hogy lásd és a Vodafone TV távirányítójával tudd váltogatni a HDMI-n keresztül csatlakoztatott eszközeidet, be kell kapcsolnod a beállításokban HDMI CEC-t
+settings.tvInput.deviceList.unavailableDeviceList.description;;Ahhoz, hogy lásd és a Vodafone TV távirányítójával tudd váltogatni a HDMI-n keresztül csatlakoztatott eszközeidet, be kell kapcsolnod a beállításokban HDMI CEC-t
+settings.tvInput.deviceList.vodafoneDevice;;Vodafone TV
+settings.tvInput.manual;;Kézi
+settings.tvInput.manual.cecSettings;;CEC beállítások
+settings.tvInput.manual.description;;Néhány TV nem támogat minden funkciót, ha problémád van, kérjük, fordulj a TV támogatáshoz. Válaszd ezt az opciót, hogy engedélyezd a TV-d hangerejének szabályozását, és a TV-d és a Mediaboxod be- és kikapcsolását a Vodafone TV távirányítóddal.
+settings.tvInput.off;;Kikapcsolva
+settings.tvInput.off.description;;Válaszd ezt az opciót a HDMI-vel csatlakoztatott TV és mediabox funkciók kikapcsolásához.
+settings.tvInput.userOff;;Kikapcsol
+settings.uiVersionOverlay;;UI verzió overlay
+settings.uiVersionOverlay.hide;;Elrejtés
+settings.uiVersionOverlay.show;;Megjelenítés
+settings.visualScrubberStatus;;Tekerési állapotjelző
+settings.visualScrubberStatus.disable;;Kikapcsolás
+settings.visualScrubberStatus.enable;;Engedélyezés
+settings.voice.channel_change.default.answer;;Csatorna váltás válasza
+settings.voice.channel_change.default.question;;Csatorna váltás
+settings.voice.navigate.default.answer;;Navigáció válasza
+settings.voice.navigate.default.question;;Navigáció 
+settings.voice.search.default.answer;;Használhatsz hang irányítást a Vodafone TV vezérléséhez. Aktiváld a hang irányítást a Voice gomb megnyomásával a távirányítón.
+settings.voice.search.default.question;;Keresés
+settings.voice.title;;Hang
+settings.voice.voiceTopics;;Hangbeállítások
+settings.voiceAssistants;;Hang asszisztensek
+settings.warning.popup.recommendationsOptOut;;A jóváhagyás hiányában lemaradsz az ajánlásokról és a többi olyan extra funkcióról, amelyek a Vodafone TV kiemelkedő ügyfélélményét biztosítják. Biztosan folytatni szeretnéd vagy Visszalépsz, hogy mégis változtass a Beállításokon?
+shopInShop.disclaimer.title;;Figyelmeztetés
+smartTV.firstInstall.buttons.clear;;Törlés
+smartTV.firstInstall.buttons.signin;;Bejelentkezés
+smartTV.firstInstall.buttons.whatsnew;;Újdonságok
+smartTV.firstInstall.incompatibleDeviceErrorScreen.title;;
+smartTV.firstInstall.login.error.description;;Kérjük, próbáld újra<br/>,vagy hívd az Ügyfélszolgálatot a 1270-es számon
+smartTV.firstInstall.login.error.title;;Probléma merült fel a fiókoddal
+smartTV.firstInstall.login.error.tooManyDevices.description;;A művelet nem sikerült: a párosított készülékek száma elérte a limitet.
+smartTV.firstInstall.login.error.tvAlreadyPaired.description;;A művelet nem sikerült, mivel a TV készülék már párosítva van.
+smartTV.firstInstall.login.fail.description;;Úgy tűnik, nem találjuk a fiókját.
+smartTV.firstInstall.login.fail.title;;Hoppá
+smartTV.firstInstall.login.nativeInput.placeholder;;Nyomd meg az OK-t a belépéshez
+smartTV.firstInstall.login.nativePassword.title;;Írd be a jelszavadat
+smartTV.firstInstall.login.nativeUsername.title;;Írd be a felhasználónevedet
+smartTV.firstInstall.login.password.description;;Jelszó
+smartTV.firstInstall.login.password.title;;Jelszó
+smartTV.firstInstall.login.success.description;;Már majdnem kész...
+smartTV.firstInstall.login.success.title;;Szuper, sikeres!
+smartTV.firstInstall.login.udid;;UDID: %1
+smartTV.firstInstall.login.username.description;;Ha már van fiókod, jelentkezz be
+smartTV.firstInstall.login.username.placeholder;;Felhasználónév megadása
+smartTV.firstInstall.login.username.title;;Felhasználónév
+smartTV.firstInstall.login.welcome.description;;Kérjük, hogy lépj be a Vodafone TV előfizetésedhez tartozó felhasználóneveddel és jelszavaddal
+smartTV.firstInstall.login.welcome.title;;Üdvözöl a Vodafone TV
+smartTV.mainMenu.watchTV;;TV nézés
+smartTV.popups.exit.message;;Biztosan ki akarsz lépni?
+smartTV.popups.exit.title;;Ezzel kilépsz a Vodafone TV-ből.
+smartTV.settings.account.logout;;Kilépés
+smartTV.settings.account.logout.popup;;Biztos, hogy ki szeretnél lépni?
+smarttv.offlineMode.buttonText;;
+smarttv.offlineMode.descriptionText;;
+smarttv.offlineMode.loadingText;;
+smarttv.offlineMode.title;;
+somethingDifferent;;Valami más
+somethingSimilar;;Valami hasonló
+sr.notification.error.authenticationError;;%1: Sajnáljuk, nem tudtunk bejelentkezni. Próbálkozzon újra később.
+sr.notification.error.device.existsInOther.households;;%1: Sajnos nem sikerült regisztrálni ezt az eszközt. Az eszköz egy másik fiókhoz van társítva.
+sr.notification.error.exceeded.limit;;%1: Sajnáljuk, elérte a fiókjában regisztrálható eszközök maximális számát. Kérjük, távolítson el egy eszközt a fiókjából.
+sr.notification.error.kaltura.service.expired;;
+sr.notification.error.kaltura.service.invalid;;
+sr.notification.error.kaltura.service.revocation;;
+sr.notification.error.notAllowed.type.device;;%1: Sajnáljuk, ez az eszköz nem kompatibilis a szolgáltatásunkkal. Kérjük, próbálkozzon újra egy másik eszközzel.
+sr.notification.error.secretCode.problem;;%1: Sajnáljuk, nem tudtunk bejelentkezni. Próbálkozzon újra később. Ennek két kulcsa van a wit dokumentumban.
+technicalOverlay.widget.label.audioBuffer;;Audio buffer
+technicalOverlay.widget.label.audioPid;;Audio PID
+technicalOverlay.widget.label.bandwidthManagement;;Sávszélesség-kezelés
+technicalOverlay.widget.label.ber;;BER
+technicalOverlay.widget.label.blackout;;Blackout
+technicalOverlay.widget.label.bufferingTime;;Buffering time
+technicalOverlay.widget.label.currentTime;;Current time
+technicalOverlay.widget.label.droppedFrames;;Dropped frames
+technicalOverlay.widget.label.errorManagement;;Hibakezelés
+technicalOverlay.widget.label.estimatedBandwidth;;Estimate bandwidth
+technicalOverlay.widget.label.frequency;;Frekvencia
+technicalOverlay.widget.label.licenseTime;;License time
+technicalOverlay.widget.label.liveLatency;;Live latency
+technicalOverlay.widget.label.loadLatency;;Load latency
+technicalOverlay.widget.label.multiaudio;;Multiaudio
+technicalOverlay.widget.label.multicastGroup;;Multicast csoport
+technicalOverlay.widget.label.packetLoss;;Csomagveszteség
+technicalOverlay.widget.label.progressBar;;Folyamat előrehaladásának állapota
+technicalOverlay.widget.label.sid;;SID
+technicalOverlay.widget.label.snr;;SNR
+technicalOverlay.widget.label.streamBandwidth;;Stream bandwidth
+technicalOverlay.widget.label.streamType;;Adatfolyam-típus
+technicalOverlay.widget.label.textBuffer;;Text buffer
+technicalOverlay.widget.label.videoBuffer;;Video buffer
+technicalOverlay.widget.label.videoPid;;Video PID
+technicalOverlay.widget.title;;Műszaki átfedés
+upnext.footer.back;;Vissza
+upnext.footer.moreEpisodes;;Többi epizód
+upnext.header.nextEpisode;;Következő epizód
+upnext.header.startingCounter;;Hamarosan kezdődik: %1
+upnextRecommendations1;;Valami hasonló
+upnextRecommendations2;;Valami más
+voice.app.changeChannel.text;;<p>Kilépés %1 Alkalmazásból és megtekintés a Vodafone TV-n</p><p>vagy %3 megkeresése a %4 Alkalmazásban</p>
+voice.app.searchNotAllowed.text;;A keresés nem lehetséges itt
+voice.interface.searchScreenAccessMessage;;Mit keresel?
+voice.interface.startMessage;;Miben segíthetünk?
+voiceChrome.interface.listening;;Hallgat...
+voiceChrome.interface.speaking;;Beszéd..
+voiceChrome.interface.thinking;;Gondolkozik...
+volume.hintHotkeyProfiles;;Némítás gomb<br> hosszan nyomása az audio profilokhoz 
+watchNext.purchase;;Vásárlás
+watchNext.recording;;Folytatás
+watchNext.rental;;Kölcsönzések
+wifi.bandwidthStatePopup.description;;A probléma megoldása érdekében, kérjük, nyomd meg az Újrapróbál gombot és ellenőrizd a routert, tedd közelebb a mediaboxhoz vagy távolíts el minden akadályozó elemet a közeléből. Ha a probléma továbbra is fenn áll, hívd az ügyfélszolgálatot (1270)
+wifi.bandwidthStatePopup.title;;Sajnáljuk, probléma lépett fel a WIFI sávszélességeddel
+wifi.buttons.tryAgain;;Újrapróbál
