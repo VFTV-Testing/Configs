@@ -43,6 +43,7 @@
 "RecordingNotPossible":"Die Aufnahme ist nicht",
 "RecordingFailed":"Aufnahme fehlgeschlagen. Bitte versuche es spÃ¤ter erneut",
 "MenuMyTVRecordingDeleteEpisode" : "Löschen",
+ "MenuMyTVRecordingDeleteCurrentEpisode" : "Losche Staffel",
 "RecordingLive":"Recording Live",
 "RecordingScheduled":"Geplante Aufnahmen",
 "DisneyLogin":"EINLOGGEN",  
