@@ -1,6 +1,7 @@
 {
 "Maintainance_Regex":"artungsneustart",
-"Successful_Maintainance_Regex":"erfolgreicher Wartungs",   
+"Successful_Maintainance_Regex":"erfolgreicher Wartungs",
+"MenuOnDemandComponentsRail":"Top-Formate des Monats",
 "MenuOnTV": "Jetzt im TV",
 "CharStringOnNow":"Jetzt im TV",
 "WatchOnFilmin": "Filmin",
