@@ -1,6 +1,7 @@
 {
 "Maintainance_Regex": "φόρτωμα συντήρησης",
-"Successful_Maintainance_Regex":"επιτυχηµένος κύκλος",  
+"Successful_Maintainance_Regex":"επιτυχηµένος κύκλος",
+"MenuOnDemandComponentsRail":"ΠΡΟΤΑΣΕΙΣ ΤΟΥ ΜΗΝΑ",
 "MenuOnTV": "Κανάλια",
 "MaintenancePostPone" : "Aναβολή",
 "WatchOnFilmin": "Filmin",
