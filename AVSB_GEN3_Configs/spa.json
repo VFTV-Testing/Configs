@@ -637,5 +637,6 @@
 "EPGScheduled": "Programado",
 "SearchTitle": "Busca películas series y mucho más",
 "EPGProtected": "Protected",
-"VODConfirm": "Pagar ahora"
+"VODConfirm": "Pagar ahora",
+"ScheduledRecordings": "Programadas"
 }
