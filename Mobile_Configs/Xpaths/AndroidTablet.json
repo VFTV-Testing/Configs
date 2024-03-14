@@ -8,7 +8,7 @@
   "PIPage_Watch": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_common_button_close_identifier']",
   "TLM_Watch": "//androidx.compose.ui.platform.t1/android.view.View/android.view.View/android.view.View[1]",
   "TLM_OnNow": "//android.widget.TextView[@text='ON NOW']",
-  "TLM_EventName": "//androidx.compose.ui.platform.t1/android.view.View/android.view.View/android.view.View[3]",
+  "TLM_EventName": "//androidx.compose.ui.platform.t1/android.view.View/android.view.View/android.widget.TextView[3]",
   "OnNow_Page": "//android.widget.TextView[@text='On Now Area']",
   "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[2]",
   "Asset_Title": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/tv_item_title']",
