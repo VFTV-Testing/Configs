@@ -7,7 +7,7 @@
   "TVGuide_OpenPIPage": "//XCUIElementTypeStaticText[@label='more info']",
   "PIPage_Watch": "//XCUIElementTypeButton[contains(@label,'Watch')]",
   "TLM_EventName": "//XCUIElementTypeStaticText[@label='On TV']/../XCUIElementTypeTextView[1]/XCUIElementTypeTextView[1]",
-  "MyHome_EventName": "//XCUIElementTypeScrollView[1]/XCUIElementTypeOther/XCUIElementTypeStaticText[2]",
+  "MyHome_EventName": "//XCUIElementTypeScrollView[@index='3']/XCUIElementTypeOther/XCUIElementTypeStaticText[2]",
   "Asset_Title": "//XCUIElementTypeOther//XCUIElementTypeNavigationBar/XCUIElementTypeStaticText",
   "Asset_StateLabel": "//*[@name='a11y_pi_badges_information_identifier']",
   "Asset_Series": "//XCUIElementTypeCollectionView/XCUIElementTypeCell[contains(@label='Translation')]",
