@@ -352,7 +352,7 @@
 "Disney": "Disney+",
 "DisneyPlay": "Play",
 "DisneyProfileText": "Quem esta a ver?",
-"Resume": "ΒΙΟΓΡΑΦΙΚΟ",
+"Resume": "Συνέχεια",
 "VodafoneTV": "VodafoneTV",
 "Chooseanoptioneng" : "Ορἰίστε µία επιλογή παρακάτω",
 "MenuSettingsEthernet": "Δίκτυο και διαδίκτυο",
@@ -624,6 +624,5 @@
 "EPGScheduled": "προβληθεί",
 "SearchTitle": "Αναζήτηση για ταινίες σειρές ηθοποιούς",
 "EPGProtected": "Protected",
-"ScheduledRecordings": "Προγραμματισμένος",
-"Resume": "Συνέχεια"
+"ScheduledRecordings": "Προγραμματισμένος"
 }
