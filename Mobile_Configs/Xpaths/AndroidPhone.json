@@ -3,6 +3,7 @@
   "NonStrictText": "//*[contains(@text,'Translation')]",
   "TVGuide_OpenEPG": "//androidx.compose.ui.platform.t1/android.view.View/android.view.View/android.view.View[3]",
   "TVGuide_OpenFirstAsset": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_tvguide_channel_container_identifier']/../following-sibling::android.view.View/android.view.View[1]",
+  "TVGuide_OpenAsset": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_tvguide_channel_container_identifier']/../following-sibling::android.view.View/android.view.View['Translation']",
   "TVGuide_LastAsset": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_tvguide_channel_container_identifier']/../following-sibling::android.view.View/android.view.View[last()]",
   "TVGuide_OpenPIPage": "//android.widget.TextView[@text='more info']",
   "PIPage_Watch": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_common_button_close_identifier']",
