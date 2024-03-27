@@ -601,7 +601,7 @@
 "MenuMyTVRecordingSeriesNotificationPI1":"Recording now",  
 "MenuMyTVRecordingSingleNotificationPI1":"Episode is scheduled",
 "AlreadyRecordedEvent":"This content is already",
-"TVGuideSingleRecordingNotification":"was scheduled",
+"TVGuideSingleRecordingNotification":"Recording was scheduled",
 "TVGuideSeriesRecordingNotification":"Previous episodes will be available",
 "TVGuideSeriesRecordingNotification1":"Previous episodes will be available",
 "MenuSettingsDeActivatePin": "Deactivate PIN",
