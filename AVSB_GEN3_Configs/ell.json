@@ -74,6 +74,7 @@
 "MenuKids": "Παιδιά",
 "Locked": "Κλειδωμένο",
 "LockedBanner": "Κλειδωμένο κανάλι",
+"LockedBannerZapBanner": "Κλειδωμένο",
 "WrongPinEntered": "Λάθος ΡΙΝ",
 "WrongPinEntered1": "Λάθος ΡΙΝ",
 "EnteredPinValidationText": "Επαλήθευση",
