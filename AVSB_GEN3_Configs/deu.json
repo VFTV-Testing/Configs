@@ -664,6 +664,7 @@
 "NetflixMemberSettings": "Member",
  "OpenPrivacySettings":"Einstellungen zu Datenschutz",
  "LockedBanner": "Sender gesperrt",
+ "LockedBannerZapBanner": "Sender",
  "NetflixSignInContinue" : "Loslegen",
  "MenuSettingsAlertModalTitle" : "Bist Du sicher?",
  "MenuSettingsAlertModalMessgae" : "Wenn Du ablehnst",
