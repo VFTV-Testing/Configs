@@ -79,6 +79,7 @@
 "SearchResultNotFound": "No se encontraron resultados",
 "Locked": "Bloqueado",
 "LockedBanner": "Canal bloqueado",
+"LockedBannerZapBanner": "Canal",
 "WrongPinEntered": "PIN incorrecto",
 "WrongPinEntered1": "PIN incorrecto",
 "EnteredPinValidationText": "Verificando",
