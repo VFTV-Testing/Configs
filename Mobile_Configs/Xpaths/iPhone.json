@@ -10,7 +10,7 @@
   "TLM_EventName": "//XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTextView[2]/XCUIElementTypeTextView[1]",
   "MyHome_EventName": "//XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeScrollView[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[2]",
   "PlaybackClose": "//XCUIElementTypeButton[@label='close_icon']",
-  "PlaybackError": "//XCUIElementTypeStaticText[@text='Playback Error']/../XCUIElementTypeStaticText[2]",
+  "PlaybackError": "//XCUIElementTypeOther/XCUIElementTypeStaticText[2]",
   "TLM_Timeline": "//XCUIElementTypeCollectionView[@index='0']",
   "TVGuide_CatchUpOpenAsset": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[Translation]",
   "PI_ProgressBar": "//XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeStaticText[contains(@label,'remaining')]",
