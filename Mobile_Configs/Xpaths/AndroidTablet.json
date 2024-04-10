@@ -1,7 +1,7 @@
 {
   "StrictText" : "//*[@text='Translation']",
   "NonStrictText": "//*[contains(@text,'Translation')]",
-  "TVGuide_OpenEPG": "//androidx.compose.ui.platform.t1/android.view.View/android.view.View/android.view.View[2]",
+  "TVGuide_OpenEPG": "//androidx.compose.ui.platform.t1/android.view.View/android.view.View/android.view.View[3]",
   "TVGuide_OpenFirstAsset": "(//android.view.View/android.widget.ProgressBar)[1]",
   "TVGuide_OpenAsset": "(//android.view.View/android.widget.ProgressBar)[Translation]",
   "TVGuide_LastAsset": "(//android.view.View/android.widget.ProgressBar)[last()]",
