@@ -7,7 +7,7 @@
   "TVGuide_LastAsset": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_tvguide_channel_container_identifier']/../following-sibling::android.view.View/android.view.View[last()]",
   "TVGuide_OpenPIPage": "//android.widget.TextView[@text='more info']",
   "PIPage_Watch": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_common_button_watch_identifier']",
-  "TLM_Watch": "//androidx.compose.ui.platform.t1/android.view.View/android.view.View/android.view.View[1]",
+  "TLM_Watch": "//androidx.compose.ui.platform.t1/android.view.View/android.view.View/android.view.View[2]",
   "TLM_EventName": "//androidx.compose.ui.platform.t1/android.view.View/android.view.View/android.widget.TextView[3]",
   "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[2]",
   "PlaybackError": "//android.widget.TextView[@text='Playback Error']/../android.widget.TextView[2]",
