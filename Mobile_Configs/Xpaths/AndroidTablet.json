@@ -12,7 +12,7 @@
   "TLM_EventName": "//androidx.compose.ui.platform.t1/android.view.View/android.view.View/android.widget.TextView[3]",
   "OnNow_Page": "//android.widget.TextView[@text='On Now Area']",
   "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[2]",
-  "PlaybackError": "//android.widget.TextView[@text='Playback Error']/../android.widget.TextView[2]",
+  "PlaybackError": "//android.widget.TextView/../android.widget.TextView[2]",
   "TLM_Timeline": "//androidx.compose.ui.platform.t1/android.view.View/android.view.View/android.view.View[3]",
   "TVGuide_CatchUpOpenAsset": "//androidx.compose.ui.platform.t1/android.view.View/android.view.View/android.widget.Button/following-sibling::android.view.View",
   "Recording_Asset": "//androidx.compose.ui.platform.t1/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[Translation]",
