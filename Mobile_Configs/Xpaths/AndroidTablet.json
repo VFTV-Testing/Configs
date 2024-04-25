@@ -21,7 +21,7 @@
   "PI_ProgressBar": "//android.widget.ScrollView/android.widget.ProgressBar",
   "PI_Back": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View[3]",
   "Player_ToLandscape": "//androidx.compose.ui.platform.s1/android.view.View/android.view.View[3]",
-  "Player_ToPortrait": "//androidx.compose.ui.platform.s1/android.view.View/android.view.View[5]",
+  "Player_ToPortrait": "//androidx.compose.ui.platform.s1/android.view.View/android.view.View[3]",
   "Player_Rewind": "//androidx.compose.ui.platform.s1/android.view.View/android.view.View[1]",
   "Player_Forward": "//androidx.compose.ui.platform.s1/android.view.View/android.view.View[3]",
   "Asset_Title": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/tv_item_title']",
