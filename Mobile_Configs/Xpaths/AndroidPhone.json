@@ -11,7 +11,7 @@
   "TLM_Watch": "//androidx.compose.ui.platform.s1/android.view.View/android.view.View[2]",
   "TLM_EventName": "//androidx.compose.ui.platform.s1/android.view.View/android.widget.TextView[3]",
   "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[2]",
-  "PlaybackError": "//android.widget.TextView[@text='Playback Error']/../android.widget.TextView[2]",
+  "PlaybackError": "//android.view.View/android.widget.TextView[2]",
   "TLM_Timeline": "//androidx.compose.ui.platform.s1/android.view.View/android.view.View[2]",
   "TVGuide_CatchUpOpenAsset": "//androidx.compose.ui.platform.s1/android.view.View/android.view.View[5]/android.view.View[Translation]",
   "Recording_Asset": "//androidx.compose.ui.platform.s1/android.view.View/android.view.View/android.view.View/android.view.View[Translation]",
