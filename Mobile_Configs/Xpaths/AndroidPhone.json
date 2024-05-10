@@ -21,7 +21,7 @@
   "Player_ToLandscape": "//o1.r1/android.view.View/android.view.View[5]",
   "Player_ToPortrait": "//o1.r1/android.view.View/android.view.View[4]",
   "Player_Rewind": "//o1.r1/android.view.View/android.view.View[1]",
-  "Player_Forward": "/o1.r1/android.view.View/android.view.View[3]",
+  "Player_Forward": "//o1.r1/android.view.View/android.view.View[3]",
   "Asset_Title": "//*[@resource-id='com.vodafone.ir.vodafonetv:id/tv_item_title']",
   "Asset_StateLabel": "//*[@resource-id='com.vodafone.ir.vodafonetv:id/tv_watch_state']",
   "Asset_Series": "//*[@resource-id='com.vodafone.ir.vodafonetv:id/tv_season']",
