@@ -10,6 +10,7 @@
   "PIPage_Resume": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_common_button_resume_identifier']",
   "TLM_Watch": "//o1.r1/android.view.View/android.view.View[2]",
   "TLM_EventName": "//o1.r1/android.view.View/android.widget.TextView[3]",
+  "MyHome_Watch": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_common_button_close_identifier']",
   "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[2]",
   "PlaybackError": "//android.view.View/android.widget.TextView[2]",
   "TLM_Timeline": "//o1.r1/android.view.View/android.view.View[2]",
