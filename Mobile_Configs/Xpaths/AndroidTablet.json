@@ -15,6 +15,7 @@
   "MyHome_Watch": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_common_button_close_identifier']",
   "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[2]",
   "PlaybackError": "//android.view.View/android.widget.TextView[2]",
+  "PlaybackClose": "//o1.r1/android.view.View/android.view.View[5]",
   "TLM_Timeline": "//o1.r1/android.view.View/android.view.View[3]",
   "TVGuide_CatchUpOpenAsset": "//o1.r1/android.view.View/android.widget.Button/following-sibling::android.view.View[Translation]",
   "Recording_Asset": "//o1.r1/android.view.View/android.view.View/android.view.View/android.view.View[Translation]",
