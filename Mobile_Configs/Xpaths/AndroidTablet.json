@@ -16,7 +16,7 @@
   "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[2]",
   "PlaybackError": "//android.view.View/android.widget.TextView[2]",
   "TLM_Timeline": "//o1.r1/android.view.View/android.view.View[3]",
-  "TVGuide_CatchUpOpenAsset": "//o1.r1/android.view.View/android.widget.Button/following-sibling::android.view.View",
+  "TVGuide_CatchUpOpenAsset": "//o1.r1/android.view.View/android.widget.Button/following-sibling::android.view.View[Translation]",
   "Recording_Asset": "//o1.r1/android.view.View/android.view.View/android.view.View/android.view.View[Translation]",
   "Asset_Back": "//o1.r1/android.view.View/android.view.View/android.view.View[2]",
   "PI_ProgressBar": "//android.widget.ScrollView/android.widget.ProgressBar",
