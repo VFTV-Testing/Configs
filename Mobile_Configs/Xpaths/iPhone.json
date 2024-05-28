@@ -2,6 +2,7 @@
   "StrictText" : "//*[@label='Translation']",
   "NonStrictText": "//*[contains(@label,'Translation')]",
   "TVGuide_OpenEPG": "//XCUIElementTypeButton[@label='arrow_up']",
+  "TVGuide_ArtWork": "//XCUIElementTypeCollectionView[2]/XCUIElementTypeCell[Translation]",
   "TVGuide_OpenFirstAsset": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[1]",
   "TVGuide_OpenAsset": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[Translation]",
   "TVGuide_LastAsset" :"(//XCUIElementTypeProgressIndicator[@visible='true'])[last()]",
