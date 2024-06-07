@@ -656,5 +656,8 @@
 "EPGProtected": "Protected",
 "MenuMyTVWatchlist": "Chci vidět",
 "Films&Series": "Filmy a seriály",
+"AmazonSubtitlesON": "Ein",
+"AmazonSubtitlesOFF": "Aus",
+"AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
 "ScheduledRecordings": "Naplánováno"
 }
