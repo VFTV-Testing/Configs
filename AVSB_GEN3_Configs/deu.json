@@ -720,5 +720,8 @@
 "SeasonNo1": "S",
 "EPGProtected": "Protected",
 "MenuSettingsAudioAndVideo": "Audio und Video",
+"AmazonSubtitlesON": "Ein",
+"AmazonSubtitlesOFF": "Aus",
+"AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
 "ScheduledRecordings": "Geplant"
 }
