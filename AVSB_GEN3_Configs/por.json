@@ -685,5 +685,8 @@
 "EPGProtected": "Protected",
 "MenuSettingContentSetting":"Definições de Conteúdo",
 "ScheduledRecordings": "Agendadas",
+"AmazonSubtitlesON": "Ein",
+"AmazonSubtitlesOFF": "Aus",
+"AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
 "ResetStartScanning": "Iniciar Pesquisa"
 }
