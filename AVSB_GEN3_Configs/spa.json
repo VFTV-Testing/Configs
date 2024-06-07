@@ -643,5 +643,8 @@
 "SearchTitle": "Busca películas series y mucho más",
 "EPGProtected": "Protected",
 "VODConfirm": "Pagar ahora",
+"AmazonSubtitlesON": "Ein",
+"AmazonSubtitlesOFF": "Aus",
+"AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
 "ScheduledRecordings": "Programadas"
 }
