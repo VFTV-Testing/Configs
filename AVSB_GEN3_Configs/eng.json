@@ -700,5 +700,8 @@
 "Remove": "Remove",
 "SearchTitle": "Search for movies TV and more",
 "EPGProtected": "Protected",
+"AmazonSubtitlesON": "Ein",
+"AmazonSubtitlesOFF": "Aus",
+"AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
 "ScheduledRecordings": "Scheduled"
 } 
