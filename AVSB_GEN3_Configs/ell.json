@@ -626,5 +626,8 @@
 "EPGScheduled": "προβληθεί",
 "SearchTitle": "Αναζήτηση για ταινίες σειρές ηθοποιούς",
 "EPGProtected": "Protected",
+"AmazonSubtitlesON": "Ein",
+"AmazonSubtitlesOFF": "Aus",
+"AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
 "ScheduledRecordings": "Προγραμματισμένος"
 }
