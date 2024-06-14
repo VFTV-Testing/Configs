@@ -19,6 +19,7 @@
   "TLM_Timeline_Guide": "//o1.r1/android.view.View/android.view.View[3]",
   "TVGuide_CatchUpOpenAsset": "//o1.r1/android.view.View/android.view.View[5]/android.view.View[Translation]",
   "TVGuide_CatchUpOpenAssetMiniGuide": "//o1.r1/android.view.View/android.view.View[6]/android.view.View[Translation]",
+  "TVGuide_Poster": "//o1.r1/android.view.View/android.view.View[4]/android.view.View[Translation]",
   "Recording_Asset": "//o1.r1/android.view.View/android.view.View/android.view.View/android.view.View[Translation]",
   "Asset_Back": "//o1.r1/android.view.View/android.view.View/android.view.View[2]",
   "PI_ProgressBar": "//android.widget.ScrollView/android.widget.ProgressBar",
