@@ -30,6 +30,8 @@
   "Player_Play": "//o1.r1/android.view.View/android.view.View[2]",
   "Player_Audio": "//o1.r1/android.view.View/android.view.View[4]",
   "Player_Lock": "//o1.r1/android.view.View/android.view.View[6]",
+  "Player_LockScreen": "//o1.r1/android.view.View/android.widget.TextView[1]",
+  "Player_Unlock": "//o1.r1/android.view.View/android.view.View[1]",
   "Player_Seekbar": "//android.widget.SeekBar",
   "Asset_Title": "//*[@resource-id='com.vodafone.ir.vodafonetv:id/tv_item_title']",
   "Asset_StateLabel": "//*[@resource-id='com.vodafone.ir.vodafonetv:id/tv_watch_state']",
