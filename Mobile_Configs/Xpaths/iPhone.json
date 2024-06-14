@@ -27,6 +27,7 @@
   "Player_Play": "//XCUIElementTypeButton[@label='play_icon']",
   "Player_Audio": "//XCUIElementTypeButton[@label='unmute_icon']",
   "Player_Lock": "//XCUIElementTypeButton[@label='lock_icon']",
+  "Player_LockScreen": "//XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeStaticText[7]",
   "Player_Unlock": "//XCUIElementTypeButton[@label='unlock_icon']",
   "Player_Seekbar": "//",
   "TLM_Settings": "//XCUIElementTypeButton[@label='cogwheel_icon']",
