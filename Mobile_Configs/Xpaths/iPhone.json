@@ -18,6 +18,7 @@
   "TLM_Timeline": "//XCUIElementTypeCollectionView[@index='0']",
   "TVGuide_CatchUpOpenAsset": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[Translation]",
   "TVGuide_CatchUpOpenAssetMiniGuide": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[Translation]",
+  "TVGuide_Poster": "//XCUIElementTypeCollectionView[2]/XCUIElementTypeCell[Translation]",
   "PI_ProgressBar": "//XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeStaticText[contains(@label,'remaining')]",
   "PI_Back": "//XCUIElementTypeButton[@label='close_icon']",
   "Event_Back": "//XCUIElementTypeButton[@label='arrow_left']",
