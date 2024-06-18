@@ -35,6 +35,7 @@
   "TLM_Settings": "//XCUIElementTypeButton[@label='cogwheel_icon']",
   "SignIn_Username": "//XCUIElementTypeTextField[@name='a11y_signin_username_field_identifier']",
   "SignIn_Password": "//XCUIElementTypeSecureTextField[@name='a11y_signin_password_field_identifier']",
+  "Settings_ParentalPIN": "//XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeButton",
   "Asset_Title": "//XCUIElementTypeOther//XCUIElementTypeNavigationBar/XCUIElementTypeStaticText",
   "Asset_StateLabel": "//*[@name='a11y_pi_badges_information_identifier']",
   "Asset_Series": "//XCUIElementTypeCollectionView/XCUIElementTypeCell[contains(@label='Translation')]",
