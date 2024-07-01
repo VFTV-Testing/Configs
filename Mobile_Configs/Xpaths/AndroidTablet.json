@@ -25,6 +25,7 @@
   "Asset_Back": "//o1.r1/android.view.View/android.view.View/android.view.View[2]",
   "PI_ProgressBar": "//android.widget.ScrollView/android.widget.ProgressBar",
   "PI_Back": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]",
+  "Event_Back": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View[2]",
   "Player_ToLandscape": "//o1.r1/android.view.View/j2.n/following-sibling::android.view.View[3]",
   "Player_ToPortrait": "//o1.r1/android.view.View/android.view.View[4]",
   "Player_Rewind": "//o1.r1/android.view.View/android.view.View[1]",
