@@ -36,6 +36,8 @@
   "Player_Unlock": "//o1.r1/android.view.View/android.view.View[1]",
   "Player_Seekbar": "//android.widget.SeekBar",
   "TLM_Settings": "//o1.r1/android.view.View/android.view.View[3]",
+  "SignIn_Username": "//android.widget.EditText[@resource-id='com.vodafone.vtv.release:id/a11y_signin_username_field_identifier']",
+  "SignIn_Password": "//android.widget.EditText[@resource-id='com.vodafone.vtv.release:id/a11y_signin_password_field_identifier']",
   "Asset_Title": "//*[@resource-id='com.vodafone.ir.vodafonetv:id/tv_item_title']",
   "Asset_StateLabel": "//*[@resource-id='com.vodafone.ir.vodafonetv:id/tv_watch_state']",
   "Asset_Series": "//*[@resource-id='com.vodafone.ir.vodafonetv:id/tv_season']",
