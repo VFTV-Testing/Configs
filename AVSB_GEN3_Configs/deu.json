@@ -723,5 +723,7 @@
 "AmazonSubtitlesON": "Ein",
 "AmazonSubtitlesOFF": "Aus",
 "AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
-"ScheduledRecordings": "Alle"
+"ScheduledRecordings": "Alle",
+"Season": "Staffel",
+"Episode": "Folge"
 }
