@@ -688,5 +688,7 @@
 "AmazonSubtitlesON": "Ein",
 "AmazonSubtitlesOFF": "Aus",
 "AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
-"ResetStartScanning": "Iniciar Pesquisa"
+"ResetStartScanning": "Iniciar Pesquisa",
+"Season": "Temporada",
+"Episode": "Episódio"
 }
