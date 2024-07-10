@@ -659,5 +659,7 @@
 "AmazonSubtitlesON": "Ein",
 "AmazonSubtitlesOFF": "Aus",
 "AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
-"ScheduledRecordings": "Naplánováno"
+"ScheduledRecordings": "Naplánováno",
+"Season": "Sezóna",
+"Episode": "Epizoda"
 }
