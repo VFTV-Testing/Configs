@@ -646,5 +646,7 @@
 "AmazonSubtitlesON": "Ein",
 "AmazonSubtitlesOFF": "Aus",
 "AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
-"ScheduledRecordings": "Programadas"
+"ScheduledRecordings": "Programadas",
+"Season": "Temporada",
+"Episode": "Episodio"
 }
