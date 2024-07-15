@@ -12,7 +12,7 @@
   "TLM_Watch": "//XCUIElementTypeButton[@name='a11y_player_ontv_identifier']",
   "TLM_EventName": "//XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTextView[2]/XCUIElementTypeTextView[1]",
   "MyHome_Watch": "//XCUIElementTypeButton[contains(@label,'Watch')]",
-  "MyHome_EventName": "//XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeScrollView[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[@label='Translation']",
+  "MyHome_EventName": "//XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeScrollView[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[contains(@label,'Translation')]",
   "PlaybackClose": "//XCUIElementTypeButton[@label='close_icon']",
   "PlaybackError": "//XCUIElementTypeStaticText[@label='Playback Error']/../XCUIElementTypeStaticText[2]",
   "TLM_Timeline": "//XCUIElementTypeCollectionView[@index='0']",
