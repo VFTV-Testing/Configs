@@ -14,7 +14,7 @@
   "TLM_EventName": "//o1.r1/android.view.View/android.widget.TextView[3]",
   "OnNow_Page": "//android.widget.TextView[@text='On Now Area']",
   "MyHome_Watch": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_common_button_close_identifier']",
-  "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[@text='Translation']",
+  "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[contains(@label,'Translation')]",
   "PlaybackError": "//android.view.View/android.widget.TextView[2]",
   "PlaybackClose": "//o1.r1/android.view.View/android.view.View[5]",
   "TLM_Timeline": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_timeline_time_indicator_identifier']",
