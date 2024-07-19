@@ -11,7 +11,7 @@
   "PIPage_Resume": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_common_button_resume_identifier']",
   "TLM_Watch": "//o1.r1/android.view.View/j2.n/following-sibling::android.view.View[1]",
   "TLM_OnNow": "//android.widget.TextView[@text='ON NOW']",
-  "TLM_EventName": "//o1.r1/android.view.View/android.widget.TextView[3]",
+  "TLM_EventName": "//o1.r1/android.view.View/android.widget.TextView[2]",
   "OnNow_Page": "//android.widget.TextView[@text='On Now Area']",
   "MyHome_Watch": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_common_button_close_identifier']",
   "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[contains(@label,'Translation')]",
