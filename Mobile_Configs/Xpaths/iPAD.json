@@ -1,6 +1,7 @@
 {
   "StrictText" : "//*[@label='Translation']",
   "NonStrictText": "//*[contains(@label,'Translation')]",
+  "TLM_Options": "//XCUIElementTypeButton[@label='Translation']",
   "VodafoneTvApp": "//XCUIElementTypeCell/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[contains(@label,'Vodafone TV')]",
   "TVGuide_OpenEPG": "//XCUIElementTypeButton[@label='arrow_up']",
   "TVGuide_ArtWork": "//XCUIElementTypeCollectionView[2]/XCUIElementTypeCell[Translation]",
