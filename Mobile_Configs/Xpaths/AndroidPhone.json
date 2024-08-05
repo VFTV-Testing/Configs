@@ -1,6 +1,7 @@
 {
   "StrictText" : "//*[@text='Translation']",
   "NonStrictText": "//*[contains(@text,'Translation')]",
+  "TLM_Options": "//android.widget.TextView[@text='Translation']/..",
   "TVGuide_OpenEPG": "//o1.r1/android.view.View/android.view.View[7]",
   "TVGuide_ArtWork": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_tvguide_channel_container_identifier'][Translation]",
   "TVGuide_OpenFirstAsset": "//*[@resource-id='com.vodafone.vtv.release:id/a11y_tvguide_channel_container_identifier']/../following-sibling::android.view.View/android.view.View[1]",
