@@ -648,5 +648,6 @@
 "AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
 "ScheduledRecordings": "Programadas",
 "Season": "Temporada",
-"Episode": "Episodio"
+"Episode": "Episodio",
+"LoginThroughQR": "Escanear código QR"
 }
