@@ -649,5 +649,6 @@
 "ScheduledRecordings": "Programadas",
 "Season": "Temporada",
 "Episode": "Episodio",
-"LoginThroughQR": "Escanear código QR"
+"LoginThroughQR": "Escanear código QR",
+"PrivacyAcceptAll": "Aceptar todo"
 }
