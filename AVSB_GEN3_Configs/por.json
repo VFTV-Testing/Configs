@@ -644,8 +644,8 @@
 "ContentSettingChannelLineUp" : "Alinhamento de canais personalizado",  
 "SubscribeHbo" : "SUBSCREVER AGORA",  
 "StartSessionCapital" : "INICIAR SESSÂO",  
-"EnterEmailHBO" : "Introduzir endereço de e-mail da conta HBO",  
-"EnterPasswordHBO" : "Introduzir palavra-passe da HBO Max", 
+"EnterEmailHBO" : "Introduzir endereço de e-mail da Max",  
+"EnterPasswordHBO" : "Introduzir palavra-passe da Max", 
 "PrivacyTermsHbo" : "GERIR PREFERÊNCIAS",
 "PrivacyTermsTitleHbo" : "Valorizamos a sua privacidade",
 "SavePreferanceHbo" : "GUARDAR PREFERÊNCIAS",
@@ -690,5 +690,6 @@
 "AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
 "ResetStartScanning": "Iniciar Pesquisa",
 "Season": "Temporada",
-"Episode": "Episódio"
+"Episode": "Episódio",
+"LoginThroughQR": "Ler o código QR"
 }
