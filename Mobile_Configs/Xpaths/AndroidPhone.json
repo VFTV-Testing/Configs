@@ -14,7 +14,7 @@
   "TLM_Watch": "//o1.r1/android.view.View/android.view.View[4]",
   "TLM_EventName": "//o1.r1/android.view.View/android.widget.TextView[2]",
   "MyHome_Watch": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_watch_identifier']",
-  "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[contains(@label,'Translation')]",
+  "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[contains(@text,'Translation')]",
   "MyHome_RecordingsRails": "//android.widget.ScrollView/android.view.View/android.widget.TextView[@text='Translation']",
   "PlaybackError": "//android.view.View/android.widget.TextView[2]",
   "PlaybackClose": "//o1.r1/android.view.View/android.view.View[5]",
