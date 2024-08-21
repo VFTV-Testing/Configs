@@ -15,7 +15,7 @@
   "TLM_OnNow": "//android.widget.TextView[@text='ON NOW']",
   "TLM_EventName": "//o1.r1/android.view.View/android.widget.TextView[2]",
   "OnNow_Page": "//android.widget.TextView[@text='On Now Area']",
-  "MyHome_Watch": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_close_identifier']",
+  "MyHome_Watch": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_watch_identifier']",
   "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[contains(@label,'Translation')]",
   "MyHome_RecordingsRails": "//android.widget.ScrollView/android.view.View/android.widget.TextView[@text='Translation']",
   "PlaybackError": "//android.view.View/android.widget.TextView[2]",
