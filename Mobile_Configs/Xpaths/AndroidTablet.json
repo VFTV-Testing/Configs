@@ -1,6 +1,7 @@
 {
   "StrictText" : "//*[@text='Translation']",
   "NonStrictText": "//*[contains(@text,'Translation')]",
+  "ParentalPin": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.widget.EditText",
   "TLM_Options": "//android.widget.TextView[@text='Translation']/..",
   "TLM_LiveDot": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_time_indicator_identifier']/following-sibling::android.view.View[1]",
   "TVGuide_OpenEPG": "//o1.r1/android.view.View/j2.n/following-sibling::android.view.View[3]",
