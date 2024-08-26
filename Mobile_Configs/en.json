@@ -2,6 +2,7 @@
 "LoginId": "atp_sa_qa_637",
 "Password": "123456",
 "PIpage_Rent":"Rent",
+"Parental_Pin_Title": "Please enter your parental control PIN",
 "PIpage_Own":"Own",
 "Videopage_Continue_watching_dialog":"Continuewatchingdialog",
 "General_Dismiss":"Dismiss",
