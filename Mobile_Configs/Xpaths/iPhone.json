@@ -39,6 +39,7 @@
   "SignIn_Password": "//XCUIElementTypeSecureTextField[@name='a11y_signin_password_field_identifier']",
   "Settings_ParentalPIN": "//XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeButton",
   "SafariTextField": "//XCUIElementTypeTextField",
+  "Settings_AgeRatings": "//*[@label='parental-rating-icon-alTranslation']",
   "Asset_Title": "//XCUIElementTypeOther//XCUIElementTypeNavigationBar/XCUIElementTypeStaticText",
   "Asset_StateLabel": "//*[@name='a11y_pi_badges_information_identifier']",
   "Asset_Series": "//XCUIElementTypeCollectionView/XCUIElementTypeCell[contains(@label='Translation')]",
