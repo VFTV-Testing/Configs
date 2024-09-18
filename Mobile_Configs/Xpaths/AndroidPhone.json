@@ -36,7 +36,7 @@
   "Player_Forward": "//o1.q1/android.view.View/android.view.View[3]",
   "Player_Play": "//o1.q1/android.view.View/android.view.View[2]",
   "Player_Audio": "//o1.q1/android.view.View/android.view.View[4]",
-  "Player_Lock": "//o1.q1/android.view.View/android.view.View[6]",
+  "Player_Lock": "//o1.q1/android.view.View/android.view.View[5]",
   "Player_LockScreen": "//o1.q1/android.view.View/android.widget.TextView[1]",
   "Player_Unlock": "//o1.q1/android.view.View/android.view.View[1]",
   "Player_Seekbar": "//android.widget.SeekBar",
