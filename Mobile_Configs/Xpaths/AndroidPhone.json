@@ -31,6 +31,7 @@
   "PI_ProgressBar": "//android.widget.ScrollView/android.widget.ProgressBar",
   "PI_Back": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]",
   "Event_Back": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View[2]",
+  "Settings_Back": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[1]",
   "Player_ToLandscape": "//o1.q1/android.view.View/android.view.View[7]",
   "Player_ToPortrait": "//o1.q1/android.view.View/android.view.View[5]",
   "Player_Rewind": "//o1.q1/android.view.View/android.view.View[1]",
