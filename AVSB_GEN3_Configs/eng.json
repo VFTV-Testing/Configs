@@ -709,5 +709,7 @@
 "Season": "Season",
 "Episode": "Episode",
 "YoutubeViews":"views",  
-"MiniPIMoreInfo": "Mehr anzeigen"  
+"MiniPIMoreInfo": "Mehr anzeigen",
+"SystemSettingsRestart": "Restart"
+  
 } 
