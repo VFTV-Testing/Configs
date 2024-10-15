@@ -21,7 +21,7 @@
   "MyHome_RecordingsRails": "//android.widget.ScrollView/android.view.View/android.widget.TextView[@text='Translation']",
   "PlaybackError": "//android.view.View/android.widget.TextView[2]",
   "PlaybackClose": "//o1.q1/android.view.View/android.view.View[5]",
-  "TLM_Timeline": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_time_indicator_identifier']",
+  "TLM_Timeline": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_container_identifier']",
   "TLM_Timeline_Guide": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_time_indicator_identifier']",
   "TVGuide_CatchUpOpenAsset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_channel_container_identifier']/../following-sibling::android.view.View/android.view.View[Translation]",
   "TVGuide_CatchUpOpenAssetMiniGuide": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tvguide_channel_container_identifier']/../following-sibling::android.view.View/android.view.View[Translation]",
