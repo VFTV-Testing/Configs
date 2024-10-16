@@ -6,7 +6,7 @@
   "TLM_Options": "//android.widget.TextView[@text='Translation']/..",
   "TLM_LiveDot": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_time_indicator_identifier']/following-sibling::android.view.View[1]",
   "TVGuide_OpenEPG": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_on_tv_expand_and_collapse_icon_identifier']",
-  "TVGuide_ArtWork": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tvguide_channel_container_identifier'][Translation]",
+  "TVGuide_ArtWork": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_channel_container_identifier'][Translation]",
   "TVGuide_OpenFirstAsset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tvguide_channel_container_identifier']/../following-sibling::android.view.View/android.view.View[1]",
   "TVGuide_OpenAsset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_channel_container_identifier']/../following-sibling::android.view.View/android.view.View[Translation]",
   "TVGuide_LastAsset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tvguide_channel_container_identifier']/../following-sibling::android.view.View/android.view.View[last()]",
