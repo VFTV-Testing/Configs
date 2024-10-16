@@ -5,7 +5,7 @@
   "Settings_AgeRatings": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[Translation]",
   "TLM_Options": "//android.widget.TextView[@text='Translation']/..",
   "TLM_LiveDot": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_time_indicator_identifier']/following-sibling::android.view.View[1]",
-  "TVGuide_OpenEPG": "//w0.w0/android.view.View/S0.p/following-sibling::android.view.View[3]",
+  "TVGuide_OpenEPG": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_container_identifier']/preceding-sibling::android.view.View[last()]",
   "TVGuide_ArtWork": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_channel_container_identifier'][Translation]",
   "TVGuide_OpenFirstAsset": "(//android.view.View/android.widget.ProgressBar)[1]",
   "TVGuide_OpenAsset": "(//android.view.View/android.widget.ProgressBar)[Translation]",
