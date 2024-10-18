@@ -708,7 +708,8 @@
 "ScheduledRecordings": "Scheduled",
 "Season": "Season",
 "Episode": "Episode",
-"YoutubeViews":"views",  
+"YoutubeViews":"views", 
+"NetflixConcurrency":"Too many people",
 "MiniPIMoreInfo": "Mehr anzeigen",
 "SystemSettingsRestart": "Restart"
   
