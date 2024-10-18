@@ -633,6 +633,7 @@
 "AmazonSubtitlesOFF": "Aus",
 "AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
 "ScheduledRecordings": "Προγραμματισμένος",
-"YoutubeViews":"προβολές",  
+"YoutubeViews":"προβολές",
+"NetflixConcurrency":"Too many people",
 "MiniPIMoreInfo": "Mehr anzeigen" 
 }
