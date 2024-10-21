@@ -735,6 +735,7 @@
 "DAZNLogin1": "Einloggen",
 "SystemSettingsRestart": "Neu starten",
 "NetflixConcurrency":"Too many people",
+"TrickModeBlocked": "Zurückspulen nicht",
 "AdText": "Anzeige",
 "WrongPINNotification": "Eine falsche PIN wurde 3-mal hintereinander eingegeben."
 }
