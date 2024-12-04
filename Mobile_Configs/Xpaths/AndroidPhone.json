@@ -42,7 +42,7 @@
   "Player_LockScreen": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_player_screen_locked_info_identifier']",
   "Player_Unlock": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_player_lock_button_identifier']",
   "Player_Seekbar": "//android.widget.SeekBar",
-  "TLM_Settings": "//w0.w0/android.view.View/android.view.View[3]",
+  "TLM_Settings": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_header_settings_entry_point_identifier']",
   "SignIn_Username": "//android.widget.EditText[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_signin_username_field_identifier']",
   "SignIn_Password": "//android.widget.EditText[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_signin_password_field_identifier']",
   "Asset_Title": "//*[@resource-id='com.vodafone.ir.vodafonetv:id/tv_item_title']",
