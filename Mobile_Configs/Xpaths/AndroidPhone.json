@@ -23,7 +23,7 @@
   "PlaybackClose": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_player_close_button_identifier']",
   "TLM_Timeline": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_container_identifier']",
   "TLM_Timeline_Guide": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_container_identifier']",
-  "TVGuide_CatchUpOpenAsset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_program_name_text_identifier']/../following-sibling::android.view.View/android.view.View[Translation]",
+  "TVGuide_CatchUpOpenAsset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_program_name_text_identifier']/../following-sibling::android.view.View[Translation]",
   "TVGuide_CatchUpOpenAssetMiniGuide": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_program_name_text_identifier']/../following-sibling::android.view.View/android.view.View[Translation]",
   "TVGuide_Poster": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_channel_container_identifier'][Translation]",
   "Recording_Asset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_content_list_row_title_identifier']/../android.view.View[Translation]",
