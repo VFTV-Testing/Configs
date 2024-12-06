@@ -32,7 +32,7 @@
   "Asset_Back": "//w0.w0/android.view.View/android.view.View/android.view.View[2]",
   "PI_ProgressBar": "//android.widget.ScrollView/android.widget.ProgressBar",
   "PI_Back": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]",
-  "Event_Back": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View[2]",
+  "Event_Back": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_generic_back_arrow_header_identifier']",
   "Settings_Back": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[1]",
   "Player_ToLandscape": "//w0.w0/android.view.View/S0.p/following-sibling::android.view.View[3]",
   "Player_ToPortrait": "//w0.w0/android.view.View/android.view.View[4]",
