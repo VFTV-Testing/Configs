@@ -738,5 +738,7 @@
 "NetflixConcurrency":"Too many people",
 "TrickModeBlocked": "für diese",
 "AdText": "Anzeige",
+"SystemSettingsScreenSaver": "Bildschirmschoner";
+"SystemSettingsScreenSaverSetTime": "Zeitpunkt festlegen";
 "WrongPINNotification": "Eine falsche PIN wurde 3-mal hintereinander eingegeben."
 }
