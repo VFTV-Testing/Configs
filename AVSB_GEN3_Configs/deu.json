@@ -740,5 +740,7 @@
 "AdText": "Anzeige",
 "SystemSettingsScreenSaver": "Bildschirmschoner",
 "SystemSettingsScreenSaverSetTime": "Zeitpunkt festlegen",
+"ScreenSaverTimeInMins": " Minuten",
+"ScreenSaverTimeInHrs": " Stunde",
 "WrongPINNotification": "Eine falsche PIN wurde 3-mal hintereinander eingegeben."
 }
