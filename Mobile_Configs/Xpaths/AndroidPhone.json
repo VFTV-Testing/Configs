@@ -13,7 +13,7 @@
   "TVGuide_OpenPIPage": "//android.widget.TextView[@text='more info']",
   "PIPage_Watch": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_watch_identifier']",
   "PIPage_Resume": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_resume_identifier']",
-  "TLM_Watch": "//w0.w0/android.view.View/android.view.View[4]",
+  "TLM_Watch": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_player_play_button_identifier']",
   "TLM_EventName": "//w0.w0/android.view.View/android.widget.TextView[2]",
   "MyHome_Watch": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_watch_identifier']",
   "MyHome_EventName": "//android.widget.ScrollView/android.widget.TextView[contains(@text,'Translation')]",
