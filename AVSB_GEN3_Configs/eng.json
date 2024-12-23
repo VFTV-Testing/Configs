@@ -647,7 +647,7 @@
 "VodafoneTV" : "Vodafone TV",
 "MenuSettingConfirmMessage" : "Confirm Energy setting",
 "NotInstalled" : "Not installed",
-"MenuMediaLibrary":"7 Day Catch Up",
+"MenuMediaLibrary":"Media Library",
 "Discover":"On Demand",  
 "MenuMediaLibraryFolder":"Collection",
 "MenuSettingsResolution":"Resolution",
@@ -713,7 +713,7 @@
 "NetflixConcurrency":"Too many people",
 "TrickModeBlocked": "available",
 "MiniPIMoreInfo": "More Info",
-"MenuMediaLibrary1": "7 Day Catch Up", 
+"MenuMediaLibrary1": "Media Library", 
 "MenuOnDemand1 ": "Discover",
 "SystemSettingsRestart": "Restart"
   
