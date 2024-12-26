@@ -34,6 +34,8 @@
 "Documentaries" : "Documentaries",
 "Recently Added" : "Recently Added",
 "Popular": "POPULAR",
+"PauseNotification": "Playback was Paused",
+"ResumeNotification": "Playback resumed",
 "Series" : "Series",
 "Entertainment" : "Entertainment",
 "Sports": "Sports",
