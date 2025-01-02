@@ -742,5 +742,7 @@
 "SystemSettingsScreenSaverSetTime": "Zeitpunkt festlegen",
 "ScreenSaverTimeInMins": " Minuten",
 "ScreenSaverTimeInHrs": " Stunde",
-"WrongPINNotification": "Eine falsche PIN wurde 3-mal hintereinander eingegeben."
+"WrongPINNotification": "Eine falsche PIN wurde 3-mal hintereinander eingegeben.",
+ "MenuSettingsDisplaySettings": "",
+ "MenuSettingsAudio": ""
 }
