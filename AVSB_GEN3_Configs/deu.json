@@ -743,6 +743,6 @@
 "ScreenSaverTimeInMins": " Minuten",
 "ScreenSaverTimeInHrs": " Stunde",
 "WrongPINNotification": "Eine falsche PIN wurde 3-mal hintereinander eingegeben.",
- "MenuSettingsDisplaySettings": "",
- "MenuSettingsAudio": ""
+ "MenuSettingsDisplaySettings": "Anzeigeeinstellungen",
+ "MenuSettingsAudio": "Audioeinstellungen"
 }
