@@ -743,6 +743,7 @@
 "ScreenSaverTimeInMins": " Minuten",
 "ScreenSaverTimeInHrs": " Stunde",
 "WrongPINNotification": "Eine falsche PIN wurde 3-mal hintereinander eingegeben.",
- "MenuSettingsDisplaySettings": "Anzeigeeinstellungen",
- "MenuSettingsAudio": "Audioeinstellungen"
+"MenuSettingsDisplaySettings": "Anzeigeeinstellungen",
+"Error9Disney":"Fehlercode 9",
+"MenuSettingsAudio": "Audioeinstellungen"
 }
