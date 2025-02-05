@@ -51,5 +51,6 @@
 "ScreensignInEMAIL" : "Enter Your Email",
 "ScreensignInPASSWORD" : "Please type in your password",
 "DetailsPageOptions":"Options",
-"DetailsPageSwitchChannels":"Swich Channels"
+"DetailsPageSwitchChannels":"Swich Channels",
+"CurrentPin":"Current Pin"
 }
