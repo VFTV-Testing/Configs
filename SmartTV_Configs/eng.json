@@ -53,5 +53,7 @@
 "DetailsPageOptions":"Options",
 "DetailsPageSwitchChannels":"Swich Channels",
 "CurrentPin":"Current Pin",
-"ForYou":"ForYou"
+"ForYou":"ForYou",
+"IncorrectPin":"IncorrectPin"
+  
 }
