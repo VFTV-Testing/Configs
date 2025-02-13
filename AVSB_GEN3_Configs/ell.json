@@ -1,5 +1,7 @@
 {
 "Maintainance_Regex": "φόρτωμα συντήρησης",
+"Maintainance_Last_Fail": "ο Τελευταίος αποτυχηµένος κύκλος συντήρηση;",
+"Maintainance_Last_Boot": "ο Τελευταίο φόρτωμα συντήρησης",
 "Successful_Maintainance_Regex":"επιτυχηµένος κύκλος",
 "MenuOnDemandComponentsRail":"VODAFONE TV",
 "OnDemandMoreBucketRail": "VODAFONE TV",
