@@ -7,8 +7,8 @@
 "MenuOnDemand":"On Demand",
 "MenuTV": "TV",
 "MenuEPG": "EPG",
-"Menusettings": "settings",
-"SettingsParentalControl":"Parental control",
+"Menusettings": "Settings",
+"SettingsParentalControl":"Parental Control",
 "SettingsLanguage": "Change language",
 "SettingsManagePin" :"Manage PIN",
 "SettingsChannelslineup": "Channels lineup",
@@ -58,6 +58,9 @@
 "DisableParentalcontrol":"Disable Parentalcontrol",
 "ChangePincode":"Change Pin code",
 "ForgetPincode":"Forget Pin code",
-"MoreInfo":"More info"
+"MoreInfo":"More info",
+"DisableParentalControlNotification":"Disable Parental Control",
+"Yes":"Yes",
+"NO":"No"
   
 }
