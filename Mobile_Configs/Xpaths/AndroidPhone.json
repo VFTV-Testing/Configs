@@ -13,7 +13,7 @@
   "TLM_Settings": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_header_settings_entry_point_identifier']",
   "TLM_Timeline": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_container_identifier']",
   "TLM_Timeline_Guide": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_container_identifier']",
-  "TLM_EventName": "//w0.w0/android.view.View/android.widget.TextView[2]",
+  "TLM_EventName": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_my_home_content_title_identifier']",
   "TVGuide_OpenEPG": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_on_tv_expand_and_collapse_icon_identifier']",
   "TVGuide_ArtWork": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_channel_container_identifier'][Translation]",
   "TVGuide_OpenFirstAsset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tvguide_channel_container_identifier']/../following-sibling::android.view.View/android.view.View[1]",
