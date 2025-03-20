@@ -17,7 +17,7 @@
   "TVGuide_OpenAsset": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[Translation]",
   "TVGuide_LastAsset" :"(//XCUIElementTypeProgressIndicator[@visible='true'])[last()]",
   "TVGuide_OpenPIPage": "//XCUIElementTypeStaticText[@label='more info']",
-  "PIPage_Watch": "//XCUIElementTypeButton[contains(@name,'Watch,')]",
+  "PIPage_Watch": "//XCUIElementTypeStaticText[@label='Watch']/preceding-sibling::XCUIElementTypeButton",
   "PIPage_Resume": "//XCUIElementTypeButton[@label='Resume']",
   "PIPage_record": "//XCUIElementTypeButton[@label='Record']",
   "PIPage_record_series": "//XCUIElementTypeButton[@label='Record Series']",
