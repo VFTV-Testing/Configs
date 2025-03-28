@@ -1,7 +1,7 @@
 {
 "Maintainance_Regex":"ast Maintenance Boot",
-"Maintainance_Last_Fail":"Last Failed Maintenance Cycle:",
-"Maintainance_Last_Boot":"Last Maintenance Boot:",
+"Maintainance_Last_Fail":"Failed Maintenance",
+"Maintainance_Last_Boot":"Maintenance Bo",
 "Successful_Maintainance_Regex":"ast Successful Maintenance Cycle",
 "MenuOnTV": "On TV",
 "MaintenancePostPone" : "Postpone",
