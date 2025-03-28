@@ -1,7 +1,7 @@
 {
 "Maintainance_Regex": "por mantenimiento",
-"Maintainance_Last_Fail":"Último mantenimiento fallido:",
-"Maintainance_Last_Boot":"Último arranque por mantenimiento",
+"Maintainance_Last_Fail":"mantenimiento fall",
+"Maintainance_Last_Boot":"arranque por mant",
 "Successful_Maintainance_Regex":"mantenimiento con",
 "MenuOnDemandComponentsRail":"Cine de alquiler",
 "MenuOnTV": "Canales",
