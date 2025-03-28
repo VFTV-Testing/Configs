@@ -1,7 +1,7 @@
 {
 "Maintainance_Regex":"restarto",
-"Maintainance_Last_Fail":"Poslední neúspěšný cyklus údržby:",
-"Maintainance_Last_Boot":"Poslední restartování za účelem údržby",
+"Maintainance_Last_Fail":"neúspěšný cyklus",
+"Maintainance_Last_Boot":"restartování za účelem",
 "Successful_Maintainance_Regex":"provedený cyklus",
 "MenuOnDemandComponentsRail":"Nejnovější",
 "MenuOnTV":"Právě běží",
