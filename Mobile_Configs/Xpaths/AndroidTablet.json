@@ -35,7 +35,7 @@
   "TVGuide_CatchUpOpenAsset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_program_name_text_identifier']/../following-sibling::android.view.View[Translation]",
   "TVGuide_CatchUpOpenAssetMiniGuide": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_program_name_text_identifier']/../following-sibling::android.view.View[Translation]",
   "TVGuide_Poster": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_channel_container_identifier'][Translation]",
-  "Recording_Asset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_content_list_row_title_identifier']/../android.view.View[Translation]",
+  "Recording_Asset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_content_list_row_image_identifier'][Translation]",
   "Asset_Back":"//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_generic_modal_header_close_icon_identifier']",
   "PI_ProgressBar": "//android.widget.ScrollView/android.widget.ProgressBar",
   "PI_Back": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]",
