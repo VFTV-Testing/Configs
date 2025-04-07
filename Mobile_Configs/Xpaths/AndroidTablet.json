@@ -51,6 +51,7 @@
   "Player_LockScreen": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_player_screen_locked_info_identifier']",
   "Player_Unlock": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_player_lock_button_identifier']",
   "Player_Seekbar": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_player_progress_bar_identifier']",
+  "Player_Start_Time": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_player_progress_time_side_right_identifier' and (starts-with(@text,"00:") or starts-with(@text,"01:") or starts-with(@text,"02:"))][1]",
   "SignIn_Username": "//android.widget.EditText[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_signin_username_field_identifier']",
   "SignIn_Password": "//android.widget.EditText[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_signin_password_field_identifier']",
   "xxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
