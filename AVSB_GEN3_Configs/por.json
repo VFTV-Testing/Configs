@@ -1,7 +1,7 @@
 {
 "Maintainance_Regex":"Última reinicialização de manutenção",
 "Maintainance_Successful_Boot":"Última manutenção com sucesso:",
-"Maintainance_Last_Fail":"Última manutenção sem sucesso:",
+"Maintainance_Last_Fail":"manutenção sem sucesso:",
 "Maintainance_Last_Boot":"Última reinicialização de manutenção:",
 "Successful_Maintainance_Regex":"com sucesso",
 "MenuOnTV": "No Ar Agora",
