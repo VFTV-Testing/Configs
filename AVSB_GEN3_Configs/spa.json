@@ -1,7 +1,7 @@
 {
 "Maintainance_Regex": "por mantenimiento",
 "Maintainance_Successful_Boot":"Último mantenimiento con éxito:",
-"Maintainance_Last_Fail":"Último mantenimiento fallido:",
+"Maintainance_Last_Fail":"mantenimiento fallido:",
 "Maintainance_Last_Boot":"Último arranque por mantenimiento:",
 "Successful_Maintainance_Regex":"mantenimiento con",
 "MenuOnDemandComponentsRail":"Cine de alquiler",
