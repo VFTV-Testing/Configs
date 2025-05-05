@@ -49,6 +49,7 @@
   "Player_Seekbar": "//",
   "SignIn_Username": "//XCUIElementTypeTextField[@name='a11y_signin_username_field_identifier']",
   "SignIn_Password": "//XCUIElementTypeSecureTextField[@name='a11y_signin_password_field_identifier']",
+  "SignIn_Welcome": "//XCUIElementTypeButton[contains(@label,'Sign in')]",
   "Settings_ParentalPIN": "//XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeButton",
   "SafariTextField": "//XCUIElementTypeTextField",
   "Settings_AgeRatings": "//*[@label='parental-rating-icon-alTranslation']",
