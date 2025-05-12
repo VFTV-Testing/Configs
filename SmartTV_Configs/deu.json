@@ -57,5 +57,6 @@
     "LockedContent": "Gesperrter Inhalt",
     "Yes": "Ja",
     "NO": "Nein",
-    "ExitPopUp":"GigaTV"
+    "ExitPopUp":"GigaTV",
+    "ChannelFilterList" : "['Alle Kanale', 'Hauptsender', 'Public Value', 'Filme & TV Shows', 'Kinder', 'Dokus & News', 'Regional', 'Sports', 'Musik', 'Shopping', 'International']"
 }
