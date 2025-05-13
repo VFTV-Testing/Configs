@@ -13,6 +13,7 @@
   "TLM_Timeline": "//XCUIElementTypeCollectionView[@index='0']",
   "TLM_Settings": "//XCUIElementTypeButton[@label='cogwheel_icon']",
   "TVGuide_OpenEPG": "//XCUIElementTypeButton[@label='arrow_up']",
+  "TVGuide_Verification": "//*[@name='a11y_program_item_primary_label' and @visible='true']",
   "TVGuide_ArtWork": "//XCUIElementTypeCollectionView[2]/XCUIElementTypeCell[Translation]",
   "TVGuide_OpenFirstAsset": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[1]",
   "TVGuide_OpenAsset": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[Translation]",
