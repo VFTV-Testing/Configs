@@ -15,6 +15,7 @@
   "TLM_Timeline_Guide": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_container_identifier']",
   "TLM_EventName": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_on_tv_content_information_text_identifier']/android.widget.TextView",
   "TVGuide_OpenEPG": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_on_tv_expand_and_collapse_icon_identifier']",
+  "TVGuide_Verification": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_program_name_text_identifier' and @displayed='true']",
   "TVGuide_ArtWork": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_channel_container_identifier'][Translation]",
   "TVGuide_OpenFirstAsset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tvguide_channel_container_identifier']/../following-sibling::android.view.View/android.view.View[1]",
   "TVGuide_OpenAsset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_channel_container_identifier']/../following-sibling::android.view.View/android.view.View[Translation]",
