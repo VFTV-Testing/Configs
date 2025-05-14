@@ -2,7 +2,7 @@
   "StrictText" : "//*[@label='Translation']",
   "NonStrictText": "//*[contains(@label,'Translation')]",
   "TLM_Options": "//XCUIElementTypeButton[@label='Translation']",
-  "TLM_LiveDot": "//",
+  "TLM_LiveDot": "//XCUIElementTypeButton[@name='a11y_timeline_live_indicator_pointer_identifier']",
   "TLM_Watch": "//XCUIElementTypeButton[@label='play_icon']",
   "TLM_OnTV": "//XCUIElementTypeButton[@label='On TV']",
   "TLM_Home": "//XCUIElementTypeButton[@label='My Home']",
