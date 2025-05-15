@@ -54,6 +54,8 @@
   "Settings_ParentalPIN": "//XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeButton",
   "SafariTextField": "//XCUIElementTypeTextField",
   "Settings_AgeRatings": "//*[@label='parental-rating-icon-alTranslation']",
+  "Trickmode_Disabled": "//*[contains(@label,'Controls are restricted')]",
+  "Landscape_bounds": "//XCUIElementTypeApplication[@width='844']",
   "xxxxxxxxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "Asset_Title": "//XCUIElementTypeOther//XCUIElementTypeNavigationBar/XCUIElementTypeStaticText",
   "Asset_StateLabel": "//*[@name='a11y_pi_badges_information_identifier']",
