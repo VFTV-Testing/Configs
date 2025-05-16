@@ -48,6 +48,8 @@
   "Player_Unlock": "//XCUIElementTypeButton[@label='unlock_icon']",
   "Player_Start_Time": "//XCUIElementTypeStaticText[@name='a11y_player_fullscreen_identifier' and (starts-with(@label,'00:') or starts-with(@label,'01:') or starts-with(@label,'02:'))][1]",
   "Player_Seekbar": "//",
+  "Player_ToLandscape": "//XCUIElementTypeImage[@label='fullscreen_icon' and @visible='true']",
+  "Player_ToPortrait": "//XCUIElementTypeButton[@label='minimise_icon' and @visible='true']",
   "SignIn_Username": "//XCUIElementTypeTextField[@name='a11y_signin_username_field_identifier']",
   "SignIn_Password": "//XCUIElementTypeSecureTextField[@name='a11y_signin_password_field_identifier']",
   "SignIn_Welcome": "//XCUIElementTypeButton[contains(@label,'Sign in')]",
