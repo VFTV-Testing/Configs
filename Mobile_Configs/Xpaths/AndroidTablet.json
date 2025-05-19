@@ -58,6 +58,8 @@
   "SignIn_Password": "//android.widget.EditText[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_signin_password_field_identifier']",
   "Trickmode_Disabled": "//*[contains(@text,'Controls are restricted')]",
   "Landscape_bounds": "//androidx.compose.ui.viewinterop.ViewFactoryHolder[contains(@bounds,'[2560,1498]')]",
+  "Search_Event_Verify": "//android.widget.TextView[@text='Translation']",
+  "Search_Event_Open": "//android.widget.TextView[@text='Translation']/../..",
   "xxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "Asset_Title": "//*[@resource-id='com.vodafone.ir.vodafonetv:id/tv_item_title']",
   "Asset_StateLabel": "//*[@resource-id='com.vodafone.ir.vodafonetv:id/tv_watch_state']",
