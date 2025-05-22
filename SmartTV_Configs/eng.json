@@ -77,7 +77,8 @@
 "NO":"No",
 "ExitPopUp":"Vodafone TV",
 "ChannelFilterList" : "All Channels, Sports, Five thousand, SD, HD, Entertainment, Category8, Category9, Category10",
-"ManageChannels":"ManageChannels",
-"ReorderChannels":"ReorderChannels"
+"SettingsManageChannels":"Manage Channels",
+"SettingsReorderChannels":"ReorderChannels",
+"SettingsLockChannels":"LockChannels"
 
 }
