@@ -59,5 +59,8 @@
     "NO": "Nein",
     "ExitPopUp":"GigaTV",
     "Continuewatching":"Weiterschauen",
-    "ChannelFilterList" : "Alle Kanale, Hauptsender, Public Value, Filme & TV Shows, Kinder, Dokus & News, Regional, Sports, Musik, Shopping, International"
+    "ChannelFilterList" : "Alle Kanale, Hauptsender, Public Value, Filme & TV Shows, Kinder, Dokus & News, Regional, Sports, Musik, Shopping, International",
+    "SettingsManageChannels":"Sender verwallen",
+    "SettingsReorderChannels":"Sender umsortieren",
+    "SettingsLockChannels":"Sender sperren"
 }
