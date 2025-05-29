@@ -641,6 +641,7 @@
 "MenuSettingsVodafoneAppsSettings":"Sendersuchlauf & Systeminformationen",
 "SettingsGeneralInfo":"Allgemein",
 "MenuSettingsDisplayWhenWatching" : "Automatisches Ausschalten",
+"MenuSettingsDisplayWhenWatchingGEN4" : "Beim Zuschauen",
 "MenuSettingenergySaver" : "Stromversorgung und Energie",
 "MenuSettingenergySaverGEN4" : "Timer zum Ausschalten",
 "MenuSettingTurnOffDisplay" : "Automatisches",
