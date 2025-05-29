@@ -616,6 +616,7 @@
 "MenuSettingsDevicePreference": "Geräteeinstellungen",
 "MenuSettingsAudioProcessing": "Audio processing",
 "MenuSettingsDisplayWhenInactive" : "Automatisches Ausschalten",
+"MenuSettingsDisplayWhenInactiveGEN4" : "Bei Inaktivität",
 "MenuSettingsAbout": "Info",
 "AndroidTvOsBuild": "Android TV-Betriebssystem-Build",
 "AmazonPrimeTLM":"prime video",
