@@ -1,7 +1,7 @@
 {
 "Maintainance_Regex":"restarto",
 "Maintainance_Successful_Boot":"Posledni Uspésné provedeny cyklus Gdrzby:",
-"Maintainance_Last_Fail":"netspésny cyklus drzby:",
+"Maintainance_Last_Fail":"neúspěšný cyklus údržby:",
 "Maintainance_Last_Boot":"Posledni restartovani za Géelem Udrzby:",
 "Successful_Maintainance_Regex":"provedený cyklus",
 "MenuOnDemandComponentsRail":"Nejnovější",
