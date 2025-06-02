@@ -82,5 +82,7 @@
 "SettingsManageChannels":"Manage Channels",
 "SettingsReorderChannels":"Reorder Channels",
 "SettingsLockChannels":"Lock Channels",
-"SettingsResetList":"Reset"
+"SettingsResetList":"Reset",
+"RecordingsRail":"Recordings",
+"BookingsRail":"Bookings"
 }
