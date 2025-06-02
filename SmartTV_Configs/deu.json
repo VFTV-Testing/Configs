@@ -66,5 +66,7 @@
     "SettingsManageChannels":"Sender verwallen",
     "SettingsReorderChannels":"Sender umsortieren",
     "SettingsLockChannels":"Sender sperren",
-    "SettingsResetList":"zurucksetzen"
+    "SettingsResetList":"zurucksetzen",
+    "RecordingsRail":"Aufnahmen",
+    "BookingsRail":"Geplante Aufnahmen"
 }
