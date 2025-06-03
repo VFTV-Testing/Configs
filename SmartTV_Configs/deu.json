@@ -1,6 +1,6 @@
 {
     "MenuWatchNow": "Jetzt ansehen",
-    "DetailsPageWatch": "Weiterschauen",
+    "DetailsPageWatch": "Anschauen",
     "DetailPageResume": "Fortsetzen",
     "MenuRecordings": "Aufnahmen",
     "WatchCatuchUpOn": "Weiterschauen",
@@ -61,7 +61,7 @@
     "Yes": "Ja",
     "NO": "Nein",
     "ExitPopUp":"GigaTV",
-    "Continuewatching":"Weiterschauen",
+    "Continuewatching":"Anschauen",
     "ChannelFilterList" : "Alle Kanale, Hauptsender, Public Value, Filme & TV Shows, Kinder, Dokus & News, Regional, Sports, Musik, Shopping, International",
     "SettingsManageChannels":"Sender verwallen",
     "SettingsReorderChannels":"Sender umsortieren",
@@ -70,6 +70,5 @@
     "RecordingsRail":"Aufnahmen",
     "BookingsRail":"Geplante Aufnahmen",
     "ScheduleRecording": "Aufnehmen",
-    "CancelRecording":"Abbrechen",
-    "Watch":"Anschauen"
+    "CancelRecording":"Abbrechen"
 }
