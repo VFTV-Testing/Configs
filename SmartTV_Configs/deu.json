@@ -68,5 +68,7 @@
     "SettingsLockChannels":"Sender sperren",
     "SettingsResetList":"zurucksetzen",
     "RecordingsRail":"Aufnahmen",
-    "BookingsRail":"Geplante Aufnahmen"
+    "BookingsRail":"Geplante Aufnahmen",
+    "ScheduleRecording": "Aufnehmen",
+    "CancelRecording":"Abbrechen"
 }
