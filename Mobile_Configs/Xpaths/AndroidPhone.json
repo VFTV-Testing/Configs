@@ -11,6 +11,7 @@
   "TLM_Watch": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_player_play_button_identifier']",
   "TLM_Search": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_header_search_entry_point_identifier']",
   "TLM_Settings": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_header_settings_entry_point_identifier']",
+  "TLM_Filter": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/null']",
   "TLM_Timeline": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_container_identifier']",
   "TLM_Timeline_Guide": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_container_identifier']",
   "TLM_EventName": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_program_name_text_identifier']/android.widget.TextView",
