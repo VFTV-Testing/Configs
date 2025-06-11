@@ -12,6 +12,7 @@
   "TLM_OnDemand": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tab_bar_on_demand_identifier']",
   "TLM_EventName": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_tv_guide_program_name_text_identifier']/android.widget.TextView",
   "TLM_Settings": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_header_settings_entry_point_identifier']",
+  "TLM_Filter": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/null']",
   "TLM_Timeline": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_container_identifier']",
   "TLM_Timeline_Guide": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_container_identifier']",
   "TVGuide_OpenEPG": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_timeline_container_identifier']/preceding-sibling::android.view.View[last()]",
