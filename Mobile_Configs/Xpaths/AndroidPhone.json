@@ -60,6 +60,7 @@
   "Landscape_bounds": "//androidx.compose.ui.platform.ComposeView[contains(@bounds,'[2106,1079]')]",
   "Search_Event_Verify": "//android.widget.TextView[@text='Translation']",
   "Search_Event_Open": "//android.widget.TextView[@text='Translation']/../..",
+  "Channel_Filters": "(//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_preview_identifier']/..)[Translation]",
   "xxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "Asset_Title": "//*[@resource-id='com.vodafone.ir.vodafonetv:id/tv_item_title']",
   "Asset_StateLabel": "//*[@resource-id='com.vodafone.ir.vodafonetv:id/tv_watch_state']",
