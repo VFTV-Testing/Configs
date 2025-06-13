@@ -72,6 +72,5 @@
     "RecordingsRail":"Aufnahmen",
     "BookingsRail":"Geplante Aufnahmen",
     "ScheduleRecording": "Aufnehmen",
-    "CancelRecording":"Abbrechen",
-    "CancelRecordingMessage":"Serienaufnahme abbrechen"
+    "CancelRecording":"Abbrechen"
 }
