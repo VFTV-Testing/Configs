@@ -671,7 +671,7 @@
 "MenuSettingConfirmMessageResolution" : "Resolution has been changed", 
 "ContentSettingChannelLineUp" : "My Channel List",  
 "ContentSettingConfirm":"Confirm My Channel List", 
-"PinModalTitle" : "PIN Problems", 
+"PinModalTitle" : "Forgotten your PIN", 
 "PinModalMessage" : "By default the Master PIN is", 
 "PinModalOption" : "Back", 
 "ResetLineUp" : "Reset to default", 
