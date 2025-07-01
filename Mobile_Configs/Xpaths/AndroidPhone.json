@@ -37,7 +37,7 @@
   "Settings_Back": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[1]",
   "PlaybackError": "//android.view.View/android.widget.TextView[2]",
   "PlaybackClose": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_player_close_button_identifier']",
-  "Recording_Asset": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_content_list_row_image_identifier'][Translation]",
+  "Recording_Asset": "(//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_content_list_row_title_identifier']/parent::android.view.View)[Translation]",
   "MyHome_Watch": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_watch_identifier']",
   "MyHome_EventName": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_my_home_content_title_identifier']",
   "MyHome_EventName_GetText": "//android.widget.ScrollView/android.widget.TextView",
