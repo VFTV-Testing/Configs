@@ -88,5 +88,9 @@
 "SettingsResetList":"Reset",
 "RecordingsRail":"Recordings",
 "BookingsRail":"Bookings",
-"ManageRecording":"Manage"
+"ManageRecording":"Manage",
+"RecordingsDeleteSeries": "Delete series recording",
+"RecordingsDeleteEpisode": "Delete episode",
+"BookingsCancelSeries": "Cancel series recording",
+"BookingsCancelEpisode": "Cancel episode"
 }
