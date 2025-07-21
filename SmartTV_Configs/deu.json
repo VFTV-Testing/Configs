@@ -74,5 +74,9 @@
     "BookingsRail":"Geplante Aufnahmen",
     "ScheduleRecording": "Aufnehmen",
     "CancelRecording":"Abbrechen",
-    "ManageRecording":"Verwalten"
+    "ManageRecording":"Verwalten",
+    "RecordingsDeleteSeries": "Serienaufnahme löschen",
+    "RecordingsDeleteEpisode": "Folge löschen",
+    "BookingsCancelSeries": "Serienaufnahme abbrechen",
+    "BookingsCancelEpisode": "Folge abbrechen"
 }
