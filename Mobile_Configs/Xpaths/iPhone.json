@@ -1,6 +1,7 @@
 {
   "StrictText" : "//*[@label='Translation']",
   "NonStrictText": "//*[contains(@label,'Translation')]",
+  "ParentalPin": "//*[contains(@label='Parental_Pin_Title')]",
   "TLM_Options": "//XCUIElementTypeButton[@label='Translation']",
   "TLM_LiveDot": "//XCUIElementTypeButton[@name='a11y_timeline_live_indicator_pointer_identifier']",
   "TLM_Settings": "//*[@name='a11y_header_settings_entry_point_identifier']",
