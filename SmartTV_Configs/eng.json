@@ -92,5 +92,7 @@
 "RecordingsDeleteSeries": "Delete series recording",
 "RecordingsDeleteEpisode": "Delete episode",
 "BookingsCancelSeries": "Cancel series recording",
-"BookingsCancelEpisode": "Cancel episode"
+"BookingsCancelEpisode": "Cancel episode",
+"BookingsEpisodeRailName": "Laufende & geplante Sendungen",
+"RecordingsEpisodeRailName": "Zuletzt aufgenommen"
 }
