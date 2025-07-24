@@ -78,5 +78,7 @@
     "RecordingsDeleteSeries": "Serienaufnahme löschen",
     "RecordingsDeleteEpisode": "Folge löschen",
     "BookingsCancelSeries": "Serienaufnahme abbrechen",
-    "BookingsCancelEpisode": "Folge abbrechen"
+    "BookingsCancelEpisode": "Folge abbrechen",
+    "BookingsEpisodeRailName": "Laufende & geplante Sendungen",
+    "RecordingsEpisodeRailName": "Zuletzt aufgenommen"
 }
