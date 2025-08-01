@@ -83,6 +83,7 @@
     "RecordingsEpisodeRailName": "Zuletzt aufgenommen",
     "Consent": "Einwilligungserklärung",
     "Agree": "Zustimmen",
-    "Disagree": "Ablehnen"
+    "Disagree": "Ablehnen",
+    "ConsentRejection": "Zustimmung abgelehnt"
     
 }
