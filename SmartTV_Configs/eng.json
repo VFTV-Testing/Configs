@@ -99,6 +99,9 @@
 "Agree": "Agree",
 "Disagree": "Disagree",
 "Agree": "Agree",
-"ConsentRejection": "ConsentRejection"
+"ConsentRejection": "ConsentRejection",
+"Ok": "Agree",
+"Cancel": "ConsentRejection"
+
 
 }
