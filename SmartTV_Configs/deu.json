@@ -84,6 +84,8 @@
     "Consent": "Einwilligungserklärung",
     "Agree": "Zustimmen",
     "Disagree": "Ablehnen",
-    "ConsentRejection": "Zustimmung abgelehnt"
+    "ConsentRejection": "Zustimmung abgelehnt",
+    "Ok": "Ok",
+    "Cancel": "Abbrechen"
     
 }
