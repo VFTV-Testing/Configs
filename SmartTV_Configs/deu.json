@@ -80,5 +80,9 @@
     "BookingsCancelSeries": "Serienaufnahme abbrechen",
     "BookingsCancelEpisode": "Folge abbrechen",
     "BookingsEpisodeRailName": "Laufende & geplante Sendungen",
-    "RecordingsEpisodeRailName": "Zuletzt aufgenommen"
+    "RecordingsEpisodeRailName": "Zuletzt aufgenommen",
+    "Consent": "Einwilligungserklärung",
+    "Agree": "Zustimmen",
+    "Disagree": "Ablehnen"
+    
 }
