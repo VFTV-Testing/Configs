@@ -97,5 +97,8 @@
 "RecordingsEpisodeRailName": "Zuletzt aufgenommen",
 "Consent": "Consent",
 "Agree": "Agree",
-"Disagree": "Disagree"
+"Disagree": "Disagree",
+"Agree": "Agree",
+"ConsentRejection": "ConsentRejection"
+
 }
