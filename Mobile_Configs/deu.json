@@ -12,6 +12,8 @@
 	"MyHome_Completed_Recordings": "Fertige Aufnahmen",
 	"MyHome_Scheduled_Recordings": "Geplante Aufnahmen",
 	"MyHome_Continue_Watching": "Weiterschauen",
+	"MyHome_Recommendation_for_you": "Für Dich empfohlen",
+	"MyHome_On_Now": "Jetzt im TV",
 	"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 	"PIpage_Rent": "Rent",
 	"Parental_Pin_Title": "Please enter your parental control PIN",
@@ -404,4 +406,5 @@
 	"VideoSubtitle": "Change subtitles",
 	"VideoCast": "Chromecast"
 }
+
 
