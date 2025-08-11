@@ -15,6 +15,7 @@
 "OnDemandMoreBucketRail": "Em Destaque",
 "MyTvRail1": "Continuar a ver",
 "MyTvRail2": "Recomendado para si",
+"MenuMyTVWatchOptions":"Watch Options",
 "MyTvRail3": "Gravações",
 "MyTvRail4": "A Minha Lista",
 "MyTvRail5": "Alugueres",
@@ -724,3 +725,4 @@
  "MenuSettingsDisplayWhenWatchingGEN4" : "Quando esta a ver",
 "MiniPIMoreInfo": "Mais informação" 
 }
+
