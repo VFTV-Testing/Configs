@@ -640,7 +640,8 @@
 "MenuSettingsAccountSignIn": "Accounts", 
 "SystemSettingsAddRemoteControl":"Add remote control", 
 "VodafoneRemoteControl" : "VODAFONE REMOTE CONTROL", 
-"lastWeekRecordings" : "Last Week", 
+"lastWeekRecordings" : "Last Week",
+"lastWeekRecording" : "Last week",
 "Allow":"Allow", 
 "AllowADB" : "ALLOW",   
 "MenuSettingInformation" : "Information",   
@@ -738,3 +739,4 @@
 "SystemSettingsRestart": "Restart" 
 
 }  
+
