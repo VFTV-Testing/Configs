@@ -45,6 +45,7 @@
   "MyHome_EventName": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_my_home_content_title_identifier']",
   "MyHome_EventName_GetText": "//android.widget.ScrollView/android.widget.TextView",
   "MyHome_RecordingsRails": "//android.widget.ScrollView/android.view.View/android.widget.TextView[@text='Translation']",
+  "MyHome_Rails_Event": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_rail_title_identifier' and @text='Translation']/../following-sibling::android.view.View[1]/*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_rail_content_card_background_identifier'][Index]",
   "MyHome_Rails_Event": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_rail_title_identifier' and @text='Translation']/../following-sibling::android.view.View[1]/*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_rail_content_card_background_identifier']",
   "Player_ToLandscape": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_player_fullscreen_button_identifier']",
   "Player_ToPortrait": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_player_minimize_button_identifier']",
@@ -265,4 +266,5 @@
   "SystemInfo_SWVersion": "//android.widget.TextView[@text='Translation']/following-sibling::android.widget.TextView",
   "SystemInfo_HHId": "//android.widget.TextView[@text='Translation']/following-sibling::android.widget.TextView"
 }
+
 
