@@ -639,6 +639,7 @@
 "MenuSettingsDisplayWhenInactive" : "Desligar",
 "VodafoneRemoteControl" : "REMOTE CONTROL Ligado",
 "lastWeekRecordings" : "Semana anterior",
+"lastWeekRecording" : "Semana anterior",
 "Chooseanoptioneng" : "Choose an option",
 "Allow" : "permitir",
 "AllowADB" : "PERMITIR",
@@ -725,4 +726,5 @@
  "MenuSettingsDisplayWhenWatchingGEN4" : "Quando esta a ver",
 "MiniPIMoreInfo": "Mais informação" 
 }
+
 
