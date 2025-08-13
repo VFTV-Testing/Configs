@@ -584,7 +584,7 @@
 "MenuOnDemandCatchup": "Alcancar",
 "VodafoneRemoteControl" : "REMOTE CONTROL Ligado",
 "lastWeekRecordings" : "Semana anterior",
-"lastWeekRecordings" : "Última semana",
+"lastWeekRecording" : "Última semana",
 "AgeRatingsSlider": "Para M3 M4 M6 M12 M14 M16 M18 Adul",
 "AgeRatingsPara": "Para Todo",
 "AgeRatingsM3": "M3",
@@ -679,4 +679,5 @@
 "Error9Disney":"erro 9",
 "MiniPIMoreInfo": "Más info"  
 }
+
 
