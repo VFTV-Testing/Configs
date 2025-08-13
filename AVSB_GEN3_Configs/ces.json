@@ -580,6 +580,7 @@
 "VodafoneRemoteControl" : "VODAFONE REMOTE CONTROL",
 "_OpcoSpecific_VodafoneRemoteControl":"Režimdálkovéhoovládání",
 "lastWeekRecordings" : "Minulý týden",
+"lastWeekRecording" : "Minulý týden",
 "SeasonNo":"s",
 "EpisodeNo":"Epizoda",
 "Allow":"Allow",
@@ -690,3 +691,4 @@
 "NetflixConcurrency":"Too many people",
 "SystemSettingsRestart": "Restartovat"
 }
+
