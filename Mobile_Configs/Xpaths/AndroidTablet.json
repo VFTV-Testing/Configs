@@ -33,7 +33,7 @@
   "MyHome_EventName": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_my_home_content_title_identifier']",
   "MyHome_EventName_GetText": "//android.widget.ScrollView/android.widget.TextView",
   "MyHome_RecordingsRails": "//android.widget.ScrollView/android.view.View/android.widget.TextView[@text='Translation']",
-  "MyHome_Rails_Event": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_rail_title_identifier' and @text='Translation']/../following-sibling::android.view.View[1]/*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_rail_content_card_background_identifier']",
+  "MyHome_Rails_Event": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_rail_title_identifier' and @text='Translation']/../following-sibling::android.view.View[1]/*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_rail_content_card_background_identifier'][Index]",
   "PIPage_record": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_record_identifier']",
   "PIPage_record_series": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_record_series_identifier']",
   "PIPage_Cancel_Recording": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_cancel_record_identifier']",
@@ -259,4 +259,5 @@
   "SystemInfo_SWVersion": "//android.widget.TextView[@text='Translation']/following-sibling::android.widget.TextView",
   "SystemInfo_HHId": "//android.widget.TextView[@text='Translation']/following-sibling::android.widget.TextView"
 }
+
 
