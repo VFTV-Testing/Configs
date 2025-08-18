@@ -5,9 +5,9 @@
 	"MyHome_Rail4": "Jetzt im TV",
 	"OnDemand_Rail1": "Jetzt ausleihen",
 	"OnDemand_Rail2": "Bereiche",
-	"OnDemand_Rail3": "Meist gesehene Filme",
-	"OnDemand_Rail4": "Meist gesehene Serien",
-	"OnDemand_Rail5": "Top Highlights",
+	"OnDemand_Rail3": "Filmstarts aus den Mediatheken",
+	"OnDemand_Rail4": "Serien- und Staffelstarts",
+	"OnDemand_Rail5": "Meist gesehene Filme",
 	"MyHome_Recordings": "Aufnahmen",
 	"MyHome_Completed_Recordings": "Fertige Aufnahmen",
 	"MyHome_Scheduled_Recordings": "Geplante Aufnahmen",
@@ -406,5 +406,6 @@
 	"VideoSubtitle": "Change subtitles",
 	"VideoCast": "Chromecast"
 }
+
 
 
