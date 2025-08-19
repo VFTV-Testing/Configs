@@ -10,6 +10,10 @@
 	"OnDemand_Rail5": "Thriller",
 	"MyHome_Recordings": "Regjistrimet",
 	"MyHome_Completed_Recordings": "Regjistrimet e perfunduara",
+	"MyHome_Scheduled_Recordings": "Regjistrimet e planifikuara",
+	"MyHome_Continue_Watching": "NA",
+	"MyHome_Recommendation_for_you": "NA",
+	"MyHome_On_Now": "On Now",
 	"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 	"PIpage_Rent": "Alquilar",
 	"Delete_All_Recordings": "",
@@ -391,3 +395,4 @@
 	"General_Confirm_Deu": "DE",
 	"VideoCast": "Chromecast"
 }
+
