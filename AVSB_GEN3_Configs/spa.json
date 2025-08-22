@@ -174,7 +174,7 @@
 "MenuSettingsAutomatic": "Nenhuma",
 "MenuSettingsAccountSignIn": "Cuentas y",
 "MenuSettingsDisplayWhenWatching" : "Apagar el televisor",
-"MenuSettingsDisplayWhenInactive" : "Modo ahorro de energía",
+"MenuSettingsDisplayWhenInactive" : "Apagar el televisor",
 "MenuSettingDisplayAndSounds": "Pantalla y sonido",
 "MenuSettingsAlertModalTitle": "Seguro?",
 "MenuSettingsAlertModalMessgae": "Si no aceptas",
@@ -679,6 +679,7 @@
 "Error9Disney":"erro 9",
 "MiniPIMoreInfo": "Más info"  
 }
+
 
 
 
