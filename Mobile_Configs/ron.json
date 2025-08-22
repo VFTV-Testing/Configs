@@ -1,8 +1,8 @@
 {
-"MyHome_Rail1": "Înregistrări",
-"MyHome_Rail2": "Recomandari",
-"MyHome_Rail3": "Seriale populare",
-"MyHome_Rail4": "Filme populare",
+"MyHome_Rail1": "Continua vizionarea",
+"MyHome_Rail2": "Înregistrări",
+"MyHome_Rail3": "Recomandari",
+"MyHome_Rail4": "Seriale populare",
 "OnDemand_Rail1": "Adăugate recent",
 "OnDemand_Rail2": "Documentare",
 "OnDemand_Rail3": "Muzică de concert Mezzo",
@@ -10,6 +10,10 @@
 "OnDemand_Rail5": "Recomandări pentru copii",
 "MyHome_Recordings": "Înregistrări",
 "MyHome_Completed_Recordings": "Anterioare",
+"MyHome_Scheduled_Recordings": "Înregistrări programate",
+"MyHome_Continue_Watching": "Continua vizionarea",
+"MyHome_Recommendation_for_you": "Seriale populare",
+"MyHome_On_Now": "Acum Live",
 "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 "PIpage_Rent":"Rent",
 "Parental_Pin_Title": "Please enter your parental control PIN",
@@ -373,3 +377,4 @@
 "Keyboard_Close":"Closekeyboard",
 "VodafoneNetworkLost":"Vodafonenetworklost"
 }
+
