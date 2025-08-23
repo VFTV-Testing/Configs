@@ -13,7 +13,7 @@
 	"MyHome_Scheduled_Recordings": "Agendadas",
 	"MyHome_Continue_Watching": "Continuar a ver",
 	"MyHome_Recommendation_for_you": "Séries recomendadas para si",
-	"MyHome_On_Now": "Em Directo",
+	"MyHome_On_Now": "Em directo",
 	"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 	"PIpage_Rent": "Alugar",
 	"PIpage_Watch_Download": "",
@@ -347,4 +347,5 @@
 	"VodafoneNetworkLost": "Vodafone network lost",
 	"PIpage_Catch_Up": "Disponible en"
 }
+
 
