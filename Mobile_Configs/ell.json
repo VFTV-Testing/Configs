@@ -1,8 +1,8 @@
 {
-	"MyHome_Rail1": "Προτάσεις του μήνα",
-	"MyHome_Rail2": "Νέες προσθήκες",
-	"MyHome_Rail3": "EARTH CALLING",
-	"MyHome_Rail4": "THE HARRY POTTER WORLD",
+	"MyHome_Rail1": "Συνεχίστε την παρακολούθηση",
+	"MyHome_Rail2": "Προτάσεις του μήνα",
+	"MyHome_Rail3": "Νέες προσθήκες",
+	"MyHome_Rail4": "ALLER-RETOUR",
 	"OnDemand_Rail1": "Explore",
 	"OnDemand_Rail2": "HOME OF MAX",
 	"OnDemand_Rail3": "HOME OF DISNEY+",
@@ -10,5 +10,9 @@
 	"OnDemand_Rail5": "ΠΡΕΜΙΕΡΕΣ VODAFONE TV",
 	"MyHome_Recordings": "Εγγραφές",
 	"MyHome_Completed_Recordings": "Completed",
+	"MyHome_Scheduled_Recordings": "Scheduled",
+	"MyHome_Continue_Watching": "Νέες προσθήκες",
+	"MyHome_Recommendation_for_you": "Συνεχίστε την παρακολούθηση",
+	"MyHome_On_Now": "On Now",
 	"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 }
