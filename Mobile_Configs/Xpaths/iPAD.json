@@ -20,6 +20,7 @@
   "TVGuide_OpenAsset":"(//XCUIElementTypeProgressIndicator/preceding-sibling::XCUIElementTypeOther)[Translation]",  
   "TVGuide_LastAsset" :"(//XCUIElementTypeProgressIndicator[@visible='true'])[last()]",
   "TVGuide_OpenPIPage": "//XCUIElementTypeButton[@label='more info']",
+  "MiniPiEventName": "//XCUIElementTypeButton[@label='more info' and @visible='true']/preceding-sibling::XCUIElementTypeButton",
   "PIPage_Watch": "//XCUIElementTypeButton[contains(@label,'Watch')]",
   "PIPage_Resume": "//XCUIElementTypeButton[contains(@label,'Resume')]",
   "PIPage_record": "//XCUIElementTypeButton[@label='Record']",
@@ -219,4 +220,5 @@
   "SystemInfo_SWVersion": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView",
   "SystemInfo_HHId": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView"
 }
+
 
