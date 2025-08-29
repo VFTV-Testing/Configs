@@ -291,8 +291,8 @@
 "ChannelFIlterNews": "Noticias",
 "ChannelFilterPrimium": "Noticias",
 "MostWatched": "Más vistos",
-"MiniGuideRemaining":"restante",
-"MiniGuideRemaining1":"restante",
+"MiniGuideRemaining":"Faltan",
+"MiniGuideRemaining1":"Faltan",
 "MiniGuideRemaining2":"Falta", 
 "VODAssetWatchTrailer": "ver tráiler",
 "VODAssetRent": "Alquilar",
@@ -679,6 +679,7 @@
 "Error9Disney":"erro 9",
 "MiniPIMoreInfo": "Más info"  
 }
+
 
 
 
