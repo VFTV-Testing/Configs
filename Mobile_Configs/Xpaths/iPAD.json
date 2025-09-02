@@ -31,7 +31,7 @@
   "MyHome_Rails_Event": "//XCUIElementTypeStaticText[@name='Translation']/following-sibling::XCUIElementTypeScrollView//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[Index]",
   "MyHome_EventName": "//XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeScrollView[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[contains(@label,'Translation')]",
   "MyHome_EventName_GetText": "//XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeScrollView[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText",
-  "MyHome_RecordingsRails": "//XCUIElementTypeButton[@label='Translation']",
+  "MyHome_RecordingsRails": "//XCUIElementTypeStaticText[@label='Translation']",
   "PlaybackClose": "//XCUIElementTypeButton[@label='close_icon']",
   "PlaybackError": "//XCUIElementTypeStaticText[@label='Playback Error']/../XCUIElementTypeStaticText[2]",
   "TVGuide_CatchUpOpenAsset": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[Translation]",
@@ -221,6 +221,7 @@
   "SystemInfo_SWVersion": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView",
   "SystemInfo_HHId": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView"
 }
+
 
 
 
