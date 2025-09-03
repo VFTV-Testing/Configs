@@ -2,6 +2,7 @@
   "StrictText" : "//*[@label='Translation']",
   "NonStrictText": "//*[contains(@label,'Translation')]",
   "ParentalPin": "//*[contains(@label='Parental_Pin_Title')]",
+  "Full_Pi_Event_Name": "//XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeStaticText",
   "TLM_Options": "//XCUIElementTypeStaticText[@label='Translation']",
   "TLM_LiveDot": "//XCUIElementTypeButton[@name='a11y_timeline_live_indicator_pointer_identifier']",
   "TLM_Watch": "//XCUIElementTypeButton[@label='play_icon']",
@@ -221,6 +222,7 @@
   "SystemInfo_SWVersion": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView",
   "SystemInfo_HHId": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView"
 }
+
 
 
 
