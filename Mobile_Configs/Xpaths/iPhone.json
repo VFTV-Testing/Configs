@@ -42,7 +42,7 @@
   "PlaybackClose": "//XCUIElementTypeButton[@label='close_icon'and @visible='true']",
   "PlaybackError": "//XCUIElementTypeStaticText[@label='Playback Error']/../XCUIElementTypeStaticText[2]",
   "Recording_Asset": "//XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeButton[Translation]",
-  "Recording_Episode": "//XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[Translation]",
+  "Recording_Episode": "//XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeButton[Translation]",
   "Player_Rewind": "//XCUIElementTypeButton[@label='bkwd_icon' and @visible='true']",
   "Player_Forward": "//XCUIElementTypeButton[@label='fwd_icon' and @visible='true']",
   "Player_Play": "//XCUIElementTypeButton[@label='play_icon' and @visible='true']",
@@ -222,6 +222,7 @@
   "SystemInfo_SWVersion": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView",
   "SystemInfo_HHId": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView"
 }
+
 
 
 
