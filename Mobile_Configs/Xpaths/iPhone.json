@@ -19,7 +19,7 @@
   "TVGuide_OpenFirstAsset": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[1]",
   "TVGuide_OpenAsset": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[Translation]",
   "TVGuide_LastAsset" :"(//XCUIElementTypeProgressIndicator[@visible='true'])[last()]",
-  "TVGuide_OpenPIPage": "//XCUIElementTypeStaticText[@label='more info' and @visible='true']",
+  "TVGuide_OpenPIPage": "//XCUIElementTypeButton[@label='more info' and @visible='true']",
   "TVGuide_CatchUpOpenAsset": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[Translation]",
   "TVGuide_CatchUpOpenAssetMiniGuide": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[Translation]",
   "TVGuide_Poster": "//XCUIElementTypeCollectionView[2]/XCUIElementTypeCell[Translation]",
@@ -222,6 +222,7 @@
   "SystemInfo_SWVersion": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView",
   "SystemInfo_HHId": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView"
 }
+
 
 
 
