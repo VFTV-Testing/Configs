@@ -1,6 +1,6 @@
 {
-  "StrictText" : "//*[@label='Translation']",
-  "NonStrictText": "//*[contains(@label,'Translation')]",
+  "StrictText" : "//*[@label='Translation' and @visible='true']",
+  "NonStrictText": "//*[contains(@label,'Translation' and @visible,'true')]",
   "ParentalPin": "//*[contains(@label='Parental_Pin_Title')]",
   "Full_Pi_Event_Name": "//XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeStaticText",
   "TLM_Options": "//XCUIElementTypeStaticText[@label='Translation']",
@@ -222,6 +222,7 @@
   "SystemInfo_SWVersion": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView",
   "SystemInfo_HHId": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView"
 }
+
 
 
 
