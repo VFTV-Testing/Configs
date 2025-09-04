@@ -10,7 +10,7 @@
   "TLM_Home": "//XCUIElementTypeStaticText[@label='My Home']",
   "TLM_OnDemand": "//XCUIElementTypeStaticText[@label='On Demand']",
   "TLM_Search": "//*[@name='a11y_header_search_entry_point_identifier']",
-  "TLM_EventName": "//XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTextView[2]/XCUIElementTypeTextView[1]",
+  "TLM_EventName": "//XCUIElementTypeButton[@label='arrow_up']/../XCUIElementTypeTextView/XCUIElementTypeTextView",
   "TLM_Timeline": "//XCUIElementTypeCollectionView[@index='0']",
   "TLM_Settings": "//*[@name='a11y_header_settings_entry_point_identifier']",
   "TLM_Filter": "//*[@name='a11y_header_on_tv_filter_identifier']",
@@ -222,6 +222,7 @@
   "SystemInfo_SWVersion": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView",
   "SystemInfo_HHId": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView"
 }
+
 
 
 
