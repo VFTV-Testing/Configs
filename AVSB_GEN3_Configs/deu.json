@@ -644,6 +644,7 @@
 "SettingsGeneralInfo":"Allgemein",
 "MenuSettingsDisplayWhenWatching" : "Automatisches Ausschalten",
 "MenuSettingsDisplayWhenWatchingGEN4" : "Beim Zuschauen",
+ "MenuSettingsDisplayWhenWatchingTimerGEN4" : "Timer zum Ausschalten",
 "MenuSettingenergySaver" : "Stromversorgung und Energie",
 "MenuSettingenergySaverGEN4" : "Stromversorgung & Energie",
 "MenuSettingTurnOffDisplay" : "Automatisches",
