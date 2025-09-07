@@ -765,5 +765,6 @@
 "MedialibraryAdRail":"FreeTV Sender",
 "MenuSettingsAudio": "Klang",
 "RecordAggregation" : "Aufnehmen",
+"CancelRecordingAggregation" : "Abbrechen", 
 "TrickmodeBlock": "lizenz"
 }
