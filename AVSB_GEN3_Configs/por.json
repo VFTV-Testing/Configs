@@ -722,10 +722,13 @@
 "TrickModeBlocked1": "disponíve",
 "Error9Disney":"erro 9",
 "MenuSettingenergySaverGEN4":"Temporizador de desativação",
- "MenuSettingsDisplayWhenInactiveGEN4":"Quando esta inativo",
- "MenuSettingsDisplayWhenWatchingGEN4" : "Quando esta a ver",
+"MenuSettingsDisplayWhenInactiveGEN4":"Quando esta inativo",
+"MenuSettingsDisplayWhenWatchingGEN4" : "Quando esta a ver",
+"RecordAggregation" : "Gravar",
+"CancelRecordingAggregation" : "Cancelar",  
 "MiniPIMoreInfo": "Mais informação" 
 }
+
 
 
 
