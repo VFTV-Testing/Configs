@@ -766,5 +766,6 @@
 "MenuSettingsAudio": "Klang",
 "RecordAggregation" : "Aufnehmen",
 "CancelRecordingAggregation" : "Abbrechen", 
-"TrickmodeBlock": "lizenz"
+"TrickmodeBlock": "lizenz",
+ "ADBUSBDebugButton":"OK"
 }
