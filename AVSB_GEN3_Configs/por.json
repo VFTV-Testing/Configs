@@ -726,8 +726,10 @@
 "MenuSettingsDisplayWhenWatchingGEN4" : "Quando esta a ver",
 "RecordAggregation" : "Gravar",
 "CancelRecordingAggregation" : "Cancelar",  
-"MiniPIMoreInfo": "Mais informação" 
+"MiniPIMoreInfo": "Mais informação",
+"ADBUSBDebugButton":"OK"
 }
+
 
 
 
