@@ -657,5 +657,11 @@
 "TrickModeBlocked1": "περιεχ",
 "Error9Disney":"erro 9",
 "MiniPIMoreInfo": "Περισσότερα",
+"RecordAggregation" : "Record",
+"CancelRecordingAggregation" : "Cancel",
+"RecordAggregationPoPUpSingleEpisode" : "Record Episode",
+"RecordAggregationPoPUpSeries" : "Record Series",
+"CancelRecordingAggregationPoPUpSingleEpisode" : "Cancel Episode",
+"CancelRecordingAggregationPoPUpSeries" : "Cancel Series",
 "ADBUSBDebugButton":"OK"
 }
