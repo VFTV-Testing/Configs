@@ -765,7 +765,11 @@
 "MedialibraryAdRail":"FreeTV Sender",
 "MenuSettingsAudio": "Klang",
 "RecordAggregation" : "Aufnehmen",
-"CancelRecordingAggregation" : "Abbrechen", 
+"CancelRecordingAggregation" : "Abbrechen",
+"RecordAggregationPoPUpSingleEpisode" : "Record Episode",
+"RecordAggregationPoPUpSeries" : "Record Series",
+"CancelRecordingAggregationPoPUpSingleEpisode" : "Cancel Episode",
+"CancelRecordingAggregationPoPUpSeries" : "Cancel Series",
 "TrickmodeBlock": "lizenz",
 "ADBUSBDebugButton":"OK"
 }
