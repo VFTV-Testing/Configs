@@ -690,8 +690,15 @@
 "Error9Disney":"erro 9",
 "NetflixConcurrency":"Too many people",
 "SystemSettingsRestart": "Restartovat",
+"RecordAggregation" : "Nahrávka",
+"RecordAggregationPoPUpSingleEpisode" : "Nahrát epizodu",
+"RecordAggregationPoPUpSeries" : "Nahrát sérii",
+"CancelRecordingAggregation" : "Zrušit",
+"CancelRecordingAggregationPoPUpSingleEpisode" : "Zrušit epizodu",
+"CancelRecordingAggregationPoPUpSeries" : "Zrušit sérii",
 "ADBUSBDebugButton":"OK"
 }
+
 
 
 
