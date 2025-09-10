@@ -480,7 +480,7 @@
 "EPGRecordEpisode": "Gravar episódio",
 "EPGRecord": "Gravar",
 "EPGRecordSeries": "Gravar série",
-"EPGCancel": "Cancelar gravação",
+"EPGCancel": "Cancelar",
 "EPGTVProgram": "Gula TV",
 "MenuMyTVAudioDescription": "AudioDescription",
 "ManageRecordings": "Gerir gravaçoes",
@@ -729,6 +729,7 @@
 "MiniPIMoreInfo": "Mais informação",
 "ADBUSBDebugButton":"OK"
 }
+
 
 
 
