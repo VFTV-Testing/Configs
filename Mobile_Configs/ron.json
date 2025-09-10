@@ -20,6 +20,7 @@
 "PIpage_Own":"Own",
 "Videopage_Continue_watching_dialog":"Continuewatchingdialog",
 "General_Dismiss":"Dismiss",
+"Player_ControlsAreRestricted": "Restricted",
 "PIpage_Rent_from":"Rentfrom",
 "PIpage_Rent_HD":"RentHD",
 "PIpage_Rent_SD":"RentSD",
@@ -377,5 +378,6 @@
 "Keyboard_Close":"Closekeyboard",
 "VodafoneNetworkLost":"Vodafonenetworklost"
 }
+
 
 
