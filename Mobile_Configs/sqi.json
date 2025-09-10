@@ -15,6 +15,7 @@
 	"MyHome_Recommendation_for_you": "NA",
 	"MyHome_On_Now": "On Now",
 	"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+	"Player_ControlsAreRestricted": "Restricted",
 	"PIpage_Rent": "Alquilar",
 	"Delete_All_Recordings": "",
 	"PIpage_Own": "Comprar",
@@ -395,4 +396,5 @@
 	"General_Confirm_Deu": "DE",
 	"VideoCast": "Chromecast"
 }
+
 
