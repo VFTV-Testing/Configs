@@ -418,7 +418,7 @@
 "EPGNetlfix":"netflix",
 "EPGWatchLive":"Sledovat živě",
 "EPGRecordEpisode":"Nahrát díl",
-"EPGRecord":"record",
+"EPGRecord":"Nahrávka",
 "EPGRecordSeries":"Nahrát seriál",
 "EPGCancel":"Zrušit",
 "Catchup":"Sledovat nyní",
@@ -692,5 +692,6 @@
 "SystemSettingsRestart": "Restartovat",
 "ADBUSBDebugButton":"OK"
 }
+
 
 
