@@ -30,6 +30,7 @@
 	"RentOptionsPopup": "Rent Options",
 	"RentOptionsPopupCancel": "Cancel",
 	"RentOptionsPopupChoose": "Choose",
+	"Player_ControlsAreRestricted": "Restricted",
 	"PIpage_Rented": "Rented",
 	"PIpage_Own_from": "Own from",
 	"PIpage_Own_HD": "Own HD",
@@ -406,6 +407,7 @@
 	"VideoSubtitle": "Change subtitles",
 	"VideoCast": "Chromecast"
 }
+
 
 
 
