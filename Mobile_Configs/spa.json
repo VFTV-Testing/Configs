@@ -4,6 +4,7 @@
 	"Delete_All_Recordings": "",
 	"Videopage_Continue_watching_dialog": "Quieres Seguir viendo",
 	"General_Dismiss": "Descartar",
+	"Player_ControlsAreRestricted": "Restricted",
 	"PIpage_Rent_from": "Rent from",
 	"PIpage_Rent_HD": "Alquilar HD",
 	"PIpage_Rent_SD": "Alquilar SD",
@@ -385,3 +386,4 @@
 	"AssetMoreEpisodes": "Más episodios"
 }
 	
+
