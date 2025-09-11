@@ -88,9 +88,11 @@
     "Ok": "OK",
     "Cancel": "Abbrechen",
     "HighlightsFromtheMedia": "Highlights aus den Mediatheken",
-    "NotIncluded": "Nicht enthalten"
-    
+    "NotIncluded": "Nicht enthalten",
+    "ConsentAgreeRail": "Top 10 Serien, Weiterschauen, Meistgesehene Sender",
+    "ConsentDisagreeRail": "Top 10 Serien"    
 }
+
 
 
 
