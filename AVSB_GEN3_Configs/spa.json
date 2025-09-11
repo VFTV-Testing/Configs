@@ -324,7 +324,7 @@
 "EPGRecordEpisode": "Grabar episodio",
 "EPGRecord": "Grabar",
 "EPGRecordSeries": "Grabar serie",
-"EPGCancel": "Cancelar grabación",
+"EPGCancel": "Cancelar",
 "EPGTVProgram": "Guía de Programación",
 "FAQProgramming": "Programación",
 "FAQTVAccount": "Cuenta de TV",
@@ -686,6 +686,7 @@
 "CancelRecordingAggregationPoPUpSeries" : "Cancelar Serie",
 "ADBUSBDebugButton":"Aceptar"
 }
+
 
 
 
