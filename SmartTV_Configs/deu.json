@@ -33,7 +33,7 @@
     "SettingsEntitledChannels": "Entitled Channels",
     "SettingsFavoriteChannels": "Favorite Channels",
     "SearchAllRail": "Alle Treffer",
-    "SearchAiringNow": "Airing Now",
+    "SearchAiringNow": "Läuft gerade",
     "SearchNoResults": "Keine Treffer",
     "SettingsFavoriteChannels": "Favorite Channels",
     "Recommendedseries": "Empfohlene Serien",
@@ -91,5 +91,6 @@
     "NotIncluded": "Nicht enthalten"
     
 }
+
 
 
