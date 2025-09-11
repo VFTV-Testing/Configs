@@ -14,7 +14,7 @@
     "EPGToday": "Heute",
     "SettingsParentalControl": "Jugendschutz",
     "SettingsLanguage&Accessibility": "Sprache & Barrierefreiheit",
-    "SettingsPrivacy&Terms": "Datenschutz & AGBs",
+    "SettingsPrivacy&Terms": "Datenschutz & Rechtliches",
     "SettingsPrivacy&Terms1":"FTU DE Consent",
     "SettingsHelp&Info": "Hilfe & Info",
     "SettingsLogout": "Abmelden",
@@ -92,6 +92,7 @@
     "ConsentAgreeRail": "Top 10 Serien, Weiterschauen, Meistgesehene Sender",
     "ConsentDisagreeRail": "Top 10 Serien"    
 }
+
 
 
 
