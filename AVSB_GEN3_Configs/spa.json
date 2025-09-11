@@ -679,13 +679,14 @@
 "Error9Disney":"erro 9",
 "MiniPIMoreInfo": "Más info",
 "RecordAggregation" : "Record",
-"CancelRecordingAggregation" : "Cancel",
+"CancelRecordingAggregation" : "Cancelar",
 "RecordAggregationPoPUpSingleEpisode" : "Record Episode",
 "RecordAggregationPoPUpSeries" : "Record Series",
-"CancelRecordingAggregationPoPUpSingleEpisode" : "Cancel Episode",
-"CancelRecordingAggregationPoPUpSeries" : "Cancel Series",
+"CancelRecordingAggregationPoPUpSingleEpisode" : "Cancelar Episodio",
+"CancelRecordingAggregationPoPUpSeries" : "Cancelar Serie",
 "ADBUSBDebugButton":"Aceptar"
 }
+
 
 
 
