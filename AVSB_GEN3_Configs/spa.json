@@ -678,14 +678,15 @@
 "TrickModeBlocked1": "no se puede",
 "Error9Disney":"erro 9",
 "MiniPIMoreInfo": "Más info",
-"RecordAggregation" : "Record",
+"RecordAggregation" : "Grabar",
 "CancelRecordingAggregation" : "Cancelar",
-"RecordAggregationPoPUpSingleEpisode" : "Record Episode",
-"RecordAggregationPoPUpSeries" : "Record Series",
+"RecordAggregationPoPUpSingleEpisode" : "Grabar Episodio",
+"RecordAggregationPoPUpSeries" : "Grabar Serie",
 "CancelRecordingAggregationPoPUpSingleEpisode" : "Cancelar Episodio",
 "CancelRecordingAggregationPoPUpSeries" : "Cancelar Serie",
 "ADBUSBDebugButton":"Aceptar"
 }
+
 
 
 
