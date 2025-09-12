@@ -685,8 +685,8 @@
 "DAZNLogin": "SIGN IN",
 "MenuSettingsDisplaySettings": "Zobrazení",
 "MenuSettingsAudio": "Zvuk",
-"TrickModeBlocked": "Unable to rewind",
-"TrickModeBlocked1": "not available",
+"TrickModeBlocked": "No se puede",
+"TrickModeBlocked1": "No es posible",
 "Error9Disney":"erro 9",
 "NetflixConcurrency":"Too many people",
 "SystemSettingsRestart": "Restartovat",
@@ -698,6 +698,7 @@
 "CancelRecordingAggregationPoPUpSeries" : "Zrušit sérii",
 "ADBUSBDebugButton":"OK"
 }
+
 
 
 
