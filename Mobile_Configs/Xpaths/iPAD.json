@@ -61,7 +61,7 @@
   "Settings_AgeRatings": "//*[@label='parental-rating-icon-alTranslation']",
   "Trickmode_Disabled": "//*[contains(@label,'Controls are restricted')]",
   "Search_Event_Verify": "//XCUIElementTypeButton[@label='Translation']",
-  "Search_Event_Open": "//XCUIElementTypeStaticText[@label='Translation']",
+  "Search_Event_Open": "//XCUIElementTypeButton[@label='Translation']",
   "xxxxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "Asset_Title": "//XCUIElementTypeOther//XCUIElementTypeNavigationBar/XCUIElementTypeStaticText",
   "Asset_StateLabel": "//*[@name='a11y_pi_badges_information_identifier']",
@@ -222,6 +222,7 @@
   "SystemInfo_SWVersion": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView",
   "SystemInfo_HHId": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView"
 }
+
 
 
 
