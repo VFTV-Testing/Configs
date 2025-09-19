@@ -63,7 +63,7 @@
   "Settings_AgeRatings": "//*[@label='parental-rating-icon-alTranslation']",
   "Trickmode_Disabled": "//*[contains(@label,'Controls are restricted')]",
   "Landscape_bounds": "//XCUIElementTypeApplication[@width='852']",
-  "Search_Event_Verify": "/XCUIElementTypeButton[@label='Translation']",
+  "Search_Event_Verify": "/XCUIElementTypeButton[contains(@label,'Translation')]",
   "Search_Event_Open": "//XCUIElementTypeButton[@label='Translation']",
   "Channel_Filters": "//*[@name='a11y_season_selector_title_identifier'][Translation]",
   "xxxxxxxxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
@@ -224,6 +224,7 @@
   "SystemInfo_SWVersion": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView",
   "SystemInfo_HHId": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView"
 }
+
 
 
 
