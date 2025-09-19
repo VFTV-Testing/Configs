@@ -16,6 +16,7 @@
   "TLM_Filter": "//*[@name='a11y_header_on_tv_filter_identifier']",
   "VodafoneTvApp": "//XCUIElementTypeCell/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[contains(@label,'Vodafone TV')]",
   "TVGuide_OpenEPG": "//XCUIElementTypeButton[@label='arrow_up']",
+  "TVGuide_Verification": "//*[@name='a11y_program_item_primary_label' and @visible='true']",
   "TVGuide_ArtWork": "//XCUIElementTypeCollectionView[2]/XCUIElementTypeCell[Translation]",
   "TVGuide_OpenFirstAsset": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[1]",  
   "TVGuide_OpenAsset":"(//XCUIElementTypeProgressIndicator/preceding-sibling::XCUIElementTypeOther)[Translation]",  
@@ -223,6 +224,7 @@
   "SystemInfo_SWVersion": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView",
   "SystemInfo_HHId": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView"
 }
+
 
 
 
