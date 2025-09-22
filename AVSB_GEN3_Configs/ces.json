@@ -417,7 +417,7 @@
 "Removefromwatchlist":"Odebrat ze seznamu chci vidět",
 "EPGNetlfix":"netflix",
 "EPGWatchLive":"Sledovat živě",
-"EPGRecordEpisode":"Nahrát díl",
+"EPGRecordEpisode":"Nahrát",
 "EPGRecord":"Nahrávka",
 "EPGRecordSeries":"Nahrát seriál",
 "EPGCancel":"Zrušit",
@@ -698,6 +698,7 @@
 "CancelRecordingAggregationPoPUpSeries" : "Zrušit sérii",
 "ADBUSBDebugButton":"OK"
 }
+
 
 
 
