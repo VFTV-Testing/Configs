@@ -246,7 +246,7 @@
   "MenuSettingsPurchase": "blerjet",
   "MenuSettingsAdults": "Të rritur",
   "MenuSettingsAgeRating": "Vlerësimi i Moshës",
-  "MenuSettingsLockChannels": "Kyç Kanalet",
+  "MenuSettingsLockChannels": "Kanalet e Kyçura",
   "MenuSettingsRecordings": "Regjistrime",
   "MenuRecording": "Regjistrimet",
   "MenuSettingsRecommedationOptout": "Rekomandime Opt-Out",
@@ -766,4 +766,5 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
