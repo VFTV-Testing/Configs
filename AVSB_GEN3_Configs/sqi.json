@@ -651,7 +651,7 @@
   "RentalAndPurchaseDeactivated": "PIN për blerje është çaktivizuar",
   "PrivacyTerms": "Privatësia & Ligjore",
   "WrongPinEntered": "PIN i pasaktë",
-  "MenuSettingsAccountSignIn": "Llogari & Profile",
+  "MenuSettingsAccountSignIn": "Llogaritë dhe profilet",
   "SystemSettingsAddRemoteControl": "Shto telekomandë",
   "VodafoneRemoteControl": "TELEKOMANDA VODAFONE",
   "lastWeekRecordings": "Java e kaluar",
@@ -766,5 +766,6 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
