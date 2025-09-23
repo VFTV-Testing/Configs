@@ -234,7 +234,7 @@
   "NetflixSignOut": "Sign Out",
   "NetflixMobileNo": "Join with your mobile number",
   "NetflixDevice": "Device",
-  "MenuSettingsParentalControls": "Kontrollet Prindërore",
+  "MenuSettingsParentalControls": "Kontrolli Prindërore",
   "MenuSettingContentSetting": "Cilësimet e Përmbajtjes",
   "MenuSettingConnectedDevices": "Pajisje të lidhura",
   "MenuSettingsTVBoxSetting": "Cilësimet e Vodafone TV",
@@ -766,3 +766,4 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
