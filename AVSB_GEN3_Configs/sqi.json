@@ -196,7 +196,7 @@
   "MenuSettingsFAQDeeplink": "faq0004:missinglink",
   "MenuSettingsPrivacy": "Privatësia",
   "MenuSettingsVTVPrivacyNotice": "Njoftimi i privatësisë",
-  "MenuSettingsVTVPrivacyConsent": "Pëlqimi i Privatësisë",
+  "MenuSettingsVTVPrivacyConsent": "Pëlqimi kryesor i",
   "MenuSettingsVTVPrivacyConsent2": "Pëlqimi i Privatësisë",
   "TrasparencyNotes": "Transparenzhinweise",
   "Imprints": "Impressum",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
