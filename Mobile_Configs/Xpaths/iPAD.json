@@ -40,7 +40,7 @@
   "TVGuide_CatchUpOpenAssetMiniGuide": "//XCUIElementTypeCollectionView[1]/XCUIElementTypeCell[Translation]",
   "TVGuide_Poster": "//XCUIElementTypeCollectionView[2]/XCUIElementTypeCell[Translation]",
   "PI_ProgressBar": "//XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeStaticText[contains(@label,'remaining')]",
-  "PI_Back": "//XCUIElementTypeButton[@label='close_icon' and @visible='true']",
+  "PI_Back": "//XCUIElementTypeButton[@label='close' and @visible='true']",
   "Asset_Back": "//XCUIElementTypeButton[@name='a11y_generic_modal_header_close_icon_identifier'and @visible='true']",
   "Event_Back": "//XCUIElementTypeButton[@name='a11y_generic_back_arrow_header_identifier' and @visible='true']",
   "Recording_Asset": "//XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeButton[Translation]",
@@ -224,6 +224,7 @@
   "SystemInfo_SWVersion": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView",
   "SystemInfo_HHId": "//XCUIElementTypeTextField[@value='Translation']/preceding-sibling::XCUIElementTypeTextView"
 }
+
 
 
 
