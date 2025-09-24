@@ -394,7 +394,7 @@
   "MostWatched": "Më të ndjekurat",
   "Sports": "Sport",
   "Entertainment": "Entertainment",
-  "MenuOnDemand": "ON DEMAND",
+  "MenuOnDemand": "OnDemand",
   "MenuOnDemand1": "Video Store",
   "VODAssetWatchTrailer": "Shiko trailer-in",
   "VODAssetRent": "Merr me qira",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
