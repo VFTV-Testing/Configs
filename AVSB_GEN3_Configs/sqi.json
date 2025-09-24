@@ -160,7 +160,7 @@
   "MenuSettingsAudioVisualSettings": "Audio dhe Vizuale",
   "MenuSettingsApps": "Aplikacionet",
   "RecentlySearched": "Kërkimet e fundit",
-  "SearchALL": "gjithë",
+  "SearchALL": "Të gjitha",
   "MenuSearch": "Kërko",
   "AllRail": "gjithë",
   "SearchResultNotFound": "Nuk u gjetën rezultate",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
