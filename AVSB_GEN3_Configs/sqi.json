@@ -426,7 +426,7 @@
   "EPGLater": "Luaj më vonë",
   "EPGTVProgram": "Programi Televiziv",
   "EPGTomorrowSelector": "Nesër",
-  "EPGStartOver": "Rinis",
+  "EPGStartOver": "Rifillo",
   "EPGWatch": "Shiko",
   "EPGWatch1": "Shiko",
   "watchCatchup": "Shiko Catch Up",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
