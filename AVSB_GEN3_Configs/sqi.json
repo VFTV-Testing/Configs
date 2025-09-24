@@ -634,7 +634,7 @@
   "MenuSettingsActivatePin": "Aktivizo PIN",
   "UsbDebugging": "USB debugging",
   "MenuSettingsDeveloperOption": "Opsionet e zhvilluesit",
-  "MenuSettingsVodafoneAppsSettings": "Kërkimi i kanaleve & Informacionet e sistemit",
+  "MenuSettingsVodafoneAppsSettings": "Cilesimet e aplikacionit",
   "SettingsGeneralInfo": "Të përgjithshme",
   "MenuSettingsDisplayWhenWatching": "Fikja automatike",
   "MenuSettingsDisplayWhenWatchingGEN4": "Gjatë shikimit",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
