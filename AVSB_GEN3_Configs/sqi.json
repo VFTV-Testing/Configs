@@ -627,8 +627,8 @@
   "MenuMyTVRecordingSingleNotificationPI1": "Duke u regjistruar në",
   "OldMenuMyTVRecordingSingleNotificationPI1": "Episodi është programuar",
   "AlreadyRecordedEvent": "Ky përmbajtje është tashmë e programuar për regjistrim",
-  "TVGuideSingleRecordingNotification": "u programua",
-  "TVGuideSeriesRecordingNotification": "Seriali u programua",
+  "TVGuideSingleRecordingNotification": "Registrimi",
+  "TVGuideSeriesRecordingNotification": "Seria",
   "TVGuideSeriesRecordingNotification1": "episodet së shpejti do të gjenden në regjistrimet e tua",
   "MenuSettingsDeActivatePin": "Caktivizo PIN-in",
   "MenuSettingsActivatePin": "Aktivizo PIN",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
