@@ -82,7 +82,7 @@
   "RecordingScheduled": "Regjistrimet e programuara",
   "DisneyLogin": "EINLOGGEN",
   "MenuMyTVCancelrecording": "Anullo Regjistrimin",
-  "Cancelseriesrecording": "Anullo Regjistrimin e Serive",
+  "Cancelseriesrecording": "Cancel",
   "DeleteRecordingNotification": "Regjistrimi u fshi",
   "CancelRecordingNotification": "Anullo Regjistrimin e Serive",
   "MenuMyTVRecordingDeleteRecording": "Fshi Regjistrimin",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
