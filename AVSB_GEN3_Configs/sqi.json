@@ -285,8 +285,8 @@
   "MenuSettingChannelSorting": "Renditja e kanaleve",
   "Customisation": "Personalizim",
   "MenuSettingsNetworkAndPlayer": "Regjistrat e Rrjetit dhe Player-it",
-  "MenuSettingsDeepStandby": "Modalitet Kursim i Lartë",
-  "MenuSettingsActiveStandby": "Modalitet Kursim i Ulët",
+  "MenuSettingsDeepStandby": "Kursim energjie",
+  "MenuSettingsActiveStandby": "Aktive",
   "MenuSettingsAgeRatingOff": "Fikur",
   "MenuSettingsHideContent": "Fshih",
   "MenuSettingsShowContent": "Shfaq",
@@ -639,7 +639,7 @@
   "MenuSettingsDisplayWhenWatching": "Fikja automatike",
   "MenuSettingsDisplayWhenWatchingGEN4": "Gjatë shikimit",
   "MenuSettingsDisplayWhenWatchingTimerGEN4": "Koha për fikje",
-  "MenuSettingenergySaver": "Furnizimi me energji dhe kursimi i saj",
+  "MenuSettingenergySaver": "Fuqia dhe energjia",
   "MenuSettingenergySaverGEN4": "Energji & Kursim",
   "MenuSettingTurnOffDisplay": "Automatike",
   "MenuSettingsLanguageSelection": "Shqip",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
