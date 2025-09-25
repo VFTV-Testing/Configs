@@ -183,8 +183,8 @@
   "MenuSettingsEnterPIN1": "Vendos PIN",
   "MenuSettingsPinChanged": "PIN u ndryshua",
   "MenuSettingsTryAgain": "Provo përsëri",
-  "MenuSettingsChangeMasterPin": "PIN-i kryesor",
-  "MenuSettingsChangeMasterPin1": "PIN-i kryesor",
+  "MenuSettingsChangeMasterPin": "Ndrysho PIN",
+  "MenuSettingsChangeMasterPin1": "Ndrysho PINr",
   "MenuSettingsPinInfo": "Informacion për PIN",
   "MenuSettingsEnterNewPIN": "Vendos PIN-in e ri",
   "MenuSettingsReenterPIN": "Rivendos PIN-in e ri",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
