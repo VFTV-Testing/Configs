@@ -181,7 +181,7 @@
   "MenuSettingsPurchaseTurnedOff": "PIN i çaktivizuar",
   "MenuSettingsEnterPIN": "Vendos PIN",
   "MenuSettingsEnterPIN1": "Vendos PIN",
-  "MenuSettingsPinChanged": "PIN u ndryshua",
+  "MenuSettingsPinChanged": "PIN-i është ndryshuar",
   "MenuSettingsTryAgain": "Provo përsëri",
   "MenuSettingsChangeMasterPin": "Ndrysho PIN",
   "MenuSettingsChangeMasterPin1": "Ndrysho PINr",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
