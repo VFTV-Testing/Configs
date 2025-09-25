@@ -186,8 +186,8 @@
   "MenuSettingsChangeMasterPin": "Ndrysho PIN",
   "MenuSettingsChangeMasterPin1": "Ndrysho PINr",
   "MenuSettingsPinInfo": "Informacion për PIN",
-  "MenuSettingsEnterNewPIN": "Vendos PIN-in e ri",
-  "MenuSettingsReenterPIN": "Rivendos PIN-in e ri",
+  "MenuSettingsEnterNewPIN": "Vendos PIN e ri",
+  "MenuSettingsReenterPIN": "Rivendos PIN e ri",
   "ParentalControlMessage": "Çaktivizimi i PIN-it gjithashtu çaktivizon Kontrollet Prindërore. Dëshiron të vazhdosh?",
   "MenuSettingsFAQ": "Pyetjet më të shpeshta",
   "MenuSettingsFAQAccount": "en NZ Your account",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
