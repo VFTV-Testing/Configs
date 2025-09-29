@@ -430,8 +430,8 @@
   "EPGWatch": "Shiko",
   "EPGWatch1": "Shiko",
   "watchCatchup": "Shiko Catch Up",
-  "Addtowatchlist": "Shto në Watchlist",
-  "Removefromwatchlist": "Hiq nga Watchlist",
+  "Addtowatchlist": "Lista e dëshirave",
+  "Removefromwatchlist": "Hiq nga lista dëshirave",
   "EPGNetlfix": "netflix",
   "EPGWatchLive": "Shiko drejtpërdrejt",
   "EPGRecordEpisode": "Regjistro episodin",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
