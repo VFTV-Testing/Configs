@@ -748,7 +748,7 @@
   "TrickModeBlocked": "për këtë|përshpejtimi është|arsye licencimi|SAT1809|jo",
   "TrickModeBlocked1": "jo",
   "AdText": "Reklamë",
-  "SystemSettingsScreenSaver": "Ruajtësi i ekranit",
+  "SystemSettingsScreenSaver": "Mbrojtësi i ekranit",
   "SystemSettingsScreenSaverSetTime": "Cakto kohën",
   "ScreenSaverTimeInMins": " minuta",
   "ScreenSaverTimeInHrs": " orë",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
