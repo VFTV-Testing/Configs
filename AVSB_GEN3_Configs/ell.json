@@ -663,5 +663,8 @@
 "RecordAggregationPoPUpSeries" : "Εγγραφή της σειράς",
 "CancelRecordingAggregationPoPUpSingleEpisode" : "Ακύρωση του επεισοδίου",
 "CancelRecordingAggregationPoPUpSeries" : "Ακύρωση της σειράς",
-"ADBUSBDebugButton":"OK"
+"ADBUSBDebugButton":"OK",
+"MenuSettingenergySaverGEN4":"Χρονόμετρο απενεργοποίησης",
+"MenuSettingsDisplayWhenInactiveGEN4":"Όταν εἰναι ανενεργή",
+"MenuSettingsDisplayWhenWatchingGEN4":"Κατά την παρακολούθηση"  
 }
