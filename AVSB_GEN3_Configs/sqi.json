@@ -353,8 +353,8 @@
   "MenuMyTVRecordingNotification3": "Regjistrime",
   "MenuMyTVRecordingNotification4": "Regjistrimi",
   "MenuMyTVRecordingNotification5": "Të gjitha episodet e mëparshme të disponueshme në Regjistrimet e tua së shpejti",
-  "MenuMyTVWishlist": "Watchlist",
-  "MenuMyTVWatchlist": "Watchlist",
+  "MenuMyTVWishlist": "Lista e preferencave",
+  "MenuMyTVWatchlist": "Lista e preferencave",
   "MenuMyTVWatchOptions": "Opsionet e Shikimit",
   "MenuMyTVRecommendation": "Rekomandime për ty",
   "MenuMyTVRentals": "Me qira",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
