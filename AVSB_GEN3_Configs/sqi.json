@@ -200,8 +200,8 @@
   "MenuSettingsVTVPrivacyConsent2": "Pëlqimi i Privatësisë",
   "TrasparencyNotes": "Transparenzhinweise",
   "Imprints": "Impressum",
-  "MenuSettingsVTVPrivacyConsentAgreed": "Pas",
-  "MenuSettingsVTVPrivacyConsentDisagreed": "Dakordësuar",
+  "MenuSettingsVTVPrivacyConsentAgreed": "Dakordësuar",
+  "MenuSettingsVTVPrivacyConsentDisagreed": "E pa Dakordësuar",
   "MenuSettingsYourAccount": "en_NZ Your account",
   "MenuSettingsYourNetwork": "en_NZ Network",
   "MenusettingsREDisagree": "Nuk pranoj",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
