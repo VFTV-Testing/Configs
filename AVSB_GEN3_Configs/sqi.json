@@ -208,7 +208,7 @@
   "NetflixEnterEmailAddress": "E-Mail-Adresse",
   "NetflixEnterYourPassword": "Passw",
   "NetflixEmailAddress": "E-Mail-Adresse",
-  "MenusettingsREAgree": "Pranoj",
+  "MenusettingsREAgree": "Dakord",
   "MenusettingsREDisagreeText": "Jo Pranuar",
   "MenusettingsREAgreeText": "Pranoj",
   "MenusettingsChangePin": "Ndrysho PIN",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
