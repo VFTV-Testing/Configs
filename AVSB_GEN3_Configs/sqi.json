@@ -49,7 +49,7 @@
   "ResetSetupComplete": "Konfigurimi përfundoi",
   "DisneyHome": "INÍCIO",
   "DisneyEnterPassword": "Hyr me fjalëkalim",
-  "DisneyProfileText": "Kush po shikon?",
+  "DisneyProfileText": "Quem esta a ver?",
   "DisneyProfileText1": "Who's watching?",
   "DisneyEditProfile": "REDAKTO PROFILIN",
   "DisneyAppLanguage": "Gjuha e aplikacionit",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
