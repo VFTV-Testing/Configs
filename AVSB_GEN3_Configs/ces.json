@@ -51,7 +51,7 @@
 "MenuSettingsAutoStandbyTime2Hr":"2 hodiny",
 "MenuSettingsAutoStandbyTime":"Vypnuto",
 "MenuSettingsAudioVisualDolby":"dolby digital",
-"MenuSettingsAudioVisualSettings":"Zvuk & Obraz",
+"MenuSettingsAudioVisualSettings":"Zvuk a obraz",
 "MenuSettingsMasterPIN":"Správa kódu PIN",
 "MenuSettingsPurchasePIN":"Nákupy",
 "MenuSettingsTurnedOn":"PIN aktivní",
@@ -698,6 +698,7 @@
 "CancelRecordingAggregationPoPUpSeries" : "Zrušit sérii",
 "ADBUSBDebugButton":"OK"
 }
+
 
 
 
