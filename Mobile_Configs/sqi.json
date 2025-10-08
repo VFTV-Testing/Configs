@@ -3,11 +3,11 @@
 	"MyHome_Rail2": "On Now",
 	"MyHome_Rail3": "Prime Time",
 	"MyHome_Rail4": "rail NA in AL",
-	"OnDemand_Rail1": "Komedi",
-	"OnDemand_Rail2": "Filma",
-	"OnDemand_Rail3": "Dramë",
-	"OnDemand_Rail4": "Aksion",
-	"OnDemand_Rail5": "Thriller",
+	"OnDemand_Rail1": "Filma",
+	"OnDemand_Rail2": "Dramë",
+	"OnDemand_Rail3": "Aksion",
+	"OnDemand_Rail4": "Thriller",
+	"OnDemand_Rail5": "Krim",
 	"MyHome_Recordings": "Regjistrimet",
 	"MyHome_Completed_Recordings": "Regjistrimet e perfunduara",
 	"MyHome_Scheduled_Recordings": "Regjistrimet e planifikuara",
@@ -396,5 +396,6 @@
 	"General_Confirm_Deu": "DE",
 	"VideoCast": "Chromecast"
 }
+
 
 
