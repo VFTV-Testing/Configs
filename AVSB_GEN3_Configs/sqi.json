@@ -613,7 +613,7 @@
   "MenuSettingsDisplayWhenInactive": "Fikja automatike",
   "MenuSettingsDisplayWhenInactiveGEN4": "Kur është joaktiv",
   "MenuSettingsAbout": "Info",
-  "AndroidTvOsBuild": "Versioni i Android TV",
+  "AndroidTvOsBuild": "Ndërtimi i Android TV",
   "AmazonPrimeTLM": "prime video",
   "NetflixTLM": "NETFLIX",
   "YouTubeTLM": "YouTube",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
