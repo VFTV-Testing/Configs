@@ -746,8 +746,8 @@
   "DAZNLogin1": "Hyr",
   "SystemSettingsRestart": "Rinis",
   "NetflixConurrency": "Shumë persona të lidhur",
-  "TrickModeBlocked": "nuk ofrohet për përmbajtjen",
-  "TrickModeBlocked1": "nuk ofrohet për",
+  "TrickModeBlocked": "nuk ofrohet",
+  "TrickModeBlocked1": "nuk ofrohet",
   "AdText": "Reklamë",
   "SystemSettingsScreenSaver": "Mbrojtësi i ekranit",
   "SystemSettingsScreenSaverSetTime": "Cakto kohën",
@@ -767,6 +767,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
