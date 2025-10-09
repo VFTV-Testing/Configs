@@ -679,7 +679,7 @@
   "MenuMediaLibraryRail": "Pikat kryesore nga bibliotekat mediatike",
   "NetflixMemberSettings": "Anëtar",
   "OpenPrivacySettings": "Cilësimet e privatësisë",
-  "LockedBanner": "Kanali i bllokuar",
+  "LockedBanner": "Kanali u mbyll",
   "LockedBannerZapBanner": "Kanal",
   "NetflixSignInContinue": "Hyr",
   "MenuSettingsAlertModalTitle": "A je i sigurt?",
@@ -767,6 +767,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
