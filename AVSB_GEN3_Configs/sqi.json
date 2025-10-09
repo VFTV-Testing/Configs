@@ -386,7 +386,7 @@
   "MenuTVChannelMostWatched": "Dramë",
   "MenuTVChannelPremium": "Premium",
   "MenuTVGuide": "Programi Televiziv",
-  "MenuTVChannel": "Të gjithë kanalet",
+  "MenuTVChannel": "Te gjitha kanalet",
   "ChannelFilterSport": "Të përgjithshme",
   "ChannelFilterEntertainment": "Entertainment",
   "ChannelFIlterNews": "News",
@@ -767,6 +767,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
