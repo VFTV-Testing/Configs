@@ -236,6 +236,7 @@
   "NetflixDevice": "Device",
   "MenuSettingsParentalControls": "Kontrolli Prindërore",
   "MenuSettingContentSetting": "Cilësimet e Përmbajtjes",
+  "MenuSettingContentSettings": "Cilësimet e Përmbajtjes",
   "MenuSettingConnectedDevices": "Pajisje të lidhura",
   "MenuSettingsTVBoxSetting": "Cilësimet e Vodafone TV",
   "MenuSettingServiceSettins": "Cilësimet e Përmbajtjes",
@@ -766,6 +767,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
