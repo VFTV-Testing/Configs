@@ -418,7 +418,7 @@
   "VODAssetPurchased": "Blerja u bë me sukses",
   "vodTrailer": "Shiko Trailer-in",
   "EPGLaunch": "Të gjitha kanalet",
-  "EPGTomorrow": "nesër",
+  "EPGTomorrow": "Nesër",
   "EPGTomorrow1": "Nesër",
   "EPGToday": "Sot",
   "EPGYesterday": "Dje",
@@ -767,6 +767,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
