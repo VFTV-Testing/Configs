@@ -661,7 +661,6 @@
   "AllowADB": "Lejuar",
   "MenuSettingInformation": "Informacion",
   "Nagra": "Nagra",
-  "MenuSettingsContentSettings": "Kanalet e preferuara & Regjistrimet",
   "MenuSettingVodafoneTV": "Vodafone TV",
   "MenuSettingVodafoneTVApp": "Aplikacioni Vodafone TV",
   "MenuSettingChannelScan": "skanimi i kanalit",
@@ -767,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
