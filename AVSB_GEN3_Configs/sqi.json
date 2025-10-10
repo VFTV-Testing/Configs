@@ -595,7 +595,7 @@
   "AmazonPrimeRemoveWatchlist": "Hiq nga lista e shikimit",
   "AmazonPrimeProfileText": "Kush po shikon tani",
   "WatchOnAmazonPrime": "Shiko në Prime Video NZ",
-  "AmazonPrimeRestart": "Rinis përsëri",
+  "AmazonPrimeRestart": "derneut starten",
   "SubscriptionError": "Kanali nuk është abonuar",
   "SubscribePI": "Abonohu te Entertainment Ext",
   "NoInternet": "Hap cilësimet",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
