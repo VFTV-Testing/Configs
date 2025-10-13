@@ -682,7 +682,7 @@
   "LockedBannerZapBanner": "Kanal",
   "NetflixSignInContinue": "Hyr",
   "MenuSettingsAlertModalTitle": "Je i sigurt?",
-  "MenuSettingsAlertModalMessgae": "Nëse ti refuzon",
+  "MenuSettingsAlertModalMessgae": "Duke mos rënë dakord",
   "MenuSettingsResolution": "Rezolucioni",
   "MenuSettingsDynamicRange": "Gama dinamike",
   "Resolution": "1080p 50Hz",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
