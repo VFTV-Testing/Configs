@@ -698,7 +698,7 @@
   "SelectFavouriteLineUp": "Zgjidh Listën Favorite",
   "RemainingLineUp": "Pjesa e mbetur e Renditjes",
   "FavouriteLineUp": "Lista Favorite",
-  "ResetLineUp": "Rivendos renditjen",
+  "ResetLineUp": "Rivendos Renditjen",
   "ContentSettingConfirm": "Konfirmo Renditjen Time",
   "EnteredPinValidationText": "Kontrollo",
   "CorrectPinEnteredText": "PIN i saktë",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
