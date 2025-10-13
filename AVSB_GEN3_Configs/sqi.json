@@ -706,7 +706,7 @@
   "VODRentInfoLabel": "Merr me qira TIME për PRICE",
   "VODWatchInfoLabel": "Skadon brenda TIME",
   "AddWishlistLabel": "Shto në listën e dëshirave",
-  "AddedWishlistLabel": "U shtua në listën e dëshirave",
+  "AddedWishlistLabel": "U shtua në listën e preferencave",
   "Remove": "Hiq",
   "ProgressBarLiveString": "Live",
   "EPGRemaining": "mbetur",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
