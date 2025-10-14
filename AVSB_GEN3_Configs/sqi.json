@@ -758,7 +758,7 @@
   "MedialibraryAdRail": "Kanalet FreeTV",
   "MenuSettingsAudio": "Zëri",
   "RecordAggregation": "Regjistro",
-  "CancelRecordingAggregation": "Anulo Serinë",
+  "CancelRecordingAggregation": "Cancel",
   "RecordAggregationPoPUpSingleEpisode": "Regjistro episodin",
   "RecordAggregationPoPUpSeries": "Regjistro serinë",
   "CancelRecordingAggregationPoPUpSingleEpisode": "Anulo episodin",
@@ -766,61 +766,3 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
