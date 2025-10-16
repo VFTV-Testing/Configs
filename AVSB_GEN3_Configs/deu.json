@@ -753,7 +753,7 @@
 "SystemSettingsRestart": "Neu starten",
 "NetflixConcurrency":"Too many people",
 "TrickModeBlocked": "für diese|Vorspulen ist|lizenzrechtlichen|SAT1809|nicht|SAT1805|SAT1808",
-"TrickModeBlocked1": "nicht",
+"TrickModeBlocked1": "nicht|SAT1805|SAT1808|SAT1809",
 "AdText": "Anzeige",
 "SystemSettingsScreenSaver": "Bildschirmschoner",
 "SystemSettingsScreenSaverSetTime": "Zeitpunkt festlegen",
