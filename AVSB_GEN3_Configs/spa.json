@@ -673,8 +673,8 @@
 "UseRemoteControl": "Utiliza el mando a distancia",
 "YoutubeViews":"visualizaciones",
 "NetflixConcurrency":"Too many people",
-"TrickModeBlocked": "No se puede|No es posible",
-"TrickModeBlock": "No se puede|No es posible",
+"TrickModeBlocked": "No se puede|No es posible|SAT1805|SAT1808|SAT1809",
+"TrickModeBlock": "No se puede|No es posible|SAT1805|SAT1808|SAT1809",
 "TrickModeBlocked1": "no se puede",
 "Error9Disney":"erro 9",
 "MiniPIMoreInfo": "Más info",
@@ -686,6 +686,7 @@
 "CancelRecordingAggregationPoPUpSeries" : "Cancelar Serie",
 "ADBUSBDebugButton":"Aceptar"
 }
+
 
 
 
