@@ -771,5 +771,6 @@
 "CancelRecordingAggregationPoPUpSingleEpisode" : "Cancel Episode",
 "CancelRecordingAggregationPoPUpSeries" : "Cancel Series",
 "TrickmodeBlock": "lizenz",
-"ADBUSBDebugButton":"OK"
+"ADBUSBDebugButton":"OK",
+ "DAZNConcurrancy":"ALCANZADO"
 }
