@@ -749,7 +749,7 @@
   "TrickModeBlocked1": "nuk ofrohet",
   "AdText": "Reklamë",
   "SystemSettingsScreenSaver": "Mbrojtësi i ekranit",
-  "SystemSettingsScreenSaverSetTime": "Cakto kohën",
+  "SystemSettingsScreenSaverSetTime": "Kur të fillojë",
   "ScreenSaverTimeInMins": " minuta",
   "ScreenSaverTimeInHrs": " orë",
   "WrongPINNotification": "Një PIN i pasaktë u fut 3 herë rresht.",
@@ -766,4 +766,5 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
