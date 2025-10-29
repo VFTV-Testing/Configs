@@ -506,8 +506,8 @@
   "Animation": "Animacion",
   "Comedy": "Komedi",
   "VodafoneFilms": "VodafoneFilma",
-  "MenuOnDemandRentedRail": "Filma",
-  "MenuOnDemandRentalRail": "Filma",
+  "MenuOnDemandRentedRail": "Dramë",
+  "MenuOnDemandRentalRail": "Dramë",
   "MenuOnDemandRentalRail1": "Çdo ditë një film i ri",
   "MenuOnDemandAdultVodRail": "Erotikë",
   "MenuOnDemandAdultVod": "Erotikë",
@@ -766,3 +766,4 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
