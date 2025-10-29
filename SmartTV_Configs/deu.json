@@ -94,10 +94,19 @@
     "SearchRail": "Alle Treffer, Läuft gerade, Mediatheken",
     "LoginOption": "Anmelden",
     "DisplayLanguage": "Anzeigesprache",
-    "Germany": "Deutsch",
+    "Language": "Deutsch",
     "English": "Englisch",
-    "SearchableEvent": "the,two,mat,gil,ter"
+    "SearchableEvent": "the,two,mat,gil,ter",
+    "LanguageSettings": "Display Language",
+    "WatchNow": "WatchNow",
+    "TV": "TV",
+    "EPG": "EPG",
+    "Recordings": "Recordings",
+    "OnDemand": "OnDemand",
+    "Settings": "Settings",
+    "Language&Accessibility": "Language & Accessibility"
 }
+
 
 
 
