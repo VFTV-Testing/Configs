@@ -97,7 +97,7 @@
     "Language": "Deutsch",
     "English": "Englisch",
     "SearchableEvent": "the,two,mat,gil,ter",
-    "LanguageSettings": "Display Language",
+    "DisplayLanguageEng": "Display Language",
     "MenuWatchNowEng": "WatchNow",
     "MenuTVEng": "TV",
     "MenuEPGEng": "EPG",
@@ -107,6 +107,7 @@
     "SettingsLanguage&AccessibilityEng": "Language & Accessibility",
     "LanguageEng": "German"
 }
+
 
 
 
