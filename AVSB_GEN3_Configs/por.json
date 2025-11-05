@@ -635,8 +635,8 @@
 "TVGuideSingleRecordingNotification": "Foi efetuado agendamento",
 "TVGuideSeriesRecordingNotification1": "Foi agendada a gravação da série",
 "TVGuideSeriesRecordingNotification": "Foi agendada a gravação da série",
-"MenuSettingsDisplayWhenWatching" : "Desligar",
-"MenuSettingsDisplayWhenInactive" : "Desligar",
+"MenuSettingsDisplayWhenWatching" : "Desative automaticamente q",
+"MenuSettingsDisplayWhenInactive" : "Desative automaticamente q",
 "VodafoneRemoteControl" : "REMOTE CONTROL Ligado",
 "lastWeekRecordings" : "Semana anterior",
 "lastWeekRecording" : "Semana anterior",
@@ -733,6 +733,7 @@
 "MiniPIMoreInfo": "Mais informação",
 "ADBUSBDebugButton":"OK"
 }
+
 
 
 
