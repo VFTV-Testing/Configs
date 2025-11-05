@@ -635,8 +635,8 @@
 "TVGuideSingleRecordingNotification": "Foi efetuado agendamento",
 "TVGuideSeriesRecordingNotification1": "Foi agendada a gravação da série",
 "TVGuideSeriesRecordingNotification": "Foi agendada a gravação da série",
-"MenuSettingsDisplayWhenWatching" : "Desative automaticamente q",
-"MenuSettingsDisplayWhenInactive" : "Desative automaticamente q",
+"MenuSettingsDisplayWhenWatching" : "Desligar",
+"MenuSettingsDisplayWhenInactive" : "Desligar",
 "VodafoneRemoteControl" : "REMOTE CONTROL Ligado",
 "lastWeekRecordings" : "Semana anterior",
 "lastWeekRecording" : "Semana anterior",
@@ -722,8 +722,8 @@
 "TrickModeBlocked1": "disponíve",
 "Error9Disney":"erro 9",
 "MenuSettingenergySaverGEN4":"Temporizador de desativação",
-"MenuSettingsDisplayWhenInactiveGEN4":"Desligar",
-"MenuSettingsDisplayWhenWatchingGEN4" : "Desligar",
+"MenuSettingsDisplayWhenInactiveGEN4":"Desative automaticamente q",
+"MenuSettingsDisplayWhenWatchingGEN4" : "Desative automaticamente q",
 "RecordAggregation" : "Gravar",
 "CancelRecordingAggregation" : "Cancelar",
 "RecordAggregationPoPUpSingleEpisode" : "Record Episode",
@@ -733,6 +733,7 @@
 "MiniPIMoreInfo": "Mais informação",
 "ADBUSBDebugButton":"OK"
 }
+
 
 
 
