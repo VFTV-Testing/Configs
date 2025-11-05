@@ -440,7 +440,7 @@
   "EPGRecordSeries": "Regjistro serialin",
   "EPGCancel": "Anulo",
   "Catchup": "Catchup",
-  "Resume": "Rifillo",
+  "Resume": "Vazhdo",
   "Duration": "Kohëzgjatja",
   "EPGLive": "Shiko Drejtpërdrejt",
   "RewindDuration": "3h59m",
@@ -766,5 +766,6 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
