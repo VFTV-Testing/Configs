@@ -162,7 +162,7 @@
 "StartSession": "Iniciar sessão",
 "MenuSettingsLockChannelsMenu": "Configurar",
 "MenuSettingsDisplaySettings": "Configuragoes de exibicao",
-"MenuSettingsAudio": "Som",
+"MenuSettingsAudio": "Áudio e Colunas",
 "MenuSettingsLockedChannelDone": "Concluído",
 "NetflixHomeIcon": "Netflix",
 "MenuSettingsRecordingSpace": "Espaço de gravação",
@@ -733,6 +733,7 @@
 "MiniPIMoreInfo": "Mais informação",
 "ADBUSBDebugButton":"OK"
 }
+
 
 
 
