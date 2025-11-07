@@ -63,7 +63,7 @@
     "LockedContent": "Gesperrter Inhalt",
     "Yes": "Ja",
     "NO": "Nein",
-    "ExitPopUp":"GigaTV",
+    "ExitPopUp":"Vodafone TV",
     "Continuewatching":"Fortsetzen",
     "ChannelFilterList" : "Alle Kanale, Hauptsender, Public Value, Filme & TV Shows, Kinder, Dokus & News, Regional, Sports, Musik, Shopping, International",
     "SettingsManageChannels":"Sender verwallen",
@@ -107,6 +107,7 @@
     "SettingsLanguage&AccessibilityEng": "Language & Accessibility",
     "LanguageEng": "German"
 }
+
 
 
 
