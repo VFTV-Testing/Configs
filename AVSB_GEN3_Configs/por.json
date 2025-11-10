@@ -731,8 +731,10 @@
 "CancelRecordingAggregationPoPUpSingleEpisode" : "Cancel Episode",
 "CancelRecordingAggregationPoPUpSeries" : "Cancel Series",
 "MiniPIMoreInfo": "Mais informação",
-"ADBUSBDebugButton":"OK"
+"ADBUSBDebugButton":"OK",
+"MenuExplorar": "Explorar"
 }
+
 
 
 
