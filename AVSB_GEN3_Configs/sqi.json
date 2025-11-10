@@ -6,7 +6,7 @@
   "SameDigitPinNotification": "Katër numra të njëjtë me radhë nuk lejohen (p.sh. 2222) Të lutem zgjidh një kombinim tjetër.",
   "Successful_Maintainance_Regex": "Cikli i fundit i suksesshëm i mirëmbajtjes:",
   "MenuOnDemandComponentsRail": "Formatet kryesore të muajit",
-  "MenuOnTV": "My Home",
+  "MenuOnTV": "Live",
   "CharStringOnNow": "Live",
   "OnDemandMoreBucketRail": "Filma",
   "MyTvRail1": "regjistrime",
@@ -395,7 +395,7 @@
   "MostWatched": "Më të ndjekurat",
   "Sports": "Sport",
   "Entertainment": "Entertainment",
-  "MenuOnDemand": "OnDemand",
+  "MenuOnDemand": "On Demand",
   "MenuOnDemand1": "Video Store",
   "VODAssetWatchTrailer": "Shiko trailer-in",
   "VODAssetRent": "Merr me qira",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
