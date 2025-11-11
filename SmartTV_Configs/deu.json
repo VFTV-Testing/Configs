@@ -87,7 +87,7 @@
     "ConsentRejection": "Zustimmung abgelehnt",
     "Ok": "OK",
     "Cancel": "Abbrechen",
-    "ContinueWatchRecordingsRail": "Jetzt ansehen"
+    "ContinueWatchRecordingsRail": "Jetzt ansehen",
     "HighlightsFromtheMedia": "Highlights aus den Mediatheken",
     "NotIncluded": "Nicht enthalten",
     "ConsentAgreeRail": "Top 10 Serien, Weiterschauen, Meistgesehene Sender",
@@ -108,6 +108,7 @@
     "SettingsLanguage&AccessibilityEng": "Language & Accessibility",
     "LanguageEng": "German"
 }
+
 
 
 
