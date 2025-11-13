@@ -718,7 +718,7 @@
 "UseRemoteControl": "Utilizar endereco de",
 "YoutubeViews":"visualizações",
 "NetflixConcurrency":"Too many people",
-"TrickModeBlocked": "disponíve",
+"TrickModeBlocked": "disponíve | limite de recuo",
 "TrickModeBlocked1": "disponíve",
 "Error9Disney":"erro 9",
 "MenuSettingenergySaverGEN4":"Temporizador de desativação",
@@ -734,6 +734,7 @@
 "ADBUSBDebugButton":"OK",
 "MenuExplorar": "Explorar"
 }
+
 
 
 
