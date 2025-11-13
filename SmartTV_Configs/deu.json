@@ -89,8 +89,8 @@
     "ContinueWatchRecordingsRail": "Jetzt ansehen",
     "HighlightsFromtheMedia": "Highlights aus den Mediatheken",
     "NotIncluded": "Nicht enthalten",
-    "ConsentAgreeRail": "Top 10 Serien, Weiterschauen, Meistgesehene Sender",
-    "ConsentDisagreeRail": "Top 10 Serien",
+    "ConsentAgreeRail": "Top 10 Serien, Weiterschauen, Meistgesehene Sender, Willkommen bei Vodafone TV",
+    "ConsentDisagreeRail": "Top 10 Serien, Willkommen bei Vodafone TV",
     "SearchRail": "Alle Treffer, Läuft gerade, Mediatheken",
     "LoginOption": "Anmelden",
     "DisplayLanguage": "Anzeigesprache",
@@ -107,6 +107,7 @@
     "SettingsLanguage&AccessibilityEng": "Language & Accessibility",
     "LanguageEng": "German"
 }
+
 
 
 
