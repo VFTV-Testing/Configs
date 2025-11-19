@@ -105,8 +105,10 @@
     "MenuOnDemandEng": "OnDemand",
     "MenusettingsEng": "Settings",
     "SettingsLanguage&AccessibilityEng": "Language & Accessibility",
-    "LanguageEng": "German"
+    "LanguageEng": "German",
+    "GracePeriod": "2"
 }
+
 
 
 
