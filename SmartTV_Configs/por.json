@@ -96,5 +96,6 @@
     "DisplayLanguage": "Idioma do aplicação",
     "Portugal": "Português",
     "English": "Inglês",
-    "SearchableEvent": "the,two,mat,gil,ter"
+    "SearchableEvent": "the,two,mat,gil,ter",
+    "GracePeriod": "20"
 }
