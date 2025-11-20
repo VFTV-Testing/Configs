@@ -666,7 +666,7 @@
 "ContentSettingChannelLineUp" : "Alinhamento de canais personalizado",  
 "SubscribeHbo" : "SUBSCREVER AGORA",  
 "StartSessionCapital" : "INICIAR SESSÂO",  
-"EnterEmailHBO" : "Introduzir endereço de e-mail da Max",  
+"EnterEmailHBO" : "Introduza o seu endereço de e-mail da HBO Max",  
 "EnterPasswordHBO" : "Introduzir palavra-passe da Max", 
 "PrivacyTermsHbo" : "GERIR PREFERÊNCIAS",
 "PrivacyTermsTitleHbo" : "Valorizamos a sua privacidade",
@@ -734,6 +734,7 @@
 "ADBUSBDebugButton":"OK",
 "MenuExplorar": "Explorar"
 }
+
 
 
 
