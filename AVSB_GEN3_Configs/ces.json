@@ -679,7 +679,7 @@
 "Episode": "epizoda",
 "LoginThroughQR": "Naskenovat OR kód",
 "PrivacyAcceptAll": "Přijmout vše",
-"UseRemoteControl": "Použít e-mailovou adresu",
+"UseRemoteControl": "Použít dálkové ovládání",
 "MiniPIMoreInfo": "Více informací",
 "YoutubeViews":"zhlédnutí", 
 "DAZNLogin": "SIGN IN",
@@ -698,6 +698,7 @@
 "CancelRecordingAggregationPoPUpSeries" : "Zrušit sérii",
 "ADBUSBDebugButton":"OK"
 }
+
 
 
 
