@@ -607,7 +607,7 @@
   "MiniGuideRemaining1": "mbetur",
   "CancelEpisoderecording": "Anulo episodin",
   "MenuSettingsSystemSettings": "Cilësimet e Sistemit",
-  "StartSession": "Hyni",
+  "StartSession": "Identifikohu",
   "MenuSettingDisplayAndSounds": "Tinguj",
   "MenuSettingsDevicePreference": "Preferencat e pajisjes",
   "MenuSettingsAudioProcessing": "Përpunimi i audios",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
