@@ -670,7 +670,7 @@
 "Episode": "Episodio",
 "LoginThroughQR": "Escanear código QR",
 "PrivacyAcceptAll": "Aceptar todo",
-"UseRemoteControl": "Utiliza el mando a distancia",
+"UseRemoteControl": "Utiliza el correo",
 "YoutubeViews":"visualizaciones",
 "NetflixConcurrency":"Too many people",
 "TrickModeBlocked": "No se puede|No es posible|SAT1805|SAT1808|SAT1809",
@@ -686,6 +686,7 @@
 "CancelRecordingAggregationPoPUpSeries" : "Cancelar Serie",
 "ADBUSBDebugButton":"Aceptar"
 }
+
 
 
 
