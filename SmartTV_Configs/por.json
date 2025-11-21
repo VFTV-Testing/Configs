@@ -98,6 +98,6 @@
     "English": "Inglês",
     "SearchableEvent": "the,two,mat,gil,ter",
     "GracePeriod": "20",
-	"LiveTVSwitchPopUp": "",
-    "LiveTV": ""
+	"LiveTVSwitchPopUp": "ALERT_CHANNEL_SWITCH_TITLE",
+    "LiveTV": "ALERT_CHANNEL_SWITCH_LIVE_TV_BUTTON"
 }
