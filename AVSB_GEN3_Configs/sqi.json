@@ -708,7 +708,7 @@
   "AddWishlistLabel": "Shto në listën e dëshirave",
   "AddedWishlistLabel": "U shtua në listën e preferencave",
   "Remove": "Hiq",
-  "ProgressBarLiveString": "Live",
+  "ProgressBarLiveString": "drejtpërdrejtë",
   "EPGRemaining": "mbetur",
   "EPGRestartAvailable": "Rinis",
   "EPGRecordingNow": "duke u regjistruar",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
