@@ -724,6 +724,7 @@
 "MenuSettingenergySaverGEN4":"Temporizador de desativação",
 "MenuSettingsDisplayWhenInactiveGEN4":"Desative automaticamente q",
 "MenuSettingsDisplayWhenWatchingGEN4" : "Desative automaticamente q",
+ "MenuSettingsDisplayWhenInactiveGEN4Select":"Quando esta inativo",
 "RecordAggregation" : "Gravar",
 "CancelRecordingAggregation" : "Cancelar",
 "RecordAggregationPoPUpSingleEpisode" : "Record Episode",
@@ -734,6 +735,7 @@
 "ADBUSBDebugButton":"OK",
 "MenuExplorar": "Explorar"
 }
+
 
 
 
