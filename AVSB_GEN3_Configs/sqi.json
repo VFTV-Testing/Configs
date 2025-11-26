@@ -5,7 +5,7 @@
   "Maintainance_Last_Boot": "Cikli i fundit i mirëmbajtjes:",
   "SameDigitPinNotification": "Katër numra të njëjtë me radhë nuk lejohen (p.sh. 2222) Të lutem zgjidh një kombinim tjetër.",
   "Successful_Maintainance_Regex": "Cikli i fundit i suksesshëm i mirëmbajtjes:",
-  "MenuOnDemandComponentsRail": "Formatet kryesore të muajit",
+  "MenuOnDemandComponentsRail": "Dramë",
   "MenuOnTV": "Live",
   "CharStringOnNow": "Live",
   "OnDemandMoreBucketRail": "Filma",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
