@@ -109,8 +109,10 @@
     "GracePeriod": "2",
     "LiveTVSwitchPopUp": "Zu Live-TV wechseln?",
     "LiveTV": "Live-TV",
-    "PINLocked": "PIN gesperrt"
+    "PINLocked": "PIN gesperrt",
+    "SettingsParentalControlEng":"Parental Control & PIN"
 }
+
 
 
 
