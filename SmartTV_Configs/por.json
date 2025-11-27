@@ -100,5 +100,6 @@
     "GracePeriod": "20",
 	"LiveTVSwitchPopUp": "ALERT_CHANNEL_SWITCH_TITLE",
     "LiveTV": "ALERT_CHANNEL_SWITCH_LIVE_TV_BUTTON",
-    "PINLocked": "O PIN esta bloqueado"
+    "PINLocked": "O PIN esta bloqueado",
+	"SettingsParentalControlEng":"Parental Control & PIN"
 }
