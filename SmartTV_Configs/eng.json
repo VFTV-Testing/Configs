@@ -12,7 +12,7 @@
 "Menusettings": "Settings",
 "EPGSelectDay": "Select the Day",
 "EPGToday": "Today",
-"SettingsParentalControl":"Parental Control",
+"SettingsParentalControl":"Parental Control & PIN",
 "SettingsLanguage&Accessibility":"Language & Accessibility",
 "SettingsTV": "TV",
 "SettingsPrivacy&Terms":"Privacy & Terms",
@@ -106,5 +106,6 @@
 "NotIncluded": "Not Included"
 
 }
+
 
 
