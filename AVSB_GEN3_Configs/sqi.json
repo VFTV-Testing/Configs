@@ -690,7 +690,7 @@
   "MenuSettingConfirmMessageDynamicRange": "SDR kërkon rinisje",
   "MenuSettingConfirmMessageResolution": "Rezolucioni u ndryshua",
   "PinModalTitle": "Probleme me PIN-in",
-  "PinModalMessage": "PIN-in e mbrojtjes prindërore e gjen tek",
+  "PinModalMessage": "PIN-i është",
   "PinModalOption": "Kthehu",
   "RestoreChanges": "Rivendos renditjen",
   "ContentSettingChannelLineUp": "Renditja e kanaleve të mia",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
