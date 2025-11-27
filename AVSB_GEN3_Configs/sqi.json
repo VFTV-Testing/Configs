@@ -691,7 +691,7 @@
   "MenuSettingConfirmMessageResolution": "Rezolucioni u ndryshua",
   "PinModalTitle": "Probleme me PIN-in",
   "PinModalMessage": "PIN-i është",
-  "PinModalOption": "Kthehu",
+  "PinModalOption": "Pas",
   "RestoreChanges": "Rivendos renditjen",
   "ContentSettingChannelLineUp": "Renditja e kanaleve të mia",
   "ExistingLineUp": "Renditja Vodafone",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
