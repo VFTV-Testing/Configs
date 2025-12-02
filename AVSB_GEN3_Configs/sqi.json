@@ -167,7 +167,7 @@
   "MenuKids": "Fëmijë",
   "AiringNow": "Tani",
   "Catchuprail": "Latest Catchup",
-  "Locked": "Kyçur",
+  "Locked": "Mbyllur",
   "KidsDate": "26",
   "KidsMonth": "JUN",
   "KidsYear": "2015",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
