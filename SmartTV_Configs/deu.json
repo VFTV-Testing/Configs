@@ -1,5 +1,6 @@
 {
     "MenuWatchNow": "Jetzt ansehen",
+    "DetailPageContinue": "Weiterschauen",
     "DetailsPageWatch": "Ansehen",
     "DetailPageResume": "Fortsetzen",
     "DetailPageDelete": "Löschen",
@@ -112,6 +113,7 @@
     "PINLocked": "PIN gesperrt",
     "SettingsParentalControlEng":"Parental Control & PIN"
 }
+
 
 
 
