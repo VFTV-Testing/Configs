@@ -3,11 +3,11 @@
 "MyHome_Rail2": "Înregistrări",
 "MyHome_Rail3": "Seriale populare",
 "MyHome_Rail4": "Filme populare",
-"OnDemand_Rail1": "Adăugate recent",
-"OnDemand_Rail2": "Documentare",
-"OnDemand_Rail3": "Muzică de concert Mezzo",
-"OnDemand_Rail4": "Seriale",
-"OnDemand_Rail5": "Recomandări pentru copii",
+"OnDemand_Rail1": "Documentare",
+"OnDemand_Rail2": "Muzică de concert Mezzo",
+"OnDemand_Rail3": "Seriale",
+"OnDemand_Rail4": "Recomandări pentru copii",
+"OnDemand_Rail5": "Recomandări BBC",
 "MyHome_Recordings": "Înregistrări",
 "MyHome_Completed_Recordings": "Anterioare",
 "MyHome_Scheduled_Recordings": "Înregistrări programate",
@@ -378,6 +378,7 @@
 "Keyboard_Close":"Closekeyboard",
 "VodafoneNetworkLost":"Vodafonenetworklost"
 }
+
 
 
 
