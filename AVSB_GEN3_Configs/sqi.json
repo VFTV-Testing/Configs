@@ -670,7 +670,7 @@
   "MenuSettingsRecordingSpace": "Hapësira e disponueshme",
   "Resume1": "Vazhdo",
   "VodafoneTV": "GigaTV",
-  "MenuSettingConfirmMessage": "Cilësimi",
+  "MenuSettingConfirmMessage": "cilësimi",
   "NotInstalled": "I instaluar",
   "MenuMediaLibrary": "Biblioteka mediatike",
   "Discover": "Zbulo",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
