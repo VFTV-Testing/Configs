@@ -611,7 +611,7 @@
   "MenuSettingDisplayAndSounds": "Tinguj",
   "MenuSettingsDevicePreference": "Preferencat e pajisjes",
   "MenuSettingsAudioProcessing": "Përpunimi i audios",
-  "MenuSettingsDisplayWhenInactive": "Fikja automatike",
+  "MenuSettingsDisplayWhenInactive": "Fikni automatikisht",
   "MenuSettingsDisplayWhenInactiveGEN4": "Kur është joaktiv",
   "MenuSettingsAbout": "Info",
   "AndroidTvOsBuild": "Ndërtimi i Android TV",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
