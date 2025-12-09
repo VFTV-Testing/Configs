@@ -272,7 +272,7 @@
   "MenuSettingsRemote": "Telekomanda",
   "MenuSettingsLEDBrightness": "Ndriçimi",
   "MenuSettingsTVChannels": "Kanalet TV",
-  "MenuSettingsAudioVisual": "Audio dhe Vizuale",
+  "MenuSettingsAudioVisual": "Audio dhe Video",
   "MenuSettingsUpdates": "Përditësime",
   "MenuSettingsFactoryReset": "Rivendos",
   "MenuSettingsEraseEverything": "Fshi të gjitha",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
