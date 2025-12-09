@@ -738,7 +738,7 @@
   "AmazonSubtitlesConfirmation": "Dies ist ein Beispiel",
   "ScheduledRecordings": "Të gjitha",
   "Season": "Sezoni",
-  "Episode": "Episodi",
+  "Episode": "episodi",
   "YoutubeViews": "shikime",
   "MiniPIMoreInfo": "Më shumë informacion",
   "DAZNLogin": "Hyr në pajisje",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
