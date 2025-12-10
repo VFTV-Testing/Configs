@@ -68,6 +68,7 @@
     "Continuewatching":"Retomar",
     "ChannelFilterList" : "Todos os canais, Desporto, Documentários, Entretenimento, Filmes e Séries, Infantis, Internationais, Música, Nacionais, Notícias, Temáticos",
     "SettingsManageChannels":"Gerir Canais",
+	"SettingsAutomaticRecordings" : "Gravações Automáticas",
     "SettingsReorderChannels":"Reordenar Canais",
     "SettingsLockChannels":"Bloquear canal",
     "SettingsResetList":"Repor",
