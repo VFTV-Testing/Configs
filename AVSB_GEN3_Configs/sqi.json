@@ -290,7 +290,7 @@
   "MenuSettingsActiveStandby": "Aktive",
   "MenuSettingsAgeRatingOff": "Fikur",
   "MenuSettingsHideContent": "Fshih",
-  "MenuSettingsShowContent": "Shfaq",
+  "MenuSettingsShowContent": "Trego PIN e ri",
   "MenuSettingsusepin": "PIN",
   "MenuSettingsAdultRating": "AO",
   "MenuSettingsAdultRatingG": "G",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
