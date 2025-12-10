@@ -103,5 +103,8 @@
 	"LiveTVSwitchPopUp": "Ir para TV em direto?",
     "LiveTV": "TV em direto",
     "PINLocked": "O PIN esta bloqueado",
-	"SettingsParentalControlEng":"Parental Control & PIN"
+	"SettingsParentalControlEng":"Parental Control & PIN",
+	"AutomaticRecordingSelectAll" : "Selecionar todos",
+	"AutomaticRecordingDeSelectAll" : "Selecionar nenhum",
+	"AutomaticRecordingSave" : "Guardar alterações"
 }
