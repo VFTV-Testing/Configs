@@ -291,7 +291,7 @@
 "ChannelFIlterNews": "Noticias",
 "ChannelFilterPrimium": "Noticias",
 "MostWatched": "Más vistos",
-"MiniGuideRemaining":"Faltan",
+"MiniGuideRemaining":"restantes",
 "MiniGuideRemaining1":"Faltan",
 "MiniGuideRemaining2":"Falta", 
 "VODAssetWatchTrailer": "ver tráiler",
@@ -686,6 +686,7 @@
 "CancelRecordingAggregationPoPUpSeries" : "Cancelar Serie",
 "ADBUSBDebugButton":"Aceptar"
 }
+
 
 
 
