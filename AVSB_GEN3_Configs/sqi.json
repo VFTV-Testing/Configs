@@ -602,7 +602,7 @@
   "ContactUs": "Na kontaktoni",
   "EPGFilter1": "Të gjitha kanalet",
   "EPGFilter2": "Më të shikuarat",
-  "MiniGuideRemaining": "mbetur",
+  "MiniGuideRemaining": "kambetur",
   "MiniGuideRemaining2": "mbetur",
   "MiniGuideRemaining1": "mbetur",
   "CancelEpisoderecording": "Anulo episodin",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
