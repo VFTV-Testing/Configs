@@ -226,7 +226,7 @@
 "MenuMyTVAdultRental": "Alugueres",
 "OhYes": "Oh Yes",
 "MenuSettingsContentSettings": "Definições de Conteúdo",
-"MenuSettingsAgeRating": "Bloqueio de niveis",
+"MenuSettingsAgeRating": "Bloqueio de níveis",
 "MenuSettingsLockChannels": "Bloqueio de Canais TV",
 "MenuSettingsRecordings": "Gravações na Cloud",
 "MenuSettingsRecommedationOptout": "Desativar gravações automAiticas",
@@ -735,6 +735,7 @@
 "ADBUSBDebugButton":"OK",
 "MenuExplorar": "Explorar"
 }
+
 
 
 
