@@ -12,7 +12,7 @@
 "MyHome_Completed_Recordings": "Anterioare",
 "MyHome_Scheduled_Recordings": "Înregistrări programate",
 "MyHome_Continue_Watching": "Continua vizionarea",
-"MyHome_Recommendation_for_you": "Seriale populare",
+"MyHome_Recommendation_for_you": "Recomandari",
 "MyHome_On_Now": "Acum Live",
 "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 "PIpage_Rent":"Rent",
@@ -378,6 +378,7 @@
 "Keyboard_Close":"Closekeyboard",
 "VodafoneNetworkLost":"Vodafonenetworklost"
 }
+
 
 
 
