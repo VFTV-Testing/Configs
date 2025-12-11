@@ -667,7 +667,7 @@
   "MenuSettingLicense": " Njoftimet e licencës",
   "MenuSettingsNetworkAndInternet": "Rrjeti & Interneti",
   "MenuSettingsAddAccount": "Llogari dhe Profile",
-  "MenuSettingsRecordingSpace": "Hapësira e disponueshme",
+  "MenuSettingsRecordingSpace": "Hapësira e Regjistrimeve",
   "Resume1": "Vazhdo",
   "VodafoneTV": "GigaTV",
   "MenuSettingConfirmMessage": "cilësimi",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
