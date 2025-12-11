@@ -240,7 +240,7 @@
   "MenuSettingConnectedDevices": "Pajisje të lidhura",
   "MenuSettingsTVBoxSetting": "Cilësimet e Vodafone TV",
   "MenuSettingServiceSettins": "Cilësimet e Përmbajtjes",
-  "MenuSettingsAutomaticRecording": "Regjistrime Automatike",
+  "MenuSettingsAutomaticRecording": "Regjistrimet Automatike",
   "MenuSettingsSubscription": "kanalet e pa abonuara",
   "MenuSettingsHideUnsubscribedChanels": "Fshih kanalet e pa abonuara",
   "MenuSettingsShowUnsubscribedChanels": "Shfaq kanalet e pa abonuara",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
