@@ -450,6 +450,7 @@
 "EPGUnseen": "Mais vistos",
 "Subscribedchannels": "Canais subscritos",
 "EPGStartOver": "Ver do Início",
+"EPGRestart": "Retomar",
 "MenuMyTVScheduledSeriesRecord": "Gravar Serie",
 "Series": "series",
 "RecordButtonSingle": "agendamento de gravação",
@@ -736,6 +737,7 @@
  "PowerSettingsNeverOption":"Nunca",
 "MenuExplorar": "Explorar"
 }
+
 
 
 
