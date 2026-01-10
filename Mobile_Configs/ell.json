@@ -3,9 +3,9 @@
 	"MyHome_Rail2": "REALITY CHECK",
 	"MyHome_Rail3": "Προτάσεις του μήνα",
 	"MyHome_Rail4": "Νέες προσθήκες",
-	"OnDemand_Rail1": "Προτάσεις της εβδομάδας",
-	"OnDemand_Rail2": "KIDS CORNER",
-	"OnDemand_Rail3": "TRICK OR TREAT",
+	"OnDemand_Rail1": "Explore",
+	"OnDemand_Rail2": "Προτάσεις της εβδομάδας",
+	"OnDemand_Rail3": "CHRISTMAS TOGETHER",
 	"OnDemand_Rail4": "REALITY CHECK",
 	"OnDemand_Rail5": "ΣΕΙΡΕΣ ΑΝΑ ΕΙΔΟΣ",
 	"MyHome_Recordings": "Εγγραφές",
@@ -13,7 +13,7 @@
 	"MyHome_Scheduled_Recordings": "Scheduled",
 	"MyHome_Continue_Watching": "Νέες προσθήκες",
 	"MyHome_Recommendation_for_you": "Νέες προσθήκες",
-	"MyHome_On_Now": "On Now",
+	"MyHome_On_Now": "Παίζει τώρα στα κανάλια",
 	"Player_ControlsAreRestricted": "Restricted",
 	"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 }
