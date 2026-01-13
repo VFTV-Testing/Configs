@@ -697,7 +697,10 @@
 "CancelRecordingAggregationPoPUpSingleEpisode" : "Zrušit epizodu",
 "CancelRecordingAggregationPoPUpSeries" : "Zrušit sérii",
 "ADBUSBDebugButton":"OK"
+"SystemSettingsScreenSaver": "Screen saver",
+"SystemSettingsScreenSaverSetTime":"When to start"
 }
+
 
 
 
