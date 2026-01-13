@@ -81,6 +81,8 @@
 "Yes":"Yes",
 "NO":"No",
 "ExitPopUp":"Vodafone TV",
+"SignOut":"Log out",
+"SignIn":"Login",
 "ChannelFilterList" : "All Channels, Sports, Five thousand, SD, HD, Entertainment, Category8, Category9, Category10",
 "SettingsManageChannels":"Manage Channels",
 "SettingsAutomaticRecordings" : "Automatic Recordings",
@@ -107,6 +109,7 @@
 "NotIncluded": "Not Included"
 
 }
+
 
 
 
