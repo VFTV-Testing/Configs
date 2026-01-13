@@ -619,8 +619,8 @@
   "NetflixTLM": "NETFLIX",
   "YouTubeTLM": "YouTube",
   "HBOTLM": "HBOMAX",
-  "MenuMyTVRecordingNotificationMovie": "I regjistruar",
-  "MenuMyTVRecordingNotificationMovie1": "I regjistruar",
+  "MenuMyTVRecordingNotificationMovie": "regjistruar",
+  "MenuMyTVRecordingNotificationMovie1": "regjistruar",
   "MenuMyTVRecordingSeriesNotificationPI": "Episodet e reja janë programuar",
   "MenuMyTVRecordingSeriesNotificationPI1": "Episodet e reja janë programuar",
   "MenuMyTVRecordingSeriesNotificationPI2": "Episodet e reja janë programuar",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
