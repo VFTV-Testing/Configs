@@ -635,7 +635,7 @@
 "MenuMyTVRecordingNotificationMovie":"Gravado",
 "TVGuideSingleRecordingNotification": "Foi efetuado agendamento",
 "TVGuideSeriesRecordingNotification1": "Foi agendada a gravação da série",
-"TVGuideSeriesRecordingNotification": "Foi agendada a gravação da série",
+"TVGuideSeriesRecordingNotification": "Foi efetuado o agendamento",
 "MenuSettingsDisplayWhenWatching" : "Desligar",
 "MenuSettingsDisplayWhenInactive" : "Desligar",
 "VodafoneRemoteControl" : "REMOTE CONTROL Ligado",
@@ -737,6 +737,7 @@
  "PowerSettingsNeverOption":"Nunca",
 "MenuExplorar": "Explorar"
 }
+
 
 
 
