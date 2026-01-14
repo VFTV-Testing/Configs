@@ -65,7 +65,7 @@
     "NO": "Nein",
     "ExitPopUp":"Vodafone TV",
     "SignOut":"Abmelden",
-    "SignIn":"Login",
+    "SignIn":"Anmelden",
     "Continuewatching":"Fortsetzen",
     "ChannelFilterList" : "Alle Kanale, Hauptsender, Public Value, Filme & TV Shows, Kinder, Dokus & News, Regional, Sports, Musik, Shopping, International",
     "SettingsManageChannels":"Sender verwallen",
@@ -115,6 +115,7 @@
     "PINLocked": "PIN gesperrt",
     "SettingsParentalControlEng":"Parental Control & PIN"
 }
+
 
 
 
