@@ -1,20 +1,104 @@
 {
-  "knowerrorcodes" : ["SAV1836","SAV1850","SAV1851","SAV1853","SAV1855","SAV1866","SAV1869","SAV1313","SAV1812","SAV1813","SAV18135","SAV1817","SAV1821","SAV1835","SAT1817","SAT1818","SAT1819","SAT1820","SAT8310","SAT1510","SAT1804","SAT1805","SAT1809","SAT1810","SAT1811","SAT1812","SAT1814","SAT1815","SAV1313","SAV1812","SAA1805","SAG083","SAR1250"],
-  "knowntrickmodeblockedcodes" : ["SAT1805","SAT1808","SAT1809"],
+  "knowerrorcodes": [
+    "SAV1836",
+    "SAV1850",
+    "SAV1851",
+    "SAV1853",
+    "SAV1855",
+    "SAV1866",
+    "SAV1869",
+    "SAV1313",
+    "SAV1812",
+    "SAV1813",
+    "SAV18135",
+    "SAV1817",
+    "SAV1821",
+    "SAV1835",
+    "SAT1817",
+    "SAT1818",
+    "SAT1819",
+    "SAT1820",
+    "SAT8310",
+    "SAT1510",
+    "SAT1804",
+    "SAT1805",
+    "SAT1809",
+    "SAT1810",
+    "SAT1811",
+    "SAT1812",
+    "SAT1814",
+    "SAT1815",
+    "SAV1313",
+    "SAV1812",
+    "SAA1805",
+    "SAG083",
+    "SAR1250"
+  ],
+  "knowntrickmodeblockedcodes": [
+    "SAT1805",
+    "SAT1808",
+    "SAT1809"
+  ],
   "block_text": {
-    "ces": ["No se puede", "No es posible"],
-    "deu": ["nicht", "für diese", "Vorspulen ist", "lizenzrechtlichen"],
-    "ell": ["περιεχ", "δυνατή", "περιεχ"],
-    "eng": ["available"],
-    "por": ["disponíve", "limite de recuo"],
-    "spa": ["No se puede", "No es posible"],
-    "sqi": ["nuk ofrohet", "licencë"]
-  }
-  "CzechRepublic" : ["No se puede","No es posible"],
-  "Germany" : [ "nicht","für diese","Vorspulen ist","lizenzrechtlichen"],
-  "Greece" : ["περιεχ","δυνατή","περιεχ"]
-  "Ireland" : ["available"],
-  "Portugal" : ["disponíve","limite de recuo"],
-  "Spain" : ["No se puede","No es posible"],
-  "Albania" : ["nuk ofrohet","licencë"]
+    "ces": [
+      "No se puede",
+      "No es posible"
+    ],
+    "deu": [
+      "nicht",
+      "für diese",
+      "Vorspulen ist",
+      "lizenzrechtlichen"
+    ],
+    "ell": [
+      "περιεχ",
+      "δυνατή",
+      "περιεχ"
+    ],
+    "eng": [
+      "available"
+    ],
+    "por": [
+      "disponíve",
+      "limite de recuo"
+    ],
+    "spa": [
+      "No se puede",
+      "No es posible"
+    ],
+    "sqi": [
+      "nuk ofrohet",
+      "licencë"
+    ]
+  },
+  "CzechRepublic": [
+    "No se puede",
+    "No es posible"
+  ],
+  "Germany": [
+    "nicht",
+    "für diese",
+    "Vorspulen ist",
+    "lizenzrechtlichen"
+  ],
+  "Greece": [
+    "περιεχ",
+    "δυνατή",
+    "περιεχ"
+  ],
+  "Ireland": [
+    "available"
+  ],
+  "Portugal": [
+    "disponíve",
+    "limite de recuo"
+  ],
+  "Spain": [
+    "No se puede",
+    "No es posible"
+  ],
+  "Albania": [
+    "nuk ofrohet",
+    "licencë"
+  ]
 }
