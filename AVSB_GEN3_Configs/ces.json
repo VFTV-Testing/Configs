@@ -696,10 +696,11 @@
 "CancelRecordingAggregation" : "Zrušit",
 "CancelRecordingAggregationPoPUpSingleEpisode" : "Zrušit epizodu",
 "CancelRecordingAggregationPoPUpSeries" : "Zrušit sérii",
-"ADBUSBDebugButton":"OK"
+"ADBUSBDebugButton":"OK",
 "SystemSettingsScreenSaver": "Sporié obrazovky",
 "SystemSettingsScreenSaverSetTime":"When to start"
 }
+
 
 
 
