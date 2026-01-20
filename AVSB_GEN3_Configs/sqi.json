@@ -633,7 +633,7 @@
   "TVGuideSeriesRecordingNotification1": "episodet së shpejti do të gjenden në regjistrimet e tua",
   "MenuSettingsDeActivatePin": "Caktivizo PIN-in",
   "MenuSettingsActivatePin": "Aktivizo PIN",
-  "UsbDebugging": "USB debugging",
+  "UsbDebugging": "Korrigjimi",
   "MenuSettingsDeveloperOption": "Opsionet e zhvilluesit",
   "MenuSettingsVodafoneAppsSettings": "Cilesimet e aplikacionit",
   "SettingsGeneralInfo": "Të përgjithshme",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
