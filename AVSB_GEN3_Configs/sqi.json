@@ -327,7 +327,7 @@
   "MenuMyTVRecordings": "Regjistrime",
   "MenuMyTVRecordingDelete": "Fshi Seritë",
   "MenuMyTVRecordingDelete1": "Fshi Regjistrimin",
-  "MenuMyTVRecordingDeleteSeries": "Fshi serialin",
+  "MenuMyTVRecordingDeleteSeries": "Cancel",
   "MenuMyTVRecordingSeriesDeletedRecordings": "Seritë e fshira",
   "MenuMyTVRecordingDelete2": "Fshi Regjistrimin",
   "MenuMyTVRecordingDeletedRecordings": "Regjistrimi u fshi",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
