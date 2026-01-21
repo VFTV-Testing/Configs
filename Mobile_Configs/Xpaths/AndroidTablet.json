@@ -4,7 +4,6 @@
   "ParentalPin": "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.widget.EditText",
   "Settings_AgeRatings": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/null' and @text='Translation']",
   "MiniPiEventName": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_mini_program_info_header_title_identifier']/android.widget.TextView",
-  "FullPiEventName": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_program_info_title_identifier']",
   "Recording_Asset_Specific": "//android.widget.TextView[contains(@text,'Translation')]",
   "Full_Pi_Event_Name": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_program_info_title_identifier']",
   "TLM_Options": "//android.widget.TextView[@text='Translation']/..",
@@ -262,6 +261,7 @@
   "SystemInfo_SWVersion": "//android.widget.TextView[@text='Translation']/following-sibling::android.widget.TextView",
   "SystemInfo_HHId": "//android.widget.TextView[@text='Translation']/following-sibling::android.widget.TextView"
 }
+
 
 
 
