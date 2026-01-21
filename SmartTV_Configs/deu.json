@@ -115,8 +115,11 @@
     "PINLocked": "PIN gesperrt",
     "SettingsParentalControlEng":"Parental Control & PIN",
     "EposideFilter":"Staffel",
-    "RelatedRail":"Ahnliches"
+    "RelatedRail":"Ahnliches",
+    "ContentLocked":"Inhalt gesperrt",
+    "RestrictedContent":"Gesperrter Inhalt"
 }
+
 
 
 
