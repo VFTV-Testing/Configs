@@ -728,15 +728,16 @@
  "MenuSettingsDisplayWhenInactiveGEN4Select":"Quando esta inativo",
 "RecordAggregation" : "Gravar",
 "CancelRecordingAggregation" : "Cancelar",
-"RecordAggregationPoPUpSingleEpisode" : "Record Episode",
-"RecordAggregationPoPUpSeries" : "Record Series",
-"CancelRecordingAggregationPoPUpSingleEpisode" : "Cancel Episode",
-"CancelRecordingAggregationPoPUpSeries" : "Cancel Series",
+"RecordAggregationPoPUpSingleEpisode" : "Gravar episódio",
+"RecordAggregationPoPUpSeries" : "Gravar série",
+"CancelRecordingAggregationPoPUpSingleEpisode" : "Apagar episódio",
+"CancelRecordingAggregationPoPUpSeries" : "Apagar série",
 "MiniPIMoreInfo": "Mais informação",
 "ADBUSBDebugButton":"OK",
  "PowerSettingsNeverOption":"Nunca",
 "MenuExplorar": "Explorar"
 }
+
 
 
 
