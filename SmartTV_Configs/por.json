@@ -111,5 +111,7 @@
 	"AutomaticRecordingDeSelectAll" : "Selecionar nenhum",
 	"AutomaticRecordingSave" : "Guardar alterações",
 	"EposideFilter":"Temporada",
-	"RelatedRail":"Relacionado com"
+	"RelatedRail":"Relacionado com",
+	"ContentLocked":"desbloquear utilizando o PIN Parental",
+    "RestrictedContent":"Gesperrter Inhalt"
 }
