@@ -40,6 +40,7 @@
   "PIPage_Cancel_Recording": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_cancel_record_identifier']",
   "PIPage_Watch": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_watch_identifier']",
   "PIPage_Resume": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_resume_identifier']",
+  "PIPage_Download": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_common_button_download_identifier']",
   "PI_ProgressBar": "//android.widget.ScrollView/android.widget.ProgressBar",
   "PI_Back": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_generic_modal_header_close_icon_identifier']",
   "Event_Back": "//*[@resource-id='com.witsoftware.ir.vodafonetv:id/a11y_generic_back_arrow_header_identifier']",
@@ -260,6 +261,7 @@
   "SystemInfo_SWVersion": "//android.widget.TextView[@text='Translation']/following-sibling::android.widget.TextView",
   "SystemInfo_HHId": "//android.widget.TextView[@text='Translation']/following-sibling::android.widget.TextView"
 }
+
 
 
 
