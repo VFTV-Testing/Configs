@@ -115,5 +115,6 @@
 	"ContentLocked":"desbloquear utilizando o PIN Parental",
     "RestrictedContent":"Gesperrter Inhalt",
 	"RecordingStripes":"Gravações, Agendamentos",
-	"RemainingTime":"para terminar"
+	"RemainingTime":"para terminar",
+	"OnDemandStripes": "Em Destaque, A Vodafone Recomenda, Novas Entradas, Todo o conteúdo infantil, Promoções, Canais TV, Comédia, Ação, Drama, Romance, Thriller, Ficção Científica, Mais Géneros, Terror, Adultos, Pacotes Filmes e Séries"
 }
