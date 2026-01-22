@@ -33,7 +33,7 @@
   "MaintenancePostPone": "Më vonë",
   "MenuSettingsMaintenance": "Mirëmbajtja",
   "CharStringNoInformation": "Nuk ka informacion",
-  "ResetInMyApps": "Rivendos te 'Së fundmi të përdorura'",
+  "ResetInMyApps": "Rivendos si ishte në Përdorimin e fundit'",
   "BarkerChannel": "Hap aplikacionin",
   "BarkerChannel1": "Hap aplikacionin",
   "BarkerChannel2": "Hap aplikacionin",
@@ -766,6 +766,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
