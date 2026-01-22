@@ -119,8 +119,10 @@
     "ContentLocked":"Inhalt gesperrt",
     "RestrictedContent":"Gesperrter Inhalt",
     "RecordingStripes":"Aufnahmen, Geplante Aufnahmen",
-    "RemainingTime":"noch"
+    "RemainingTime":"noch",
+    "OnDemandStripes": "Highlights aus den Mediatheken, Top-Formate des Monats, Specials, Aktuelles und Empfehlungen, Public Value, Free TV, Serien, Kids, Lifestyle & Magazine, Unterhaltung, Dokumentationen, Filme, Sport, Erotik, My Library"
 }
+
 
 
 
