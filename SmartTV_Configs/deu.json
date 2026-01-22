@@ -118,8 +118,10 @@
     "RelatedRail":"Ahnliches",
     "ContentLocked":"Inhalt gesperrt",
     "RestrictedContent":"Gesperrter Inhalt",
-    "RecordingStripes":"Aufnahmen, Geplante Aufnahmen"
+    "RecordingStripes":"Aufnahmen, Geplante Aufnahmen",
+    "RemainingTime":"noch"
 }
+
 
 
 
