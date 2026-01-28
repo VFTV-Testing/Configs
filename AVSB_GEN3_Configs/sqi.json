@@ -20,7 +20,7 @@
   "MediaLibraryRail3": "Aktuale",
   "MediaLibraryRail4": "Vlerë publike",
   "MediaLibraryRail5": "Kanale FreeTV",
-  "MyTvRail1": "Lista e preferencave",
+  "MyHomeRail1": "Lista e preferencave",
   "OnDemandRail1": "Filma",
   "OnDemandRail2": "Dramë",
   "OnDemandRail3": "Aksion",
@@ -767,6 +767,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
