@@ -23,7 +23,7 @@
 "OnDemandRail3": "Netflix",
 "OnDemandRail4": "Cine",
 "OnDemandRail5": "Netflix",
-"MyTvRail1": "Seguir viendo",
+"MyHomeRail1": "Seguir viendo",
 "TunningToLivePopUp":"Volviendo a la emisión en directo",
 "MenuMediaLibrary": "Cine y Series",
 "CharStringOnNow": "Canales",
@@ -688,6 +688,7 @@
 "SystemSettingsScreenSaverSetTime": "Cuándo se activa",
 "ADBUSBDebugButton":"Aceptar"
 }
+
 
 
 
