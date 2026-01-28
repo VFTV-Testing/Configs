@@ -19,7 +19,7 @@
 "MyTvRail3": "Gravações",
 "MyTvRail4": "A Minha Lista",
 "MyTvRail5": "Alugueres",
-"MyTvRail1": "Gravações",
+"MyHomeRail1": "Gravações",
 "TLMRecordingsRail1": "Todas as gravações",
 "TLMRecordingsRail2": "Gravações agendadas",
 "OnDemandRail1": "Em Destaque",
@@ -738,6 +738,7 @@
  "PowerSettingsNeverOption":"Nunca",
 "MenuExplorar": "Explorar"
 }
+
 
 
 
