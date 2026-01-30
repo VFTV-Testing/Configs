@@ -618,7 +618,7 @@
   "AndroidTvOsBuild": "Ndërtimi i Android TV",
   "AmazonPrimeTLM": "prime video",
   "NetflixTLM": "NETFLIX",
-  "YouTubeTLM": "YouTube",
+  "YouTubeTLM": "YouTu",
   "HBOTLM": "HBOMAX",
   "MenuMyTVRecordingNotificationMovie": "regjistruar",
   "MenuMyTVRecordingNotificationMovie1": "regjistruar",
@@ -767,6 +767,7 @@
   "TrickmodeBlock": "licencë",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
