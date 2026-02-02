@@ -73,7 +73,7 @@
 "MenuRecording": "Gravacoes",
 "ScheduleRecordingsSingle": "Gravações únicas",
 "AirsOn": "Horário",
-"RelatedRail": "relacionados",
+"RelatedRail": "relacionado",
 "AddAccount": "Iniciar sessão",
 "MenuSettingsAddAccount": "Contas e perfis",
 "MenuSettings": "Configurações",
@@ -739,6 +739,7 @@
  "RecordingTextOnPI":"Gravaçäo agendada",
 "MenuExplorar": "Explorar"
 }
+
 
 
 
