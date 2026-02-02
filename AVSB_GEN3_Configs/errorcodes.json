@@ -22,16 +22,20 @@
     "SAT1820",
     "SAT8310",
     "SAT1510",
-    "SAT1804",
     "SAT1810",
-    "SAT1811",
-    "SAT1812",
     "SAT1814",
     "SAT1815",
     "SAT1580",
     "SAA1805",
     "SAG083",
     "SAR1250"
+  ],
+  "concurrencyerrorcodes":[
+    "SAA224",
+    "SAA225",
+    "SAT1804",
+    "SAT1811",
+    "SAT1812"
   ],
   "knowntrickmodeblockedcodes": [
     "SAT1805",
