@@ -114,7 +114,7 @@
     "LiveTVSwitchPopUp": "Zu Live-TV wechseln?",
     "LiveTV": "Live-TV",
     "PINLocked": "PIN gesperrt",
-    "SettingsParentalControlEng":"Parental Control & PIN",
+    "SettingsParentalControlEng":"Settings",
     "EposideFilter":"Staffel",
     "RelatedRail":"Ahnliches",
     "ContentLocked":"Inhalt gesperrt",
@@ -136,6 +136,7 @@
     "AccessibilityEditorialHeading": "Barrierefreiheit",
     "GoToText": "Gehe zu "
 }
+
 
 
 
