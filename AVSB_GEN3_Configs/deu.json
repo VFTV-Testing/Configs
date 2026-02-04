@@ -774,6 +774,9 @@
 "TrickmodeBlock": "lizenz",
 "ADBUSBDebugButton":"OK",
 "DAZNConcurrancy":"DISPOSITIVOS",
- "RecordingTextOnPI":"aufgenommen",
+"RecBadgeTextLive1": "Wird gerade aufgenommen",
+"RecBadgeTextLive2": "Wird gerade aufgenommen",
+"RecBadgeTextFuture1": "Programmiert",
+"RecBadgeTextFuture2": "Wird aufgenommen",
 "DAZNConcurrancy1":"alcanzado"
 }
