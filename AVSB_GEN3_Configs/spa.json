@@ -686,12 +686,13 @@
 "CancelRecordingAggregationPoPUpSingleEpisode" : "Cancelar Episodio",
 "CancelRecordingAggregationPoPUpSeries" : "Cancelar Serie",
 "SystemSettingsScreenSaverSetTime": "Cuándo se activa",
-"RecBadgeTextLive1": "A ser gravado",
-"RecBadgeTextLive2": "A ser gravado",
-"RecBadgeTextFuture1": "Agendado",
-"RecBadgeTextFuture2": "Gravaçäo agendada",
+"RecBadgeTextLive1": "Programado",
+"RecBadgeTextLive2": "Prôxima emisiôn",
+"RecBadgeTextFuture1": "Programado",
+"RecBadgeTextFuture2": "Préxima emision",
 "ADBUSBDebugButton":"Aceptar"
 }
+
 
 
 
