@@ -667,5 +667,9 @@
 "ADBUSBDebugButton":"OK",
 "MenuSettingenergySaverGEN4":"Χρονόμετρο απενεργοποίησης",
 "MenuSettingsDisplayWhenInactiveGEN4":"Αυτόµατη απενεργοποίηση",
+"RecBadgeTextLive1": "Recording Now",
+"RecBadgeTextLive2": "Recording Now",
+"RecBadgeTextFuture1": "Recording Scheduled",
+"RecBadgeTextFuture2": "Recording Scheduled",
 "MenuSettingsDisplayWhenWatchingGEN4":"Αυτόµατη απενεργοποίηση"  
 }
