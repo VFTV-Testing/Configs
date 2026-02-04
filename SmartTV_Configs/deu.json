@@ -134,8 +134,10 @@
     "TVSettingsEditorialHeading": "Senderverwaltung",
     "ParentalControlEditorialHeading": "Jugendschutz",
     "AccessibilityEditorialHeading": "Barrierefreiheit",
-    "GoToText": "Gehe zu "
+    "GoToText": "Gehe zu ",
+    "AllowADB" : "ALLOW"
 }
+
 
 
 
