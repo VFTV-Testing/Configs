@@ -131,5 +131,6 @@
 	"MenuRecordingsEng": "Recordings",
     "MenuOnDemandEng": "OnDemand",
 	"WelcomeToVodafoneTV": "Bem-Vindo à Vodafone TV",
-	"AllowADB" : "ALLOW"
+	"AllowADB" : "ALLOW",
+	"OndemandDetailsButton": "Saber mais"
 }
