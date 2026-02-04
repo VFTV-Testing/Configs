@@ -129,5 +129,6 @@
 	"MenuWatchNowEng": "WatchNow",
 	"MenuRecordingsEng": "Recordings",
     "MenuOnDemandEng": "OnDemand",
-	"WelcomeToVodafoneTV": "Bem-Vindo à Vodafone TV"
+	"WelcomeToVodafoneTV": "Bem-Vindo à Vodafone TV",
+	"AllowADB" : "ALLOW"
 }
