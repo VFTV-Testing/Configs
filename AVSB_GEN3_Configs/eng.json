@@ -744,9 +744,13 @@
 "RecordAggregationPoPUpSeries" : "Record Series",
 "CancelRecordingAggregationPoPUpSingleEpisode" : "Cancel Episode",
 "CancelRecordingAggregationPoPUpSeries" : "Cancel Series",
+"RecBadgeTextLive1": "Recording Now",
+"RecBadgeTextLive2": "Recording Now",
+"RecBadgeTextFuture1": "Recording Scheduled",
+"RecBadgeTextFuture2": "Recording Scheduled",
 "ADBUSBDebugButton":"OK"
-
 }  
+
 
 
 
