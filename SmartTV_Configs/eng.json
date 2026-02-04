@@ -109,9 +109,11 @@
 "EposideFilter":"Eposide",
 "NotIncluded": "Not Included",
 "ContentLocked":"Content Locked",
-"RestrictedContent":"Restricted Content"
+"RestrictedContent":"Restricted Content",
+"AllowADB" : "ALLOW"
 
 }
+
 
 
 
