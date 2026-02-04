@@ -699,8 +699,13 @@
 "CancelRecordingAggregationPoPUpSeries" : "Zrušit sérii",
 "ADBUSBDebugButton":"OK",
 "SystemSettingsScreenSaver": "Sporié obrazovky",
+"RecBadgeTextLive1": "Nahravani",
+"RecBadgeTextLive2": "Nahravani",
+"RecBadgeTextFuture1": "Naplanovano",
+"RecBadgeTextFuture2": "Planovany",
 "SystemSettingsScreenSaverSetTime":"When to start"
 }
+
 
 
 
