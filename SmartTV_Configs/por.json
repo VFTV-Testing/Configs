@@ -127,5 +127,7 @@
 	"AdvertisementText": "Advertisement",
 	"MenuEPGEng": "EPG"
 	"MenuWatchNowEng": "WatchNow",
+	"MenuRecordingsEng": "Recordings",
+    "MenuOnDemandEng": "OnDemand",
 	"WelcomeToVodafoneTV": "Bem-Vindo à Vodafone TV"
 }
