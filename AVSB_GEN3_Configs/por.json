@@ -735,10 +735,14 @@
 "CancelRecordingAggregationPoPUpSeries" : "Apagar série",
 "MiniPIMoreInfo": "Mais informação",
 "ADBUSBDebugButton":"OK",
- "PowerSettingsNeverOption":"Nunca",
- "RecordingTextOnPI":"Gravaçäo agendada",
+"PowerSettingsNeverOption":"Nunca",
+"RecBadgeTextLive1": "A ser gravado",
+"RecBadgeTextLive2": "A ser gravado",
+"RecBadgeTextFuture1": "Agendado",
+"RecBadgeTextFuture2": "Gravaçäo agendada",
 "MenuExplorar": "Explorar"
 }
+
 
 
 
