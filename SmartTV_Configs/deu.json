@@ -135,8 +135,10 @@
     "ParentalControlEditorialHeading": "Jugendschutz",
     "AccessibilityEditorialHeading": "Barrierefreiheit",
     "GoToText": "Gehe zu ",
-    "AllowADB" : "ALLOW"
+    "AllowADB" : "ALLOW",
+    "OndemandDetailsButton": "Details"
 }
+
 
 
 
