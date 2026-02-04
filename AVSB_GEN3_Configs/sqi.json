@@ -765,8 +765,13 @@
   "CancelRecordingAggregationPoPUpSingleEpisode": "Anulo episodin",
   "CancelRecordingAggregationPoPUpSeries": "Anulo Serinë",
   "TrickmodeBlock": "licencë",
+  "RecBadgeTextLive1": "Recording Now",
+ "RecBadgeTextLive2": "Recording Now",
+ "RecBadgeTextFuture1": "Recording Scheduled",
+ "RecBadgeTextFuture2": "Recording Scheduled",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
