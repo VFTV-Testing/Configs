@@ -134,6 +134,6 @@
 	"AllowADB" : "ALLOW",
 	"NoSeasonInfo" : "",
 	"OndemandDetailsButton": "Saber mais",
- "MenuApps": "Apps",
- "MenuMedialibrary": "Media Library"
+	"MenuApps": "Apps",
+	"MenuMedialibrary": "Media Library"
 }
