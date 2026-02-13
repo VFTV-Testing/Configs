@@ -761,7 +761,7 @@
   "RecordAggregation": "Regjistro",
   "RecordAggregation2": "Record",
   "CancelRecordingAggregation": "Cancel",
-  "RecordAggregationPoPUpSingleEpisode": "Regjistro episodin",
+  "RecordAggregationPoPUpSingleEpisode": "Record Episode",
   "RecordAggregationPoPUpSeries": "Regjistro serinë",
   "CancelRecordingAggregationPoPUpSingleEpisode": "Anulo episodin",
   "CancelRecordingAggregationPoPUpSeries": "Anulo Serinë",
@@ -772,6 +772,7 @@
  "RecBadgeTextFuture2": "Recording Scheduled",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
