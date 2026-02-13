@@ -152,5 +152,11 @@
 	"NoSeasonInfo" : "",
 	"OndemandDetailsButton": "Saber mais",
 	"Apps": "Apps",
-	"MenuMediaLibrary": "Media Library"
+	"MenuMediaLibrary": "Media Library",
+	"NetflixEnterEmailAddress": "Enter e-mail address",   
+	"NetflixEnterYourPassword": "Password", 
+	"NetflixEmailAddress": "Email address",
+	"NetflixProfileText": "who'swatchingnetflix",
+	"NetflixProfileText1": "Choose a Profile"
 }
+
