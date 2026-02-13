@@ -759,6 +759,7 @@
   "MedialibraryAdRail": "Kanalet FreeTV",
   "MenuSettingsAudio": "Zëri",
   "RecordAggregation": "Regjistro",
+  "RecordAggregation2": "Record",
   "CancelRecordingAggregation": "Cancel",
   "RecordAggregationPoPUpSingleEpisode": "Regjistro episodin",
   "RecordAggregationPoPUpSeries": "Regjistro serinë",
@@ -771,6 +772,7 @@
  "RecBadgeTextFuture2": "Recording Scheduled",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
