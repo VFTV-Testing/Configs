@@ -603,7 +603,7 @@
   "ContactUs": "Na kontaktoni",
   "EPGFilter1": "Të gjitha kanalet",
   "EPGFilter2": "Më të shikuarat",
-  "MiniGuideRemaining": "kambetur",
+  "MiniGuideRemaining": "ka mbetur",
   "MiniGuideRemaining2": "mbetur",
   "MiniGuideRemaining1": "mbetur",
   "CancelEpisoderecording": "Anulo episodin",
@@ -772,6 +772,7 @@
  "RecBadgeTextFuture2": "Recording Scheduled",
   "ADBUSBDebugButton": "OK"
 }
+
 
 
 
