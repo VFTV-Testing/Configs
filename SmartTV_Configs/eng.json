@@ -157,6 +157,10 @@
 	"NetflixEnterYourPassword": "Password", 
 	"NetflixEmailAddress": "Email address",
 	"NetflixProfileText": "who'swatchingnetflix",
-	"NetflixProfileText1": "Choose a Profile"
+	"NetflixProfileText1": "Choose a Profile",
+	"NetflixGetStarted": "Get Started",
+	"NetflixSignInContinue": "Continue",
+	"NetflixContinue":"Continue"
 }
+
 
