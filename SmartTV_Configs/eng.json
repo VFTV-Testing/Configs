@@ -146,7 +146,7 @@
 	"RecommendedRail": "Recomendado",
 	"AutomaticRecordingDisabledPopup": "Ativar",
 	"AdvertisementText": "Advertisement",
-	"MenuExplore": "Explore",
+	"MenuExplore": "Media Library",
 	"WelcomeToVodafoneTV": "Bem-Vindo à Vodafone TV",
 	"AllowADB" : "ALLOW",
 	"NoSeasonInfo" : "",
@@ -162,5 +162,6 @@
 	"NetflixSignInContinue": "Continue",
 	"NetflixContinue":"Continue"
 }
+
 
 
