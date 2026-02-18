@@ -137,7 +137,7 @@
 	"AutomaticRecordingDeSelectAll" : "Selecionar nenhum",
 	"AutomaticRecordingSave" : "Guardar alterações",
 	"EposideFilter":"Temporada",
-	"RelatedRail":"Relacionado com",
+	"RelatedRail":"Related by",
 	"ContentLocked":"Content Locked",
 	"RestrictedContent":"Restricted Content",
 	"RecordingStripes":"Gravações, Agendamentos",
@@ -162,6 +162,7 @@
 	"NetflixSignInContinue": "Continue",
 	"NetflixContinue":"Continue"
 }
+
 
 
 
