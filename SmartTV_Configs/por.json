@@ -134,5 +134,6 @@
 	"WelcomeToVodafoneTV": "Bem-Vindo à Vodafone TV",
 	"AllowADB" : "ALLOW",
 	"NoSeasonInfo" : "",
-	"OndemandDetailsButton": "Saber mais"
+	"OndemandDetailsButton": "Saber mais",
+	"TLMMenus": "MenuWatchNow, MenuEPG, MenuRecordings, MenuOnDemand, MenuSettings, MenuSearch, MenuExplore"
 }
