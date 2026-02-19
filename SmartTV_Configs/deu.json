@@ -137,8 +137,10 @@
     "GoToText": "Gehe zu ",
     "AllowADB" : "ALLOW",
     "NoSeasonInfo" : "Keine Staffel-Info",
-    "OndemandDetailsButton": "Details"
+    "OndemandDetailsButton": "Details",
+    "TLMMenus": "MenuWatchNow, MenuEPG, MenuRecordings, MenuOnDemand, MenuSettings, MenuSearch"
 }
+
 
 
 
