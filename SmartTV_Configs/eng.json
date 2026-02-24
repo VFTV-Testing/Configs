@@ -1,7 +1,7 @@
 {
 	"MenuWatchNow":"Watch Now",
 	"DetailPageContinue": "Continuar",
-	"DetailsPageWatch":"Watch on",
+	"DetailsPageWatch":"Watch",
 	"DetailPageResume": "Resume",
 	"DetailPageDelete": "Delete",
 	"DetailPageCancel": "Cancel",
@@ -162,6 +162,7 @@
 	"NetflixSignInContinue": "Continue",
 	"NetflixContinue":"Continue"
 }
+
 
 
 
