@@ -139,8 +139,10 @@
     "NoSeasonInfo" : "Keine Staffel-Info",
     "OndemandDetailsButton": "Details",
     "TLMMenus": "MenuWatchNow, MenuEPG, MenuRecordings, MenuOnDemand, MenuSettings, MenuSearch",
-    "EPGLoading": "Lädt gerade"
+    "EPGLoading": "Lädt gerade",
+	"EPGPreviewNoInformation": "Keine Informationen"
 }
+
 
 
 
