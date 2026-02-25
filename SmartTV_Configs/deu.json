@@ -138,8 +138,10 @@
     "AllowADB" : "ALLOW",
     "NoSeasonInfo" : "Keine Staffel-Info",
     "OndemandDetailsButton": "Details",
-    "TLMMenus": "MenuWatchNow, MenuEPG, MenuRecordings, MenuOnDemand, MenuSettings, MenuSearch"
+    "TLMMenus": "MenuWatchNow, MenuEPG, MenuRecordings, MenuOnDemand, MenuSettings, MenuSearch",
+    "EPGLoading": "Lädt gerade"
 }
+
 
 
 
