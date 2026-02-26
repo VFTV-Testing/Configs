@@ -64,6 +64,7 @@
     "Yes": "Ja",
     "NO": "Nein",
     "ExitPopUp":"Vodafone TV",
+	"ExitPopUpEng":"Vodafone TV",
     "SignOut":"Abmelden",
     "SignIn":"Login",
     "SignInLocal":"Anmelden",
@@ -142,6 +143,7 @@
     "EPGLoading": "Lädt gerade",
 	"EPGPreviewNoInformation": "Keine Informationen"
 }
+
 
 
 
