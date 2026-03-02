@@ -612,6 +612,7 @@
 "AmazonPrimeKids":"Kinder",
 "AmazonPrimeOriginals":"Originals",
 "AmazonPrimeSearch":"Suche",
+"AmazonPrimePlay":"wiedergeben",
 "AmazonPrimeLibrary":"Gekaufte und geliehene Titel",
 "AmazonPrimeWatchlist":"Watchlist",
 "AmazonPrimeWatchlist1":"Mein Bereich",
@@ -743,6 +744,7 @@
 "RecProtectedText": "Gravaçäo protegida",
 "MenuExplorar": "Explorar"
 }
+
 
 
 
