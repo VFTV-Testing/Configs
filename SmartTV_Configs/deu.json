@@ -12,6 +12,7 @@
     "MenuEPG": "EPG",
     "Menusettings": "Einstellungen",
     "EPGSelectDay": "Tag auswählen",
+	"MenuMyTVDELang":"Mein TV",
     "EPGToday": "Heute",
     "SettingsParentalControl": "Jugendschutz",
     "SettingsLanguage&Accessibility": "Sprache & Barrierefreiheit",
@@ -143,6 +144,7 @@
     "EPGLoading": "Lädt gerade",
 	"EPGPreviewNoInformation": "Keine Informationen"
 }
+
 
 
 
