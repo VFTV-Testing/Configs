@@ -418,7 +418,7 @@
 "Removefromwatchlist":"Odebrat ze seznamu chci vidět",
 "EPGNetlfix":"netflix",
 "EPGWatchLive":"Sledovat živě",
-"EPGRecordEpisode":"Nahrát",
+"EPGRecordEpisode":"Nahrávka",
 "EPGRecord":"Nahrát díl",
 "EPGRecordSeries":"Nahrát seriál",
 "EPGCancel":"Zrušit",
@@ -705,6 +705,7 @@
 "RecBadgeTextFuture2": "Planovany",
 "SystemSettingsScreenSaverSetTime":"When to start"
 }
+
 
 
 
