@@ -137,6 +137,7 @@
     "ParentalControlEditorialHeading": "Jugendschutz",
     "AccessibilityEditorialHeading": "Barrierefreiheit",
     "GoToText": "Gehe zu ",
+	"GoToEPG": "Gehe zu TV-Guide",
     "AllowADB" : "ALLOW",
     "NoSeasonInfo" : "Keine Staffel-Info",
     "OndemandDetailsButton": "Details",
@@ -144,6 +145,7 @@
     "EPGLoading": "Lädt gerade",
 	"EPGPreviewNoInformation": "Keine Informationen"
 }
+
 
 
 
