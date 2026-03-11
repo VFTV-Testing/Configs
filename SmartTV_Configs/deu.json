@@ -143,8 +143,10 @@
     "OndemandDetailsButton": "Details",
     "TLMMenus": "MenuWatchNow,MenuEPG,MenuRecordings,MenuOnDemand,MenuSettings,MenuSearch",
     "EPGLoading": "Lädt gerade",
+	"FAQ": "Häufige Fragen",
 	"EPGPreviewNoInformation": "Keine Informationen"
 }
+
 
 
 
