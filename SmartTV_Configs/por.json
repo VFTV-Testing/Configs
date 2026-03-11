@@ -138,5 +138,6 @@
 	"TLMMenus": "MenuWatchNow,MenuEPG,MenuRecordings,MenuOnDemand,MenuSettings,MenuSearch,MenuExplore",
 	"EPGLoading": "A carregar",
 	"EPGPreviewNoInformation": "Sem informacäo",
+	"FAQ": "Perguntas Frequentes",
 	"GoToEPG": "Ir para Guia TV"
 }
