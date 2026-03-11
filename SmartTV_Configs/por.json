@@ -138,5 +138,6 @@
 	"OndemandDetailsButton": "Saber mais",
 	"TLMMenus": "MenuWatchNow, MenuEPG, MenuRecordings, MenuOnDemand, MenuSettings, MenuSearch, MenuExplore",
 	"EPGLoading": "A carregar",
-	"EPGPreviewNoInformation": "Sem informacäo"
+	"EPGPreviewNoInformation": "Sem informacäo",
+	"GoToEPG": "Ir para Guia TV",
 }
