@@ -115,6 +115,8 @@
     "GracePeriod": "2",
     "LiveTVSwitchPopUp": "Zu Live-TV wechseln?",
     "LiveTV": "Live-TV",
+	"KeepWatching": "Weiterschauen",
+	"Don'taskagain": "Nicht erneut frag...",
     "PINLocked": "PIN gesperrt",
     "SettingsParentalControlEng":"Settings",
     "EposideFilter":"Staffel",
@@ -146,6 +148,7 @@
 	"FAQ": "Häufige Fragen",
 	"EPGPreviewNoInformation": "Keine Informationen"
 }
+
 
 
 
