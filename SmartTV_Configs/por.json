@@ -107,6 +107,8 @@
     "GracePeriod": "20",
 	"LiveTVSwitchPopUp": "Ir para TV em direto?",
     "LiveTV": "TV em direto",
+	"KeepWatching": "Continuar a Ver",
+	"Don'taskagain": "Não perguntar...",
     "PINLocked": "O PIN esta bloqueado",
 	"SettingsParentalControlEng":"Settings",
 	"SettingsLanguage&AccessibilityEng": "Language & Accessibility",
