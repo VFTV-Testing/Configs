@@ -139,6 +139,8 @@
     "TLMMenus": "MenuWatchNow,MenuEPG,MenuRecordings,MenuOnDemand,MenuSettings,MenuSearch",
     "EPGLoading": "Lädt gerade",
 	"FAQ": "Häufige Fragen",
+	"HelpAndInfoOptions": "Haufige Fragen, Hilfe & Infos, Drittanbieter",
+	"SupportInfoOptions": "Allgemein, TV-Qualität, Nagra",
 	"EPGPreviewNoInformation": "Keine Informationen"
 }
 
