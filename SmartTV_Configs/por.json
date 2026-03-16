@@ -141,5 +141,9 @@
 	"EPGLoading": "A carregar",
 	"EPGPreviewNoInformation": "Sem informacäo",
 	"FAQ": "Perguntas Frequentes",
-	"GoToEPG": "Ir para Guia TV"
+	"GoToEPG": "Ir para Guia TV",
+	"GoToPlayer": "Ir para reprodução",
+	"GoToChannelReordering": "Organizar Canais TV",
+	"GoToParentalControl": "Opções Control Parental",
+	"GoToAccessibility": "Opções de Acessibilidade"
 }
