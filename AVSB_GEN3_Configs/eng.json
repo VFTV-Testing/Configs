@@ -748,7 +748,9 @@
 "RecBadgeTextLive2": "Recording Now",
 "RecBadgeTextFuture1": "Recording Scheduled",
 "RecBadgeTextFuture2": "Recording Scheduled",
-"ADBUSBDebugButton":"OK"
+"ADBUSBDebugButton":"OK",
+"AmazonPrimeContinueWatchingEnglish":"Resume",
+"AmazonPrimePlayEnglish":"Play" 
 }  
 
 
