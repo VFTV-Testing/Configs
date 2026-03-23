@@ -1,0 +1,486 @@
+{
+    "X101-GER-PORT1-AVSB-FUT_EMMC_Rayson-DE_PROD-DVBC": {
+        "sprintNo": "45.15+2.2405.160",
+        "Cver": "0.45.22",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.45.15"
+    },
+    "X101-GER-PORT2-AVSB-MP-DE_PROD-DVBC": {
+        "sprintNo": "45.15+2.2405.160",
+        "Cver": "0.45.22",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.45.15"
+    },
+    "X101-GER-PORT3-AVSB-FUT_EMMC_Rayson-DE_PROD-OTT": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X101-GER-PORT4-GEN3-FUT-DE_PROD-DVBC": {
+        "sprintNo": "45.15+2.2405.160",
+        "Cver": "0.45.22",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.45.15"
+    },
+    "X102-GER-PORT1-GEN3-MP-DE_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X102-GER-PORT2-GEN3-MP-DE_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X102-GER-PORT3-AVSB-FUT_EMMC_Western-DE_PROD-OTT": {
+        "sprintNo": "R45.15",
+        "Cver": "0.45.22",
+        "firmwareVersion": "2.2405.102",
+        "appVersion": "0.45.15"
+    },
+    "X102-GER-PORT4-GEN3-FUT_LPDDR_Ray&Fore-DE_PROD-DVBC": {
+        "sprintNo": "45.15+2.2405.160",
+        "Cver": "0.45.22",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.45.15"
+    },
+    "X104-GER-PORT1-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
+        "sprintNo": "58.01+4.2502.140",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2502.140",
+        "appVersion": "0.58.01"
+    },
+    "X104-GER-PORT2-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
+        "sprintNo": "58.01+4.2502.140",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2502.140",
+        "appVersion": "0.58.01"
+    },
+    "X104-GER-PORT3-AVSB-FUT-DE_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X104-GER-PORT4-AVSB-FUT_EMMC_Western-DE_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X105-GER-PORT1-AVSB-MP-DE_PROD-OTT": {
+        "sprintNo": "45.15+2.2405.140",
+        "Cver": "0.45.22",
+        "firmwareVersion": "2.2405.140",
+        "appVersion": "0.45.15"
+    },
+    "X105-GER-PORT2-AVSB-MP-DE_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X105-GER-PORT3-GEN3-FUT_LPDDR_Ray&Fore-DE_PROD-OTT": {
+        "sprintNo": "45.15+2.2405.160",
+        "Cver": "0.45.22",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.45.15"
+    },
+    "X105-GER-PORT4-GEN3-FUT-DE_PROD-OTT": {
+        "sprintNo": "45.15+2.2405.160",
+        "Cver": "0.45.22",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.45.15"
+    },
+    "X106-IE-PORT1-AVSB-FUT-IE_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X106-IE-PORT2-GEN3-FUT-IE_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X106-IE-PORT3-GEN3-FUT-IE_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X106-IE-PORT4-AVSB-FUT-IE_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X107-POR-PORT1-AVSB-FUT-PT_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X107-POR-PORT2-AVSB-FUT-PT_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X107-POR-PORT3-AVSB-FUT-PT_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X107-POR-PORT4-GEN3-FUT-PT_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X108-POR-PORT1-GEN3-FUT-PT_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X108-POR-PORT2-GEN3-FUT-PT_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X108-POR-PORT3-GEN3-FUT-PT_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X108-POR-PORT4-GEN3-FUT-PT_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X109-CZ-PORT1-GEN3-FUT-CZ_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X109-CZ-PORT2-GEN3-FUT-CZ_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X109-CZ-PORT3-GEN3-FUT-CZ_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X109-CZ-PORT4-GEN3-FUT-CZ_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X110-RO-PORT 1-GEN2-RO-PROD": {
+        "sprintNo": "S101",
+        "Cver": "0.23.20"
+    },
+    "X111-GRE-PORT1-GEN3-FUT-GR_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X111-GRE-PORT2-GEN3-FUT-GR_PROD-MCAST_DTT": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X111-GRE-PORT3-GEN3-FUT-GR_PROD-MCAST_DTT": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X111-GRE-PORT4-GEN4_SGM-FUT-GR_PROD-MCAST": {
+        "sprintNo": "58.01+4.2504.14",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2504.14",
+        "appVersion": "0.58.01"
+    },
+    "X112-ES-PORT1-GEN3-FUT-ES_PROD-HFC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X112-ES-PORT2-GEN3-FUT-ES_PROD-HFC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X112-ES-PORT3-GEN3-FUT-ES_PROD-FTTH": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X112-ES-PORT4-GEN3-FUT-ES_PROD-NEBA": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X113-ES-PORT1-GEN3-FUT-ES_PROD-NEBA": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X113-ES-PORT2-GEN3-FUT-ES_PROD-FTTH": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X113-ES-PORT3-GEN3-FUT-ES_PROD-FTTH": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X113-ES-PORT4-GEN3-FUT-ES_PROD-FTTH": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X114-GER-PORT1-GEN4_SGM-FUT-DE_PROD-DVBC": {
+        "sprintNo": "58.01+4.2502.140",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2502.140",
+        "appVersion": "0.58.01"
+    },
+    "X114-GER-PORT2-GEN4_SGM-FUT-DE_PROD-DVBC": {
+        "sprintNo": "58.01+4.2502.140",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2502.140",
+        "appVersion": "0.58.01"
+    },
+    "X114-GER-PORT3-GEN4_SGM-FUT-DE_PROD-DVBC": {
+        "sprintNo": "58.01+4.2502.140",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2502.140",
+        "appVersion": "0.58.01"
+    },
+    "X114-GER-PORT4-GEN4_SGM-FUT-DE_PROD-DVBC": {
+        "sprintNo": "58.01+4.2502.140",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2502.140",
+        "appVersion": "0.58.01"
+    },
+    "X115-GRE-PORT1-GEN4_SGM-FUT-GR_PROD-MCAST": {
+        "sprintNo": "58.01+4.2504.14",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2504.14",
+        "appVersion": "0.58.01"
+    },
+    "X115-GRE-PORT2-GEN4_SGM-FUT-GR_PROD-MCAST": {
+        "sprintNo": "58.01+4.2504.14",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2504.14",
+        "appVersion": "0.58.01"
+    },
+    "X115-GRE-PORT3-AVSB-FUT-GR_PROD-MCAST_DTT": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X115-GRE-PORT4-AVSB-FUT-GR_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X116-GER-PORT1-GEN3-MP-DE_PROD-OTT": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X116-GER-PORT2-GEN4_SGM-FUT-DE_PROD-OTT": {
+        "sprintNo": "58.01+4.2502.140",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2502.140",
+        "appVersion": "0.58.01"
+    },
+    "X116-GER-PORT3-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-OTT": {
+        "sprintNo": "58.01+4.2502.140",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2502.140",
+        "appVersion": "0.58.01"
+    },
+    "X116-GER-PORT4-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
+        "sprintNo": "58.01+4.2502.140",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2502.140",
+        "appVersion": "0.58.01"
+    },
+    "X117-AL-PORT1-GEN3-MP-AL_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X117-AL-PORT2-GEN3-MP-AL_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X117-AL-PORT3-GEN3-MP-AL_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X117-AL-PORT4-GEN3-MP-AL_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X118-CZ-PORT1-AVSB-FUT-CZ_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X118-CZ-PORT2-AVSB-FUT-CZ_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X118-CZ-PORT3-AVSB-FUT-CZ_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X118-CZ-PORT4-AVSB-FUT-CZ_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X119-GER-PORT1-GEN3-FUT-DE_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X119-GER-PORT2-AVSB-FUT-DE_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X119-GER-PORT3-GEN3-FUT_EMMC-DE_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X119-GER-PORT4-GEN3-FUT_EMMC-DE_PROD-OTT": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X120-POR-PORT1-GEN4_SGM-FUT-PT_PROD-MCAST": {
+        "sprintNo": "58.01+4.2504.14",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2504.14",
+        "appVersion": "0.58.01"
+    },
+    "X120-POR-PORT2-GEN4_SGM-FUT_LPDDR4GB-PT_PROD-MCAST": {
+        "sprintNo": "58.01+4.2504.14",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2504.14",
+        "appVersion": "0.58.01"
+    },
+    "X120-POR-PORT3-GEN4_SGM-FUT-PT_PROD-MCAST": {
+        "sprintNo": "58.01+4.2504.14",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2504.14",
+        "appVersion": "0.58.01"
+    },
+    "X120-POR-PORT4-GEN4_SGM-FUT_LPDDR4GB-PT_PROD-MCAST": {
+        "sprintNo": "58.01+4.2504.14",
+        "Cver": "0.58.01",
+        "firmwareVersion": "4.2504.14",
+        "appVersion": "0.58.01"
+    },
+    "X121-IE-PORT1-GEN3-ALPHA-IE_PROD-MCAST": {
+        "sprintNo": "R45.15",
+        "Cver": "0.45.22",
+        "firmwareVersion": "2.2405.102",
+        "appVersion": "0.45.15"
+    },
+    "X121-IE-PORT2-AVSB-FUT-IE_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X121-IE-PORT3-GEN3-ALPHA-IE_PROD-MCAST": {
+        "sprintNo": "R45.15",
+        "Cver": "0.45.22",
+        "firmwareVersion": "2.2405.102",
+        "appVersion": "0.45.15"
+    },
+    "X121-IE-PORT4-AVSB-FUT-IE_PROD-MCAST": {
+        "sprintNo": "58.01+2.2405.160",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.58.01"
+    },
+    "X103-GER-PORT1-ANDROID-TABLET": {
+        "sprintNo": "S13.3",
+        "Cver": "0.13.3",
+        "firmwareVersion": "2.2405.100",
+        "appVersion": "0.45.12"
+    },
+    "X103-GER-PORT3-iOS-TABLET": {
+        "sprintNo": "S13.3",
+        "Cver": "0.13.3",
+        "firmwareVersion": "2.2405.100",
+        "appVersion": "0.45.12"
+    },
+    "X110-GER-PORT1-ANDROID-SMARTPHONE": {
+        "sprintNo": "S13.3",
+        "Cver": "0.13.3",
+        "firmwareVersion": "2.2405.100",
+        "appVersion": "0.45.12"
+    },
+    "X110-GER-PORT3-iOS-SMARTPHONE": {
+        "sprintNo": "S13.3",
+        "Cver": "0.13.3",
+        "firmwareVersion": "2.2405.100",
+        "appVersion": "0.45.12"
+    }
+}
