@@ -458,29 +458,5 @@
         "Cver": "0.58.01",
         "firmwareVersion": "2.2405.160",
         "appVersion": "0.58.01"
-    },
-    "X103-GER-PORT1-ANDROID-TABLET": {
-        "sprintNo": "S13.3",
-        "Cver": "0.13.3",
-        "firmwareVersion": "2.2405.100",
-        "appVersion": "0.45.12"
-    },
-    "X103-GER-PORT3-iOS-TABLET": {
-        "sprintNo": "S13.3",
-        "Cver": "0.13.3",
-        "firmwareVersion": "2.2405.100",
-        "appVersion": "0.45.12"
-    },
-    "X110-GER-PORT1-ANDROID-SMARTPHONE": {
-        "sprintNo": "S13.3",
-        "Cver": "0.13.3",
-        "firmwareVersion": "2.2405.100",
-        "appVersion": "0.45.12"
-    },
-    "X110-GER-PORT3-iOS-SMARTPHONE": {
-        "sprintNo": "S13.3",
-        "Cver": "0.13.3",
-        "firmwareVersion": "2.2405.100",
-        "appVersion": "0.45.12"
     }
 }
