@@ -161,5 +161,7 @@
 	"NetflixGetStarted": "Get Started",
 	"NetflixSignInContinue": "Continue",
 	"YoutubeViews":"views",
-	"NetflixContinue":"Continue"
+	"NetflixContinue":"Continue",
+	"EPGLoading": "Loading",
+	"EPGPreviewNoInformation": "No information"
 }
