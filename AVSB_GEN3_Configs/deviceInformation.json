@@ -35,12 +35,6 @@
         "firmwareVersion": "2.2405.160",
         "appVersion": "0.58.01"
     },
-    "X102-GER-PORT3-AVSB-FUT_EMMC_Western-DE_PROD-OTT": {
-        "sprintNo": "R45.15",
-        "Cver": "0.45.22",
-        "firmwareVersion": "2.2405.102",
-        "appVersion": "0.45.15"
-    },
     "X102-GER-PORT4-GEN3-FUT_LPDDR_Ray&Fore-DE_PROD-DVBC": {
         "sprintNo": "45.15+2.2405.160",
         "Cver": "0.45.22",
@@ -70,12 +64,6 @@
         "Cver": "0.58.01",
         "firmwareVersion": "2.2405.160",
         "appVersion": "0.58.01"
-    },
-    "X105-GER-PORT1-AVSB-MP-DE_PROD-OTT": {
-        "sprintNo": "45.15+2.2405.140",
-        "Cver": "0.45.22",
-        "firmwareVersion": "2.2405.140",
-        "appVersion": "0.45.15"
     },
     "X105-GER-PORT2-AVSB-MP-DE_PROD-DVBC": {
         "sprintNo": "58.01+2.2405.160",
@@ -213,10 +201,10 @@
         "firmwareVersion": "2.2405.160",
         "appVersion": "0.58.01"
     },
-    "X111-GRE-PORT4-GEN4_SGM-FUT-GR_PROD-MCAST": {
-        "sprintNo": "58.01+4.2504.14",
+    "X111-GRE-PORT4-GEN3-FUT-GR_PROD-MCAST_DTT": {
+        "sprintNo": "58.01+2.2405.160",
         "Cver": "0.58.01",
-        "firmwareVersion": "4.2504.14",
+        "firmwareVersion": "2.2405.160",
         "appVersion": "0.58.01"
     },
     "X112-ES-PORT1-GEN3-FUT-ES_PROD-HFC": {
@@ -303,16 +291,16 @@
         "firmwareVersion": "4.2504.14",
         "appVersion": "0.58.01"
     },
-    "X115-GRE-PORT3-AVSB-FUT-GR_PROD-MCAST_DTT": {
-        "sprintNo": "58.01+2.2405.160",
+    "X115-GRE-PORT3-GEN4_SGM-FUT-GR_PROD-MCAST": {
+        "sprintNo": "58.01+4.2504.14",
         "Cver": "0.58.01",
-        "firmwareVersion": "2.2405.160",
+        "firmwareVersion": "4.2504.14",
         "appVersion": "0.58.01"
     },
-    "X115-GRE-PORT4-AVSB-FUT-GR_PROD-MCAST": {
-        "sprintNo": "58.01+2.2405.160",
+    "X115-GRE-PORT4-GEN4_SGM-FUT-GR_PROD-MCAST": {
+        "sprintNo": "58.01+4.2504.14",
         "Cver": "0.58.01",
-        "firmwareVersion": "2.2405.160",
+        "firmwareVersion": "4.2504.14",
         "appVersion": "0.58.01"
     },
     "X116-GER-PORT1-GEN3-MP-DE_PROD-OTT": {
@@ -460,3 +448,4 @@
         "appVersion": "0.58.01"
     }
 }
+
