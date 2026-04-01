@@ -163,5 +163,6 @@
 	"YoutubeViews":"views",
 	"NetflixContinue":"Continue",
 	"EPGLoading": "Loading",
-	"EPGPreviewNoInformation": "No information"
+	"EPGPreviewNoInformation": "No information",
+	"DisneyLogin":"LOG IN"
 }
