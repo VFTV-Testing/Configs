@@ -164,5 +164,19 @@
 	"NetflixContinue":"Continue",
 	"EPGLoading": "Loading",
 	"EPGPreviewNoInformation": "No information",
-	"DisneyLogin":"LOG IN"
+	"DisneyLogin":"LOG IN",
+	"WatchOnHBO": "Ver en HBO Max",
+	"HBOProfileText": "Who's Watching",
+	"HBOContinueWatching":"Continue Watching",
+	"HBOTLM":"HBOMAX",
+	"SubscribeHbo" : "SUBSCREVER AGORA",  
+	"EnterEmailHBO" : "Introduza o seu endereço de e-mail da HBO Max",  
+	"EnterPasswordHBO" : "Introduza a sua palavra-passe da HBO Max", 
+	"PrivacyTermsHbo" : "GERIR PREFERÊNCIAS",
+	"PrivacyTermsTitleHbo" : "Valorizamos a sua privacidade",
+	"SavePreferanceHbo" : "GUARDAR PREFERÊNCIAS",
+	"HboHome": "Home",
+	"HboSearch": "Search",
+	"HboWatch": "VER",
+	"HboRestart": "REINICIAR"
 }
