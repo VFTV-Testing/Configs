@@ -162,5 +162,6 @@
 	"HboSearch": "Search",
 	"HboWatch": "VER",
 	"HboRestart": "REINICIAR",
-	"DisneyLogin":"LOG IN"
+	"DisneyLogin":"LOG IN",
+	"StartSession": "Iniciar sessão"
 }
