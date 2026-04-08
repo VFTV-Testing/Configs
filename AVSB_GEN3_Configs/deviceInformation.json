@@ -1,9 +1,9 @@
 {
     "X101-GER-PORT1-AVSB-FUT_EMMC_Rayson-DE_PROD-DVBC": {
-        "sprintNo": "45.15+2.2405.160",
-        "Cver": "0.45.22",
+        "sprintNo": "45.16+2.2405.160",
+        "Cver": "0.45.23",
         "firmwareVersion": "2.2405.160",
-        "appVersion": "0.45.15"
+        "appVersion": "0.45.16"
     },
     "X101-GER-PORT2-AVSB-MP-DE_PROD-DVBC": {
         "sprintNo": "45.15+2.2405.160",
@@ -18,10 +18,10 @@
         "appVersion": "0.58.01"
     },
     "X101-GER-PORT4-GEN3-FUT-DE_PROD-DVBC": {
-        "sprintNo": "45.15+2.2405.160",
-        "Cver": "0.45.22",
+        "sprintNo": "45.16+2.2405.160",
+        "Cver": "0.45.23",
         "firmwareVersion": "2.2405.160",
-        "appVersion": "0.45.15"
+        "appVersion": "0.45.16"
     },
     "X102-GER-PORT1-GEN3-MP-DE_PROD-DVBC": {
         "sprintNo": "58.01+2.2405.160",
@@ -36,10 +36,10 @@
         "appVersion": "0.58.01"
     },
     "X102-GER-PORT4-GEN3-FUT_LPDDR_Ray&Fore-DE_PROD-DVBC": {
-        "sprintNo": "45.15+2.2405.160",
-        "Cver": "0.45.22",
+        "sprintNo": "45.16+2.2405.160",
+        "Cver": "0.45.23",
         "firmwareVersion": "2.2405.160",
-        "appVersion": "0.45.15"
+        "appVersion": "0.45.16"
     },
     "X104-GER-PORT1-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
         "sprintNo": "58.01+4.2502.140",
@@ -72,16 +72,16 @@
         "appVersion": "0.58.01"
     },
     "X105-GER-PORT3-GEN3-FUT_LPDDR_Ray&Fore-DE_PROD-OTT": {
-        "sprintNo": "45.15+2.2405.160",
-        "Cver": "0.45.22",
+        "sprintNo": "45.16+2.2405.160",
+        "Cver": "0.45.23",
         "firmwareVersion": "2.2405.160",
-        "appVersion": "0.45.15"
+        "appVersion": "0.45.16"
     },
     "X105-GER-PORT4-GEN3-FUT-DE_PROD-OTT": {
-        "sprintNo": "45.15+2.2405.160",
-        "Cver": "0.45.22",
+        "sprintNo": "45.16+2.2405.160",
+        "Cver": "0.45.23",
         "firmwareVersion": "2.2405.160",
-        "appVersion": "0.45.15"
+        "appVersion": "0.45.16"
     },
     "X106-IE-PORT1-AVSB-FUT-IE_PROD-MCAST": {
         "sprintNo": "58.01+2.2405.160",
