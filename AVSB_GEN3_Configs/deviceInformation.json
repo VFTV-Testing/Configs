@@ -42,16 +42,16 @@
         "appVersion": "0.45.16"
     },
     "X104-GER-PORT1-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
-        "sprintNo": "58.01+4.2502.140",
-        "Cver": "0.58.01",
+        "sprintNo": "45.16+4.2502.140",
+        "Cver": "0.45.23",
         "firmwareVersion": "4.2502.140",
-        "appVersion": "0.58.01"
+        "appVersion": "0.45.16"
     },
     "X104-GER-PORT2-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
-        "sprintNo": "58.01+4.2502.140",
-        "Cver": "0.58.01",
+        "sprintNo": "45.16+4.2502.140",
+        "Cver": "0.45.23",
         "firmwareVersion": "4.2502.140",
-        "appVersion": "0.58.01"
+        "appVersion": "0.45.16"
     },
     "X104-GER-PORT3-AVSB-FUT-DE_PROD-DVBC": {
         "sprintNo": "58.01+2.2405.160",
@@ -274,10 +274,10 @@
         "appVersion": "0.45.16"
     },
     "X114-GER-PORT4-GEN4_SGM-FUT-DE_PROD-DVBC": {
-        "sprintNo": "58.01+4.2502.140",
-        "Cver": "0.58.01",
+        "sprintNo": "45.16+4.2502.140",
+        "Cver": "0.45.23",
         "firmwareVersion": "4.2502.140",
-        "appVersion": "0.58.01"
+        "appVersion": "0.45.16"
     },
     "X115-GRE-PORT1-GEN4_SGM-FUT-GR_PROD-MCAST": {
         "sprintNo": "58.01+4.2504.14",
@@ -310,22 +310,22 @@
         "appVersion": "0.58.01"
     },
     "X116-GER-PORT2-GEN4_SGM-FUT-DE_PROD-OTT": {
-        "sprintNo": "58.01+4.2502.140",
-        "Cver": "0.58.01",
+        "sprintNo": "45.16+4.2502.140",
+        "Cver": "0.45.23",
         "firmwareVersion": "4.2502.140",
-        "appVersion": "0.58.01"
+        "appVersion": "0.45.16"
     },
     "X116-GER-PORT3-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-OTT": {
-        "sprintNo": "58.01+4.2502.140",
-        "Cver": "0.58.01",
+        "sprintNo": "45.16+4.2502.140",
+        "Cver": "0.45.23",
         "firmwareVersion": "4.2502.140",
-        "appVersion": "0.58.01"
+        "appVersion": "0.45.16"
     },
     "X116-GER-PORT4-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
-        "sprintNo": "58.01+4.2502.140",
-        "Cver": "0.58.01",
+        "sprintNo": "45.16+4.2502.140",
+        "Cver": "0.45.23",
         "firmwareVersion": "4.2502.140",
-        "appVersion": "0.58.01"
+        "appVersion": "0.45.16"
     },
     "X117-AL-PORT1-GEN3-MP-AL_PROD-DVBC": {
         "sprintNo": "58.01+2.2405.160",
