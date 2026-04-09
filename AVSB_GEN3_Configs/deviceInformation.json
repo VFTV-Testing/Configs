@@ -183,7 +183,7 @@
         "sprintNo": "S101",
         "Cver": "0.23.20"
     },
-    "X111-GRE-PORT1-GEN3-FUT-GR_PROD-MCAST": {
+    "X111-GRE-PORT1-GEN3-FUT-GR_PROD-MCAST_DTT": {
         "sprintNo": "58.01+2.2405.160",
         "Cver": "0.58.01",
         "firmwareVersion": "2.2405.160",
@@ -201,7 +201,7 @@
         "firmwareVersion": "2.2405.160",
         "appVersion": "0.58.01"
     },
-    "X111-GRE-PORT4-GEN3-FUT-GR_PROD-MCAST": {
+    "X111-GRE-PORT4-GEN3-FUT-GR_PROD-MCAST_DTT": {
         "sprintNo": "58.01+2.2405.160",
         "Cver": "0.58.01",
         "firmwareVersion": "2.2405.160",
@@ -291,13 +291,13 @@
         "firmwareVersion": "4.2504.14",
         "appVersion": "0.58.01"
     },
-    "X115-GRE-PORT3-GEN4_SGM-FUT-GR_PROD-MCAST": {
+    "X115-GRE-PORT3-GEN4_SGM-FUT_LPDDR4GB-GR_PROD-MCAST": {
         "sprintNo": "58.01+4.2504.14",
         "Cver": "0.58.01",
         "firmwareVersion": "4.2504.14",
         "appVersion": "0.58.01"
     },
-    "X115-GRE-PORT4-GEN4_SGM-FUT-GR_PROD-MCAST": {
+    "X115-GRE-PORT4-GEN4_SGM-FUT_LPDDR4GB-GR_PROD-MCAST": {
         "sprintNo": "58.01+4.2504.14",
         "Cver": "0.58.01",
         "firmwareVersion": "4.2504.14",
