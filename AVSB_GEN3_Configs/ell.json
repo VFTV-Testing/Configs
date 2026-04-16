@@ -673,5 +673,9 @@
 "RecBadgeTextFuture2": "Recording Scheduled",
 "MenuSettingsDisplayWhenWatchingGEN4":"Αυτόµατη απενεργοποίηση",
 "AmazonPrimeContinueWatchingEnglish":"Resume",
-"AmazonPrimePlayEnglish":"Play"
+"AmazonPrimePlayEnglish":"Play",
+"MenuSettingsVodafoneAppsSettingsEng":"App Settings",
+"MenuSettingsInformationEng": "Information",
+"MenuSettingsMaintenanceEng": "Maintenance",
+"MenuSettingChannelScanEng": "Channel Scan"
 }
