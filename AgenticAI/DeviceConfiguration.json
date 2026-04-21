@@ -1,1 +1,26 @@
-
+{
+    "X101-GER-PORT1-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
+        "sprintNo": "45.16+2.2405.170",
+        "Cver": "0.45.23",
+        "firmwareVersion": "2.2405.170",
+        "appVersion": "0.45.16"
+    },
+    "X101-GER-PORT2-GEN4_SGM-FUT_3SS-PT_PROD-OTT": {
+        "sprintNo": "45.15+2.2405.160",
+        "Cver": "0.45.22",
+        "firmwareVersion": "2.2405.160",
+        "appVersion": "0.45.15"
+    },
+    "X101-GER-PORT3-AVSB-FUT-DE_PROD-DVBC": {
+        "sprintNo": "58.01+2.2405.170",
+        "Cver": "0.58.01",
+        "firmwareVersion": "2.2405.170",
+        "appVersion": "0.58.01"
+    },
+    "X101-GER-PORT4-Amazon FireTV Stick": {
+        "sprintNo": "45.16+2.2405.170",
+        "Cver": "0.45.23",
+        "firmwareVersion": "2.2405.170",
+        "appVersion": "0.45.16"
+    }
+}
