@@ -26,6 +26,7 @@
     "SettingsAboutApp": "SETTINGS_ABOUT_APP",
     "SettingsDeviceSettings": "Geräteeinstellungen",
     "SettingsChangePin": "PIN ändern",
+	"SettingsPurchasePIN": "PIN für Ausleihe",
     "SettingsNewPIN": "Neue PIN",
     "SettingsWrongPINFormat": "Falsches PIN-Format",
     "SettingsReEnterPin": "Neue PIN erneut eingeben",
