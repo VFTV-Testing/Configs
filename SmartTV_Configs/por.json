@@ -26,6 +26,7 @@
     "SettingsAboutApp": "",
     "SettingsDeviceSettings": "",
     "SettingsChangePin": "Alterar PIN",
+	"SettingsPurchasePIN": "Bloqueio de Compras",
     "SettingsNewPIN": "Novo PIN",
     "SettingsWrongPINFormat": "Formato de PIN não conforme",
     "SettingsReEnterPin": "Insira novamente o novo PIN",
