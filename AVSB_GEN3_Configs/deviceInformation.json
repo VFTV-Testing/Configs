@@ -84,22 +84,22 @@
         "appVersion": "0.45.16"
     },
     "X106-IE-PORT1-AVSB-FUT-IE_PROD-MCAST": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X106-IE-PORT2-GEN3-FUT-IE_PROD-MCAST": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X106-IE-PORT3-GEN3-FUT-IE_PROD-MCAST": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X106-IE-PORT4-AVSB-FUT-IE_PROD-MCAST": {
         "sprintNo": "58.02+2.2405.170",
@@ -334,10 +334,10 @@
         "appVersion": "0.45.15"
     },
     "X117-AL-PORT2-GEN3-MP-AL_PROD-DVBC": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X117-AL-PORT3-GEN4_SGM-FUT-AL_PROD-DVBC": {
         "sprintNo": "45.15+4.2502.156",
@@ -346,10 +346,10 @@
         "appVersion": "0.45.15"
     },
     "X117-AL-PORT4-GEN3-MP-AL_PROD-DVBC": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X118-CZ-PORT1-AVSB-FUT-CZ_PROD-DVBC": {
         "sprintNo": "58.01+2.2405.170",
@@ -430,10 +430,10 @@
         "appVersion": "0.45.15"
     },
     "X121-IE-PORT2-AVSB-FUT-IE_PROD-MCAST": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X121-IE-PORT3-GEN3-ALPHA-IE_PROD-MCAST": {
         "sprintNo": "R45.15",
@@ -442,10 +442,10 @@
         "appVersion": "0.45.15"
     },
     "X121-IE-PORT4-AVSB-FUT-IE_PROD-MCAST": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     }
 }
 
