@@ -24,16 +24,16 @@
         "appVersion": "0.45.16"
     },
     "X102-GER-PORT1-GEN3-MP-DE_PROD-DVBC": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X102-GER-PORT2-GEN3-MP-DE_PROD-DVBC": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X102-GER-PORT4-GEN3-FUT_LPDDR_Ray&Fore-DE_PROD-DVBC": {
         "sprintNo": "45.16+2.2405.170",
@@ -54,22 +54,22 @@
         "appVersion": "0.45.16"
     },
     "X104-GER-PORT3-AVSB-FUT-DE_PROD-DVBC": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X104-GER-PORT4-AVSB-FUT_EMMC_Western-DE_PROD-DVBC": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X105-GER-PORT2-AVSB-MP-DE_PROD-DVBC": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X105-GER-PORT3-GEN3-FUT_LPDDR_Ray&Fore-DE_PROD-OTT": {
         "sprintNo": "45.16+2.2405.170",
@@ -376,22 +376,22 @@
         "appVersion": "0.58.02"
     },
     "X119-GER-PORT1-GEN3-FUT-DE_PROD-DVBC": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X119-GER-PORT2-AVSB-FUT-DE_PROD-DVBC": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X119-GER-PORT3-GEN3-FUT_EMMC-DE_PROD-DVBC": {
-        "sprintNo": "58.01+2.2405.170",
-        "Cver": "0.58.01",
+        "sprintNo": "58.02+2.2405.170",
+        "Cver": "0.58.02",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.01"
+        "appVersion": "0.58.02"
     },
     "X119-GER-PORT4-GEN3-FUT_EMMC-DE_PROD-OTT": {
         "sprintNo": "58.02+2.2405.170",
