@@ -256,21 +256,21 @@
         "appVersion": "0.58.02"
     },
     "X114-GER-PORT1-GEN4_SGM-FUT-DE_PROD-DVBC": {
-        "sprintNo": "45.16+4.2502.140",
+        "sprintNo": "45.16+4.2502.168",
         "Cver": "0.45.23",
-        "firmwareVersion": "4.2502.140",
+        "firmwareVersion": "4.2502.168",
         "appVersion": "0.45.16"
     },
     "X114-GER-PORT2-GEN4_SGM-FUT-DE_PROD-DVBC": {
-        "sprintNo": "45.16+4.2502.140",
+        "sprintNo": "45.16+4.2502.168",
         "Cver": "0.45.23",
-        "firmwareVersion": "4.2502.140",
+        "firmwareVersion": "4.2502.168",
         "appVersion": "0.45.16"
     },
     "X114-GER-PORT3-GEN4_SGM-FUT-DE_PROD-DVBC": {
-        "sprintNo": "45.16+4.2502.140",
+        "sprintNo": "45.16+4.2502.168",
         "Cver": "0.45.23",
-        "firmwareVersion": "4.2502.140",
+        "firmwareVersion": "4.2502.168",
         "appVersion": "0.45.16"
     },
     "X114-GER-PORT4-GEN4_SGM-FUT-DE_PROD-DVBC": {
