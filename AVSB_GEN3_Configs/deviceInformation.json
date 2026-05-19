@@ -156,28 +156,28 @@
         "appVersion": "0.58.02"
     },
     "X109-CZ-PORT1-GEN3-FUT-CZ_PROD-DVBC": {
-        "sprintNo": "58.02+2.2405.170",
-        "Cver": "0.58.02",
+        "sprintNo": "61.00+2.2405.170",
+        "Cver": "0.61.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.02"
+        "appVersion": "0.61.00"
     },
     "X109-CZ-PORT2-GEN3-FUT-CZ_PROD-DVBC": {
-        "sprintNo": "58.02+2.2405.170",
-        "Cver": "0.58.02",
+        "sprintNo": "61.00+2.2405.170",
+        "Cver": "0.61.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.02"
+        "appVersion": "0.61.00"
     },
     "X109-CZ-PORT3-GEN3-FUT-CZ_PROD-DVBC": {
-        "sprintNo": "58.02+2.2405.170",
-        "Cver": "0.58.02",
+        "sprintNo": "61.00+2.2405.170",
+        "Cver": "0.61.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.02"
+        "appVersion": "0.61.00"
     },
     "X109-CZ-PORT4-GEN3-FUT-CZ_PROD-DVBC": {
-        "sprintNo": "58.02+2.2405.170",
-        "Cver": "0.58.02",
+        "sprintNo": "61.00+2.2405.170",
+        "Cver": "0.61.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.02"
+        "appVersion": "0.61.00"
     },
     "X110-RO-PORT 1-GEN2-RO-PROD": {
         "sprintNo": "S101",
