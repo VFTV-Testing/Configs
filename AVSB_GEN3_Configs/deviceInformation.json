@@ -6,10 +6,10 @@
         "appVersion": "0.45.16"
     },
     "X101-GER-PORT2-AVSB-MP-DE_PROD-DVBC": {
-        "sprintNo": "45.15+2.2405.160",
-        "Cver": "0.45.22",
-        "firmwareVersion": "2.2405.160",
-        "appVersion": "0.45.15"
+        "sprintNo": "45.16+2.2405.170",
+        "Cver": "0.45.23",
+        "firmwareVersion": "2.2405.170",
+        "appVersion": "0.45.16"
     },
     "X101-GER-PORT3-AVSB-FUT_EMMC_Rayson-DE_PROD-OTT": {
         "sprintNo": "61.00+2.2405.170",
