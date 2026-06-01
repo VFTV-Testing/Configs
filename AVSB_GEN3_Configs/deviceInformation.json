@@ -156,10 +156,10 @@
         "appVersion": "0.61.00"
     },
     "X109-CZ-PORT1-GEN3-FUT-CZ_PROD-DVBC": {
-        "sprintNo": "61.00+2.2405.170",
-        "Cver": "0.61.00",
-        "firmwareVersion": "2.2405.170",
-        "appVersion": "0.61.00"
+        "sprintNo": "58.02+4.2602.26",
+        "Cver": "0.58.02",
+        "firmwareVersion": "4.2602.26",
+        "appVersion": "0.58.02"
     },
     "X109-CZ-PORT2-GEN3-FUT-CZ_PROD-DVBC": {
         "sprintNo": "61.00+2.2405.170",
@@ -352,10 +352,10 @@
         "appVersion": "0.61.00"
     },
     "X118-CZ-PORT1-AVSB-FUT-CZ_PROD-DVBC": {
-        "sprintNo": "61.00+2.2405.170",
-        "Cver": "0.61.00",
-        "firmwareVersion": "2.2405.170",
-        "appVersion": "0.61.00"
+        "sprintNo": "58.02+4.2602.26",
+        "Cver": "0.58.02",
+        "firmwareVersion": "4.2602.26",
+        "appVersion": "0.58.02"
     },
     "X118-CZ-PORT2-AVSB-FUT-CZ_PROD-DVBC": {
         "sprintNo": "61.00+2.2405.170",
