@@ -166,5 +166,7 @@
 	"DisneyLogin":"LOG IN",
 	"DisneyEnterPassword": "Log in with password",
 	"StartSession": "Iniciar sessão",
-	"DisneyProfileText1": "Who's watching?"
+	"DisneyProfileText1": "Who's watching?",
+	"AddAccount": "Anmelden",
+	"UseRemoteControl": "UseRemoteControl"
 }
