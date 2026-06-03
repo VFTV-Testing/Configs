@@ -42,15 +42,15 @@
         "appVersion": "0.45.17"
     },
     "X104-GER-PORT1-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
-        "sprintNo": "45.17+4.2502.140",
+        "sprintNo": "45.17+4.2502.174",
         "Cver": "0.45.24",
-        "firmwareVersion": "4.2502.140",
+        "firmwareVersion": "4.2502.174",
         "appVersion": "0.45.17"
     },
     "X104-GER-PORT2-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
-        "sprintNo": "45.17+4.2502.140",
+        "sprintNo": "45.17+4.2502.174",
         "Cver": "0.45.24",
-        "firmwareVersion": "4.2502.140",
+        "firmwareVersion": "4.2502.174",
         "appVersion": "0.45.17"
     },
     "X104-GER-PORT3-AVSB-FUT-DE_PROD-DVBC": {
@@ -274,9 +274,9 @@
         "appVersion": "0.45.17"
     },
     "X114-GER-PORT4-GEN4_SGM-FUT-DE_PROD-DVBC": {
-        "sprintNo": "45.17+4.2502.140",
+        "sprintNo": "45.17+4.2502.174",
         "Cver": "0.45.24",
-        "firmwareVersion": "4.2502.140",
+        "firmwareVersion": "4.2502.174",
         "appVersion": "0.45.17"
     },
     "X115-GRE-PORT1-GEN4_SGM-FUT-GR_PROD-MCAST": {
@@ -310,21 +310,21 @@
         "appVersion": "0.58.02"
     },
     "X116-GER-PORT2-GEN4_SGM-FUT-DE_PROD-OTT": {
-        "sprintNo": "45.17+4.2502.140",
+        "sprintNo": "45.17+4.2502.174",
         "Cver": "0.45.24",
-        "firmwareVersion": "4.2502.140",
+        "firmwareVersion": "4.2502.174",
         "appVersion": "0.45.17"
     },
     "X116-GER-PORT3-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-OTT": {
-        "sprintNo": "45.17+4.2502.140",
+        "sprintNo": "45.17+4.2502.174",
         "Cver": "0.45.24",
-        "firmwareVersion": "4.2502.140",
+        "firmwareVersion": "4.2502.174",
         "appVersion": "0.45.17"
     },
     "X116-GER-PORT4-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
-        "sprintNo": "45.17+4.2502.140",
+        "sprintNo": "45.17+4.2502.174",
         "Cver": "0.45.24",
-        "firmwareVersion": "4.2502.140",
+        "firmwareVersion": "4.2502.174",
         "appVersion": "0.45.17"
     },
     "X117-AL-PORT1-GEN4_SGM-FUT-AL_PROD-DVBC": {
