@@ -328,10 +328,10 @@
         "appVersion": "0.45.17"
     },
     "X117-AL-PORT1-GEN4_SGM-FUT-AL_PROD-DVBC": {
-        "sprintNo": "45.15+4.2502.156",
-        "Cver": "0.45.22",
-        "firmwareVersion": "4.2502.156",
-        "appVersion": "0.45.15"
+        "sprintNo": "62.00+2.2405.170",
+        "Cver": "0.62.00",
+        "firmwareVersion": "2.2405.170",
+        "appVersion": "0.62.00"
     },
     "X117-AL-PORT2-GEN3-MP-AL_PROD-DVBC": {
        "sprintNo": "62.00+2.2405.170",
@@ -340,10 +340,10 @@
         "appVersion": "0.62.00"
     },
     "X117-AL-PORT3-GEN4_SGM-FUT-AL_PROD-DVBC": {
-        "sprintNo": "45.15+4.2502.156",
-        "Cver": "0.45.22",
-        "firmwareVersion": "4.2502.156",
-        "appVersion": "0.45.15"
+        "sprintNo": "62.00+2.2405.170",
+        "Cver": "0.62.00",
+        "firmwareVersion": "2.2405.170",
+        "appVersion": "0.62.00"
     },
     "X117-AL-PORT4-GEN3-MP-AL_PROD-DVBC": {
         "sprintNo": "62.00+2.2405.170",
