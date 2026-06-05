@@ -154,8 +154,8 @@
 	"HBOContinueWatching":"Continue Watching",
 	"HBOTLM":"HBOMAX",
 	"SubscribeHbo" : "SUBSCREVER AGORA",  
-	"EnterEmailHBO" : "E-Mail_Addresse deines HBO Max",  
-	"EnterPasswordHBO" : "HBO Max-Passwort",
+	"EnterEmailHBO" : "E-Mail_Addresse deines HBO Max 3SS",  
+	"EnterPasswordHBO" : "HBO Max-Passwort 3SS",
 	"PrivacyTermsHbo" : "GERIR PREFERÊNCIAS",
 	"PrivacyTermsTitleHbo" : "Valorizamos a sua privacidade",
 	"SavePreferanceHbo" : "GUARDAR PREFERÊNCIAS",
@@ -168,5 +168,6 @@
 	"StartSession": "Iniciar sessão",
 	"DisneyProfileText1": "Who's watching?",
 	"AddAccount": "Anmelden",
-	"UseRemoteControl": "UseRemoteControl"
+	"UseRemoteControl": "UseRemoteControl",
+	"SearchAllRail": "All Results 3SS"
 }
