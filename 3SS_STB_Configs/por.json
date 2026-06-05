@@ -169,5 +169,6 @@
 	"DisneyProfileText1": "Who's watching?",
 	"AddAccount": "Anmelden",
 	"UseRemoteControl": "UseRemoteControl",
-	"SearchAllRail": "All Results 3SS"
+	"SearchAllRail": "All Results 3SS",
+	"SearchNoResults": "No Results 3SS"
 }
