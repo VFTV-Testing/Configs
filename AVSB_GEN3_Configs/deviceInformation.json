@@ -208,10 +208,10 @@
         "appVersion": "0.58.02"
     },
     "X112-ES-PORT1-GEN3-FUT-ES_PROD-HFC": {
-        "sprintNo": "61.00+2.2405.170",
-        "Cver": "0.61.00",
+        "sprintNo": "62.00+2.2405.170",
+        "Cver": "0.62.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.61.00"
+        "appVersion": "0.62.00"
     },
     "X112-ES-PORT2-GEN3-FUT-ES_PROD-HFC": {
         "sprintNo": "58.02+4.2602.26",
@@ -220,28 +220,28 @@
         "appVersion": "0.58.02"
     },
     "X112-ES-PORT3-GEN3-FUT-ES_PROD-FTTH": {
-        "sprintNo": "61.00+2.2405.170",
-        "Cver": "0.61.00",
+        "sprintNo": "62.00+2.2405.170",
+        "Cver": "0.62.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.61.00"
+        "appVersion": "0.62.00"
     },
     "X112-ES-PORT4-GEN3-FUT-ES_PROD-NEBA": {
-        "sprintNo": "61.00+2.2405.170",
-        "Cver": "0.61.00",
+        "sprintNo": "62.00+2.2405.170",
+        "Cver": "0.62.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.61.00"
+        "appVersion": "0.62.00"
     },
     "X113-ES-PORT1-GEN3-FUT-ES_PROD-NEBA": {
-        "sprintNo": "61.00+2.2405.170",
-        "Cver": "0.61.00",
+        "sprintNo": "62.00+2.2405.170",
+        "Cver": "0.62.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.61.00"
+        "appVersion": "0.62.00"
     },
     "X113-ES-PORT2-GEN3-FUT-ES_PROD-FTTH": {
-        "sprintNo": "61.00+2.2405.170",
-        "Cver": "0.61.00",
+        "sprintNo": "62.00+2.2405.170",
+        "Cver": "0.62.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.61.00"
+        "appVersion": "0.62.00"
     },
     "X113-ES-PORT3-GEN3-FUT-ES_PROD-FTTH": {
         "sprintNo": "58.02+4.2602.26",
@@ -250,10 +250,10 @@
         "appVersion": "0.58.02"
     },
     "X113-ES-PORT4-GEN3-FUT-ES_PROD-FTTH": {
-        "sprintNo": "61.00+2.2405.170",
-        "Cver": "0.61.00",
+        "sprintNo": "62.00+2.2405.170",
+        "Cver": "0.62.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.61.00"
+        "appVersion": "0.62.00"
     },
     "X114-GER-PORT1-GEN4_SGM-FUT-DE_PROD-DVBC": {
         "sprintNo": "45.17+4.2502.174",
