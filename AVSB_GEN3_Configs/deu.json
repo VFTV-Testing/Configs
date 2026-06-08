@@ -1,6 +1,7 @@
 {
 "Maintainance_Regex":"artungsneustart",
 "Maintainance_Successful_Boot":"Letzter erfolgreicher Wartungszyklus:",
+"AdText":"Werbung",
 "Maintainance_Last_Fail":"fehlgeschlagener Wartungszyklus:",
 "Maintainance_Last_Boot":"Letzter Wartungsneustart:",
  "SameDigitPinNotification":"Deine PIN darf leider nicht dieselben Ziffern enthalten. Wahle - bitte eine andere PIN. (SAA713)",
