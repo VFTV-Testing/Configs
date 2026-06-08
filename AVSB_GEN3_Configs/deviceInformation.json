@@ -184,28 +184,28 @@
         "Cver": "0.23.20"
     },
     "X111-GRE-PORT1-GEN3-FUT-GR_PROD-MCAST_DTT": {
-        "sprintNo": "58.02+2.2405.170",
-        "Cver": "0.58.02",
+        "sprintNo": "62.00+2.2405.170",
+        "Cver": "0.62.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.02"
+        "appVersion": "0.62.00"
     },
     "X111-GRE-PORT2-GEN3-FUT-GR_PROD-MCAST_DTT": {
-        "sprintNo": "58.02+2.2405.170",
-        "Cver": "0.58.02",
+        "sprintNo": "62.00+2.2405.170",
+        "Cver": "0.62.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.02"
+        "appVersion": "0.62.00"
     },
     "X111-GRE-PORT3-GEN3-FUT-GR_PROD-MCAST_DTT": {
-        "sprintNo": "58.02+2.2405.170",
-        "Cver": "0.58.02",
+        "sprintNo": "62.00+2.2405.170",
+        "Cver": "0.62.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.02"
+        "appVersion": "0.62.00"
     },
     "X111-GRE-PORT4-GEN3-FUT-GR_PROD-MCAST_DTT": {
-        "sprintNo": "58.02+2.2405.170",
-        "Cver": "0.58.02",
+        "sprintNo": "62.00+2.2405.170",
+        "Cver": "0.62.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.58.02"
+        "appVersion": "0.62.00"
     },
     "X112-ES-PORT1-GEN3-FUT-ES_PROD-HFC": {
         "sprintNo": "62.00+2.2405.170",
@@ -280,28 +280,28 @@
         "appVersion": "0.45.17"
     },
     "X115-GRE-PORT1-GEN4_SGM-FUT-GR_PROD-MCAST": {
-        "sprintNo": "58.02+4.2504.14",
-        "Cver": "0.58.02",
+        "sprintNo": "62.00+4.2504.14",
+        "Cver": "0.62.00",
         "firmwareVersion": "4.2504.14",
-        "appVersion": "0.58.02"
+        "appVersion": "0.62.00"
     },
     "X115-GRE-PORT2-GEN4_SGM-FUT-GR_PROD-MCAST": {
-        "sprintNo": "58.02+4.2504.14",
-        "Cver": "0.58.02",
+        "sprintNo": "62.00+4.2504.14",
+        "Cver": "0.62.00",
         "firmwareVersion": "4.2504.14",
-        "appVersion": "0.58.02"
+        "appVersion": "0.62.00"
     },
     "X115-GRE-PORT3-GEN4_SGM-FUT_LPDDR4GB-GR_PROD-MCAST": {
-        "sprintNo": "58.02+4.2504.14",
-        "Cver": "0.58.02",
+        "sprintNo": "62.00+4.2504.14",
+        "Cver": "0.62.00",
         "firmwareVersion": "4.2504.14",
-        "appVersion": "0.58.02"
+        "appVersion": "0.62.00"
     },
     "X115-GRE-PORT4-GEN4_SGM-FUT_LPDDR4GB-GR_PROD-MCAST": {
-        "sprintNo": "58.02+4.2504.14",
-        "Cver": "0.58.02",
+        "sprintNo": "62.00+4.2504.14",
+        "Cver": "0.62.00",
         "firmwareVersion": "4.2504.14",
-        "appVersion": "0.58.02"
+        "appVersion": "0.62.00"
     },
     "X116-GER-PORT1-GEN3-MP-DE_PROD-OTT": {
         "sprintNo": "58.02+4.2602.26",
