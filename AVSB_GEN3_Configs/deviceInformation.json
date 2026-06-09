@@ -400,28 +400,28 @@
         "appVersion": "0.62.00"
     },
     "X120-POR-PORT1-GEN4_SGM-FUT-PT_PROD-MCAST": {
-        "sprintNo": "61.00+442602.046.00110",
-        "Cver": "0.61.00",
+        "sprintNo": "62.00+442602.046.00110",
+        "Cver": "0.62.00",
         "firmwareVersion": "442602.046.00110",
-        "appVersion": "0.61.00"
+        "appVersion": "0.62.00"
     },
     "X120-POR-PORT2-GEN4_SGM-FUT_LPDDR4GB-PT_PROD-MCAST": {
-        "sprintNo": "61.00+442602.046.00110",
-        "Cver": "0.61.00",
+        "sprintNo": "62.00+442602.046.00110",
+        "Cver": "0.62.00",
         "firmwareVersion": "442602.046.00110",
-        "appVersion": "0.61.00"
+        "appVersion": "0.62.00"
     },
     "X120-POR-PORT3-GEN4_SGM-FUT-PT_PROD-MCAST": {
-        "sprintNo": "61.00+442602.046.00110",
-        "Cver": "0.61.00",
+        "sprintNo": "62.00+442602.046.00110",
+        "Cver": "0.62.00",
         "firmwareVersion": "442602.046.00110",
-        "appVersion": "0.61.00"
+        "appVersion": "0.62.00"
     },
     "X120-POR-PORT4-GEN4_SGM-FUT_LPDDR4GB-PT_PROD-MCAST": {
-        "sprintNo": "61.00+442602.046.00110",
-        "Cver": "0.61.00",
+        "sprintNo": "62.00+442602.046.00110",
+        "Cver": "0.62.00",
         "firmwareVersion": "442602.046.00110",
-        "appVersion": "0.61.00"
+        "appVersion": "0.62.00"
     },
     "X121-IE-PORT1-GEN3-ALPHA-IE_PROD-MCAST": {
         "sprintNo": "R45.15",
