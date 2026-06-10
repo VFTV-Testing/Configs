@@ -328,7 +328,7 @@
         "appVersion": "0.45.17"
     },
     "X117-AL-PORT1-GEN4_SGM-FUT-AL_PROD-DVBC": {
-        "sprintNo": "Test",
+        "sprintNo": "62.00+4.2502.174",
         "Cver": "0.62.00",
         "firmwareVersion": "4.2502.174",
         "appVersion": "0.62.00"
@@ -340,7 +340,7 @@
         "appVersion": "0.62.00"
     },
     "X117-AL-PORT3-GEN4_SGM-FUT-AL_PROD-DVBC": {
-        "sprintNo": "Test",
+        "sprintNo": "62.00+4.2502.174",
         "Cver": "0.62.00",
         "firmwareVersion": "4.2502.174",
         "appVersion": "0.62.00"
