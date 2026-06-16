@@ -108,10 +108,10 @@
         "appVersion": "0.62.00"
     },
     "X107-POR-PORT1-AVSB-FUT-PT_PROD-MCAST": {
-        "sprintNo": "58.02+4.2602.26",
-        "Cver": "0.58.02",
+        "sprintNo": "62.00+4.2602.26",
+        "Cver": "0.62.00",
         "firmwareVersion": "4.2602.26",
-        "appVersion": "0.58.02"
+        "appVersion": "0.62.00"
     },
     "X107-POR-PORT2-AVSB-FUT-PT_PROD-MCAST": {
         "sprintNo": "62.00+2.2405.170",
@@ -126,10 +126,10 @@
         "appVersion": "0.62.00"
     },
     "X107-POR-PORT4-GEN3-FUT-PT_PROD-MCAST": {
-        "sprintNo": "58.02+4.2602.26",
-        "Cver": "0.58.02",
+        "sprintNo": "62.00+4.2602.26",
+        "Cver": "0.62.00",
         "firmwareVersion": "4.2602.26",
-        "appVersion": "0.58.02"
+        "appVersion": "0.62.00"
     },
     "X108-POR-PORT1-GEN3-FUT-PT_PROD-MCAST": {
         "sprintNo": "62.00+2.2405.170",
