@@ -304,10 +304,10 @@
         "appVersion": "0.62.00"
     },
     "X116-GER-PORT1-GEN3-MP-DE_PROD-OTT": {
-        "sprintNo": "58.02+4.2602.26",
-        "Cver": "0.58.02",
+        "sprintNo": "62.00+4.2602.26",
+        "Cver": "0.62.00",
         "firmwareVersion": "4.2602.26",
-        "appVersion": "0.58.02"
+        "appVersion": "0.62.00"
     },
     "X116-GER-PORT2-GEN4_SGM-FUT-DE_PROD-OTT": {
         "sprintNo": "45.17+4.2502.174",
