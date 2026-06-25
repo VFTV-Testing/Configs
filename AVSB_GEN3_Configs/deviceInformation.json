@@ -322,10 +322,10 @@
         "appVersion": "0.45.17"
     },
     "X116-GER-PORT4-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
-        "sprintNo": "62.00+432604.046.00120",
-        "Cver": "0.62.00",
+        "sprintNo": "62.01+432604.046.00120",
+        "Cver": "0.62.01",
         "firmwareVersion": "432604.046.00120",
-        "appVersion": "0.62.00"
+        "appVersion": "0.62.01"
     },
     "X117-AL-PORT1-GEN4_SGM-FUT-AL_PROD-DVBC": {
         "sprintNo": "62.00+4.2502.174",
