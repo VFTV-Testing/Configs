@@ -174,10 +174,10 @@
         "appVersion": "0.62.00"
     },
     "X109-CZ-PORT4-GEN4_Mini_ZTE-ALPHA-CZ_PROD-OTT": {
-        "sprintNo": "62.00+4.2602.23",
-        "Cver": "0.62.00",
+        "sprintNo": "62.01+4.2602.23",
+        "Cver": "0.62.01",
         "firmwareVersion": "4.2602.23",
-        "appVersion": "0.62.00"
+        "appVersion": "0.62.01"
     },
     "X110-RO-PORT 1-GEN2-RO-PROD": {
         "sprintNo": "S101",
@@ -370,10 +370,10 @@
         "appVersion": "0.62.00"
     },
     "X118-CZ-PORT4-GEN4_Mini_ZTE-ALPHA-CZ_PROD-OTT": {
-        "sprintNo": "62.00+4.2602.23",
-        "Cver": "0.62.00",
+        "sprintNo": "62.01+4.2602.23",
+        "Cver": "0.62.01",
         "firmwareVersion": "4.2602.23",
-        "appVersion": "0.62.00"
+        "appVersion": "0.62.01"
     },
     "X119-GER-PORT1-GEN3-FUT-DE_PROD-DVBC": {
         "sprintNo": "62.00+2.2405.170",
