@@ -12,10 +12,10 @@
         "appVersion": "0.45.17"
     },
     "X101-GER-PORT3-AVSB-FUT_EMMC_Rayson-DE_PROD-OTT": {
-        "sprintNo": "62.00+2.2405.170",
-        "Cver": "0.62.00",
+        "sprintNo": "62.01+2.2405.170",
+        "Cver": "0.62.01",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.62.00"
+        "appVersion": "0.62.01"
     },
     "X101-GER-PORT4-GEN3-FUT-DE_PROD-DVBC": {
         "sprintNo": "45.17+2.2405.170",
@@ -394,10 +394,10 @@
         "appVersion": "0.62.00"
     },
     "X119-GER-PORT4-GEN3-FUT_EMMC-DE_PROD-OTT": {
-        "sprintNo": "62.00+2.2405.170",
-        "Cver": "0.62.00",
+        "sprintNo": "62.01+2.2405.170",
+        "Cver": "0.62.01",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.62.00"
+        "appVersion": "0.62.01"
     },
     "X120-POR-PORT1-GEN4_SGM-FUT-PT_PROD-MCAST": {
         "sprintNo": "62.00+442602.046.00110",
