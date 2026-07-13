@@ -35,6 +35,12 @@
         "firmwareVersion": "4.2602.26",
         "appVersion": "0.62.01"
     },
+     "X102-GER-PORT3-GEN3-MP-DE_PROD-DVBC": {
+        "sprintNo": "62.01+2.2405.170",
+        "Cver": "0.62.01",
+        "firmwareVersion": "2.2405.170",
+        "appVersion": "0.62.01"
+    },
     "X102-GER-PORT4-GEN3-FUT_LPDDR_Ray&Fore-DE_PROD-DVBC": {
         "sprintNo": "45.17+2.2405.170",
         "Cver": "0.45.24",
