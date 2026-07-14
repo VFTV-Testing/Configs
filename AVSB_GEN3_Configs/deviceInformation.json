@@ -429,7 +429,7 @@
         "firmwareVersion": "442602.046.00110",
         "appVersion": "0.63.00"
     },
-    "X121-IE-PORT1-AVSB-ALPHA-IE_PROD-MCAST": {
+    "X121-IE-PORT1-AVSB-FUT-IE_PROD-MCAST": {
         "sprintNo": "R45.15",
         "Cver": "0.45.22",
         "firmwareVersion": "2.2405.102",
@@ -441,7 +441,7 @@
         "firmwareVersion": "2.2405.170",
         "appVersion": "0.62.00"
     },
-    "X121-IE-PORT3-AVSB-ALPHA-IE_PROD-MCAST": {
+    "X121-IE-PORT3-AVSB-FUT-IE_PROD-MCAST": {
         "sprintNo": "R45.15",
         "Cver": "0.45.22",
         "firmwareVersion": "2.2405.102",
