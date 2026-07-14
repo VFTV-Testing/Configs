@@ -95,13 +95,13 @@
         "firmwareVersion": "4.2602.26",
         "appVersion": "0.58.02"
     },
-    "X106-IE-PORT2-GEN3-FUT-IE_PROD-MCAST": {
+    "X106-IE-PORT2-AVSB-FUT-IE_PROD-MCAST": {
         "sprintNo": "61.00+2.2405.170",
         "Cver": "0.61.00",
         "firmwareVersion": "2.2405.170",
         "appVersion": "0.61.00"
     },
-    "X106-IE-PORT3-GEN3-FUT-IE_PROD-MCAST": {
+    "X106-IE-PORT3-AVSB-FUT-IE_PROD-MCAST": {
        "sprintNo": "61.00+2.2405.170",
         "Cver": "0.61.00",
         "firmwareVersion": "2.2405.170",
@@ -429,7 +429,7 @@
         "firmwareVersion": "442602.046.00110",
         "appVersion": "0.63.00"
     },
-    "X121-IE-PORT1-GEN3-ALPHA-IE_PROD-MCAST": {
+    "X121-IE-PORT1-AVSB-ALPHA-IE_PROD-MCAST": {
         "sprintNo": "R45.15",
         "Cver": "0.45.22",
         "firmwareVersion": "2.2405.102",
@@ -441,7 +441,7 @@
         "firmwareVersion": "2.2405.170",
         "appVersion": "0.62.00"
     },
-    "X121-IE-PORT3-GEN3-ALPHA-IE_PROD-MCAST": {
+    "X121-IE-PORT3-AVSB-ALPHA-IE_PROD-MCAST": {
         "sprintNo": "R45.15",
         "Cver": "0.45.22",
         "firmwareVersion": "2.2405.102",
