@@ -1,0 +1,410 @@
+{
+  "ExpectedScenarios": {
+    "CZ": {
+      "CT": [
+        "Amazon",
+        "Catchup",
+        "Disney",
+        "Guide_Navigation",
+        "HBO",
+        "MiniPI To ExtendedPI",
+        "Pause_Resume",
+        "Random_Zapping",
+        "Rewind_Playback",
+        "StartOver",
+        "TLM Launch Via Hotkey",
+        "TLM_Navigation",
+        "TVGuide Loadtime",
+        "Tune Live TV Via TVGuide",
+        "VOD",
+        "Wakeup From Standby",
+        "Youtube",
+        "nPVR"
+      ],
+      "LongPlayback": [
+        "Amazon",
+        "Catchup",
+        "Disney",
+        "HBO",
+        "Live",
+        "VOD",
+        "Youtube",
+        "nPVR"
+      ],
+      "Environmental": [
+        "BT Validation",
+        "Device Health Status",
+        "Network Validation",
+        "Technical & System Integration"
+      ]
+    },
+    "IE": {
+      "CT": [
+        "Amazon",
+        "Catchup",
+        "Disney",
+        "Guide_Navigation",
+        "MiniPI To ExtendedPI",
+        "Netflix",
+        "Pause_Resume",
+        "Random_Zapping",
+        "Rewind_Playback",
+        "StartOver",
+        "TLM Launch Via Hotkey",
+        "TLM_Navigation",
+        "TVGuide Loadtime",
+        "Tune Live TV Via TVGuide",
+        "Wakeup From Standby",
+        "Youtube",
+        "nPVR"
+      ],
+      "LongPlayback": [
+        "Amazon",
+        "Catchup",
+        "Disney",
+        "Live",
+        "Netflix",
+        "Youtube",
+        "nPVR"
+      ],
+      "Environmental": [
+        "BT Validation",
+        "Device Health Status",
+        "Network Validation",
+        "Technical & System Integration"
+      ]
+    },
+    "ES": {
+      "CT": [
+        "Amazon",
+        "Catchup",
+        "Disney",
+        "Guide_Navigation",
+        "HBO",
+        "MiniPI To ExtendedPI",
+        "Netflix",
+        "Pause_Resume",
+        "Random_Zapping",
+        "Rewind_Playback",
+        "StartOver",
+        "TLM Launch Via Hotkey",
+        "TLM_Navigation",
+        "TVGuide Loadtime",
+        "Tune Live TV Via TVGuide",
+        "VOD",
+        "Wakeup From Standby",
+        "Youtube",
+        "nPVR"
+      ],
+      "LongPlayback": [
+        "Amazon",
+        "Catchup",
+        "Disney",
+        "HBO",
+        "Live",
+        "Netflix",
+        "VOD",
+        "Youtube",
+        "nPVR"
+      ],
+      "Environmental": [
+        "BT Validation",
+        "Device Health Status",
+        "Network Validation",
+        "Technical & System Integration"
+      ]
+    },
+    "DE": {
+      "CT": [
+        "Amazon",
+        "DAZN",
+        "Disney",
+        "Guide_Navigation",
+        "Media Library",
+        "MiniPI To ExtendedPI",
+        "Netflix",
+        "Pause_Resume",
+        "Random_Zapping",
+        "Rewind_Playback",
+        "StartOver",
+        "TLM Launch Via Hotkey",
+        "TLM_Navigation",
+        "TVGuide Loadtime",
+        "Tune Live TV Via TVGuide",
+        "VOD",
+        "Wakeup From Standby",
+        "Youtube",
+        "nPVR"
+      ],
+      "LongPlayback": [
+        "Amazon",
+        "Disney",
+        "Live",
+        "Netflix",
+        "VOD",
+        "Youtube",
+        "nPVR"
+      ],
+      "Environmental": [
+        "BT Validation",
+        "Device Health Status",
+        "Network Validation",
+        "Technical & System Integration"
+      ]
+    },
+    "PT": {
+      "CT": [
+        "Amazon",
+        "Catchup",
+        "Disney",
+        "Guide_Navigation",
+        "HBO",
+        "MiniPI To ExtendedPI",
+        "Netflix",
+        "Pause_Resume",
+        "Random_Zapping",
+        "Rewind_Playback",
+        "StartOver",
+        "TLM Launch Via Hotkey",
+        "TLM_Navigation",
+        "TVGuide Loadtime",
+        "Tune Live TV Via TVGuide",
+        "VOD",
+        "Wakeup From Standby",
+        "Youtube",
+        "nPVR"
+      ],
+      "LongPlayback": [
+        "Amazon",
+        "Catchup",
+        "Disney",
+        "HBO",
+        "Live",
+        "Netflix",
+        "VOD",
+        "Youtube",
+        "nPVR"
+      ],
+      "Environmental": [
+        "BT Validation",
+        "Device Health Status",
+        "Network Validation",
+        "Technical & System Integration"
+      ]
+    },
+    "GR": {
+      "CT": [
+        "Amazon",
+        "Catchup",
+        "Disney",
+        "Guide_Navigation",
+        "MiniPI To ExtendedPI",
+        "Netflix",
+        "Pause_Resume",
+        "Random_Zapping",
+        "Rewind_Playback",
+        "StartOver",
+        "TLM Launch Via Hotkey",
+        "TLM_Navigation",
+        "TVGuide Loadtime",
+        "Tune Live TV Via TVGuide",
+        "Tune Live TV Via TVGuide_GR_DTT",
+        "Tune Live TV Via TVGuide_GR_MCAST_To_DTT",
+        "VOD",
+        "Wakeup From Standby",
+        "Youtube",
+        "nPVR"
+      ],
+      "LongPlayback": [
+        "Amazon",
+        "Catchup",
+        "Disney",
+        "Live",
+        "Netflix",
+        "VOD",
+        "Youtube",
+        "nPVR"
+      ],
+      "Environmental": [
+        "BT Validation",
+        "Device Health Status",
+        "Network Validation",
+        "Technical & System Integration"
+      ]
+    },
+    "AL": {
+      "CT": [
+        "Amazon",
+        "Catchup",
+        "Disney",
+        "Guide_Navigation",
+        "MiniPI To ExtendedPI",
+        "Pause_Resume",
+        "Random_Zapping",
+        "Rewind_Playback",
+        "StartOver",
+        "TLM Launch Via Hotkey",
+        "TLM_Navigation",
+        "TVGuide Loadtime",
+        "Tune Live TV Via TVGuide",
+        "VOD",
+        "Wakeup From Standby",
+        "Youtube",
+        "nPVR"
+      ],
+      "LongPlayback": [
+        "Amazon",
+        "Catchup",
+        "Disney",
+        "Live",
+        "VOD",
+        "Youtube",
+        "nPVR"
+      ],
+      "Environmental": [
+        "BT Validation",
+        "Device Health Status",
+        "Network Validation",
+        "Technical & System Integration"
+      ]
+    }
+  },
+  "BlockedScenarios": {
+    "CZ": {
+      "CT": [
+        "DAZN",
+        "Media Library",
+        "Netflix"
+      ],
+      "LongPlayback": [
+        "Netflix"
+      ],
+      "Environmental": []
+    },
+    "IE": {
+      "CT": [
+        "DAZN",
+        "HBO",
+        "Media Library",
+        "VOD"
+      ],
+      "LongPlayback": [
+        "HBO",
+        "VOD"
+      ],
+      "Environmental": []
+    },
+    "ES": {
+      "CT": [
+        "DAZN",
+        "Media Library"
+      ],
+      "LongPlayback": [],
+      "Environmental": []
+    },
+    "DE": {
+      "CT": [
+        "Catchup",
+        "HBO"
+      ],
+      "LongPlayback": [
+        "Catchup",
+        "HBO"
+      ],
+      "Environmental": []
+    },
+    "PT": {
+      "CT": [
+        "DAZN",
+        "Media Library"
+      ],
+      "LongPlayback": [],
+      "Environmental": []
+    },
+    "GR": {
+      "CT": [
+        "DAZN",
+        "HBO",
+        "Media Library"
+      ],
+      "LongPlayback": [
+        "HBO"
+      ],
+      "Environmental": []
+    },
+    "AL": {
+      "CT": [
+        "DAZN",
+        "HBO",
+        "Media Library",
+        "Netflix"
+      ],
+      "LongPlayback": [
+        "HBO",
+        "Netflix"
+      ],
+      "Environmental": []
+    }
+  },
+  "Zapping": {
+    "DE_DVBC": [
+      "DE_DVBC_Zap_CH_Number",
+      "DE_DVBC_Zap_CH_Plus",
+      "DE_Fast_Channel_Zap_CH_Number",
+      "DE_Fast_Channel_Zap_CH_Plus_CT",
+      "DE_Radio_Channel_Zap_CH_Number"
+    ],
+    "DE_OTT": [
+      "DE_Fast_Channel_Zap_CH_Number",
+      "DE_Fast_Channel_Zap_CH_Plus_CT",
+      "DE_OTT_Zap_CH_Number",
+      "DE_OTT_Zap_CH_Plus"
+    ],
+    "CZ_DVBC": [
+      "CZ_DVBC_Zap_CH_Number",
+      "CZ_DVBC_Zap_CH_Plus",
+      "CZ_Fast_Channel_Zap_CH_Number",
+      "CZ_Radio_Channel_Zap_CH_Number"
+    ],
+    "CZ_OTT": [
+      "CZ_OTT_Zap_CH_Number",
+      "CZ_OTT_Zap_CH_Plus"
+    ],
+    "ES_HFC": [
+      "ES_DVBC_HFC_Fast_Channel_Zap_CH_Plus_CT",
+      "ES_DVBC_HFC_Zap_CH_Number",
+      "ES_DVBC_HFC_Zap_CH_Plus",
+      "ES_HFC_Fast_Channel_Zap_CH_Number"
+    ],
+    "ES_FTTH": [
+      "ES_FTTH_Fast_Channel_Zap_CH_Number",
+      "ES_MCAST_FTTH_Fast_Channel_Zap_CH_Plus_CT",
+      "ES_MCAST_FTTH_Zap_CH_Number",
+      "ES_MCAST_FTTH_Zap_CH_Plus"
+    ],
+    "ES_NEBA": [
+      "ES_NEBA_Fast_Channel_Zap_CH_Number",
+      "ES_OTT_NEBA_Fast_Channel_Zap_CH_Plus_CT",
+      "ES_OTT_NEBA_Zap_CH_Number",
+      "ES_OTT_NEBA_Zap_CH_Plus"
+    ],
+    "PT_MCAST": [
+      "PT_MCAST_Zap_CH_Number",
+      "PT_MCAST_Zap_CH_Plus"
+    ],
+    "IE_MCAST": [
+      "IE_MCAST_Zap_CH_Number",
+      "IE_MCAST_Zap_CH_Plus_CT"
+    ],
+    "GR_MCAST": [
+      "GR_DTT_Zap_CH_Number_CT",
+      "GR_DTT_Zap_CH_Plus_CT",
+      "GR_MCAST_Zap_CH_Number_CT",
+      "GR_MCAST_Zap_CH_Plus_CT"
+    ],
+    "AL_DVBC": [
+      "AL_DVBC_Zap_CH_Number",
+      "AL_DVBC_Zap_CH_Plus"
+    ]
+  }
+}
