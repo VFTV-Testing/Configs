@@ -234,7 +234,6 @@
     },
     "AL": {
       "CT": [
-        "Amazon",
         "Catchup",
         "Disney",
         "Guide_Navigation",
@@ -335,6 +334,7 @@
     "AL": {
       "CT": [
         "DAZN",
+        "Amazon",
         "HBO",
         "Media Library",
         "Netflix"
