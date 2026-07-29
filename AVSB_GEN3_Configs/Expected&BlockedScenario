@@ -233,32 +233,8 @@
       ]
     },
     "AL": {
-      "CT": [
-        "Catchup",
-        "Disney",
-        "Guide_Navigation",
-        "MiniPI To ExtendedPI",
-        "Pause_Resume",
-        "Random_Zapping",
-        "Rewind_Playback",
-        "StartOver",
-        "TLM Launch Via Hotkey",
-        "TLM_Navigation",
-        "TVGuide Loadtime",
-        "Tune Live TV Via TVGuide",
-        "VOD",
-        "Wakeup From Standby",
-        "Youtube",
-        "nPVR"
-      ],
-      "LongPlayback": [
-        "Catchup",
-        "Disney",
-        "Live",
-        "VOD",
-        "Youtube",
-        "nPVR"
-      ],
+      "CT": [],
+      "LongPlayback": [],
       "Environmental": [
         "BT Validation",
         "Device Health Status",
@@ -401,9 +377,6 @@
       "GR_MCAST_Zap_CH_Number_CT",
       "GR_MCAST_Zap_CH_Plus_CT"
     ],
-    "AL_DVBC": [
-      "AL_DVBC_Zap_CH_Number",
-      "AL_DVBC_Zap_CH_Plus"
-    ]
+    "AL_DVBC": []
   }
 }
