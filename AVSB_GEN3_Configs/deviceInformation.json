@@ -64,18 +64,18 @@
         "Country": "DE_DVBC"
     },
     "X104-GER-PORT1-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
-        "sprintNo": "62.01+432604.046.00120",
-        "Cver": "0.62.01",
+        "sprintNo": "62.02+432604.046.00120",
+        "Cver": "0.62.02",
         "firmwareVersion": "432604.046.00120",
-        "appVersion": "0.62.01",
+        "appVersion": "0.62.02",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
     "X104-GER-PORT2-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
-        "sprintNo": "62.01+432604.046.00120",
-        "Cver": "0.62.01",
+        "sprintNo": "62.02+432604.046.00120",
+        "Cver": "0.62.02",
         "firmwareVersion": "432604.046.00120",
-        "appVersion": "0.62.01",
+        "appVersion": "0.62.02",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
@@ -320,34 +320,34 @@
         "Country": "ES_FTTH"
     },
     "X114-GER-PORT1-GEN4_SGM-FUT-DE_PROD-DVBC": {
-        "sprintNo": "62.01+432604.046.00120",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+432604.046.00120",
+        "Cver": "0.64.00",
         "firmwareVersion": "432604.046.00120",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
     "X114-GER-PORT2-GEN4_SGM-FUT-DE_PROD-DVBC": {
-        "sprintNo": "62.01+432604.046.00120",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+432604.046.00120",
+        "Cver": "0.64.00",
         "firmwareVersion": "432604.046.00120",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
     "X114-GER-PORT3-GEN4_SGM-FUT-DE_PROD-DVBC": {
-        "sprintNo": "62.01+432604.046.00120",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+432604.046.00120",
+        "Cver": "0.64.00",
         "firmwareVersion": "432604.046.00120",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
     "X114-GER-PORT4-GEN4_SGM-FUT-DE_PROD-DVBC": {
-        "sprintNo": "62.01+432604.046.00120",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+432604.046.00120",
+        "Cver": "0.64.00",
         "firmwareVersion": "432604.046.00120",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
@@ -392,26 +392,26 @@
         "Country": "DE_OTT"
     },
     "X116-GER-PORT2-GEN4_SGM-FUT-DE_PROD-OTT": {
-        "sprintNo": "62.01+432604.046.00120",
-        "Cver": "0.62.01",
+        "sprintNo": "62.02+432604.046.00120",
+        "Cver": "0.62.02",
         "firmwareVersion": "432604.046.00120",
-        "appVersion": "0.62.01",
+        "appVersion": "0.62.02",
         "Hardware": "GEN4_SGM",
         "Country": "DE_OTT"
     },
     "X116-GER-PORT3-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-OTT": {
-        "sprintNo": "62.01+432604.046.00120",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+432604.046.00120",
+        "Cver": "0.64.00",
         "firmwareVersion": "432604.046.00120",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_OTT"
     },
     "X116-GER-PORT4-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
-        "sprintNo": "62.01+432604.046.00120",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+432604.046.00120",
+        "Cver": "0.64.00",
         "firmwareVersion": "432604.046.00120",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
