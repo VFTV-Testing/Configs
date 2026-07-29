@@ -32,26 +32,26 @@
         "Country": "DE_DVBC"
     },
     "X102-GER-PORT1-GEN3-MP-DE_PROD-DVBC": {
-        "sprintNo": "62.01+4.2602.26",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+4.2602.26",
+        "Cver": "0.64.00",
         "firmwareVersion": "4.2602.26",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "GEN3",
         "Country": "DE_DVBC"
     },
     "X102-GER-PORT2-GEN3-MP-DE_PROD-DVBC": {
-        "sprintNo": "62.01+4.2602.26",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+4.2602.26",
+        "Cver": "0.64.00",
         "firmwareVersion": "4.2602.26",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "GEN3",
         "Country": "DE_DVBC"
     },
     "X102-GER-PORT3-AVSB-MP-DE_PROD-DVBC": {
-        "sprintNo": "62.01+2.2405.170",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+2.2405.170",
+        "Cver": "0.64.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
@@ -80,10 +80,10 @@
         "Country": "DE_DVBC"
     },
     "X104-GER-PORT3-AVSB-FUT-DE_PROD-DVBC": {
-        "sprintNo": "62.01+4.2602.26",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+4.2602.26",
+        "Cver": "0.64.00",
         "firmwareVersion": "4.2602.26",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
@@ -480,26 +480,26 @@
         "Country": "CZ_OTT"
     },
     "X119-GER-PORT1-GEN3-FUT-DE_PROD-DVBC": {
-        "sprintNo": "62.01+2.2405.170",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+2.2405.170",
+        "Cver": "0.64.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "GEN3",
         "Country": "DE_DVBC"
     },
     "X119-GER-PORT2-AVSB-FUT-DE_PROD-DVBC": {
-        "sprintNo": "62.01+2.2405.170",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+2.2405.170",
+        "Cver": "0.64.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
     "X119-GER-PORT3-GEN3-FUT_EMMC-DE_PROD-DVBC": {
-        "sprintNo": "62.01+2.2405.170",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+2.2405.170",
+        "Cver": "0.64.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "GEN3",
         "Country": "DE_DVBC"
     },
