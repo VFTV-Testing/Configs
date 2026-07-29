@@ -416,10 +416,10 @@
         "Country": "DE_DVBC"
     },
     "X117-AL-PORT1-GEN4_SGM-FUT-AL_PROD-DVBC": {
-        "sprintNo": "62.00+4.2502.174",
-        "Cver": "0.62.00",
+        "sprintNo": "64.00+4.2502.174",
+        "Cver": "0.64.00",
         "firmwareVersion": "4.2502.174",
-        "appVersion": "0.62.00",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_SGM",
         "Country": "AL_DVBC"
     },
@@ -432,10 +432,10 @@
         "Country": "AL_DVBC"
     },
     "X117-AL-PORT3-GEN4_SGM-FUT-AL_PROD-DVBC": {
-        "sprintNo": "62.00+4.2502.174",
-        "Cver": "0.62.00",
+        "sprintNo": "64.00+4.2502.174",
+        "Cver": "0.64.00",
         "firmwareVersion": "4.2502.174",
-        "appVersion": "0.62.00",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_SGM",
         "Country": "AL_DVBC"
     },
@@ -512,34 +512,34 @@
         "Country": "DE_OTT"
     },
     "X120-POR-PORT1-GEN4_SGM-FUT-PT_PROD-MCAST": {
-        "sprintNo": "63.00+442602.046.00110",
-        "Cver": "0.63.00",
+        "sprintNo": "64.00+442602.046.00110",
+        "Cver": "0.64.00",
         "firmwareVersion": "442602.046.00110",
-        "appVersion": "0.63.00",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_SGM",
         "Country": "PT_MCAST"
     },
     "X120-POR-PORT2-GEN4_SGM-FUT_LPDDR4GB-PT_PROD-MCAST": {
-        "sprintNo": "63.00+442602.046.00110",
-        "Cver": "0.63.00",
+        "sprintNo": "64.00+442602.046.00110",
+        "Cver": "0.64.00",
         "firmwareVersion": "442602.046.00110",
-        "appVersion": "0.63.00",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_SGM",
         "Country": "PT_MCAST"
     },
     "X120-POR-PORT3-GEN4_SGM-FUT-PT_PROD-MCAST": {
-        "sprintNo": "63.00+442602.046.00110",
-        "Cver": "0.63.00",
+        "sprintNo": "64.00+442602.046.00110",
+        "Cver": "0.64.00",
         "firmwareVersion": "442602.046.00110",
-        "appVersion": "0.63.00",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_SGM",
         "Country": "PT_MCAST"
     },
     "X120-POR-PORT4-GEN4_SGM-FUT_LPDDR4GB-PT_PROD-MCAST": {
-        "sprintNo": "63.00+442602.046.00110",
-        "Cver": "0.63.00",
+        "sprintNo": "64.00+442602.046.00110",
+        "Cver": "0.64.00",
         "firmwareVersion": "442602.046.00110",
-        "appVersion": "0.63.00",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_SGM",
         "Country": "PT_MCAST"
     },
