@@ -192,10 +192,10 @@
         "Country": "PT_MCAST"
     },
     "X109-CZ-PORT1-GEN3-FUT-CZ_PROD-DVBC": {
-        "sprintNo": "62.00+4.2602.26",
-        "Cver": "0.62.00",
+        "sprintNo": "64.00+4.2602.26",
+        "Cver": "0.64.00",
         "firmwareVersion": "4.2602.26",
-        "appVersion": "0.62.00",
+        "appVersion": "0.64.00",
         "Hardware": "GEN3",
         "Country": "CZ_DVBC"
     },
