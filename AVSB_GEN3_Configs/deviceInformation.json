@@ -88,10 +88,10 @@
         "Country": "DE_DVBC"
     },
     "X104-GER-PORT4-AVSB-FUT_EMMC_Western-DE_PROD-DVBC": {
-        "sprintNo": "62.01+4.2602.26",
-        "Cver": "0.62.01",
+        "sprintNo": "62.02+4.2602.26",
+        "Cver": "0.62.02",
         "firmwareVersion": "4.2602.26",
-        "appVersion": "0.62.01",
+        "appVersion": "0.62.02",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
