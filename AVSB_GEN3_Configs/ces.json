@@ -698,6 +698,7 @@
 "NetflixConcurrency":"Too many people",
 "SystemSettingsRestart": "Restartovat",
 "RecordAggregation" : "Nahrávka",
+"RecordAggregation2" : "Nahrávka",
 "RecordAggregationPoPUpSingleEpisode" : "Nahrát epizodu",
 "RecordAggregationPoPUpSeries" : "Nahrát sérii",
 "CancelRecordingAggregation" : "Zrušit",
