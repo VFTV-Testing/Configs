@@ -216,10 +216,10 @@
         "Country": "CZ_DVBC"
     },
     "X109-CZ-PORT4-GEN4_Mini_ZTE-ALPHA-CZ_PROD-OTT": {
-        "sprintNo": "62.01+4.2603.32",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+4.2603.32",
+        "Cver": "0.64.00",
         "firmwareVersion": "4.2603.32",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_Mini_ZTE",
         "Country": "CZ_OTT"
     },
@@ -472,10 +472,10 @@
         "Country": "CZ_DVBC"
     },
     "X118-CZ-PORT4-GEN4_Mini_ZTE-ALPHA-CZ_PROD-OTT": {
-        "sprintNo": "62.01+4.2603.32",
-        "Cver": "0.62.01",
+        "sprintNo": "64.00+4.2603.32",
+        "Cver": "0.64.00",
         "firmwareVersion": "4.2603.32",
-        "appVersion": "0.62.01",
+        "appVersion": "0.64.00",
         "Hardware": "GEN4_Mini_ZTE",
         "Country": "CZ_OTT"
     },
