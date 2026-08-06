@@ -98,7 +98,7 @@
     "X106-IE-PORT1-AVSB-FUT-IE_PROD-MCAST": {
         "sprintNo": "64.00+422606.058.00106",
         "Cver": "0.64.00",
-        "firmwareVersion": "4.2602.26",
+        "firmwareVersion": "422606.058.00106",
         "appVersion": "0.64.00",
         "Hardware": "AVSB",
         "Country": "IE_MCAST"
@@ -106,7 +106,7 @@
     "X106-IE-PORT2-AVSB-FUT-IE_PROD-MCAST": {
         "sprintNo": "64.00+422606.058.00106",
         "Cver": "0.64.00",
-        "firmwareVersion": "2.2405.170",
+        "firmwareVersion": "422606.058.00106",
         "appVersion": "0.64.00",
         "Hardware": "AVSB",
         "Country": "IE_MCAST"
@@ -114,7 +114,7 @@
     "X106-IE-PORT3-AVSB-FUT-IE_PROD-MCAST": {
         "sprintNo": "64.00+422606.058.00106",
         "Cver": "0.64.00",
-        "firmwareVersion": "2.2405.170",
+        "firmwareVersion": "422606.058.00106",
         "appVersion": "0.64.00",
         "Hardware": "AVSB",
         "Country": "IE_MCAST"
@@ -122,7 +122,7 @@
     "X106-IE-PORT4-AVSB-FUT-IE_PROD-MCAST": {
         "sprintNo": "64.00+422606.058.00106",
         "Cver": "0.64.00",
-        "firmwareVersion": "2.2405.170",
+        "firmwareVersion": "422606.058.00106",
         "appVersion": "0.64.00",
         "Hardware": "AVSB",
         "Country": "IE_MCAST"
