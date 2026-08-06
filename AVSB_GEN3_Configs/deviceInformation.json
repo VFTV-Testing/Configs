@@ -424,9 +424,9 @@
         "Country": "AL_DVBC"
     },
     "X117-AL-PORT2-GEN3-MP-AL_PROD-DVBC": {
-        "sprintNo": "64.00+2.2405.170",
+        "sprintNo": "64.00+412606.058.00106",
         "Cver": "0.64.00",
-        "firmwareVersion": "2.2405.170",
+        "firmwareVersion": "412606.058.00106",
         "appVersion": "0.64.00",
         "Hardware": "GEN3",
         "Country": "AL_DVBC"
