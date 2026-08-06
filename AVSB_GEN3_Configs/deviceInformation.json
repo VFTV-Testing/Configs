@@ -32,25 +32,25 @@
         "Country": "DE_DVBC"
     },
     "X102-GER-PORT1-GEN3-MP-DE_PROD-DVBC": {
-        "sprintNo": "64.00+4.2602.26",
+        "sprintNo": "64.00+412606.058.00106",
         "Cver": "0.64.00",
-        "firmwareVersion": "4.2602.26",
+        "firmwareVersion": "412606.058.00106",
         "appVersion": "0.64.00",
         "Hardware": "GEN3",
         "Country": "DE_DVBC"
     },
     "X102-GER-PORT2-GEN3-MP-DE_PROD-DVBC": {
-        "sprintNo": "64.00+4.2602.26",
+        "sprintNo": "64.00+412606.058.00106",
         "Cver": "0.64.00",
-        "firmwareVersion": "4.2602.26",
+        "firmwareVersion": "412606.058.00106",
         "appVersion": "0.64.00",
         "Hardware": "GEN3",
         "Country": "DE_DVBC"
     },
     "X102-GER-PORT3-AVSB-MP-DE_PROD-DVBC": {
-        "sprintNo": "64.00+2.2405.170",
+        "sprintNo": "64.00+412606.058.00106",
         "Cver": "0.64.00",
-        "firmwareVersion": "2.2405.170",
+        "firmwareVersion": "412606.058.00106",
         "appVersion": "0.64.00",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
@@ -80,9 +80,9 @@
         "Country": "DE_DVBC"
     },
     "X104-GER-PORT3-AVSB-FUT-DE_PROD-DVBC": {
-        "sprintNo": "64.00+4.2602.26",
+        "sprintNo": "64.00+412606.058.00106",
         "Cver": "0.64.00",
-        "firmwareVersion": "4.2602.26",
+        "firmwareVersion": "412606.058.00106",
         "appVersion": "0.64.00",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
