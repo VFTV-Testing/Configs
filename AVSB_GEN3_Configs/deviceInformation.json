@@ -1,8 +1,8 @@
 {
     "X101-GER-PORT1-AVSB-FUT_EMMC_Rayson-DE_PROD-DVBC": {
-        "sprintNo": "62.02+2.2405.170",
+        "sprintNo": "62.02+412606.058.00106",
         "Cver": "0.62.02",
-        "firmwareVersion": "2.2405.170",
+        "firmwareVersion": "412606.058.00106",
         "appVersion": "0.62.02",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
@@ -24,9 +24,9 @@
         "Country": "DE_OTT"
     },
     "X101-GER-PORT4-GEN3-FUT-DE_PROD-DVBC": {
-        "sprintNo": "62.02+2.2405.170",
+        "sprintNo": "62.02+412606.058.00106",
         "Cver": "0.62.02",
-        "firmwareVersion": "2.2405.170",
+        "firmwareVersion": "412606.058.00106",
         "appVersion": "0.62.02",
         "Hardware": "GEN3",
         "Country": "DE_DVBC"
