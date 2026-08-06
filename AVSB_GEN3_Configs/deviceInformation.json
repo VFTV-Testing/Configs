@@ -128,9 +128,9 @@
         "Country": "IE_MCAST"
     },
     "X107-POR-PORT1-AVSB-FUT-PT_PROD-MCAST": {
-        "sprintNo": "64.00+4.2602.26",
+        "sprintNo": "64.00+422606.058.00106",
         "Cver": "0.64.00",
-        "firmwareVersion": "4.2602.26",
+        "firmwareVersion": "422606.058.00106",
         "appVersion": "0.64.00",
         "Hardware": "AVSB",
         "Country": "PT_MCAST"
@@ -144,25 +144,25 @@
         "Country": "PT_MCAST"
     },
     "X107-POR-PORT3-AVSB-FUT-PT_PROD-MCAST": {
-        "sprintNo": "64.00+2.2405.170",
+        "sprintNo": "64.00+422606.058.00106",
         "Cver": "0.64.00",
-        "firmwareVersion": "2.2405.170",
+        "firmwareVersion": "422606.058.00106",
         "appVersion": "0.64.00",
         "Hardware": "AVSB",
         "Country": "PT_MCAST"
     },
     "X107-POR-PORT4-GEN3-FUT-PT_PROD-MCAST": {
-        "sprintNo": "64.00+4.2602.26",
+        "sprintNo": "64.00+412606.058.00106",
         "Cver": "0.64.00",
-        "firmwareVersion": "4.2602.26",
+        "firmwareVersion": "412606.058.00106",
         "appVersion": "0.64.00",
         "Hardware": "GEN3",
         "Country": "PT_MCAST"
     },
     "X108-POR-PORT1-GEN3-FUT-PT_PROD-MCAST": {
-        "sprintNo": "64.00+2.2405.170",
+        "sprintNo": "64.00+412606.058.00106",
         "Cver": "0.64.00",
-        "firmwareVersion": "2.2405.170",
+        "firmwareVersion": "412606.058.00106",
         "appVersion": "0.64.00",
         "Hardware": "GEN3",
         "Country": "PT_MCAST"
