@@ -96,7 +96,7 @@
         "Country": "DE_DVBC"
     },
     "X106-IE-PORT1-AVSB-FUT-IE_PROD-MCAST": {
-        "sprintNo": "64.00+4.2602.26",
+        "sprintNo": "64.00+422606.058.00106",
         "Cver": "0.64.00",
         "firmwareVersion": "4.2602.26",
         "appVersion": "0.64.00",
@@ -104,7 +104,7 @@
         "Country": "IE_MCAST"
     },
     "X106-IE-PORT2-AVSB-FUT-IE_PROD-MCAST": {
-        "sprintNo": "64.00+2.2405.170",
+        "sprintNo": "64.00+422606.058.00106",
         "Cver": "0.64.00",
         "firmwareVersion": "2.2405.170",
         "appVersion": "0.64.00",
@@ -112,7 +112,7 @@
         "Country": "IE_MCAST"
     },
     "X106-IE-PORT3-AVSB-FUT-IE_PROD-MCAST": {
-        "sprintNo": "64.00+2.2405.170",
+        "sprintNo": "64.00+422606.058.00106",
         "Cver": "0.64.00",
         "firmwareVersion": "2.2405.170",
         "appVersion": "0.64.00",
@@ -120,7 +120,7 @@
         "Country": "IE_MCAST"
     },
     "X106-IE-PORT4-AVSB-FUT-IE_PROD-MCAST": {
-        "sprintNo": "64.00+2.2405.170",
+        "sprintNo": "64.00+422606.058.00106",
         "Cver": "0.64.00",
         "firmwareVersion": "2.2405.170",
         "appVersion": "0.64.00",
