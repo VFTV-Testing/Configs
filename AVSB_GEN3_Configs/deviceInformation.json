@@ -1,9 +1,9 @@
 {
     "X101-GER-PORT1-AVSB-FUT_EMMC_Rayson-DE_PROD-DVBC": {
-        "sprintNo": "64.00+422606.058.00106",
-        "Cver": "0.64.00",
+        "sprintNo": "64.01+422606.058.00106",
+        "Cver": "0.64.01",
         "firmwareVersion": "422606.058.00106",
-        "appVersion": "0.64.00",
+        "appVersion": "0.64.01",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
@@ -24,34 +24,34 @@
         "Country": "DE_OTT"
     },
     "X101-GER-PORT4-GEN3-FUT-DE_PROD-DVBC": {
-        "sprintNo": "64.00+412606.058.00106",
-        "Cver": "0.64.00",
+        "sprintNo": "64.01+412606.058.00106",
+        "Cver": "0.64.01",
         "firmwareVersion": "412606.058.00106",
-        "appVersion": "0.64.00",
+        "appVersion": "0.64.01",
         "Hardware": "GEN3",
         "Country": "DE_DVBC"
     },
     "X102-GER-PORT1-GEN3-MP-DE_PROD-DVBC": {
-        "sprintNo": "64.00+412606.058.00106",
-        "Cver": "0.64.00",
+        "sprintNo": "64.01+412606.058.00106",
+        "Cver": "0.64.01",
         "firmwareVersion": "412606.058.00106",
-        "appVersion": "0.64.00",
+        "appVersion": "0.64.01",
         "Hardware": "GEN3",
         "Country": "DE_DVBC"
     },
     "X102-GER-PORT2-GEN3-MP-DE_PROD-DVBC": {
-        "sprintNo": "64.00+412606.058.00106",
-        "Cver": "0.64.00",
+        "sprintNo": "64.01+412606.058.00106",
+        "Cver": "0.64.01",
         "firmwareVersion": "412606.058.00106",
-        "appVersion": "0.64.00",
+        "appVersion": "0.64.01",
         "Hardware": "GEN3",
         "Country": "DE_DVBC"
     },
     "X102-GER-PORT3-AVSB-MP-DE_PROD-DVBC": {
-        "sprintNo": "64.00+422606.058.00106",
-        "Cver": "0.64.00",
+        "sprintNo": "64.01+422606.058.00106",
+        "Cver": "0.64.01",
         "firmwareVersion": "422606.058.00106",
-        "appVersion": "0.64.00",
+        "appVersion": "0.64.01",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
@@ -80,10 +80,10 @@
         "Country": "DE_DVBC"
     },
     "X104-GER-PORT3-AVSB-FUT-DE_PROD-DVBC": {
-        "sprintNo": "64.00+422606.058.00106",
-        "Cver": "0.64.00",
+        "sprintNo": "64.01+422606.058.00106",
+        "Cver": "0.64.01",
         "firmwareVersion": "422606.058.00106",
-        "appVersion": "0.64.00",
+        "appVersion": "0.64.01",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
