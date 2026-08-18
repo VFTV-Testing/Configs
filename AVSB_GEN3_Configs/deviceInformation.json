@@ -384,10 +384,10 @@
         "Country": "GR_MCAST"
     },
     "X116-GER-PORT1-GEN3-MP-DE_PROD-OTT": {
-        "sprintNo": "64.00+412606.058.00106",
-        "Cver": "0.64.00",
+        "sprintNo": "64.01+412606.058.00106",
+        "Cver": "0.64.01",
         "firmwareVersion": "412606.058.00106",
-        "appVersion": "0.64.00",
+        "appVersion": "0.64.01",
         "Hardware": "GEN3",
         "Country": "DE_OTT"
     },
@@ -504,10 +504,10 @@
         "Country": "DE_DVBC"
     },
     "X119-GER-PORT4-GEN3-FUT_EMMC-DE_PROD-OTT": {
-        "sprintNo": "64.00+2.2405.170",
-        "Cver": "0.64.00",
+        "sprintNo": "64.01+2.2405.170",
+        "Cver": "0.64.01",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.64.00",
+        "appVersion": "0.64.01",
         "Hardware": "GEN3",
         "Country": "DE_OTT"
     },
