@@ -589,6 +589,7 @@
 "lastWeekRecordings" : "Minulý týden",
 "lastWeekRecording" : "Minulý týden",
 "SeasonNo":"s",
+"SeasonNo1": "Serie", 
 "EpisodeNo":"Epizoda",
 "Allow":"Allow",
 "AllowADB" : "POVOLIT",    
