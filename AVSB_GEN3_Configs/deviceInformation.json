@@ -192,18 +192,18 @@
         "Country": "PT_MCAST"
     },
     "X109-CZ-PORT1-GEN3-FUT-CZ_PROD-DVBC": {
-        "sprintNo": "64.01+412606.058.00106",
-        "Cver": "0.64.01",
+        "sprintNo": "65.00+412606.058.00106",
+        "Cver": "0.65.00",
         "firmwareVersion": "412606.058.00106",
-        "appVersion": "0.64.01",
+        "appVersion": "0.60.00",
         "Hardware": "GEN3",
         "Country": "CZ_DVBC"
     },
     "X109-CZ-PORT2-GEN3-FUT-CZ_PROD-DVBC": {
-        "sprintNo": "64.01+412606.058.00106",
-        "Cver": "0.64.01",
+        "sprintNo": "65.00+412606.058.00106",
+        "Cver": "0.65.00",
         "firmwareVersion": "412606.058.00106",
-        "appVersion": "0.64.01",
+        "appVersion": "0.65.00",
         "Hardware": "GEN3",
         "Country": "CZ_DVBC"
     },
@@ -448,18 +448,18 @@
         "Country": "AL_DVBC"
     },
     "X118-CZ-PORT1-AVSB-FUT-CZ_PROD-DVBC": {
-        "sprintNo": "64.01+422606.058.00106",
-        "Cver": "0.64.01",
+        "sprintNo": "65.00+422606.058.00106",
+        "Cver": "0.65.00",
         "firmwareVersion": "422606.058.00106",
-        "appVersion": "0.64.01",
+        "appVersion": "0.65.00",
         "Hardware": "AVSB",
         "Country": "CZ_DVBC"
     },
     "X118-CZ-PORT2-AVSB-FUT-CZ_PROD-DVBC": {
-        "sprintNo": "64.01+422606.058.00106",
-        "Cver": "0.64.01",
+        "sprintNo": "65.00+422606.058.00106",
+        "Cver": "0.65.00",
         "firmwareVersion": "422606.058.00106",
-        "appVersion": "0.64.01",
+        "appVersion": "0.65.00",
         "Hardware": "AVSB",
         "Country": "CZ_DVBC"
     },
