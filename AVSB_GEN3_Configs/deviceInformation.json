@@ -1,9 +1,9 @@
 {
     "X101-GER-PORT1-AVSB-FUT_EMMC_Rayson-DE_PROD-DVBC": {
-        "sprintNo": "64.01+422606.058.00106",
-        "Cver": "0.64.01",
+        "sprintNo": "65.00+422606.058.00106",
+        "Cver": "0.65.00",
         "firmwareVersion": "422606.058.00106",
-        "appVersion": "0.64.01",
+        "appVersion": "0.65.00",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
@@ -48,10 +48,10 @@
         "Country": "DE_DVBC"
     },
     "X102-GER-PORT3-AVSB-MP-DE_PROD-DVBC": {
-        "sprintNo": "64.01+422606.058.00106",
-        "Cver": "0.64.01",
+        "sprintNo": "65.00+422606.058.00106",
+        "Cver": "0.65.00",
         "firmwareVersion": "422606.058.00106",
-        "appVersion": "0.64.01",
+        "appVersion": "0.65.00",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
@@ -80,10 +80,10 @@
         "Country": "DE_DVBC"
     },
     "X104-GER-PORT3-AVSB-FUT-DE_PROD-DVBC": {
-        "sprintNo": "64.01+422606.058.00106",
-        "Cver": "0.64.01",
+        "sprintNo": "65.00+422606.058.00106",
+        "Cver": "0.65.00",
         "firmwareVersion": "422606.058.00106",
-        "appVersion": "0.64.01",
+        "appVersion": "0.65.00",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
