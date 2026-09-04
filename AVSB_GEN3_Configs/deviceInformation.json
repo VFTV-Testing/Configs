@@ -472,9 +472,9 @@
         "Country": "CZ_DVBC"
     },
     "X118-CZ-PORT4-GEN4_Mini_ZTE-FUT-CZ_PROD-OTT": {
-        "sprintNo": "64.02+4.2603.37",
+        "sprintNo": "64.02+4.2603.40",
         "Cver": "0.64.02",
-        "firmwareVersion": "4.2603.37",
+        "firmwareVersion": "4.2603.40",
         "appVersion": "0.64.02",
         "Hardware": "GEN4_Mini_ZTE",
         "Country": "CZ_OTT"
