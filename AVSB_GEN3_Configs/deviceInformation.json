@@ -568,7 +568,7 @@
         "Country": "IE_MCAST"
     },
     "X121-IE-PORT4-AVSB-FUT-IE_PROD-MCAST": {
-        "sprintNo": "64.01+2.2405.170",
+        "sprintNo": "TEST",
         "Cver": "0.64.01",
         "firmwareVersion": "2.2405.170",
         "appVersion": "0.64.01",
