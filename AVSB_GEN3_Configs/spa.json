@@ -47,6 +47,7 @@
 "CancelSingleRecordingNotification": "Se ha cancelado la grabación de la individuales",
 "RecordingFailed": "No se pudo programar la grabación",
 "RecordingScheduled": "Grabaciones programdas",
+"MenuMyTVScheduledRecordings": "programdas",
 "Recording": "Grabaciones",
 "MenuMyTVRecordingDeletedRecordings": "Borrar la serie",
 "MenuMyTVRecordingDelete":"Borrar",
