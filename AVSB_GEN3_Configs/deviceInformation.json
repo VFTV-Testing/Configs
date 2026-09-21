@@ -184,7 +184,7 @@
         "Country": "PT_MCAST"
     },
     "X108-POR-PORT4-GEN3-FUT-PT_PROD-MCAST": {
-        "sprintNo": "64.01+2.2405.170",
+        "sprintNo": "Test",
         "Cver": "0.64.01",
         "firmwareVersion": "2.2405.170",
         "appVersion": "0.64.01",
