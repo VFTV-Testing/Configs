@@ -614,6 +614,7 @@
 "MenuSettingsHDMI":"HDMI",
 "MenuSettingsResolution":"Rozlišení",
 "MenuSettingsDynamicRange":"Rozsah",
+"MenuSettingsAdvanceDynamicRange":"obrazu",
 "Resolution":"1080p 50Hz",
 "DynamicRange":"SDR",
 "MenuSettingConfirmMessageDynamicRange" : "SDR vyžaduje restart",
