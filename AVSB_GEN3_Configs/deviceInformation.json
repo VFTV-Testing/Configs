@@ -97,33 +97,33 @@
     },
     "X106-IE-PORT1-AVSB-FUT-IE_PROD-MCAST": {
         "sprintNo": "66.00+422606.058.00106",
-        "Cver": "0.65.00",
+        "Cver": "0.66.00",
         "firmwareVersion": "422606.058.00106",
-        "appVersion": "0.65.00",
+        "appVersion": "0.66.00",
         "Hardware": "AVSB",
         "Country": "IE_MCAST"
     },
     "X106-IE-PORT2-AVSB-FUT-IE_PROD-MCAST": {
         "sprintNo": "66.00+422606.058.00106",
-        "Cver": "0.65.00",
+        "Cver": "0.66.00",
         "firmwareVersion": "422606.058.00106",
-        "appVersion": "0.65.00",
+        "appVersion": "0.66.00",
         "Hardware": "AVSB",
         "Country": "IE_MCAST"
     },
     "X106-IE-PORT3-AVSB-FUT-IE_PROD-MCAST": {
         "sprintNo": "66.00+422606.058.00106",
-        "Cver": "0.65.00",
+        "Cver": "0.66.00",
         "firmwareVersion": "422606.058.00106",
-        "appVersion": "0.65.00",
+        "appVersion": "0.66.00",
         "Hardware": "AVSB",
         "Country": "IE_MCAST"
     },
     "X106-IE-PORT4-AVSB-FUT-IE_PROD-MCAST": {
         "sprintNo": "66.00+422606.058.00106",
-        "Cver": "0.65.00",
+        "Cver": "0.66.00",
         "firmwareVersion": "422606.058.00106",
-        "appVersion": "0.65.00",
+        "appVersion": "0.66.00",
         "Hardware": "AVSB",
         "Country": "IE_MCAST"
     },
