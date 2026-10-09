@@ -448,9 +448,9 @@
         "Country": "AL_DVBC"
     },
     "X118-CZ-PORT1-AVSB-FUT-CZ_PROD-DVBC": {
-        "sprintNo": "66.00+422606.058.00106",
+        "sprintNo": "66.00+422608.047.00126_EB",
         "Cver": "0.66.00",
-        "firmwareVersion": "422606.058.00106",
+        "firmwareVersion": "422608.047.00126_EB",
         "appVersion": "0.66.00",
         "Hardware": "AVSB",
         "Country": "CZ_DVBC"
