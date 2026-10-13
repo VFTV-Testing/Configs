@@ -194,7 +194,7 @@
     "X109-CZ-PORT1-GEN3-FUT-CZ_PROD-DVBC": {
         "sprintNo": "66.00+412608.047.00126_EB",
         "Cver": "0.66.00",
-        "firmwareVersion": "412608.047.00126",
+        "firmwareVersion": "412608.047.00126_EB",
         "appVersion": "0.66.00",
         "Hardware": "GEN3",
         "Country": "CZ_DVBC"
