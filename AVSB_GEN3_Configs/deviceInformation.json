@@ -416,9 +416,9 @@
         "Country": "DE_DVBC"
     },
     "X117-AL-PORT1-GEN4_SGM-FUT-AL_PROD-DVBC": {
-        "sprintNo": "66.00+4.2502.174",
+        "sprintNo": "66.00+432608.047.00020",
         "Cver": "0.66.00",
-        "firmwareVersion": "4.2502.174",
+        "firmwareVersion": "432608.047.00020",
         "appVersion": "0.66.00",
         "Hardware": "GEN4_SGM",
         "Country": "AL_DVBC"
@@ -432,9 +432,9 @@
         "Country": "AL_DVBC"
     },
     "X117-AL-PORT3-GEN4_SGM-FUT-AL_PROD-DVBC": {
-        "sprintNo": "66.00+4.2502.174",
+        "sprintNo": "66.00+432608.047.00020",
         "Cver": "0.66.00",
-        "firmwareVersion": "4.2502.174",
+        "firmwareVersion": "432608.047.00020",
         "appVersion": "0.66.00",
         "Hardware": "GEN4_SGM",
         "Country": "AL_DVBC"
