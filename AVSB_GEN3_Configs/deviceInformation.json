@@ -175,20 +175,20 @@
         "Hardware": "GEN3",
         "Country": "PT_MCAST"
     },
-    "X108-POR-PORT3-GEN3-FUT-PT_PROD-MCAST": {
-        "sprintNo": "66.00+2.2405.170",
+    "X108-POR-PORT3-GEN4_SGM-FUT-PT_PROD-MCAST": {
+        "sprintNo": "66.00+442608.047.00018",
         "Cver": "0.66.00",
-        "firmwareVersion": "2.2405.170",
+        "firmwareVersion": "442608.047.00018",
         "appVersion": "0.66.00",
-        "Hardware": "GEN3",
+        "Hardware": "GEN4_SGM",
         "Country": "PT_MCAST"
     },
-    "X108-POR-PORT4-GEN3-FUT-PT_PROD-MCAST": {
-        "sprintNo": "66.00+2.2405.170",
+    "X108-POR-PORT4-GEN4_SGM-FUT-PT_PROD-MCAST": {
+        "sprintNo": "66.00+442608.047.00018",
         "Cver": "0.66.00",
-        "firmwareVersion": "2.2405.170",
+        "firmwareVersion": "442608.047.00018",
         "appVersion": "0.66.00",
-        "Hardware": "GEN3",
+        "Hardware": "GEN4_SGM",
         "Country": "PT_MCAST"
     },
     "X109-CZ-PORT1-GEN3-FUT-CZ_PROD-DVBC": {
