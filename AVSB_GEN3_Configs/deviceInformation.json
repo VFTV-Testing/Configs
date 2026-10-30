@@ -136,10 +136,10 @@
         "Country": "PT_MCAST"
     },
     "X107-POR-PORT2-AVSB-FUT-PT_PROD-MCAST": {
-        "sprintNo": "66.00+2.2405.170",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+2.2405.170",
+        "Cver": "0.67.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "AVSB",
         "Country": "PT_MCAST"
     },
@@ -168,10 +168,10 @@
         "Country": "PT_MCAST"
     },
     "X108-POR-PORT2-GEN3-FUT-PT_PROD-MCAST": {
-        "sprintNo": "66.00+2.2405.170",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+2.2405.170",
+        "Cver": "0.67.00",
         "firmwareVersion": "2.2405.170",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "GEN3",
         "Country": "PT_MCAST"
     },
