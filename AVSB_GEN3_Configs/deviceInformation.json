@@ -176,17 +176,17 @@
         "Country": "PT_MCAST"
     },
     "X108-POR-PORT3-GEN4_SGM-FUT-PT_PROD-MCAST": {
-        "sprintNo": "66.00+442608.047.00018",
+        "sprintNo": "66.00+442608.047.00022",
         "Cver": "0.66.00",
-        "firmwareVersion": "442608.047.00018",
+        "firmwareVersion": "442608.047.00022",
         "appVersion": "0.66.00",
         "Hardware": "GEN4_SGM",
         "Country": "PT_MCAST"
     },
     "X108-POR-PORT4-GEN4_SGM-FUT-PT_PROD-MCAST": {
-        "sprintNo": "66.00+442608.047.00018",
+        "sprintNo": "66.00+442608.047.00022",
         "Cver": "0.66.00",
-        "firmwareVersion": "442608.047.00018",
+        "firmwareVersion": "442608.047.00022",
         "appVersion": "0.66.00",
         "Hardware": "GEN4_SGM",
         "Country": "PT_MCAST"
@@ -512,33 +512,33 @@
         "Country": "DE_OTT"
     },
     "X120-POR-PORT1-GEN4_SGM-FUT-PT_PROD-MCAST": {
-        "sprintNo": "66.00+442608.047.00018",
+        "sprintNo": "66.00+442608.047.00022",
         "Cver": "0.66.00",
-        "firmwareVersion": "442608.047.00018",
+        "firmwareVersion": "442608.047.00022",
         "appVersion": "0.66.00",
         "Hardware": "GEN4_SGM",
         "Country": "PT_MCAST"
     },
     "X120-POR-PORT2-GEN4_SGM-FUT_LPDDR4GB-PT_PROD-MCAST": {
-        "sprintNo": "66.00+442608.047.00018",
+        "sprintNo": "66.00+442608.047.00022",
         "Cver": "0.66.00",
-        "firmwareVersion": "442608.047.00018",
+        "firmwareVersion": "442608.047.00022",
         "appVersion": "0.66.00",
         "Hardware": "GEN4_SGM",
         "Country": "PT_MCAST"
     },
     "X120-POR-PORT3-GEN4_SGM-FUT-PT_PROD-MCAST": {
-        "sprintNo": "66.00+442608.047.00018",
+        "sprintNo": "66.00+442608.047.00022",
         "Cver": "0.66.00",
-        "firmwareVersion": "442608.047.00018",
+        "firmwareVersion": "442608.047.00022",
         "appVersion": "0.66.00",
         "Hardware": "GEN4_SGM",
         "Country": "PT_MCAST"
     },
     "X120-POR-PORT4-GEN4_SGM-FUT_LPDDR4GB-PT_PROD-MCAST": {
-        "sprintNo": "66.00+442608.047.00018",
+        "sprintNo": "66.00+442608.047.00022",
         "Cver": "0.66.00",
-        "firmwareVersion": "442608.047.00018",
+        "firmwareVersion": "442608.047.00022",
         "appVersion": "0.66.00",
         "Hardware": "GEN4_SGM",
         "Country": "PT_MCAST"
