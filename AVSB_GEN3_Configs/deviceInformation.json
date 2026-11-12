@@ -1,9 +1,9 @@
 {
     "X101-GER-PORT1-AVSB-FUT_EMMC_Rayson-DE_PROD-DVBC": {
-        "sprintNo": "66.00+422608.047.00150",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+422608.047.00150",
+        "Cver": "0.67.00",
         "firmwareVersion": "422608.047.00150",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
@@ -24,34 +24,34 @@
         "Country": "DE_OTT"
     },
     "X101-GER-PORT4-GEN3-FUT-DE_PROD-DVBC": {
-        "sprintNo": "66.00+412608.047.00150",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+412608.047.00150",
+        "Cver": "0.67.00",
         "firmwareVersion": "412608.047.00150",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "GEN3",
         "Country": "DE_DVBC"
     },
     "X102-GER-PORT1-GEN3-MP-DE_PROD-DVBC": {
-        "sprintNo": "66.00+412608.047.00150",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+412608.047.00150",
+        "Cver": "0.67.00",
         "firmwareVersion": "412608.047.00150",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "GEN3",
         "Country": "DE_DVBC"
     },
     "X102-GER-PORT2-GEN3-MP-DE_PROD-DVBC": {
-        "sprintNo": "66.00+412608.047.00150",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+412608.047.00150",
+        "Cver": "0.67.00",
         "firmwareVersion": "412608.047.00150",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "GEN3",
         "Country": "DE_DVBC"
     },
     "X102-GER-PORT3-AVSB-MP-DE_PROD-DVBC": {
-        "sprintNo": "66.00+422608.047.00150",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+422608.047.00150",
+        "Cver": "0.67.00",
         "firmwareVersion": "422608.047.00150",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
@@ -64,34 +64,34 @@
         "Country": "DE_DVBC"
     },
     "X104-GER-PORT1-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
-        "sprintNo": "66.00+432608.047.00020",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+432608.047.00020",
+        "Cver": "0.67.00",
         "firmwareVersion": "432608.047.00020",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
     "X104-GER-PORT2-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
-        "sprintNo": "66.00+432608.047.00020",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+432608.047.00020",
+        "Cver": "0.67.00",
         "firmwareVersion": "432608.047.00020",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
     "X104-GER-PORT3-AVSB-FUT-DE_PROD-DVBC": {
-        "sprintNo": "66.00+422608.047.00150",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+422608.047.00150",
+        "Cver": "0.67.00",
         "firmwareVersion": "422608.047.00150",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
     "X104-GER-PORT4-AVSB-FUT_EMMC_Western-DE_PROD-DVBC": {
-        "sprintNo": "66.00+4.2602.26",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+4.2602.26",
+        "Cver": "0.67.00",
         "firmwareVersion": "4.2602.26",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "AVSB",
         "Country": "DE_DVBC"
     },
@@ -320,34 +320,34 @@
         "Country": "ES_FTTH"
     },
     "X114-GER-PORT1-GEN4_SGM-FUT-DE_PROD-DVBC": {
-        "sprintNo": "66.00+432608.047.00020",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+432608.047.00020",
+        "Cver": "0.67.00",
         "firmwareVersion": "432608.047.00020",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
     "X114-GER-PORT2-GEN4_SGM-FUT-DE_PROD-DVBC": {
-        "sprintNo": "66.00+432608.047.00020",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+432608.047.00020",
+        "Cver": "0.67.00",
         "firmwareVersion": "432608.047.00020",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
     "X114-GER-PORT3-GEN4_SGM-FUT-DE_PROD-DVBC": {
-        "sprintNo": "66.00+432608.047.00020",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+432608.047.00020",
+        "Cver": "0.67.00",
         "firmwareVersion": "432608.047.00020",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
     "X114-GER-PORT4-GEN4_SGM-FUT-DE_PROD-DVBC": {
-        "sprintNo": "66.00+432608.047.00020",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+432608.047.00020",
+        "Cver": "0.67.00",
         "firmwareVersion": "432608.047.00020",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
@@ -392,26 +392,26 @@
         "Country": "DE_OTT"
     },
     "X116-GER-PORT2-GEN4_SGM-FUT-DE_PROD-OTT": {
-        "sprintNo": "66.00+432608.047.00020",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+432608.047.00020",
+        "Cver": "0.67.00",
         "firmwareVersion": "432608.047.00020",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_OTT"
     },
     "X116-GER-PORT3-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-OTT": {
-        "sprintNo": "66.00+432608.047.00020",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+432608.047.00020",
+        "Cver": "0.67.00",
         "firmwareVersion": "432608.047.00020",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_OTT"
     },
     "X116-GER-PORT4-GEN4_SGM-FUT_LPDDR4GB-DE_PROD-DVBC": {
-        "sprintNo": "66.00+432608.047.00020",
-        "Cver": "0.66.00",
+        "sprintNo": "67.00+432608.047.00020",
+        "Cver": "0.67.00",
         "firmwareVersion": "432608.047.00020",
-        "appVersion": "0.66.00",
+        "appVersion": "0.67.00",
         "Hardware": "GEN4_SGM",
         "Country": "DE_DVBC"
     },
