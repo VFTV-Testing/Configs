@@ -78,15 +78,5 @@
         "sprintNo": "R8.3",
         "Cver": "8.3",
         "firmwareVersion": ""
-    },
-    "X102-GER-PORT3-GEN4_SGM-FUT_3SS-PT_PROD-OTT": {
-        "sprintNo": "R6.1",
-        "Cver": "6.1",
-        "firmwareVersion": ""
-    },
-    "X105-GER-PORT1-GEN4_SGM-FUT_3SS-PT_PROD-OTT": {
-        "sprintNo": "R6.1",
-        "Cver": "6.1",
-        "firmwareVersion": ""
     }
 }
