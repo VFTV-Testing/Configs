@@ -1,0 +1,22 @@
+{
+    "X103-GER-PORT1-ANDROID-TABLET": {
+        "sprintNo": "S15.6",
+        "Cver": "0.15.6",
+        "appVersion": "0.45.12"
+    },
+    "X103-GER-PORT3-iOS-TABLET": {
+        "sprintNo": "S15.6",
+        "Cver": "0.15.6",
+        "appVersion": "0.45.12"
+    },
+    "X110-GER-PORT1-ANDROID-SMARTPHONE": {
+        "sprintNo": "S15.6",
+        "Cver": "0.15.6",
+        "appVersion": "0.45.12"
+    },
+    "X110-GER-PORT3-iOS-SMARTPHONE": {
+        "sprintNo": "S15.6",
+        "Cver": "0.15.6",
+        "appVersion": "0.45.12"
+    }
+}
