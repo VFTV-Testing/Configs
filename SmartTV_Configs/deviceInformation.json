@@ -1,82 +1,82 @@
 {
     "X122-P1-FireOS-Amazon-AFTGAZL-LE": {
         "sprintNo": "1.17.0.0",
-        "Cver": "1.17.0.0",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "1.17.0.0"
     },
     "X122-P2-Android-Xiaomi-MiTV_AFKR0-LE": {
         "sprintNo": "1.17.0.0",
-        "Cver": "1.17.0.0",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "1.17.0.0"
     },
     "X122-P3-Android-Google-Chromecast-LE": {
         "sprintNo": "1.17.0.0",
-        "Cver": "1.17.0.0",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "1.17.0.0"
     },
     "X122-P4-FireOS-Amazon-AFTSS-LE": {
         "sprintNo": "1.17.0.0",
-        "Cver": "1.17.0.0",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "1.17.0.0"
     },
     "X123-P1-WebOS-LG-43QNED776RB-LE": {
         "sprintNo": "R8.3",
-        "Cver": "8.3",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "8.3"
     },
     "X124-P1-FireOS-TCL-43PF650-LE": {
         "sprintNo": "1.17.0.0",
-        "Cver": "1.17.0.0",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "1.17.0.0"
     },
     "X125-P1-Tizen-Samsung-UE43DU7172UXXH-LE": {
         "sprintNo": "R8.3",
-        "Cver": "8.3",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "8.3"
     },
     "X126-P1-Android-Philips-42OLED808-ME": {
         "sprintNo": "1.17.0.0",
-        "Cver": "1.17.0.0",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "1.17.0.0"
     },
     "X127-P1-Android-Panasonic-TN_43W70AEZ-LE": {
         "sprintNo": "1.17.0.0",
-        "Cver": "1.17.0.0",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "1.17.0.0"
     },
     "X128-P1-Android-Sony-KD_43X80L-ME": {
         "sprintNo": "1.17.0.0",
-        "Cver": "1.17.0.0",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "1.17.0.0"
     },
     "X129-P1-WebOS-LG-OLED55B46LA-ME": {
         "sprintNo": "R8.3",
-        "Cver": "8.3",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "8.3"
     },
     "X130-P1-Tizen-Samsung-QE50Q60DAUXXH-ME": {
         "sprintNo": "R8.3",
-        "Cver": "8.3",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "8.3"
     },
     "X131-P1-Android-Grundig-50GFU7800B-LE": {
         "sprintNo": "1.17.0.0",
-        "Cver": "1.17.0.0",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "1.17.0.0"
     },
     "X132-P1-Android-Telefunken-QU43AN900M-LE": {
         "sprintNo": "R7.4",
-        "Cver": "7.4",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "7.4"
     },
     "X133-P1-Android-Sony-K65XR70-HE": {
         "sprintNo": "1.17.0.0",
-        "Cver": "1.17.0.0",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "1.17.0.0"
     },
     "X134-P1-Tizen-Samsung-QN90F-HE": {
         "sprintNo": "R8.3",
-        "Cver": "8.3",
-        "firmwareVersion": ""
+        "firmwareVersion": "",
+        "appVersion": "8.3"
     }
 }
