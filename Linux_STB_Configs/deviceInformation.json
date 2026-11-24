@@ -1,0 +1,272 @@
+{
+    "TES7-GER-STB1-AppleTV_4K-CZ_PROD-OTT": {
+        "sprintNo": "S49",
+        "Hardware": "AppleTV_4K",
+        "Country": "CZ_OTT"
+    },
+    "TES7-GER-STB2-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S119",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES7-GER-STB3-GEN2_ENTRY-AL_PROD-OTT": {
+        "sprintNo": "S118F",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "AL_OTT"
+    },
+    "TES7-GER-STB4-GEN1_NEBA-ES_PROD-OTT": {
+        "sprintNo": "103B",
+        "Hardware": "GEN1_NEBA",
+        "Country": "ES_OTT"
+    },
+    "TES7-GER-STB5-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES7-GER-STB6-GEN2_ENTRY-AL_PROD-OTT": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "AL_OTT"
+    },
+    "TES7-GER-STB7-GEN2_ENTRY-AL_PROD-OTT": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "AL_OTT"
+    },
+    "TES7-GER-STB8-GEN2_ENTRY-AL_PROD-OTT": {
+        "sprintNo": "S118F",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "AL_OTT"
+    },
+    "TES8-GER-STB1-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S118F",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES8-GER-STB2-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S118F",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES8-GER-STB3-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES8-GER-STB4-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES8-GER-STB5-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES8-GER-STB6-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES8-GER-STB7-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S118F",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES8-GER-STB8-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S118F",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES9-GER-STB6-GEN2_PREM-DE_ATP-DVBC": {
+        "sprintNo": "S119",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES9-GER-STB7-GEN2_PREM-DE_ATP-DVBC": {
+        "sprintNo": "S119",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES10-GER-STB1-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES10-GER-STB2-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES10-GER-STB3-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES10-GER-STB4-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES10-GER-STB5-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES10-GER-STB6-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES10-GER-STB7-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES10-GER-STB8-GEN2_PREM-DE_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "DE_DVBC"
+    },
+    "TES13-POR-STB1-GEN2_ENTRY-PT_PROD-MCAST": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "PT_MCAST"
+    },
+    "TES13-POR-STB2-GEN2_PREM-PT_PROD-MCAST": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "PT_MCAST"
+    },
+    "TES13-POR-STB3-GEN2_PREM-PT_PROD-MCAST": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "PT_MCAST"
+    },
+    "TES13-POR-STB4-GEN2_ENTRY-PT_PROD-MCAST": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "PT_MCAST"
+    },
+    "TES13-POR-STB5-GEN2_ENTRY-PT_PROD-MCAST": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "PT_MCAST"
+    },
+    "TES13-POR-STB6-GEN2_PREM-PT_PROD-MCAST": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "PT_MCAST"
+    },
+    "TES13-POR-STB7-GEN2_PREM-PT_PROD-MCAST": {
+        "sprintNo": "S118F",
+        "Hardware": "GEN2_PREM",
+        "Country": "PT_MCAST"
+    },
+    "TES13-POR-STB8-GEN2_ENTRY-PT_PROD-MCAST": {
+        "sprintNo": "S118F",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "PT_MCAST"
+    },
+    "TES19-GRE-STB1-GEN2_PREM-GR_PROD-DTT": {
+        "sprintNo": "S118F",
+        "Hardware": "GEN2_PREM",
+        "Country": "GR_DTT"
+    },
+    "TES19-GRE-STB2-GEN2_PREM-GR_PROD-DTT": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "GR_DTT"
+    },
+    "TES19-GRE-STB3-GEN2_PREM-GR_PROD-MCAST": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "GR_MCAST"
+    },
+    "TES19-GRE-STB4-GEN2_PREM-GR_PROD-MCAST": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "GR_MCAST"
+    },
+    "TES21-CZ-STB1-GEN2_ENTRY-CZ_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "CZ_DVBC"
+    },
+    "TES21-CZ-STB2-GEN2_PREM-CZ_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "CZ_DVBC"
+    },
+    "TES21-CZ-STB3-GEN2_ENTRY-CZ_PROD-DVBC": {
+        "sprintNo": "S120B",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "CZ_DVBC"
+    },
+    "TES21-CZ-STB4-GEN2_PREM-CZ_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_PREM",
+        "Country": "CZ_DVBC"
+    },
+    "TES23-ROU-STB2-GEN2_ENTRY-RO_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "RO_DVBC"
+    },
+    "TES23-ROU-STB3-GEN2_ENTRY-RO_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "RO_DVBC"
+    },
+    "TES23-ROU-STB4-GEN2_ENTRY-RO_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "RO_DVBC"
+    },
+    "TES23-ROU-STB8-GEN2_ENTRY-RO_PROD-DVBC": {
+        "sprintNo": "S120E",
+        "Hardware": "GEN2_ENTRY",
+        "Country": "RO_DVBC"
+    },
+    "TES24-ESP-STB1-GEN1_FTTH-ES_PROD-MCAST": {
+        "sprintNo": "103B",
+        "Hardware": "GEN1_FTTH",
+        "Country": "ES_MCAST"
+    },
+    "TES24-ESP-STB2-GEN1_FTTH-ES_PROD-MCAST": {
+        "sprintNo": "103B",
+        "Hardware": "GEN1_FTTH",
+        "Country": "ES_MCAST"
+    },
+    "TES24-ESP-STB3-VSB_FTTH-ES_PROD-MCAST": {
+        "sprintNo": "103B",
+        "Hardware": "VSB_FTTH",
+        "Country": "ES_MCAST"
+    },
+    "TES24-ESP-STB4-VSB_FTTH-ES_PROD-MCAST": {
+        "sprintNo": "103B",
+        "Hardware": "VSB_FTTH",
+        "Country": "ES_MCAST"
+    },
+    "TES24-ESP-STB5-GEN1_HFC-ES_PROD-DVBC": {
+        "sprintNo": "103B",
+        "Hardware": "GEN1_HFC",
+        "Country": "ES_DVBC"
+    },
+    "TES24-ESP-STB6-GEN1_HFC-ES_PROD-DVBC": {
+        "sprintNo": "103B",
+        "Hardware": "GEN1_HFC",
+        "Country": "ES_DVBC"
+    },
+    "TES24-ESP-STB7-VSB_HFC-ES_PROD-DVBC": {
+        "sprintNo": "103B",
+        "Hardware": "VSB_HFC",
+        "Country": "ES_DVBC"
+    },
+    "TES24-ESP-STB8-VSB_HFC-ES_PROD-DVBC": {
+        "sprintNo": "103B",
+        "Hardware": "VSB_HFC",
+        "Country": "ES_DVBC"
+    }
+}
